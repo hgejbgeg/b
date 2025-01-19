@@ -1,0 +1,4864 @@
+[
+    {
+        "word": "acid test",
+        "phonetic american": "ˈæsɪd tɛst",
+        "phonetic british": "ˈæsɪd tɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Provim i vërtetë, provë e vështirë (idioma)",
+                "sentence": "The acid test of a good chef is how they handle a busy dinner service.",
+                "sentence translation": "Testi i vërtetë i një kuzhinieri të mirë është se si ai menaxhon një shërbim darke të ngarkuar."
+            }
+        ]
+    },
+    {
+        "word": "actions speak louder than words",
+        "phonetic american": "ˈækʃənz spiːk ˈlaʊdər ðæn wɜrdz",
+        "phonetic british": "ˈækʃənz spiːk ˈlaʊdə ðən wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Veprimet janë më të rëndësishme se fjalët (idioma)",
+                "sentence": "She proved her loyalty because actions speak louder than words.",
+                "sentence translation": "Ai e ka dëshmuar besnikërinë e tij sepse veprimet kanë më shumë rëndësi se fjalët."
+            }
+        ]
+    },
+    {
+        "word": "add insult to injury",
+        "phonetic american": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "phonetic british": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "derdhja e kripës në plagë, duke e përkeqësuar atë (idiomë)",
+                "sentence": "He was late to the meeting, and to add insult to injury, he forgot the presentation.",
+                "sentence translation": "U vonua në takim dhe për t&#39;i shtuar kripë plagës, harroi prezantimin."
+            }
+        ]
+    },
+    {
+        "word": "after the watershed",
+        "phonetic american": "ˈæftər ðə ˈwɑːtərʃɛd",
+        "phonetic british": "ˈɑːftə ðə ˈwɔːtəʃɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zona e transmetimit të natës (idioma)",
+                "sentence": "The movie can only be shown after the watershed due to its content.",
+                "sentence translation": "Për shkak të përmbajtjes së tij, filmi mund të shfaqet vetëm në zonën e transmetimit të natës."
+            }
+        ]
+    },
+    {
+        "word": "against the clock",
+        "phonetic american": "əˈgɛnst ðə klɑːk",
+        "phonetic british": "əˈgɛnst ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "gara kundër kohës (idiomë)",
+                "sentence": "We were working against the clock to finish the project.",
+                "sentence translation": "Ne po garonim me kohën për të përfunduar projektin."
+            }
+        ]
+    },
+    {
+        "word": "ahead of time",
+        "phonetic american": "əˈhɛd əv taɪm",
+        "phonetic british": "əˈhɛd əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "përpara afatit (idiomë)",
+                "sentence": "We finished the preparations ahead of time.",
+                "sentence translation": "Përgatitjet i kemi përfunduar para afatit."
+            }
+        ]
+    },
+    {
+        "word": "all ears",
+        "phonetic american": "ɔːl ɪrz",
+        "phonetic british": "ɔːl ɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "dëgjues me vëmendje (idiomë)",
+                "sentence": "Tell me your idea; I'm all ears.",
+                "sentence translation": "Flisni mendjen tuaj; Unë po ju dëgjoj me vëmendje."
+            }
+        ]
+    },
+    {
+        "word": "an arm and a leg",
+        "phonetic american": "æn ɑːrm ənd ə lɛg",
+        "phonetic british": "æn ɑːm ənd ə lɛg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shumë e shtrenjtë (idiomë)",
+                "sentence": "The repairs cost an arm and a leg.",
+                "sentence translation": "Riparimet ishin shumë të shtrenjta."
+            }
+        ]
+    },
+    {
+        "word": "around the clock",
+        "phonetic american": "əˈraʊnd ðə klɑːk",
+        "phonetic british": "əˈraʊnd ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ditë e natë (idiomë)",
+                "sentence": "The hospital staff works around the clock.",
+                "sentence translation": "Stafi i spitalit punon ditë e natë."
+            }
+        ]
+    },
+    {
+        "word": "around the corner",
+        "phonetic american": "əˈraʊnd ðə ˈkɔrnər",
+        "phonetic british": "əˈraʊnd ðə ˈkɔːnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shumë afër, i afërt (idiomë)",
+                "sentence": "The holidays are just around the corner.",
+                "sentence translation": "Pushimet janë vetëm afër."
+            }
+        ]
+    },
+    {
+        "word": "as time goes by",
+        "phonetic american": "æz taɪm ɡoʊz baɪ",
+        "phonetic british": "æz taɪm ɡəʊz baɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Me kalimin e kohës (idiomë)",
+                "sentence": "As time goes by, old memories fade away.",
+                "sentence translation": "Me kalimin e kohës, kujtimet e vjetra zhduken."
+            }
+        ]
+    },
+    {
+        "word": "at the drop of a hat",
+        "phonetic american": "æt ðə drɑːp əv ə hæt",
+        "phonetic british": "æt ðə drɒp əv ə hæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "menjëherë, pa menduar (idiomë)",
+                "sentence": "He is always ready to help at the drop of a hat.",
+                "sentence translation": "Ai është i gatshëm të ndihmojë menjëherë pa menduar."
+            }
+        ]
+    },
+    {
+        "word": "back to basics",
+        "phonetic american": "bæk tə ˈbeɪsɪks",
+        "phonetic british": "bæk tə ˈbeɪsɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kthehu te bazat (idioma)",
+                "sentence": "The teacher decided to go back to basics for better understanding.",
+                "sentence translation": "Mësuesi vendosi të kthehej te bazat për të kuptuar më mirë."
+            }
+        ]
+    },
+    {
+        "word": "back to the drawing board",
+        "phonetic american": "bæk tə ðə ˈdrɔːɪŋ bɔːrd",
+        "phonetic british": "bæk tə ðə ˈdrɔːɪŋ bɔːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Duke filluar nga e para (idiomë)",
+                "sentence": "After the plan failed, they had to go back to the drawing board.",
+                "sentence translation": "Pasi plani dështoi, ata duhej të fillonin nga e para."
+            }
+        ]
+    },
+    {
+        "word": "bad apple",
+        "phonetic american": "bæd ˈæpl",
+        "phonetic british": "bæd ˈæpl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mollë e keqe, person keqdashës (idiomë)",
+                "sentence": "One bad apple can ruin the entire team.",
+                "sentence translation": "Një mollë e keqe mund të shkatërrojë të gjithë ekipin."
+            }
+        ]
+    },
+    {
+        "word": "ball is in your court",
+        "phonetic american": "bɔːl ɪz ɪn jʊr kɔːrt",
+        "phonetic british": "bɔːl ɪz ɪn jɔː kɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Topi është në fushën tuaj, është radha juaj (idiomë)",
+                "sentence": "I've explained my position; now the ball is in your court.",
+                "sentence translation": "I shpjegova situatën time; Tani topi është në fushën tuaj."
+            }
+        ]
+    },
+    {
+        "word": "barking up the wrong tree",
+        "phonetic american": "ˈbɑːrkɪŋ ʌp ðə rɔːŋ triː",
+        "phonetic british": "ˈbɑːkɪŋ ʌp ðə rɒŋ triː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Trokitja në derën e gabuar, drejtimi në vendin e gabuar (idiomë)",
+                "sentence": "You're barking up the wrong tree if you think I can help with that.",
+                "sentence translation": "Nëse mendoni se unë mund t&#39;ju ndihmoj me këtë, ju jeni duke trokitur në derën e gabuar."
+            }
+        ]
+    },
+    {
+        "word": "be glad to see the back of",
+        "phonetic american": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "phonetic british": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh i lumtur të heqësh qafe dikë ose diçka (idiomë)",
+                "sentence": "I'll be glad to see the back of this project.",
+                "sentence translation": "Do të jem i lumtur të shpëtoj nga ky projekt."
+            }
+        ]
+    },
+    {
+        "word": "beat around the bush",
+        "phonetic american": "biːt əˈraʊnd ðə bʊʃ",
+        "phonetic british": "biːt əˈraʊnd ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të rrahur rreth shkurret, për të mos thënë asgjë drejtpërdrejt (idiomë)",
+                "sentence": "Stop beating around the bush and tell me the truth.",
+                "sentence translation": "Ndaloni së rrahuri nëpër shkurre dhe më tregoni të vërtetën."
+            }
+        ]
+    },
+    {
+        "word": "beat the clock",
+        "phonetic american": "biːt ðə klɑːk",
+        "phonetic british": "biːt ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Duke përfunduar në kohë, duke fituar kundër kohës (idiomë)",
+                "sentence": "They managed to beat the clock and submit the report on time.",
+                "sentence translation": "Duke garuar me kohën, ata arritën të dorëzonin raportin në kohë."
+            }
+        ]
+    },
+    {
+        "word": "bee in one's bonnet",
+        "phonetic american": "biː ɪn wʌnz ˈbɑːnɪt",
+        "phonetic british": "biː ɪn wʌnz ˈbɒnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të jesh i fiksuar, të fiksuar pas diçkaje (idiomë)",
+                "sentence": "She has a bee in her bonnet about recycling.",
+                "sentence translation": "Ai është i fiksuar pas riciklimit."
+            }
+        ]
+    },
+    {
+        "word": "behind the times",
+        "phonetic american": "bɪˈhaɪnd ðə taɪmz",
+        "phonetic british": "bɪˈhaɪnd ðə taɪmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "i vjetëruar, i modës së vjetër (idiomë)",
+                "sentence": "He is a bit behind the times when it comes to technology.",
+                "sentence translation": "Ai është pak i vjetër në shkollë kur bëhet fjalë për teknologjinë."
+            }
+        ]
+    },
+    {
+        "word": "bells and whistles",
+        "phonetic american": "bɛlz ənd ˈwɪsəlz",
+        "phonetic british": "bɛlz ənd ˈwɪslz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dekorime të panevojshme, veçori shtesë (idioma)",
+                "sentence": "This phone has all the bells and whistles you could ask for.",
+                "sentence translation": "Ky telefon ka të gjitha veçoritë shtesë që mund të dëshironi."
+            }
+        ]
+    },
+    {
+        "word": "best of both worlds",
+        "phonetic american": "bɛst əv boʊθ wɜːrldz",
+        "phonetic british": "bɛst əv bəʊθ wɜːldz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke bashkuar aspektet më të mira të dy gjërave (idioma)",
+                "sentence": "Living in the countryside but working in the city gives her the best of both worlds.",
+                "sentence translation": "Të jetosh në fshat dhe të punosh në qytet i ofron atij më të mirën nga të dyja botët."
+            }
+        ]
+    },
+    {
+        "word": "best thing since sliced bread",
+        "phonetic american": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "phonetic british": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një risi e madhe, një gjë e mrekullueshme (idiomë)",
+                "sentence": "This new software is the best thing since sliced bread.",
+                "sentence translation": "Ky softuer i ri është gjëja më e mirë që nga buka e prerë."
+            }
+        ]
+    },
+    {
+        "word": "better late than never",
+        "phonetic american": "ˈbɛtər leɪt ðæn ˈnɛvər",
+        "phonetic british": "ˈbɛtə leɪt ðæn ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qoftë vonë, mos u bë vonë (idiomë)",
+                "sentence": "He finally apologized, better late than never.",
+                "sentence translation": "Më në fund ai kërkoi falje, më shpejt se sa vonë."
+            }
+        ]
+    },
+    {
+        "word": "bide one's time",
+        "phonetic american": "baɪd wʌnz taɪm",
+        "phonetic british": "baɪd wʌnz taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke pritur kohën e duhur (idiomë)",
+                "sentence": "He is biding his time before making his next move.",
+                "sentence translation": "Ai është duke pritur për kohën e duhur përpara se të bëjë lëvizjen e tij të radhës."
+            }
+        ]
+    },
+    {
+        "word": "big cheese",
+        "phonetic american": "bɪɡ tʃiːz",
+        "phonetic british": "bɪɡ tʃiːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Personi i rëndësishëm, shefi (idiomë)",
+                "sentence": "He is the big cheese in the company.",
+                "sentence translation": "Ai është personi i rëndësishëm në kompani."
+            }
+        ]
+    },
+    {
+        "word": "bird in the hand is worth two in the bush",
+        "phonetic american": "bɜrd ɪn ðə hænd ɪz wɜːrθ tuː ɪn ðə bʊʃ",
+        "phonetic british": "bɜːd ɪn ðə hænd ɪz wɜːθ tuː ɪn ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një zog në dorë është më i mirë se dy në shkurre (idiomë)",
+                "sentence": "You should keep this offer; a bird in the hand is worth two in the bush.",
+                "sentence translation": "Ju duhet ta konsideroni këtë ofertë; Një zog në dorë është më mirë se dy në shkurre."
+            }
+        ]
+    },
+    {
+        "word": "bite off more than you can chew",
+        "phonetic american": "baɪt ɔf mɔːr ðæn ju kən tʃuː",
+        "phonetic british": "baɪt ɒf mɔː ðæn ju kən tʃuː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Përpjekja për të bërë gjëra që janë shumë të mëdha për ju (idiomë)",
+                "sentence": "He bit off more than he could chew by taking on two jobs at once.",
+                "sentence translation": "Ai mori dy punë në të njëjtën kohë dhe mori detyra që ishin përtej aftësive të tij."
+            }
+        ]
+    },
+    {
+        "word": "black and blue",
+        "phonetic american": "blæk ənd bluː",
+        "phonetic british": "blæk ənd bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I mavijosur, plot mavijosje (idiomë)",
+                "sentence": "After falling down the stairs, his legs were black and blue.",
+                "sentence translation": "Këmbët e tij ishin të purpurta pasi ra nga shkallët."
+            }
+        ]
+    },
+    {
+        "word": "black and white",
+        "phonetic american": "blæk ənd waɪt",
+        "phonetic british": "blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "E qartë, e saktë (idiomë)",
+                "sentence": "The rules are written in black and white.",
+                "sentence translation": "Rregullat janë të qarta dhe koncize."
+            }
+        ]
+    },
+    {
+        "word": "black as night",
+        "phonetic american": "blæk æz naɪt",
+        "phonetic british": "blæk æz naɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "e zezë e zezë, e zezë e zezë (idiomë)",
+                "sentence": "The cave was black as night.",
+                "sentence translation": "Shpella ishte shumë e errët."
+            }
+        ]
+    },
+    {
+        "word": "black eye",
+        "phonetic american": "blæk aɪ",
+        "phonetic british": "blæk aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Sy i zi, një situatë e keqe (idiomë)",
+                "sentence": "The scandal gave the company a black eye.",
+                "sentence translation": "Skandali krijoi një situatë të keqe për kompaninë."
+            }
+        ]
+    },
+    {
+        "word": "black market",
+        "phonetic american": "blæk ˈmɑːrkɪt",
+        "phonetic british": "blæk ˈmɑːkɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tregu i zi (idiomë)",
+                "sentence": "The goods were being sold on the black market.",
+                "sentence translation": "Malli shitej në tregun e zi."
+            }
+        ]
+    },
+    {
+        "word": "black out",
+        "phonetic american": "blæk aʊt",
+        "phonetic british": "blæk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të fikët, të errësohet (idiomë)",
+                "sentence": "He blacked out during the marathon due to heat exhaustion.",
+                "sentence translation": "Gjatë maratonës i ra të fikët nga vapa."
+            }
+        ]
+    },
+    {
+        "word": "black sheep",
+        "phonetic american": "blæk ʃiːp",
+        "phonetic british": "blæk ʃiːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Personi i dëbuar në familje, delja e zezë (idiomë)",
+                "sentence": "He has always been the black sheep of the family.",
+                "sentence translation": "Ai ka qenë gjithmonë delja e zezë e familjes."
+            }
+        ]
+    },
+    {
+        "word": "blackball",
+        "phonetic american": "ˈblækbɔːl",
+        "phonetic british": "ˈblækbɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "veto, refuzoj (idiomë)",
+                "sentence": "He was blackballed from the club for breaking its rules.",
+                "sentence translation": "Atij iu vu veto nga klubi për shkeljen e rregullave të tyre."
+            }
+        ]
+    },
+    {
+        "word": "blacklist",
+        "phonetic american": "ˈblæklɪst",
+        "phonetic british": "ˈblæklɪst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "lista e zezë (idiomë)",
+                "sentence": "The company blacklisted him for sharing confidential information.",
+                "sentence translation": "Kompania e futi në listën e zezë për ndarjen e informacionit konfidencial."
+            }
+        ]
+    },
+    {
+        "word": "blackmail",
+        "phonetic american": "ˈblækmeɪl",
+        "phonetic british": "ˈblækmeɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "shantazh (idiomë)",
+                "sentence": "He tried to blackmail her with a private photo.",
+                "sentence translation": "Ai ka tentuar ta shantazhojë me një foto private."
+            }
+        ]
+    },
+    {
+        "word": "blessing in disguise",
+        "phonetic american": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "phonetic british": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Edhe pse në fillim duket keq, është një situatë e mirë (idiomë).",
+                "sentence": "Losing that job turned out to be a blessing in disguise.",
+                "sentence translation": "Humbja e asaj pune doli të ishte një gjë e mirë."
+            }
+        ]
+    },
+    {
+        "word": "blind date",
+        "phonetic american": "blaɪnd deɪt",
+        "phonetic british": "blaɪnd deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Takimi me dikë që takuat pa e parë (idiomë)",
+                "sentence": "She was nervous about her blind date.",
+                "sentence translation": "Ai ishte nervoz për takimin para takimit."
+            }
+        ]
+    },
+    {
+        "word": "blood red",
+        "phonetic american": "blʌd rɛd",
+        "phonetic british": "blʌd rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "e kuqe e gjakut (idiomë)",
+                "sentence": "The sunset was a beautiful blood red.",
+                "sentence translation": "Perëndimi i diellit ishte një ngjyrë e bukur e kuqe gjaku."
+            }
+        ]
+    },
+    {
+        "word": "blood, sweat & tears",
+        "phonetic american": "blʌd swɛt ənd tɪrz",
+        "phonetic british": "blʌd swɛt ənd tɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shumë përpjekje dhe përkushtim (idiomë)",
+                "sentence": "The project was completed with blood, sweat, and tears.",
+                "sentence translation": "Projekti u përfundua me shumë përpjekje dhe përkushtim."
+            }
+        ]
+    },
+    {
+        "word": "blow a fuse",
+        "phonetic american": "bloʊ ə fjuz",
+        "phonetic british": "bləʊ ə fjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të zemërohesh, të zemërohesh (idiomë)",
+                "sentence": "He blew a fuse when he found out about the mistake.",
+                "sentence translation": "Ai u zemërua kur mësoi për gabimin."
+            }
+        ]
+    },
+    {
+        "word": "blow up in the face",
+        "phonetic american": "bloʊ ʌp ɪn ðə feɪs",
+        "phonetic british": "bləʊ ʌp ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të dështoj, të gabosh (idiomë)",
+                "sentence": "The plan blew up in his face when the details leaked.",
+                "sentence translation": "Plani dështoi kur detajet u zbuluan."
+            }
+        ]
+    },
+    {
+        "word": "blue blood",
+        "phonetic american": "bluː blʌd",
+        "phonetic british": "bluː blʌd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "prejardhja fisnike (idiomë)",
+                "sentence": "He claimed to have blue blood running in his veins.",
+                "sentence translation": "Ai pretendonte se në venat e tij rridhte gjak fisnik."
+            }
+        ]
+    },
+    {
+        "word": "blue collar",
+        "phonetic american": "bluː ˈkɑːlər",
+        "phonetic british": "bluː ˈkɒlər",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Klasa e punës fizike (idioma)",
+                "sentence": "He comes from a blue-collar family.",
+                "sentence translation": "Ai vjen nga një familje e klasës punëtore fizike."
+            }
+        ]
+    },
+    {
+        "word": "blue in the face",
+        "phonetic american": "bluː ɪn ðə feɪs",
+        "phonetic british": "bluː ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Përpjekja më kot, pa marrë rezultate (idiomë)",
+                "sentence": "You can argue until you're blue in the face, but he won't change his mind.",
+                "sentence translation": "Mund të vazhdoni të grindeni pa marrë rezultate, por ai nuk do të ndryshojë mendje."
+            }
+        ]
+    },
+    {
+        "word": "blue ribbon",
+        "phonetic american": "bluː ˈrɪbən",
+        "phonetic british": "bluː ˈrɪbən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çmimi i parë, më i miri (idiomë)",
+                "sentence": "She won the blue ribbon for her painting.",
+                "sentence translation": "Ai fitoi çmimin e parë me pikturën e tij."
+            }
+        ]
+    },
+    {
+        "word": "bolt from the blue",
+        "phonetic american": "boʊlt frəm ðə bluː",
+        "phonetic british": "bəʊlt frəm ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ngjarje e papritur, surprizë (idiomë)",
+                "sentence": "The announcement was like a bolt from the blue.",
+                "sentence translation": "Zbulimi erdhi si diçka e papritur."
+            }
+        ]
+    },
+    {
+        "word": "bookworm",
+        "phonetic american": "ˈbʊkwɜːrm",
+        "phonetic british": "ˈbʊkwɜːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "krimbi i librave, dashamirës i librit (idiomë)",
+                "sentence": "She's such a bookworm; she finishes a novel every week.",
+                "sentence translation": "Ai është një krimb librash; Ai përfundon një roman çdo javë."
+            }
+        ]
+    },
+    {
+        "word": "born with a silver spoon in one's mouth",
+        "phonetic american": "bɔrn wɪð ə ˈsɪlvər spuːn ɪn wʌnz maʊθ",
+        "phonetic british": "bɔːn wɪð ə ˈsɪlvə spuːn ɪn wʌnz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të lindurit në një familje të pasur dhe të privilegjuar (idiomë)",
+                "sentence": "He doesn't understand the struggles of others because he was born with a silver spoon in his mouth.",
+                "sentence translation": "Duke qenë i lindur në një familje të pasur, ai nuk i kupton betejat e të tjerëve."
+            }
+        ]
+    },
+    {
+        "word": "bottom falls out",
+        "phonetic american": "ˈbɑːtəm fɔːlz aʊt",
+        "phonetic british": "ˈbɒtəm fɔːlz aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "përjetimi i një përplasjeje, përplasje tregu (idiomë)",
+                "sentence": "The bottom fell out of the market after the financial crisis.",
+                "sentence translation": "Pas krizës financiare, tregu u rrëzua."
+            }
+        ]
+    },
+    {
+        "word": "brainstorm",
+        "phonetic american": "ˈbreɪnˌstɔːrm",
+        "phonetic british": "ˈbreɪnˌstɔːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "gjenerimi i ideve, stuhi mendimesh (idiomë)",
+                "sentence": "The team brainstormed ideas for the new project.",
+                "sentence translation": "Ekipi gjeneroi ide për projektin e ri."
+            }
+        ]
+    },
+    {
+        "word": "bread-winner",
+        "phonetic american": "ˈbrɛdˌwɪnər",
+        "phonetic british": "ˈbrɛdˌwɪnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mbajtës i familjes (idiomë)",
+                "sentence": "He is the bread-winner of his family.",
+                "sentence translation": "Ai është mbajtësi i familjes së tij."
+            }
+        ]
+    },
+    {
+        "word": "bring home the bacon",
+        "phonetic american": "brɪŋ hoʊm ðə ˈbeɪkən",
+        "phonetic british": "brɪŋ həʊm ðə ˈbeɪkən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të sjellësh bukë në shtëpi, të fitosh para (idiomë)",
+                "sentence": "He works hard to bring home the bacon.",
+                "sentence translation": "Ai punon shumë për të sjellë bukë në shtëpi."
+            }
+        ]
+    },
+    {
+        "word": "broken watch is right twice a day",
+        "phonetic american": "ˈbroʊkən wɑːtʃ ɪz raɪt twaɪs ə deɪ",
+        "phonetic british": "ˈbrəʊkən wɒtʃ ɪz raɪt twaɪs ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Edhe një gjë e keqe ndonjëherë mund të jetë e drejtë (idiomë)",
+                "sentence": "Even a broken watch is right twice a day.",
+                "sentence translation": "Edhe një orë e keqe mund të jetë e saktë dy herë në ditë."
+            }
+        ]
+    },
+    {
+        "word": "buckle down",
+        "phonetic american": "ˈbʌkəl daʊn",
+        "phonetic british": "ˈbʌkəl daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të fillosh të punosh shumë, të fokusohesh seriozisht në punë (idiomë)",
+                "sentence": "You need to buckle down and study for the exam.",
+                "sentence translation": "Duhet të punosh shumë dhe të studiosh për provimin."
+            }
+        ]
+    },
+    {
+        "word": "bun in the oven",
+        "phonetic american": "bʌn ɪn ðə ˈʌvən",
+        "phonetic british": "bʌn ɪn ðə ˈʌvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të jesh shtatzënë (idiomë)",
+                "sentence": "She just announced that she has a bun in the oven.",
+                "sentence translation": "Ajo sapo ka njoftuar se është shtatzënë."
+            }
+        ]
+    },
+    {
+        "word": "butter up",
+        "phonetic american": "ˈbʌtər ʌp",
+        "phonetic british": "ˈbʌtə ʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të mashtruar dikë me lavdërim, për të lajkatur dikë (idiom)",
+                "sentence": "He tried to butter up his boss for a promotion.",
+                "sentence translation": "Ai u përpoq t&#39;i bënte lajka shefit të tij për të marrë një promovim."
+            }
+        ]
+    },
+    {
+        "word": "by degrees",
+        "phonetic american": "baɪ dɪˈɡriːz",
+        "phonetic british": "baɪ dɪˈɡriːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "gradualisht, gradualisht (idiomë)",
+                "sentence": "She improved her skills by degrees.",
+                "sentence translation": "Ai gradualisht përmirësoi aftësitë e tij."
+            }
+        ]
+    },
+    {
+        "word": "by the skin of your teeth",
+        "phonetic american": "baɪ ðə skɪn əv jɔːr tiːθ",
+        "phonetic british": "baɪ ðə skɪn əv jɔː tiːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "arratisje e ngushtë (idiomë)",
+                "sentence": "He escaped the accident by the skin of his teeth.",
+                "sentence translation": "Ai i ka shpëtuar për pak aksidentit."
+            }
+        ]
+    },
+    {
+        "word": "call it a day",
+        "phonetic american": "kɔːl ɪt ə deɪ",
+        "phonetic british": "kɔːl ɪt ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të përfunduar një punë, për të ndaluar së punuari (idiomë)",
+                "sentence": "After finishing the report, they decided to call it a day.",
+                "sentence translation": "Pasi përfunduan raportin, ata vendosën të ndërpresin punën."
+            }
+        ]
+    },
+    {
+        "word": "calling time",
+        "phonetic american": "ˈkɔːlɪŋ taɪm",
+        "phonetic british": "ˈkɔːlɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për t&#39;i ardhur në fund të diçkaje, për të përfunduar (idiomë)",
+                "sentence": "The coach is calling time on his career after 20 years.",
+                "sentence translation": "Koç i jep fund karrierës pas 20 vitesh."
+            }
+        ]
+    },
+    {
+        "word": "carry the torch for",
+        "phonetic american": "ˈkæri ðə tɔːrtʃ fɔːr",
+        "phonetic british": "ˈkæri ðə tɔːtʃ fɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "t&#39;i qëndrosh besnik dikujt a diçkaje (idiomë)",
+                "sentence": "He still carries the torch for his high school sweetheart.",
+                "sentence translation": "Ende besnik ndaj të dashurës së tij të shkollës së mesme."
+            }
+        ]
+    },
+    {
+        "word": "cash cow",
+        "phonetic american": "kæʃ kaʊ",
+        "phonetic british": "kæʃ kaʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Biznes ose produkt që gjeneron të ardhura të përhershme (idiomë)",
+                "sentence": "Their new app is a real cash cow for the company.",
+                "sentence translation": "Aplikimet e tyre të reja janë një burim i vërtetë të ardhurash për kompaninë."
+            }
+        ]
+    },
+    {
+        "word": "cat burglar",
+        "phonetic american": "kæt ˈbɜːrɡlər",
+        "phonetic british": "kæt ˈbɜːɡlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një person që vjedh në heshtje (idiomë)",
+                "sentence": "The cat burglar entered the house without making a sound.",
+                "sentence translation": "Hajduti i heshtur hyri në shtëpi pa bërë zë."
+            }
+        ]
+    },
+    {
+        "word": "catch someone at a bad time",
+        "phonetic american": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "phonetic british": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kapja e dikujt në kohën e gabuar (idiomë)",
+                "sentence": "I'm sorry if I caught you at a bad time.",
+                "sentence translation": "Me fal nese te kam kapur ne kohen e gabuar."
+            }
+        ]
+    },
+    {
+        "word": "catch someone red-handed",
+        "phonetic american": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "phonetic british": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të kapur dikë në flagrancë (idiomë)",
+                "sentence": "The police caught him red-handed stealing the car.",
+                "sentence translation": "Policia e kapi në flagrancë duke vjedhur makinën."
+            }
+        ]
+    },
+    {
+        "word": "chance one's arm",
+        "phonetic american": "tʃæns wʌnz ɑːrm",
+        "phonetic british": "tʃɑːns wʌnz ɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të provuar fatin, ndërmerr rreziqe (idiomë)",
+                "sentence": "He decided to chance his arm and apply for the position.",
+                "sentence translation": "Ai vendosi të provonte fatin duke aplikuar për këtë pozicion."
+            }
+        ]
+    },
+    {
+        "word": "chase rainbows",
+        "phonetic american": "tʃeɪs ˈreɪnboʊz",
+        "phonetic british": "tʃeɪs ˈreɪnbəʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Duke ndjekur një ëndërr të pamundur (idiomë)",
+                "sentence": "Stop chasing rainbows and focus on achievable goals.",
+                "sentence translation": "Ndaloni së ndjekuri ëndrrat e pamundura dhe fokusohuni në qëllimet e arritshme."
+            }
+        ]
+    },
+    {
+        "word": "chase your tail",
+        "phonetic american": "tʃeɪs jʊr teɪl",
+        "phonetic british": "tʃeɪs jɔː teɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të luftosh kot, të humbasësh kohë (idiomë)",
+                "sentence": "I've been chasing my tail all day trying to get everything done.",
+                "sentence translation": "Gjithë ditën më kot jam munduar që të kryej gjithë punën."
+            }
+        ]
+    },
+    {
+        "word": "cheesy",
+        "phonetic american": "ˈtʃiːzi",
+        "phonetic british": "ˈtʃiːzi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "E thjeshtë, e dobët, klishe (idiomë)",
+                "sentence": "The movie was too cheesy for my taste.",
+                "sentence translation": "Filmi ishte shumë klishe për shijen time."
+            }
+        ]
+    },
+    {
+        "word": "clock-in/clock-out",
+        "phonetic american": "klɑːk ɪn / klɑːk aʊt",
+        "phonetic british": "klɒk ɪn / klɒk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hyrja/dalja e orarit të punës (idiomë)",
+                "sentence": "Don't forget to clock in when you arrive at work.",
+                "sentence translation": "Mos harroni të identifikoheni kur të vini në punë."
+            }
+        ]
+    },
+    {
+        "word": "close to home",
+        "phonetic american": "kloʊs tə hoʊm",
+        "phonetic british": "kləʊs tə həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për t&#39;u marrë me një çështje personale në një mënyrë prekëse (idiomë)",
+                "sentence": "The comment about his family was too close to home.",
+                "sentence translation": "Komenti për familjen e tij preku një pikë shumë personale."
+            }
+        ]
+    },
+    {
+        "word": "cold shoulder",
+        "phonetic american": "koʊld ˈʃoʊldər",
+        "phonetic british": "kəʊld ˈʃəʊldə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të veprosh ftohtë, të qëndrosh indiferent (idiomë)",
+                "sentence": "She gave him the cold shoulder after their argument.",
+                "sentence translation": "Ai e trajtoi atë ftohtë pas debatit të tyre."
+            }
+        ]
+    },
+    {
+        "word": "coming of age",
+        "phonetic american": "ˈkʌmɪŋ əv eɪdʒ",
+        "phonetic british": "ˈkʌmɪŋ əv eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të piqesh, të hysh në moshën madhore (idioma)",
+                "sentence": "The novel is a beautiful coming-of-age story.",
+                "sentence translation": "Romani është një histori e bukur e moshës."
+            }
+        ]
+    },
+    {
+        "word": "cook someone's goose",
+        "phonetic american": "kʊk ˈsʌmwʌnz ɡuːs",
+        "phonetic british": "kʊk ˈsʌmwʌnz ɡuːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të prishur planet e dikujt (idiomë)",
+                "sentence": "If you tell the boss about his mistake, it will cook his goose.",
+                "sentence translation": "Nëse i tregoni shefit gabimin e tij, do t&#39;i prishni planet."
+            }
+        ]
+    },
+    {
+        "word": "copycat",
+        "phonetic american": "ˈkɑːpiˌkæt",
+        "phonetic british": "ˈkɒpiˌkæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "imitues (idiomë)",
+                "sentence": "The new app is just a copycat of the original one.",
+                "sentence translation": "Aplikacioni i ri është thjesht një imitim i origjinalit."
+            }
+        ]
+    },
+    {
+        "word": "costs an arm and a leg",
+        "phonetic american": "kɔːsts æn ɑːrm ənd ə lɛɡ",
+        "phonetic british": "kɒsts ən ɑːm ənd ə lɛɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kushton shumë (idiomë)",
+                "sentence": "This vacation is going to cost an arm and a leg.",
+                "sentence translation": "Kjo festë do të kushtojë shumë."
+            }
+        ]
+    },
+    {
+        "word": "couch potato",
+        "phonetic american": "kaʊtʃ pəˈteɪtoʊ",
+        "phonetic british": "kaʊtʃ pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Personi dembel që shikon televizor gjatë gjithë kohës (idioma)",
+                "sentence": "He's such a couch potato; he never goes outside.",
+                "sentence translation": "Ai është kaq dembel; nuk del kurrë."
+            }
+        ]
+    },
+    {
+        "word": "cover a lot of ground",
+        "phonetic american": "ˈkʌvər ə lɒt əv ɡraʊnd",
+        "phonetic british": "ˈkʌvə ə lɒt əv ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të bërë shumë përparim, për të mbuluar një zonë të gjerë (idiomë)",
+                "sentence": "We covered a lot of ground in today's meeting.",
+                "sentence translation": "Ne kemi bërë shumë përparim në takimin e sotëm."
+            }
+        ]
+    },
+    {
+        "word": "crack of dawn",
+        "phonetic american": "kræk əv dɔːn",
+        "phonetic british": "kræk əv dɔːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Në agim, në agim (idiomë)",
+                "sentence": "We left at the crack of dawn to catch the first train.",
+                "sentence translation": "U nisëm në agim për të kapur trenin e parë."
+            }
+        ]
+    },
+    {
+        "word": "cross that bridge when you come to it",
+        "phonetic american": "krɔːs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "phonetic british": "krɒs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zgjidhja e një problemi kur përballeni me të (idiomë)",
+                "sentence": "We’ll cross that bridge when we come to it.",
+                "sentence translation": "Kur hasim atë problem, ne e zgjidhim atë."
+            }
+        ]
+    },
+    {
+        "word": "crunch time",
+        "phonetic american": "krʌntʃ taɪm",
+        "phonetic british": "krʌntʃ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Periudha kur presioni i kohës është intensiv (idiomë)",
+                "sentence": "It's crunch time for the project, so everyone is working overtime.",
+                "sentence translation": "Është koha kritike për projektin, kështu që të gjithë punojnë jashtë orarit."
+            }
+        ]
+    },
+    {
+        "word": "cry over spilt milk",
+        "phonetic american": "kraɪ ˈoʊvər spɪlt mɪlk",
+        "phonetic british": "kraɪ ˈəʊvə spɪlt mɪlk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ndjen keqardhje për gjërat e së shkuarës (idiomë)",
+                "sentence": "There's no use crying over spilt milk; let's focus on fixing the problem.",
+                "sentence translation": "Nuk ka kuptim të shqetësohesh për të kaluarën; Le të përqendrohemi në zgjidhjen e problemit."
+            }
+        ]
+    },
+    {
+        "word": "curiosity killed the cat",
+        "phonetic american": "ˌkjʊriˈɑːsəti kɪld ðə kæt",
+        "phonetic british": "ˌkjʊərɪˈɒsɪti kɪld ðə kæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kurioziteti i tepërt mund të jetë i rrezikshëm (idiomë)",
+                "sentence": "Don't go into that abandoned house; curiosity killed the cat.",
+                "sentence translation": "Mos hyni në atë shtëpi të braktisur; Kurioziteti i tepërt mund të jetë i rrezikshëm."
+            }
+        ]
+    },
+    {
+        "word": "cut corners",
+        "phonetic american": "kʌt ˈkɔːrnərz",
+        "phonetic british": "kʌt ˈkɔːnəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Prerja e qosheve, ulja e cilësisë (idioma)",
+                "sentence": "They cut corners to finish the project quickly, but it led to mistakes.",
+                "sentence translation": "Ata morën rrugën e lehtë për të përfunduar shpejt projektin, por kjo çoi në gabime."
+            }
+        ]
+    },
+    {
+        "word": "cut one's own throat",
+        "phonetic american": "kʌt wʌnz oʊn θroʊt",
+        "phonetic british": "kʌt wʌnz əʊn θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të dëmtosh interesat e veta (idiomë)",
+                "sentence": "By refusing the deal, he ended up cutting his own throat.",
+                "sentence translation": "Duke refuzuar marrëveshjen, ai dëmtoi interesat e tij."
+            }
+        ]
+    },
+    {
+        "word": "cut the mustard",
+        "phonetic american": "kʌt ðə ˈmʌstərd",
+        "phonetic british": "kʌt ðə ˈmʌstəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Arritni standardet e pritura (idiomë)",
+                "sentence": "He didn’t cut the mustard, so he wasn’t hired.",
+                "sentence translation": "Ai nuk u punësua sepse nuk mund të përmbushte standardet e pritshme."
+            }
+        ]
+    },
+    {
+        "word": "cut to the chase",
+        "phonetic american": "kʌt tə ðə tʃeɪs",
+        "phonetic british": "kʌt tə ðə tʃeɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "arrij te pika (idiomë)",
+                "sentence": "Let’s cut to the chase and discuss the main issue.",
+                "sentence translation": "Le të shkojmë te pika dhe të diskutojmë temën kryesore."
+            }
+        ]
+    },
+    {
+        "word": "day to day",
+        "phonetic american": "deɪ tə deɪ",
+        "phonetic british": "deɪ tə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Punët e përditshme ose rutina (idiomë)",
+                "sentence": "She handles the day-to-day operations of the business.",
+                "sentence translation": "Ai menaxhon operacionet e përditshme të biznesit."
+            }
+        ]
+    },
+    {
+        "word": "days are numbered",
+        "phonetic american": "deɪz ər ˈnʌmbərd",
+        "phonetic british": "deɪz ə ˈnʌmbəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ditët e saj janë të numëruara, po i vjen fundi (idiomë)",
+                "sentence": "With sales dropping, the company’s days are numbered.",
+                "sentence translation": "Me rënien e shitjeve, ditët e kompanisë janë të numëruara."
+            }
+        ]
+    },
+    {
+        "word": "dead duck",
+        "phonetic american": "dɛd dʌk",
+        "phonetic british": "dɛd dʌk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dështim ose mospërdorim (idiomë)",
+                "sentence": "After losing the lawsuit, their business plan was a dead duck.",
+                "sentence translation": "Pas humbjes së çështjes, plani i tyre i biznesit dështoi."
+            }
+        ]
+    },
+    {
+        "word": "dead in the water",
+        "phonetic american": "dɛd ɪn ðə ˈwɔːtər",
+        "phonetic british": "dɛd ɪn ðə ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nuk po bën ndonjë përparim ose jam i rraskapitur (idiomë)",
+                "sentence": "Without funding, the project is dead in the water.",
+                "sentence translation": "Pa financim, projekti është ndalur plotësisht."
+            }
+        ]
+    },
+    {
+        "word": "dead wood",
+        "phonetic american": "dɛd wʊd",
+        "phonetic british": "dɛd wʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "person ose send i padobishëm (idiomë)",
+                "sentence": "The company decided to remove the dead wood to increase productivity.",
+                "sentence translation": "Kompania vendosi të pushojë nga puna njerëz të padobishëm për të rritur efikasitetin."
+            }
+        ]
+    },
+    {
+        "word": "deep down",
+        "phonetic american": "diːp daʊn",
+        "phonetic british": "diːp daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Brenda, thellë brenda (idiomë)",
+                "sentence": "Deep down, she knew she had made the right choice.",
+                "sentence translation": "Thellë brenda e dinte se kishte marrë vendimin e duhur."
+            }
+        ]
+    },
+    {
+        "word": "deliver the goods",
+        "phonetic american": "dɪˈlɪvər ðə ɡʊdz",
+        "phonetic british": "dɪˈlɪvə ðə ɡʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të treguar performancën e pritur, për të përmbushur premtimet (idiomë)",
+                "sentence": "The new software delivered the goods as promised.",
+                "sentence translation": "Softueri i ri tregoi performancën e pritur siç ishte premtuar."
+            }
+        ]
+    },
+    {
+        "word": "devil's advocate",
+        "phonetic american": "ˈdɛvəlz ˈædvəkət",
+        "phonetic british": "ˈdɛvəlz ˈædvəkət",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Personi që zhvillon një kundërargument (idiomë)",
+                "sentence": "He played devil's advocate to test the strength of their argument.",
+                "sentence translation": "Ai luajti avokatin e djallit për të provuar forcën e argumenteve të tij."
+            }
+        ]
+    },
+    {
+        "word": "do time (serve time)",
+        "phonetic american": "duː taɪm / sɜːrv taɪm",
+        "phonetic british": "duː taɪm / sɜːv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të shkosh në burg (idiomë)",
+                "sentence": "He did time for robbery when he was younger.",
+                "sentence translation": "Ai kreu dënimin në burg për grabitje kur ishte adoleshent."
+            }
+        ]
+    },
+    {
+        "word": "donkey's years",
+        "phonetic american": "ˈdɑːŋkiz jɪrz",
+        "phonetic british": "ˈdɒŋkɪz jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "shumë vite (idiomë)",
+                "sentence": "I haven’t seen her in donkey’s years.",
+                "sentence translation": "Nuk e kam parë për shumë vite."
+            }
+        ]
+    },
+    {
+        "word": "don't count your chickens before they've hatched",
+        "phonetic american": "doʊnt kaʊnt jʊr ˈtʃɪkɪnz bɪˈfɔːr ðeɪv hætʃt",
+        "phonetic british": "dəʊnt kaʊnt jɔː ˈtʃɪkɪnz bɪˈfɔː ðeɪv hætʃt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mos i rrotulloni pantallonat pa e parë rrymën (idiom)",
+                "sentence": "Don’t count your chickens before they’ve hatched; the deal isn’t finalized yet.",
+                "sentence translation": "Mos i rrotulloni pantallonat pa e parë rrjedhën; Marrëveshja nuk është finalizuar ende."
+            }
+        ]
+    },
+    {
+        "word": "don't give up the day job",
+        "phonetic american": "doʊnt ɡɪv ʌp ðə deɪ ʤɑːb",
+        "phonetic british": "dəʊnt ɡɪv ʌp ðə deɪ ʤɒb",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mos fokusimi në një fushë ku mungon talenti (idiomë)",
+                "sentence": "Your singing is okay, but don’t give up the day job.",
+                "sentence translation": "Nuk është keq të këndosh, por mos e bëj profesionin tënd."
+            }
+        ]
+    },
+    {
+        "word": "don't put all your eggs in one basket",
+        "phonetic american": "doʊnt pʊt ɔːl jʊr ɛɡz ɪn wʌn ˈbæskɪt",
+        "phonetic british": "dəʊnt pʊt ɔːl jɔːr ɛɡz ɪn wʌn ˈbɑːskɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Lidhja e të gjitha rreziqeve me një gjë (idiomë)",
+                "sentence": "It’s risky to invest all your money in stocks; don’t put all your eggs in one basket.",
+                "sentence translation": "Vendosja e të gjitha parave tuaja në aksione është e rrezikshme; Mos ia atribuoni të gjitha rreziqet tuaja një gjëje."
+            }
+        ]
+    },
+    {
+        "word": "double date",
+        "phonetic american": "ˈdʌbəl deɪt",
+        "phonetic british": "ˈdʌbəl deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një takim ku dy çifte dalin së bashku (idiomë)",
+                "sentence": "We went on a double date with my best friend and her boyfriend.",
+                "sentence translation": "Ne shkuam në një takim çift me shoqen time më të mirë dhe të dashurin e saj."
+            }
+        ]
+    },
+    {
+        "word": "drastic times call for drastic measures",
+        "phonetic american": "ˈdræstɪk taɪmz kɔːl fɔːr ˈdræstɪk ˈmɛʒərz",
+        "phonetic british": "ˈdræstɪk taɪmz kɔːl fɔː ˈdræstɪk ˈmɛʒəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Situatat e vështira kërkojnë vendime të vështira (idiomë)",
+                "sentence": "The company had to lay off employees because drastic times call for drastic measures.",
+                "sentence translation": "Kompania duhej të pushonte nga puna punonjësit sepse kërkonte vendime të vështira."
+            }
+        ]
+    },
+    {
+        "word": "drawing a blank",
+        "phonetic american": "ˈdrɔːɪŋ ə blæŋk",
+        "phonetic british": "ˈdrɔːɪŋ ə blæŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pamundësia për të arritur ndonjë rezultat, pamundësia për të mbajtur mend asgjë (idioma)",
+                "sentence": "I tried to remember her name, but I kept drawing a blank.",
+                "sentence translation": "U përpoqa të kujtoja emrin e tij, por nuk munda."
+            }
+        ]
+    },
+    {
+        "word": "dropout",
+        "phonetic american": "ˈdrɑːpaʊt",
+        "phonetic british": "ˈdrɒpaʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "person që braktis shkollën ose një program (idiomë)",
+                "sentence": "He’s a college dropout who started his own company.",
+                "sentence translation": "Dikush që e la universitetin dhe filloi kompaninë e tij."
+            }
+        ]
+    },
+    {
+        "word": "dwell on the past",
+        "phonetic american": "dwɛl ɑn ðə pæst",
+        "phonetic british": "dwɛl ɒn ðə pɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "i mbërthyer në të kaluarën (idiomë)",
+                "sentence": "It’s time to move forward and stop dwelling on the past.",
+                "sentence translation": "Tani është koha për të parë përpara dhe për të mos ngecur në të kaluarën."
+            }
+        ]
+    },
+    {
+        "word": "eager beaver",
+        "phonetic american": "ˈiːɡər ˈbiːvər",
+        "phonetic british": "ˈiːɡə ˈbiːvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "person tepër i zellshëm ose punëtor (idiomë)",
+                "sentence": "She’s such an eager beaver; she always finishes her tasks ahead of time.",
+                "sentence translation": "Ai është një punëtor shumë i zellshëm; Ai gjithmonë i përfundon detyrat e tij herët."
+            }
+        ]
+    },
+    {
+        "word": "easy as ABC",
+        "phonetic american": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "phonetic british": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Është e lehtë, është lojë fëmijësh (idiomë)",
+                "sentence": "The instructions were easy as ABC, so I had no trouble assembling the furniture.",
+                "sentence translation": "Udhëzimet ishin shumë të lehta, kështu që nuk pata asnjë problem me montimin e mobiljeve."
+            }
+        ]
+    },
+    {
+        "word": "eat, sleep & breathe something",
+        "phonetic american": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "phonetic british": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "T&#39;i kushtosh jetën diçkaje (idiomë)",
+                "sentence": "He eats, sleeps, and breathes football.",
+                "sentence translation": "Ai është dikush që ia kushtoi jetën futbollit."
+            }
+        ]
+    },
+    {
+        "word": "egg head",
+        "phonetic american": "ˈɛɡ hɛd",
+        "phonetic british": "ˈɛɡ hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "person tepër intelektual ose akademik (idiomë)",
+                "sentence": "The professor is a real egg head when it comes to mathematics.",
+                "sentence translation": "Profesori është një intelektual i plotë për matematikën."
+            }
+        ]
+    },
+    {
+        "word": "elbow room",
+        "phonetic american": "ˈɛlboʊ ruːm",
+        "phonetic british": "ˈɛlbəʊ ruːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "liria e lëvizjes (idioma)",
+                "sentence": "The new office gives us more elbow room.",
+                "sentence translation": "Zyra e re na jep më shumë hapësirë."
+            }
+        ]
+    },
+    {
+        "word": "eleventh hour",
+        "phonetic american": "ɪˈlɛvənθ ˈaʊər",
+        "phonetic british": "ɪˈlɛvənθ ˈaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Minuta e fundit, momenti i fundit (idiomë)",
+                "sentence": "They reached an agreement at the eleventh hour.",
+                "sentence translation": "Ata arritën një marrëveshje në minutën e fundit."
+            }
+        ]
+    },
+    {
+        "word": "Elvis has left the building",
+        "phonetic american": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "phonetic british": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ngjarja mbaroi, puna u krye këtu (idiomë)",
+                "sentence": "The concert is over; Elvis has left the building.",
+                "sentence translation": "Koncerti ka përfunduar; Ngjarja ka përfunduar."
+            }
+        ]
+    },
+    {
+        "word": "every cloud has a silver lining",
+        "phonetic american": "ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ",
+        "phonetic british": "ˈɛvri klaʊd hæz ə ˈsɪlvə ˈlaɪnɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka të mira në çdo gjë të keqe (idiomë)",
+                "sentence": "Don’t worry about losing your job; every cloud has a silver lining.",
+                "sentence translation": "Mos u shqetësoni për humbjen e punës; Ka të mira në çdo të keqe."
+            }
+        ]
+    },
+    {
+        "word": "explore all avenues",
+        "phonetic american": "ɪkˈsplɔːr ɔːl ˈævəˌnuːz",
+        "phonetic british": "ɪkˈsplɔːr ɔːl ˈævənjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të eksploruar të gjitha mundësitë (idiomë)",
+                "sentence": "We need to explore all avenues before making a decision.",
+                "sentence translation": "Ne duhet të shqyrtojmë të gjitha mundësitë përpara se të marrim një vendim."
+            }
+        ]
+    },
+    {
+        "word": "eye-catching",
+        "phonetic american": "ˈaɪ ˌkætʃɪŋ",
+        "phonetic british": "ˈaɪ ˌkætʃɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bie në sy, bie në sy (idiomë)",
+                "sentence": "The new advertisement is very eye-catching.",
+                "sentence translation": "Reklama e re bie shumë në sy."
+            }
+        ]
+    },
+    {
+        "word": "fallen in love",
+        "phonetic american": "ˈfɔːlən ɪn lʌv",
+        "phonetic british": "ˈfɔːlən ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bie në dashuri (idiomë)",
+                "sentence": "He has fallen in love with his best friend.",
+                "sentence translation": "Ai ra në dashuri me shokun e tij më të mirë."
+            }
+        ]
+    },
+    {
+        "word": "far cry from",
+        "phonetic american": "fɑːr kraɪ frʌm",
+        "phonetic british": "fɑː kraɪ frʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "shumë të ndryshme, pa lidhje (idiomë)",
+                "sentence": "This new design is a far cry from the old one.",
+                "sentence translation": "Ky dizajn i ri është shumë i ndryshëm nga ai i vjetër."
+            }
+        ]
+    },
+    {
+        "word": "feeling blue",
+        "phonetic american": "ˈfiːlɪŋ bluː",
+        "phonetic british": "ˈfiːlɪŋ bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ndjehet i trishtuar, i pakënaqur (idiomë)",
+                "sentence": "I’ve been feeling blue ever since she moved away.",
+                "sentence translation": "Unë jam ndjerë i trishtuar që kur ai u largua."
+            }
+        ]
+    },
+    {
+        "word": "feeling under the weather",
+        "phonetic american": "ˈfiːlɪŋ ˈʌndər ðə ˈwɛðər",
+        "phonetic british": "ˈfiːlɪŋ ˈʌndə ðə ˈwɛðə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ndjeheni të sëmurë ose të dobët (idiomë)",
+                "sentence": "I’m feeling under the weather today, so I’ll stay home.",
+                "sentence translation": "Sot po ndihem i dobët, kështu që do të qëndroj në shtëpi."
+            }
+        ]
+    },
+    {
+        "word": "fever pitch",
+        "phonetic american": "ˈfiːvər pɪtʃ",
+        "phonetic british": "ˈfiːvə pɪtʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gjendje eksitimi ose tensioni ekstrem (idiomë)",
+                "sentence": "The excitement in the stadium reached fever pitch.",
+                "sentence translation": "Eksitimi në stadium arriti kulmin."
+            }
+        ]
+    },
+    {
+        "word": "fill in the blanks",
+        "phonetic american": "fɪl ɪn ðə blæŋks",
+        "phonetic british": "fɪl ɪn ðə blæŋks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Plotësimi i informacionit që mungon (idioma)",
+                "sentence": "She didn’t give us all the details, so we had to fill in the blanks.",
+                "sentence translation": "Ai nuk na dha të gjitha detajet, kështu që na u desh të plotësojmë informacionin që mungon."
+            }
+        ]
+    },
+    {
+        "word": "first in, best dressed",
+        "phonetic american": "fɜːrst ɪn bɛst drɛst",
+        "phonetic british": "fɜːst ɪn bɛst drɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I pari fiton (idiomë)",
+                "sentence": "The sale was first in, best dressed, so we arrived early.",
+                "sentence translation": "Shitja ishte i pari, i pari, kështu që arritëm herët."
+            }
+        ]
+    },
+    {
+        "word": "first out of the gate",
+        "phonetic american": "fɜːrst aʊt əv ðə ɡeɪt",
+        "phonetic british": "fɜːst aʊt əv ðə ɡeɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "person që i pari fillon ose ndërmerr një veprim në diçka (idiomë)",
+                "sentence": "He was the first out of the gate with his project proposal.",
+                "sentence translation": "Ai ishte personi i parë që ndërmori veprime me propozimin e projektit."
+            }
+        ]
+    },
+    {
+        "word": "fish out of water",
+        "phonetic american": "fɪʃ aʊt əv ˈwɔːtər",
+        "phonetic british": "fɪʃ aʊt əv ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ndjenja e pakëndshme në një mjedis të çuditshëm (idiomë)",
+                "sentence": "He felt like a fish out of water at the formal dinner party.",
+                "sentence translation": "Në darkën zyrtare, ai u ndje si në një mjedis të huaj."
+            }
+        ]
+    },
+    {
+        "word": "foot in the door",
+        "phonetic american": "fʊt ɪn ðə dɔːr",
+        "phonetic british": "fʊt ɪn ðə dɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të marrë një mundësi fillestare (idiomë)",
+                "sentence": "This internship will help you get your foot in the door of the industry.",
+                "sentence translation": "Kjo praktikë do t&#39;ju ndihmojë të hyni në industri."
+            }
+        ]
+    },
+    {
+        "word": "for the time being",
+        "phonetic american": "fɔːr ðə taɪm ˈbiːɪŋ",
+        "phonetic british": "fɔː ðə taɪm ˈbiːɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tani për tani, përkohësisht (idiomë)",
+                "sentence": "For the time being, we’ll stay here until we find a better place.",
+                "sentence translation": "Tani për tani, ne do të qëndrojmë këtu derisa të gjejmë një vend më të mirë."
+            }
+        ]
+    },
+    {
+        "word": "from now on",
+        "phonetic american": "frʌm naʊ ɑːn",
+        "phonetic british": "frʌm naʊ ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tani e tutje (idiomë)",
+                "sentence": "From now on, I’ll be more careful with my spending.",
+                "sentence translation": "Tani e tutje do të jem më i kujdesshëm me shpenzimet e mia."
+            }
+        ]
+    },
+    {
+        "word": "from time to time",
+        "phonetic american": "frʌm taɪm tə taɪm",
+        "phonetic british": "frʌm taɪm tə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "herë pas here, herë pas here (idiomë)",
+                "sentence": "I like to visit my hometown from time to time.",
+                "sentence translation": "Më pëlqen të vizitoj vendlindjen herë pas here."
+            }
+        ]
+    },
+    {
+        "word": "full of beans",
+        "phonetic american": "fʊl əv biːnz",
+        "phonetic british": "fʊl əv biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "plot energji, i gjallë (idiomë)",
+                "sentence": "The children were full of beans after the party.",
+                "sentence translation": "Fëmijët ishin plot energji pas festës."
+            }
+        ]
+    },
+    {
+        "word": "full of the joys of spring",
+        "phonetic american": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "phonetic british": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shumë i lumtur, i gëzuar (idiomë)",
+                "sentence": "She came into the office full of the joys of spring.",
+                "sentence translation": "Ai hyri në zyrë plot gëzim pranveror."
+            }
+        ]
+    },
+    {
+        "word": "getting sacked (or axed, or fired)",
+        "phonetic american": "ˈɡɛtɪŋ sækt",
+        "phonetic british": "ˈɡɛtɪŋ sækt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pushohem (idiomë)",
+                "sentence": "He was afraid of getting sacked after the mistake.",
+                "sentence translation": "Ai kishte frikë se mos pushohej nga puna pas gabimit të tij."
+            }
+        ]
+    },
+    {
+        "word": "getting the show on the road",
+        "phonetic american": "ˈɡɛtɪŋ ðə ʃoʊ ɑn ðə roʊd",
+        "phonetic british": "ˈɡɛtɪŋ ðə ʃəʊ ɒn ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Fillimi i një projekti ose aktiviteti (idiomë)",
+                "sentence": "Let’s get the show on the road and start the meeting.",
+                "sentence translation": "Le të merremi me punë dhe të fillojmë takimin."
+            }
+        ]
+    },
+    {
+        "word": "give the benefit of the doubt",
+        "phonetic american": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "phonetic british": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të besosh në dikë pavarësisht dyshimeve (idiomë)",
+                "sentence": "Let’s give her the benefit of the doubt and assume she’s telling the truth.",
+                "sentence translation": "Le të supozojmë se ju e besoni atë pavarësisht dyshimeve tuaja dhe se ai po thotë të vërtetën."
+            }
+        ]
+    },
+    {
+        "word": "give the green light",
+        "phonetic american": "ɡɪv ðə ɡriːn laɪt",
+        "phonetic british": "ɡɪv ðə ɡriːn laɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "lejoj, miratoj (idiomë)",
+                "sentence": "The manager gave the green light to start the project.",
+                "sentence translation": "Menaxheri dha miratimin për fillimin e projektit."
+            }
+        ]
+    },
+    {
+        "word": "go belly up",
+        "phonetic american": "ɡoʊ ˈbɛli ˈʌp",
+        "phonetic british": "ɡəʊ ˈbɛli ˈʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të dështosh, të falimentosh (idiomë)",
+                "sentence": "The company went belly up after losing its main client.",
+                "sentence translation": "Kompania falimentoi pasi humbi klientin e saj kryesor."
+            }
+        ]
+    },
+    {
+        "word": "going places",
+        "phonetic american": "ˈɡoʊɪŋ ˈpleɪsɪz",
+        "phonetic british": "ˈɡəʊɪŋ ˈpleɪsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të kesh potencial për të qenë i suksesshëm (idiomë)",
+                "sentence": "With her talent, she’s definitely going places.",
+                "sentence translation": "Me talentin e tij, ai patjetër do të ketë sukses."
+            }
+        ]
+    },
+    {
+        "word": "golden boy",
+        "phonetic american": "ˈɡoʊldən bɔɪ",
+        "phonetic british": "ˈɡəʊldən bɔɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një person që është shumë i dashur dhe nga i cili pritet sukses (idiomë)",
+                "sentence": "He’s the golden boy of the football team.",
+                "sentence translation": "Ai është i preferuari i ekipit të futbollit."
+            }
+        ]
+    },
+    {
+        "word": "golden handshake",
+        "phonetic american": "ˈɡoʊldən ˈhændˌʃeɪk",
+        "phonetic british": "ˈɡəʊldən ˈhændˌʃeɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pagesa për pension ose largim nga puna (frazë)",
+                "sentence": "The CEO received a golden handshake upon his retirement.",
+                "sentence translation": "CEO mori një kompensim pas daljes në pension."
+            }
+        ]
+    },
+    {
+        "word": "golden opportunity",
+        "phonetic american": "ˈɡoʊldən ˌɑːpərˈtuːnɪti",
+        "phonetic british": "ˈɡəʊldən ˌɒpəˈtjuːnɪti",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mundësi e madhe për të mos u humbur (idiomë)",
+                "sentence": "This job offer is a golden opportunity for your career.",
+                "sentence translation": "Kjo ofertë pune është një mundësi që nuk duhet humbur për karrierën tuaj."
+            }
+        ]
+    },
+    {
+        "word": "grass is always greener on the other side",
+        "phonetic american": "ɡræs ɪz ˈɔːlweɪz ˈɡriːnər ɑn ði ˈʌðər saɪd",
+        "phonetic british": "ɡrɑːs ɪz ˈɔːlweɪz ˈɡriːnə ɒn ði ˈʌðə saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Diçka tjetër duket gjithmonë më tërheqëse (idiomë)",
+                "sentence": "He left his job thinking the grass is always greener on the other side, but now he regrets it.",
+                "sentence translation": "E la punën duke menduar se diçka tjetër ishte më tërheqëse, por tani i vjen keq."
+            }
+        ]
+    },
+    {
+        "word": "grease someone's palm",
+        "phonetic american": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "phonetic british": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të dhënë ryshfet dikë (idiomë)",
+                "sentence": "He had to grease the official’s palm to get the permit approved.",
+                "sentence translation": "Ai duhej t&#39;i jepte ryshfet zyrtarit që të miratohej leja."
+            }
+        ]
+    },
+    {
+        "word": "green thumb",
+        "phonetic american": "ɡriːn θʌm",
+        "phonetic british": "ɡriːn θʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Aftësia për të rritur bimë (idiomë)",
+                "sentence": "She has a green thumb; her garden is always blooming.",
+                "sentence translation": "Ai ka aftësinë për të rritur bimë; Kopshti i tij është gjithmonë në lulëzim."
+            }
+        ]
+    },
+    {
+        "word": "green with envy",
+        "phonetic american": "ɡriːn wɪð ˈɛnvi",
+        "phonetic british": "ɡriːn wɪð ˈɛnvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "shpërthyer nga xhelozia (idiomë)",
+                "sentence": "She was green with envy when she saw her friend’s new car.",
+                "sentence translation": "Ai u mbush me xhelozi kur pa makinën e re të shokut të tij."
+            }
+        ]
+    },
+    {
+        "word": "grey area",
+        "phonetic american": "ɡreɪ ˈɛriə",
+        "phonetic british": "ɡreɪ ˈɛərɪə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Situatë e pasigurt ose e pasigurt (idiomë)",
+                "sentence": "The rules about online privacy are still a grey area.",
+                "sentence translation": "Rregullat e privatësisë në internet janë ende një çështje e paqartë."
+            }
+        ]
+    },
+    {
+        "word": "hanging on by fingernails",
+        "phonetic american": "ˈhæŋɪŋ ɑn baɪ ˈfɪŋɡərˌneɪlz",
+        "phonetic british": "ˈhæŋɪŋ ɒn baɪ ˈfɪŋɡəˌneɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Përpjekja për të mbijetuar në një situatë të vështirë (idiomë)",
+                "sentence": "The company is hanging on by its fingernails due to financial issues.",
+                "sentence translation": "Kompania është duke luftuar për të mbijetuar për shkak të problemeve financiare."
+            }
+        ]
+    },
+    {
+        "word": "hard as nails",
+        "phonetic american": "hɑːrd æz neɪlz",
+        "phonetic british": "hɑːd æz neɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "person joemocional ose elastik (idiomë)",
+                "sentence": "She may look kind, but she’s hard as nails when it comes to business.",
+                "sentence translation": "Ai mund të duket i butë, por është shumë i ashpër kur bëhet fjalë për biznesin."
+            }
+        ]
+    },
+    {
+        "word": "hard time",
+        "phonetic american": "hɑːrd taɪm",
+        "phonetic british": "hɑːd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke kaluar një kohë të vështirë (idiomë)",
+                "sentence": "He had a hard time finding a job after college.",
+                "sentence translation": "Pas universitetit kishte vështirësi të gjente punë."
+            }
+        ]
+    },
+    {
+        "word": "having one's heart set on something",
+        "phonetic american": "ˈhævɪŋ wʌnz hɑːrt sɛt ɑn ˈsʌmθɪŋ",
+        "phonetic british": "ˈhævɪŋ wʌnz hɑːt sɛt ɒn ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "dua vërtet diçka (idiomë)",
+                "sentence": "She has her heart set on studying abroad next year.",
+                "sentence translation": "Ai me të vërtetë dëshiron të studiojë jashtë vendit vitin e ardhshëm."
+            }
+        ]
+    },
+    {
+        "word": "head in the clouds",
+        "phonetic american": "hɛd ɪn ðə klaʊdz",
+        "phonetic british": "hɛd ɪn ðə klaʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh ëndërrimtar, larg realitetit (idiomë)",
+                "sentence": "He’s always got his head in the clouds, dreaming of becoming a rock star.",
+                "sentence translation": "Ai është gjithmonë në botën e tij të ëndrrave, duke ëndërruar të jetë një yll rock."
+            }
+        ]
+    },
+    {
+        "word": "head over heels in love",
+        "phonetic american": "hɛd ˈoʊvər hilz ɪn lʌv",
+        "phonetic british": "hɛd ˈəʊvə hiːlz ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të dashurohesh kokë e këmbë (idiomë)",
+                "sentence": "He fell head over heels in love with her the moment they met.",
+                "sentence translation": "Ai ra në dashuri me të në momentin kur e njohu."
+            }
+        ]
+    },
+    {
+        "word": "hear it on the grapevine",
+        "phonetic american": "hɪr ɪt ɑn ðə ˈɡreɪpˌvaɪn",
+        "phonetic british": "hɪə ɪt ɒn ðə ˈɡreɪpˌvaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke dëgjuar diçka nga thashethemet (idiomë)",
+                "sentence": "I heard on the grapevine that they’re getting married.",
+                "sentence translation": "Dëgjova nëpër hardhi se po martohen."
+            }
+        ]
+    },
+    {
+        "word": "heart is in the right place",
+        "phonetic american": "hɑːrt ɪz ɪn ðə raɪt pleɪs",
+        "phonetic british": "hɑːt ɪz ɪn ðə raɪt pleɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të kesh qëllimet e duhura (idiomë)",
+                "sentence": "She makes mistakes sometimes, but her heart is in the right place.",
+                "sentence translation": "Ai ndonjëherë bën gabime, por qëllimet e tij janë të vërteta."
+            }
+        ]
+    },
+    {
+        "word": "here today, gone tomorrow",
+        "phonetic american": "hɪr təˈdeɪ, ɡɑn təˈmɑːroʊ",
+        "phonetic british": "hɪə təˈdeɪ, ɡɒn təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Përdoret për gjëra të përkohshme (idiomë)",
+                "sentence": "The popularity of certain trends is here today, gone tomorrow.",
+                "sentence translation": "Popullariteti i disa tendencave është i përkohshëm."
+            }
+        ]
+    },
+    {
+        "word": "high time",
+        "phonetic american": "haɪ taɪm",
+        "phonetic british": "haɪ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Është koha, tashmë është vonë (idiomë)",
+                "sentence": "It’s high time you cleaned your room.",
+                "sentence translation": "Tani është koha për të pastruar dhomën tuaj."
+            }
+        ]
+    },
+    {
+        "word": "hit the big time",
+        "phonetic american": "hɪt ðə bɪɡ taɪm",
+        "phonetic british": "hɪt ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Arri sukses të madh (idiomë)",
+                "sentence": "He hit the big time after his song became a global hit.",
+                "sentence translation": "Ai arriti sukses të madh pasi kënga e tij u bë hit mbarëbotëror."
+            }
+        ]
+    },
+    {
+        "word": "hit the books",
+        "phonetic american": "hɪt ðə bʊks",
+        "phonetic british": "hɪt ðə bʊks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "fillo të punosh (idiomë)",
+                "sentence": "I have to hit the books if I want to pass the exam.",
+                "sentence translation": "Nëse dua të kaloj provimin, duhet të filloj të studioj."
+            }
+        ]
+    },
+    {
+        "word": "hit the nail on the head",
+        "phonetic american": "hɪt ðə neɪl ɑn ðə hɛd",
+        "phonetic british": "hɪt ðə neɪl ɒn ðə hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të godasësh gozhdën në kokë, të thuash të drejtën (idiomë)",
+                "sentence": "You hit the nail on the head with your analysis.",
+                "sentence translation": "Ti godet gozhdën në kokë me analizën tënde."
+            }
+        ]
+    },
+    {
+        "word": "hit the panic button",
+        "phonetic american": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "phonetic british": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "në panik (idiomë)",
+                "sentence": "Don’t hit the panic button; we still have time to fix this.",
+                "sentence translation": "Mos u trembni; Kemi ende kohë për ta rregulluar këtë."
+            }
+        ]
+    },
+    {
+        "word": "hit the road",
+        "phonetic american": "hɪt ðə roʊd",
+        "phonetic british": "hɪt ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të nisur, për të lënë një vend (idiomë)",
+                "sentence": "It’s getting late; we’d better hit the road.",
+                "sentence translation": "po bëhet vonë; Më mirë të nisemi."
+            }
+        ]
+    },
+    {
+        "word": "hit the sack (or sheets, or hay)",
+        "phonetic american": "hɪt ðə sæk",
+        "phonetic british": "hɪt ðə sæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të shkosh në shtrat, të shkosh të flesh (idiomë)",
+                "sentence": "I’m exhausted, so I’m going to hit the sack.",
+                "sentence translation": "Jam shumë i lodhur, kështu që po shkoj në shtrat."
+            }
+        ]
+    },
+    {
+        "word": "hold the fort",
+        "phonetic american": "hoʊld ðə fɔːrt",
+        "phonetic british": "həʊld ðə fɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të menaxhuar dikë, për të marrë përgjegjësinë përkohësisht (idiomë)",
+                "sentence": "Can you hold the fort while I’m away?",
+                "sentence translation": "A mund ta përballoni situatën ndërsa unë jam larguar?"
+            }
+        ]
+    },
+    {
+        "word": "honest as the day is long",
+        "phonetic american": "ˈɑːnɪst æz ðə deɪ ɪz lɔːŋ",
+        "phonetic british": "ˈɒnɪst æz ðə deɪ ɪz lɒŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të qenë plotësisht i sinqertë (idiomë)",
+                "sentence": "She’s as honest as the day is long; you can trust her.",
+                "sentence translation": "Ai është plotësisht i sinqertë; ju mund t&#39;i besoni atij."
+            }
+        ]
+    },
+    {
+        "word": "hot potato",
+        "phonetic american": "hɑt pəˈteɪtoʊ",
+        "phonetic british": "hɒt pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një temë e vështirë ose e diskutueshme (idiomë)",
+                "sentence": "The new policy is a political hot potato.",
+                "sentence translation": "Politika e re është çështje debati politik."
+            }
+        ]
+    },
+    {
+        "word": "hour of need",
+        "phonetic american": "ˈaʊər əv niːd",
+        "phonetic british": "ˈaʊə əv niːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Koha e vështirë, momenti i nevojës (idiomë)",
+                "sentence": "He was always there for me in my hour of need.",
+                "sentence translation": "Ai ishte gjithmonë pranë meje në momentet e mia të vështira."
+            }
+        ]
+    },
+    {
+        "word": "in due course",
+        "phonetic american": "ɪn duː kɔːrs",
+        "phonetic british": "ɪn djuː kɔːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kur të vijë koha, përfundimisht (idiomë)",
+                "sentence": "You will receive your promotion in due course.",
+                "sentence translation": "Ju do të merrni promovimin tuaj në kohën e duhur."
+            }
+        ]
+    },
+    {
+        "word": "in one's own time",
+        "phonetic american": "ɪn wʌnz oʊn taɪm",
+        "phonetic british": "ɪn wʌnz əʊn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Me ritmin e dikujt, pa u nxituar (idiomë)",
+                "sentence": "Take this project in your own time; there’s no rush.",
+                "sentence translation": "Bëni këtë projekt me ritmin tuaj; Nuk ka nevojë të nxitoni."
+            }
+        ]
+    },
+    {
+        "word": "in someone's black book",
+        "phonetic american": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "phonetic british": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh në listën e keqe të dikujt, të biesh nga favori (idiomë)",
+                "sentence": "He’s in the boss’s black book after missing the deadline.",
+                "sentence translation": "Ai humbi favorin me shefin e tij sepse humbi afatin."
+            }
+        ]
+    },
+    {
+        "word": "in the bag",
+        "phonetic american": "ɪn ðə bæg",
+        "phonetic british": "ɪn ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "E garantuar, e garantuar (idiomë)",
+                "sentence": "With all the preparation we’ve done, victory is in the bag.",
+                "sentence translation": "Fitorja është e garantuar me të gjitha përgatitjet që kemi bërë."
+            }
+        ]
+    },
+    {
+        "word": "in the black",
+        "phonetic american": "ɪn ðə blæk",
+        "phonetic british": "ɪn ðə blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh fitimprurës, të jesh në gjendje të mirë financiare (idiomë)",
+                "sentence": "The company is finally in the black after years of losses.",
+                "sentence translation": "Kompania më në fund fitoi pas vitesh humbjesh."
+            }
+        ]
+    },
+    {
+        "word": "in the blink of an eye",
+        "phonetic american": "ɪn ðə blɪŋk əv ən aɪ",
+        "phonetic british": "ɪn ðə blɪŋk əv ən aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Në një moment, sa hap e mbyll sytë (idiomë)",
+                "sentence": "The car disappeared in the blink of an eye.",
+                "sentence translation": "Makina u zhduk papritur."
+            }
+        ]
+    },
+    {
+        "word": "in the heat of the moment",
+        "phonetic american": "ɪn ðə hiːt əv ðə ˈmoʊmənt",
+        "phonetic british": "ɪn ðə hiːt əv ðə ˈməʊmənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Në eksitimin ose stresin e momentit (idiomë)",
+                "sentence": "He said something hurtful in the heat of the moment.",
+                "sentence translation": "Në emocionin e momentit, ai tha diçka lënduese."
+            }
+        ]
+    },
+    {
+        "word": "in the interim",
+        "phonetic american": "ɪn ði ˈɪntərɪm",
+        "phonetic british": "ɪn ði ˈɪntərɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ndërkohë, përkohësisht (idiomë)",
+                "sentence": "The company hired a consultant in the interim.",
+                "sentence translation": "Ndërkohë kompania ka punësuar një konsulent."
+            }
+        ]
+    },
+    {
+        "word": "in the long run",
+        "phonetic american": "ɪn ðə lɔːŋ rʌn",
+        "phonetic british": "ɪn ðə lɒŋ rʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "në afat të gjatë (idiomë)",
+                "sentence": "This investment will pay off in the long run.",
+                "sentence translation": "Ky investim do të shpërblehet në planin afatgjatë."
+            }
+        ]
+    },
+    {
+        "word": "in the nick of time",
+        "phonetic american": "ɪn ðə nɪk əv taɪm",
+        "phonetic british": "ɪn ðə nɪk əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pikërisht në kohë, në momentin e fundit (idiomë)",
+                "sentence": "The firefighters arrived in the nick of time.",
+                "sentence translation": "Zjarrfikësit mbërritën në kohë."
+            }
+        ]
+    },
+    {
+        "word": "in the red",
+        "phonetic american": "ɪn ðə rɛd",
+        "phonetic british": "ɪn ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të jesh në borxh, të pësosh një humbje (idiomë)",
+                "sentence": "The company has been in the red for three months.",
+                "sentence translation": "Kompania ka tre muaj që ka humbur para."
+            }
+        ]
+    },
+    {
+        "word": "in the right place at the right time",
+        "phonetic american": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "phonetic british": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh në vendin e duhur në kohën e duhur (idiomë)",
+                "sentence": "He got the job because he was in the right place at the right time.",
+                "sentence translation": "Ai e mori punën sepse ishte në vendin e duhur në kohën e duhur."
+            }
+        ]
+    },
+    {
+        "word": "in the wrong place at the wrong time",
+        "phonetic american": "ɪn ðə rɔːŋ pleɪs æt ðə rɔːŋ taɪm",
+        "phonetic british": "ɪn ðə rɒŋ pleɪs æt ðə rɒŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të jesh në vendin e gabuar në kohën e gabuar (idiomë)",
+                "sentence": "He was arrested because he was in the wrong place at the wrong time.",
+                "sentence translation": "Ai u arrestua sepse ishte në vendin e gabuar në kohën e gabuar."
+            }
+        ]
+    },
+    {
+        "word": "in tune with someone (on the same wavelength)",
+        "phonetic american": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "phonetic british": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të jesh në harmoni me dikë (idiomë)",
+                "sentence": "They work well together because they’re in tune with each other.",
+                "sentence translation": "Ata punojnë mirë së bashku sepse janë në harmoni me njëri-tjetrin."
+            }
+        ]
+    },
+    {
+        "word": "it takes two to tango",
+        "phonetic american": "ɪt teɪks tuː tə ˈtæŋɡoʊ",
+        "phonetic british": "ɪt teɪks tuː tə ˈtæŋɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të dyja palët kanë përgjegjësi në një incident (idiomë)",
+                "sentence": "Don’t blame her entirely; it takes two to tango.",
+                "sentence translation": "Mos e fajësoni plotësisht; Të dyja palët kanë një pjesë në këtë."
+            }
+        ]
+    },
+    {
+        "word": "itchy feet",
+        "phonetic american": "ˈɪtʃi fiːt",
+        "phonetic british": "ˈɪtʃi fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shqetësim, dëshirë për të udhëtuar (idiomë)",
+                "sentence": "After a year in the same city, he’s starting to get itchy feet.",
+                "sentence translation": "Pasi qëndroi një vit në të njëjtin qytet, filloi ndjenja e shqetësimit."
+            }
+        ]
+    },
+    {
+        "word": "judge a book by its cover",
+        "phonetic american": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvər",
+        "phonetic british": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke gjykuar nga pamja (idioma)",
+                "sentence": "Don’t judge a book by its cover; he’s actually very kind.",
+                "sentence translation": "Mos vendosni në bazë të pamjes; Ai në fakt është një person shumë i sjellshëm."
+            }
+        ]
+    },
+    {
+        "word": "jump on the bandwagon",
+        "phonetic american": "dʒʌmp ɑn ðə ˈbændˌwæɡən",
+        "phonetic british": "dʒʌmp ɒn ðə ˈbændˌwæɡən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "merr pjesë në diçka që është popullore (idiom)",
+                "sentence": "He decided to jump on the bandwagon and start investing in cryptocurrency.",
+                "sentence translation": "Ai vendosi t&#39;i bashkohet trendit popullor duke filluar të investojë në kriptovaluta."
+            }
+        ]
+    },
+    {
+        "word": "keep something at bay",
+        "phonetic american": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "phonetic british": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të mbajtur diçka nën kontroll ose larg (idiomë)",
+                "sentence": "She exercises daily to keep stress at bay.",
+                "sentence translation": "Ai ushtron çdo ditë për të mbajtur larg stresin."
+            }
+        ]
+    },
+    {
+        "word": "keeping up appearances",
+        "phonetic american": "ˈkiːpɪŋ ʌp əˈpɪrənsɪz",
+        "phonetic british": "ˈkiːpɪŋ ʌp əˈpɪərənsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Përpjekja për ta bërë situatën të duket e mirë nga jashtë (idiomë)",
+                "sentence": "Despite their financial struggles, they’re keeping up appearances.",
+                "sentence translation": "Pavarësisht vështirësive financiare, ata po mundohen t&#39;ia paraqesin situatën si të mirë botës së jashtme."
+            }
+        ]
+    },
+    {
+        "word": "keeping your finger on the pulse",
+        "phonetic american": "ˈkiːpɪŋ jʊr ˈfɪŋɡər ɑn ðə pʌls",
+        "phonetic british": "ˈkiːpɪŋ jɔː ˈfɪŋɡə ɒn ðə pʌls",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për t&#39;u informuar për ngjarjet ose zhvillimet aktuale (idiomë)",
+                "sentence": "He’s a great leader because he always keeps his finger on the pulse of the market.",
+                "sentence translation": "Ai është një lider i madh sepse e ka gjithmonë gishtin në pulsin e tregut."
+            }
+        ]
+    },
+    {
+        "word": "kept in the dark",
+        "phonetic american": "kɛpt ɪn ðə dɑːrk",
+        "phonetic british": "kɛpt ɪn ðə dɑːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të mos jesh i informuar, të mos jesh i vetëdijshëm (idiomë)",
+                "sentence": "The employees were kept in the dark about the merger.",
+                "sentence translation": "Punonjësit mbetën të pavetëdijshëm për bashkimin."
+            }
+        ]
+    },
+    {
+        "word": "kill time",
+        "phonetic american": "kɪl taɪm",
+        "phonetic british": "kɪl taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të kaluar kohë, për të zgjatur (idiomë)",
+                "sentence": "I played a game on my phone to kill time while waiting for the train.",
+                "sentence translation": "Duke pritur trenin, luajta një lojë në telefonin tim për të kaluar kohën."
+            }
+        ]
+    },
+    {
+        "word": "kill two birds with one stone",
+        "phonetic american": "kɪl tuː bɜːrdz wɪð wʌn stoʊn",
+        "phonetic british": "kɪl tuː bɜːdz wɪð wʌn stəʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Vrasja e dy zogjve me një gur, sigurimi i dy përfitimeve në një punë (idiomë)",
+                "sentence": "By walking to work, she kills two birds with one stone: exercise and saving money on transport.",
+                "sentence translation": "Duke ecur në punë, ajo vret dy zogj me një gur: stërvitet dhe kursen para në transport."
+            }
+        ]
+    },
+    {
+        "word": "landslide victory",
+        "phonetic american": "ˈlændˌslaɪd ˈvɪktəri",
+        "phonetic british": "ˈlændˌslaɪd ˈvɪktəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "një fitore dërrmuese, duke fituar me një diferencë të madhe (idiomë)",
+                "sentence": "The candidate won by a landslide victory in the election.",
+                "sentence translation": "Kandidati fitoi një fitore dërrmuese në zgjedhje."
+            }
+        ]
+    },
+    {
+        "word": "last straw",
+        "phonetic american": "læst strɔː",
+        "phonetic british": "lɑːst strɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kashta e fundit (idioma)",
+                "sentence": "The broken promise was the last straw in their relationship.",
+                "sentence translation": "Premtimi i thyer ishte pika e fundit në lidhjen e tyre."
+            }
+        ]
+    },
+    {
+        "word": "laugh a minute",
+        "phonetic american": "læf ə ˈmɪnɪt",
+        "phonetic british": "lɑːf ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një situatë ose person shumë argëtues (idiomë)",
+                "sentence": "The comedian’s show was a laugh a minute.",
+                "sentence translation": "Shfaqja e aktorit të humorit ishte shumë argëtuese."
+            }
+        ]
+    },
+    {
+        "word": "learn by rote",
+        "phonetic american": "lɜːrn baɪ roʊt",
+        "phonetic british": "lɜːn baɪ rəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të mësuarit duke mësuar përmendësh (idiomë)",
+                "sentence": "Students often learn by rote for exams, but they forget everything quickly.",
+                "sentence translation": "Studentët shpesh mësojnë përmendësh për provime, por shpejt harrojnë gjithçka."
+            }
+        ]
+    },
+    {
+        "word": "learn something off by heart",
+        "phonetic american": "lɜːrn ˈsʌmθɪŋ ɔːf baɪ hɑːrt",
+        "phonetic british": "lɜːn ˈsʌmθɪŋ ɒf baɪ hɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mësoj përmendësh (idiomë)",
+                "sentence": "He learned the poem off by heart for the recital.",
+                "sentence translation": "Poezinë e mësoi përmendsh për shfaqjen."
+            }
+        ]
+    },
+    {
+        "word": "learn the ropes",
+        "phonetic american": "lɜːrn ðə roʊps",
+        "phonetic british": "lɜːn ðə rəʊps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mësimi i bazave të një pune (idioma)",
+                "sentence": "It will take time to learn the ropes at the new job.",
+                "sentence translation": "Do të duhet kohë për të mësuar bazat në një punë të re."
+            }
+        ]
+    },
+    {
+        "word": "lemon",
+        "phonetic american": "ˈlɛmən",
+        "phonetic british": "ˈlɛmən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Diçka që është e gabuar ose e padobishme (idiomë)",
+                "sentence": "The car he bought turned out to be a lemon.",
+                "sentence translation": "Makina që bleu doli e padobishme."
+            }
+        ]
+    },
+    {
+        "word": "let me see the colour of your money",
+        "phonetic american": "lɛt miː siː ðə ˈkʌlər əv jʊr ˈmʌni",
+        "phonetic british": "lɛt miː siː ðə ˈkʌlə əv jɔː ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Duke parë qëllimin e dikujt për të paguar (idiomë)",
+                "sentence": "If you want to place an order, let me see the colour of your money first.",
+                "sentence translation": "Nëse dëshironi të porosisni, duhet të tregoni se do të paguani së pari."
+            }
+        ]
+    },
+    {
+        "word": "let sleeping dogs lie",
+        "phonetic american": "lɛt ˈsliːpɪŋ dɔːɡz laɪ",
+        "phonetic british": "lɛt ˈsliːpɪŋ dɒɡz laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të mos u ndalur në problemet e së kaluarës (idiomë)",
+                "sentence": "Don’t bring up old arguments; let sleeping dogs lie.",
+                "sentence translation": "Mos hapni diskutime të vjetra; Mos u ndalni në problemet e së kaluarës."
+            }
+        ]
+    },
+    {
+        "word": "let slip through fingers",
+        "phonetic american": "lɛt slɪp θruː ˈfɪŋɡərz",
+        "phonetic british": "lɛt slɪp θruː ˈfɪŋɡəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "humbas mundësinë (idiomë)",
+                "sentence": "He let the chance of a promotion slip through his fingers.",
+                "sentence translation": "Ai e humbi mundësinë e tij të promovimit."
+            }
+        ]
+    },
+    {
+        "word": "let the cat out of the bag",
+        "phonetic american": "lɛt ðə kæt aʊt əv ðə bæg",
+        "phonetic british": "lɛt ðə kæt aʊt əv ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të zbuluar një sekret (idiomë)",
+                "sentence": "He accidentally let the cat out of the bag about the surprise party.",
+                "sentence translation": "Ai ka zbuluar aksidentalisht sekretin për festën surprizë."
+            }
+        ]
+    },
+    {
+        "word": "lick one's wounds",
+        "phonetic american": "lɪk wʌnz wuːndz",
+        "phonetic british": "lɪk wʌnz wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të lëpish plagët, të shërohesh pas një situate të keqe (idiomë)",
+                "sentence": "After losing the match, the team went home to lick their wounds.",
+                "sentence translation": "Pas humbjes së ndeshjes, ekipi shkoi në shtëpi për të lëpirë plagët."
+            }
+        ]
+    },
+    {
+        "word": "lightning fast",
+        "phonetic american": "ˈlaɪtnɪŋ fæst",
+        "phonetic british": "ˈlaɪtnɪŋ fɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shumë shpejt, si rrufeja (idiomë)",
+                "sentence": "The new processor is lightning fast.",
+                "sentence translation": "Procesori i ri është i shpejtë."
+            }
+        ]
+    },
+    {
+        "word": "lights are on but nobody is home",
+        "phonetic american": "laɪts ɑːr ɑn bʌt ˈnoʊbədi ɪz hoʊm",
+        "phonetic british": "laɪts ɑːr ɒn bʌt ˈnəʊbədi ɪz həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh fizikisht i pranishëm, por të tregosh mungesë vëmendjeje ose vetëdijeje (idiomë)",
+                "sentence": "I tried explaining the problem, but it was like the lights were on but nobody was home.",
+                "sentence translation": "Unë u përpoqa të shpjegoj problemin, por ai nuk dukej se po i kushtonte vëmendje."
+            }
+        ]
+    },
+    {
+        "word": "like clockwork",
+        "phonetic american": "laɪk ˈklɑːkˌwɜːrk",
+        "phonetic british": "laɪk ˈklɒkˌwɜːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pikërisht në kohë dhe pa asnjë problem (idiomë)",
+                "sentence": "The trains in Japan run like clockwork.",
+                "sentence translation": "Trenat në Japoni funksionojnë në kohë."
+            }
+        ]
+    },
+    {
+        "word": "like there's no tomorrow",
+        "phonetic american": "laɪk ðɛrz noʊ təˈmɑːroʊ",
+        "phonetic british": "laɪk ðɛəz nəʊ təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të bësh diçka të pakufizuar ose të nxituar (idiomë)",
+                "sentence": "She’s spending money like there’s no tomorrow.",
+                "sentence translation": "Ai shpenzon para sikur nuk ka të nesërme."
+            }
+        ]
+    },
+    {
+        "word": "lining up all the ducks in a row",
+        "phonetic american": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə roʊ",
+        "phonetic british": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə rəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Rregullimi dhe përgatitja e të gjitha detajeve (idioma)",
+                "sentence": "Before the presentation, she made sure all her ducks were in a row.",
+                "sentence translation": "Ai u sigurua që të gjitha detajet të ishin gati përpara prezantimit."
+            }
+        ]
+    },
+    {
+        "word": "living beyond your means",
+        "phonetic american": "ˈlɪvɪŋ bɪˈjɑːnd jʊr miːnz",
+        "phonetic british": "ˈlɪvɪŋ bɪˈjɒnd jɔː miːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shpenzimi i më shumë se të ardhurave të dikujt (idiomë)",
+                "sentence": "He’s living beyond his means with that expensive car.",
+                "sentence translation": "Ai jeton mbi të ardhurat e tij me atë makinë të shtrenjtë."
+            }
+        ]
+    },
+    {
+        "word": "living in an ivory tower",
+        "phonetic american": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊər",
+        "phonetic british": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jetosh i izoluar nga bota reale (idiomë)",
+                "sentence": "Academics are often accused of living in an ivory tower.",
+                "sentence translation": "Akademikët shpesh akuzohen se jetojnë të izoluar nga bota reale."
+            }
+        ]
+    },
+    {
+        "word": "living on the breadline",
+        "phonetic american": "ˈlɪvɪŋ ɑn ðə ˈbrɛdˌlaɪn",
+        "phonetic british": "ˈlɪvɪŋ ɒn ðə ˈbrɛdˌlaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jetosh në kufirin e varfërisë (idiomë)",
+                "sentence": "Many families are living on the breadline due to the economic crisis.",
+                "sentence translation": "Për shkak të krizës ekonomike, shumë familje jetojnë në kufirin e varfërisë."
+            }
+        ]
+    },
+    {
+        "word": "long arm of the law",
+        "phonetic american": "lɔːŋ ɑrm əv ðə lɔː",
+        "phonetic british": "lɒŋ ɑːm əv ðə lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nuk ka vend ku ligji nuk mund të arrijë (idiomë)",
+                "sentence": "You can’t escape the long arm of the law.",
+                "sentence translation": "Ju nuk mund t&#39;i shpëtoni krahut të gjatë të ligjit."
+            }
+        ]
+    },
+    {
+        "word": "long time no see",
+        "phonetic american": "lɔːŋ taɪm noʊ siː",
+        "phonetic british": "lɒŋ taɪm nəʊ siː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nuk e shohim njëri-tjetrin për një kohë të gjatë (idiomë)",
+                "sentence": "Hey, long time no see! How have you been?",
+                "sentence translation": "Hej, ka kohë që nuk e shoh! si jeni?"
+            }
+        ]
+    },
+    {
+        "word": "look on the bright side",
+        "phonetic american": "lʊk ɑn ðə braɪt saɪd",
+        "phonetic british": "lʊk ɒn ðə braɪt saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shikimi i anës pozitive të ngjarjeve (idioma)",
+                "sentence": "Look on the bright side; at least you learned something from the experience.",
+                "sentence translation": "Shihni anën pozitive të gjërave; Të paktën keni mësuar diçka nga kjo përvojë."
+            }
+        ]
+    },
+    {
+        "word": "love at first sight",
+        "phonetic american": "lʌv æt fɜːrst saɪt",
+        "phonetic british": "lʌv æt fɜːst saɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dashuri me shikim të parë (idiomë)",
+                "sentence": "It was love at first sight when they met at the party.",
+                "sentence translation": "Kur u takuan në festë, ishte dashuri me shikim të parë."
+            }
+        ]
+    },
+    {
+        "word": "lovey-dovey",
+        "phonetic american": "ˈlʌvi ˈdʌvi",
+        "phonetic british": "ˈlʌvi ˈdʌvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Jashtëzakonisht i dashur dhe romantik (idiomë)",
+                "sentence": "The couple was so lovey-dovey at the restaurant.",
+                "sentence translation": "Çifti ishte shumë romantik në restorant."
+            }
+        ]
+    },
+    {
+        "word": "lump in your throat",
+        "phonetic american": "lʌmp ɪn jʊr θroʊt",
+        "phonetic british": "lʌmp ɪn jɔː θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mbytje në fyt në një situatë emocionale (idiomë)",
+                "sentence": "He felt a lump in his throat when he saw the farewell letter.",
+                "sentence translation": "Kur pa letrën e lamtumirës, ndjeu një gungë në fyt."
+            }
+        ]
+    },
+    {
+        "word": "make a long story short",
+        "phonetic american": "meɪk ə lɔːŋ ˈstɔːri ʃɔːrt",
+        "phonetic british": "meɪk ə lɒŋ ˈstɔːri ʃɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të shkurtuar, për të arritur në thelbin e çështjes (idiomë)",
+                "sentence": "To make a long story short, we decided to cancel the trip.",
+                "sentence translation": "Për ta shkurtuar, vendosëm të anulojmë udhëtimin."
+            }
+        ]
+    },
+    {
+        "word": "make my day",
+        "phonetic american": "meɪk maɪ deɪ",
+        "phonetic british": "meɪk maɪ deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "më bëj shumë të lumtur (idiomë)",
+                "sentence": "Your kind words really made my day.",
+                "sentence translation": "Fjalët e tua të mira më bënë vërtet të lumtur."
+            }
+        ]
+    },
+    {
+        "word": "make or break",
+        "phonetic american": "meɪk ɔːr breɪk",
+        "phonetic british": "meɪk ɔː breɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çfarë do të çojë në sukses ose dështim (idiomë)",
+                "sentence": "This is a make-or-break moment for the company.",
+                "sentence translation": "Ky është një moment që do të çojë në sukses ose dështim për kompaninë."
+            }
+        ]
+    },
+    {
+        "word": "make the grade",
+        "phonetic american": "meɪk ðə ɡreɪd",
+        "phonetic british": "meɪk ðə ɡreɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "plotësoni standardin e pritur (idiomë)",
+                "sentence": "She worked hard to make the grade and secure her promotion.",
+                "sentence translation": "Ai punoi shumë për të përmbushur standardin e pritur për të marrë promovimin."
+            }
+        ]
+    },
+    {
+        "word": "make time",
+        "phonetic american": "meɪk taɪm",
+        "phonetic british": "meɪk taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të gjesh kohë për diçka (idiomë)",
+                "sentence": "You should make time for your hobbies.",
+                "sentence translation": "Ju duhet të gjeni kohë për hobi tuaj."
+            }
+        ]
+    },
+    {
+        "word": "makes your flesh crawl",
+        "phonetic american": "meɪks jʊr flɛʃ krɔːl",
+        "phonetic british": "meɪks jɔː flɛʃ krɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të trembësh, të trembësh ose të shqetësosh (idiomë)",
+                "sentence": "The creepy noises in the house made my flesh crawl.",
+                "sentence translation": "Tingujt e çuditshëm në shtëpi më dhanë të dridhura."
+            }
+        ]
+    },
+    {
+        "word": "making a go of it",
+        "phonetic american": "ˈmeɪkɪŋ ə ɡoʊ əv ɪt",
+        "phonetic british": "ˈmeɪkɪŋ ə ɡəʊ əv ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke u përpjekur për të bërë diçka të funksionojë me sukses (idiomë)",
+                "sentence": "They’re making a go of their new business despite the challenges.",
+                "sentence translation": "Pavarësisht vështirësive, ata përpiqen ta drejtojnë me sukses biznesin e tyre të ri."
+            }
+        ]
+    },
+    {
+        "word": "making good time",
+        "phonetic american": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "phonetic british": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "arrije shpejt qëllimin (idiomë)",
+                "sentence": "We’re making good time; we should arrive by noon.",
+                "sentence translation": "Ne po ecim shpejt; Do të arrijmë deri në mesditë."
+            }
+        ]
+    },
+    {
+        "word": "making headway",
+        "phonetic american": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "phonetic british": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bëj përparim (idiomë)",
+                "sentence": "We’re finally making headway on the project after weeks of delays.",
+                "sentence translation": "Pas disa javësh vonesa, më në fund po bëjmë përparim në projekt."
+            }
+        ]
+    },
+    {
+        "word": "match made in heaven",
+        "phonetic american": "mætʃ meɪd ɪn ˈhɛvən",
+        "phonetic british": "mætʃ meɪd ɪn ˈhɛvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një çift ose partneritet i përputhur mirë (idiomë)",
+                "sentence": "Their partnership is a match made in heaven.",
+                "sentence translation": "Partneriteti i tyre është shumë harmonik."
+            }
+        ]
+    },
+    {
+        "word": "method to my madness",
+        "phonetic american": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "phonetic british": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të kesh një logjikë ose plan pas diçkaje që duket kaotike (idiomë)",
+                "sentence": "It may seem chaotic, but there’s a method to my madness.",
+                "sentence translation": "Mund të duket kaotike, por ka një logjikë në atë që bëj."
+            }
+        ]
+    },
+    {
+        "word": "mile a minute",
+        "phonetic american": "maɪl ə ˈmɪnɪt",
+        "phonetic british": "maɪl ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke folur ose duke lëvizur shumë shpejt (idiomë)",
+                "sentence": "She was talking a mile a minute, and I couldn’t keep up.",
+                "sentence translation": "Ai po fliste aq shpejt sa unë nuk mund të mbaja hapin."
+            }
+        ]
+    },
+    {
+        "word": "miss the boat",
+        "phonetic american": "mɪs ðə boʊt",
+        "phonetic british": "mɪs ðə bəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të humbasësh një mundësi (idiomë)",
+                "sentence": "I wanted to apply for that job, but I missed the boat.",
+                "sentence translation": "Doja të aplikoja për atë punë, por e humba rastin."
+            }
+        ]
+    },
+    {
+        "word": "monkey business",
+        "phonetic american": "ˈmʌŋki ˈbɪznɪs",
+        "phonetic british": "ˈmʌŋki ˈbɪznɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të keqe ose mashtrim (idiomë)",
+                "sentence": "The teacher warned the students to stop their monkey business.",
+                "sentence translation": "Mësuesi i paralajmëroi nxënësit që të mos sillen keq."
+            }
+        ]
+    },
+    {
+        "word": "month of Sundays",
+        "phonetic american": "mʌnθ əv ˈsʌndiz",
+        "phonetic british": "mʌnθ əv ˈsʌndɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "një kohë shumë të gjatë (idiomë)",
+                "sentence": "I haven’t seen him in a month of Sundays.",
+                "sentence translation": "Nuk e kam parë për një kohë shumë të gjatë."
+            }
+        ]
+    },
+    {
+        "word": "Murphy's law",
+        "phonetic american": "ˈmɜːrfiz lɔː",
+        "phonetic british": "ˈmɜːfiz lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nëse diçka mund të shkojë keq, do të shkojë (idiomë).",
+                "sentence": "We prepared for everything, but Murphy's law struck again, and the power went out.",
+                "sentence translation": "Ne ishim të përgatitur për çdo gjë, por ligji i Murphy-t funksionoi përsëri dhe rryma u ndërpre."
+            }
+        ]
+    },
+    {
+        "word": "never in a million years",
+        "phonetic american": "ˈnɛvər ɪn ə ˈmɪljən jɪrz",
+        "phonetic british": "ˈnɛvə ɪn ə ˈmɪljən jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kurrë, në asnjë mënyrë (idiomë)",
+                "sentence": "Never in a million years did I think I would win the lottery.",
+                "sentence translation": "Asnjëherë, as një herë në një milion, nuk kam menduar se do të fitoja lotarinë."
+            }
+        ]
+    },
+    {
+        "word": "no time like the present",
+        "phonetic american": "noʊ taɪm laɪk ðə ˈprɛzənt",
+        "phonetic british": "nəʊ taɪm laɪk ðə ˈprɛzənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Duke shprehur se tani është koha më e mirë për të bërë diçka (idiomë)",
+                "sentence": "Let’s start the project now; there’s no time like the present.",
+                "sentence translation": "Le të fillojmë projektin tani; Nuk ka kohë më të mirë se tani."
+            }
+        ]
+    },
+    {
+        "word": "no time to lose",
+        "phonetic american": "noʊ taɪm tə luz",
+        "phonetic british": "nəʊ taɪm tə luːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nuk ka kohë për të humbur, një situatë që kërkon nxitim (idiomë)",
+                "sentence": "We have to leave immediately; there’s no time to lose.",
+                "sentence translation": "Duhet të largohemi menjëherë; Nuk ka vend për humbje kohe."
+            }
+        ]
+    },
+    {
+        "word": "not letting grass grow under your feet",
+        "phonetic american": "nɑːt ˈlɛtɪŋ ɡræs ɡroʊ ˈʌndər jʊr fit",
+        "phonetic british": "nɒt ˈlɛtɪŋ ɡrɑːs ɡrəʊ ˈʌndə jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mos hezitoni të ndërmarrni veprime (idiomë)",
+                "sentence": "She never lets grass grow under her feet; she started her new business right after finishing college.",
+                "sentence translation": "Ai nuk humb kohë; Ai filloi punën e tij të re sapo mbaroi universitetin."
+            }
+        ]
+    },
+    {
+        "word": "now and then",
+        "phonetic american": "naʊ ənd ðɛn",
+        "phonetic british": "naʊ ənd ðɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "herë pas here, herë pas here (idiomë)",
+                "sentence": "I like to visit my grandparents now and then.",
+                "sentence translation": "Më pëlqen të vizitoj gjyshërit e mi herë pas here."
+            }
+        ]
+    },
+    {
+        "word": "now or never",
+        "phonetic american": "naʊ ɔr ˈnɛvər",
+        "phonetic british": "naʊ ɔː ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Është koha për të bërë diçka (idiomë)",
+                "sentence": "If you want to change your career, it’s now or never.",
+                "sentence translation": "Nëse doni të ndryshoni karrierën tuaj, tani është koha."
+            }
+        ]
+    },
+    {
+        "word": "off colour",
+        "phonetic american": "ɔf ˈkʌlər",
+        "phonetic british": "ɒf ˈkʌlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ndjenjë e plogësht ose jo mirë (idiomë)",
+                "sentence": "I’ve been feeling a bit off colour today.",
+                "sentence translation": "Sot po ndihem pak e lodhur."
+            }
+        ]
+    },
+    {
+        "word": "off one's rocker",
+        "phonetic american": "ɔf wʌnz ˈrɑːkər",
+        "phonetic british": "ɒf wʌnz ˈrɒkə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të sillesh i çmendur ose irracional (idiomë)",
+                "sentence": "You must be off your rocker to drive in this weather.",
+                "sentence translation": "Është çmenduri të provosh të ngasësh në këtë mot."
+            }
+        ]
+    },
+    {
+        "word": "off to a flying start",
+        "phonetic american": "ɔf tə ə ˈflaɪɪŋ stɑːrt",
+        "phonetic british": "ɒf tə ə ˈflaɪɪŋ stɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bërja e një fillimi shumë të suksesshëm (idiomë)",
+                "sentence": "The team got off to a flying start by scoring in the first minute.",
+                "sentence translation": "Skuadra filloi një fillim mjaft të suksesshëm duke shënuar një gol në minutën e parë."
+            }
+        ]
+    },
+    {
+        "word": "old hand",
+        "phonetic american": "oʊld hænd",
+        "phonetic british": "əʊld hænd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Personi me përvojë (idiomë)",
+                "sentence": "He’s an old hand at fixing cars.",
+                "sentence translation": "Ka shumë përvojë në riparimin e makinave."
+            }
+        ]
+    },
+    {
+        "word": "old school",
+        "phonetic american": "oʊld skuːl",
+        "phonetic british": "əʊld skuːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "i modës së vjetër, tradicionale (idiomë)",
+                "sentence": "He prefers old school methods over modern technology.",
+                "sentence translation": "Ai preferon metodat e modës së vjetër mbi teknologjinë moderne."
+            }
+        ]
+    },
+    {
+        "word": "on the ball",
+        "phonetic american": "ɑn ðə bɔːl",
+        "phonetic british": "ɒn ðə bɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Lëvizje e kujdesshme dhe e shpejtë (idiomë)",
+                "sentence": "The manager is really on the ball and catches mistakes quickly.",
+                "sentence translation": "Menaxheri është vërtet i vëmendshëm dhe i kap shpejt gabimet."
+            }
+        ]
+    },
+    {
+        "word": "on the brain",
+        "phonetic american": "ɑn ðə breɪn",
+        "phonetic british": "ɒn ðə breɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh vazhdimisht i fiksuar pas një teme (idioma)",
+                "sentence": "He has football on the brain; it’s all he talks about.",
+                "sentence translation": "Mendja e tij është gjithmonë te futbolli; Kjo është gjithçka që ai flet."
+            }
+        ]
+    },
+    {
+        "word": "on the rocks",
+        "phonetic american": "ɑn ðə rɑːks",
+        "phonetic british": "ɒn ðə rɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të qenit në një situatë të vështirë, veçanërisht në lidhje me një marrëdhënie ose situatë financiare (idiomë)",
+                "sentence": "Their marriage is on the rocks after years of arguments.",
+                "sentence translation": "Pas vitesh debatesh, martesa e tyre është në telashe."
+            }
+        ]
+    },
+    {
+        "word": "on time",
+        "phonetic american": "ɑn taɪm",
+        "phonetic british": "ɒn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pikërisht në kohë, pa vonesë (idiomë)",
+                "sentence": "The train arrived on time, as scheduled.",
+                "sentence translation": "Treni mbërriti në kohë siç ishte planifikuar."
+            }
+        ]
+    },
+    {
+        "word": "once in a blue moon",
+        "phonetic american": "wʌns ɪn ə bluː muːn",
+        "phonetic british": "wʌns ɪn ə bluː muːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Diçka që ndodh shumë rrallë (idiomë)",
+                "sentence": "I only go to the cinema once in a blue moon.",
+                "sentence translation": "Unë shkoj shumë rrallë në kinema."
+            }
+        ]
+    },
+    {
+        "word": "once upon a time",
+        "phonetic american": "wʌns əˈpɑːn ə taɪm",
+        "phonetic british": "wʌns əˈpɒn ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Njëherë e një kohë, shpesh përdoret për të filluar tregime (idiomë)",
+                "sentence": "Once upon a time, there was a beautiful princess.",
+                "sentence translation": "Njëherë e një kohë ishte një princeshë e bukur."
+            }
+        ]
+    },
+    {
+        "word": "only time will tell",
+        "phonetic american": "ˈoʊnli taɪm wɪl tɛl",
+        "phonetic british": "ˈəʊnli taɪm wɪl tɛl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Vetëm koha do të tregojë rezultatin e diçkaje (idiomë)",
+                "sentence": "Only time will tell if their decision was the right one.",
+                "sentence translation": "Vetëm koha do të tregojë nëse vendimi i tyre ishte i saktë."
+            }
+        ]
+    },
+    {
+        "word": "out of the blue",
+        "phonetic american": "aʊt əv ðə bluː",
+        "phonetic british": "aʊt əv ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "papritur (idiomë)",
+                "sentence": "He showed up out of the blue after years of no contact.",
+                "sentence translation": "U shfaq papritur pas vitesh pa asnjë lajm."
+            }
+        ]
+    },
+    {
+        "word": "out of the red",
+        "phonetic american": "aʊt əv ðə rɛd",
+        "phonetic british": "aʊt əv ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "heqja e borxheve (idiomë)",
+                "sentence": "The company is finally out of the red and starting to make a profit.",
+                "sentence translation": "Kompania më në fund u lirua nga borxhet dhe filloi të fitonte."
+            }
+        ]
+    },
+    {
+        "word": "out of time",
+        "phonetic american": "aʊt əv taɪm",
+        "phonetic british": "aʊt əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "jashtë kohe (idiomë)",
+                "sentence": "We’re out of time, so we’ll have to continue this discussion later.",
+                "sentence translation": "Na ka mbaruar koha, ndaj do të duhet ta vazhdojmë këtë diskutim më vonë."
+            }
+        ]
+    },
+    {
+        "word": "paint the town red",
+        "phonetic american": "peɪnt ðə taʊn rɛd",
+        "phonetic british": "peɪnt ðə taʊn rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "dil dhe argëtohu (idiomë)",
+                "sentence": "After finishing their exams, the students decided to paint the town red.",
+                "sentence translation": "Pas përfundimit të provimeve, studentët vendosën të dilnin dhe të argëtoheshin."
+            }
+        ]
+    },
+    {
+        "word": "pass with flying colours",
+        "phonetic american": "pæs wɪð ˈflaɪɪŋ ˈkʌlərz",
+        "phonetic british": "pɑːs wɪð ˈflaɪɪŋ ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kaloj me ngjyra fluturuese (idiomë)",
+                "sentence": "She passed the exam with flying colours.",
+                "sentence translation": "Provimin e kaloi me shumë sukses."
+            }
+        ]
+    },
+    {
+        "word": "penny for your thoughts",
+        "phonetic american": "ˈpɛni fɔːr jʊr θɔːts",
+        "phonetic british": "ˈpɛni fɔː jɔː θɔːts",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke pyetur se çfarë mendon dikush (idiomë)",
+                "sentence": "You’ve been quiet all evening; a penny for your thoughts?",
+                "sentence translation": "Ti heshti gjithë mbrëmjen; cfare po mendon"
+            }
+        ]
+    },
+    {
+        "word": "picture paints a thousand words",
+        "phonetic american": "ˈpɪktʃər peɪnts ə ˈθaʊzənd wɜːrdz",
+        "phonetic british": "ˈpɪktʃə peɪnts ə ˈθaʊzənd wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një fotografi vlen sa një mijë fjalë (idiomë)",
+                "sentence": "Instead of explaining the design, just show them; a picture paints a thousand words.",
+                "sentence translation": "Tregojuni atyre dizajnin në vend që t&#39;ua shpjegoni atë; një foto vlen sa një mijë fjalë."
+            }
+        ]
+    },
+    {
+        "word": "piece of cake",
+        "phonetic american": "piːs əv keɪk",
+        "phonetic british": "piːs əv keɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Është një gjë shumë e lehtë (idiomë)",
+                "sentence": "The test was a piece of cake; I finished it in ten minutes.",
+                "sentence translation": "Testi ishte shumë i lehtë; E përfundova për dhjetë minuta."
+            }
+        ]
+    },
+    {
+        "word": "pitch black",
+        "phonetic american": "pɪtʃ blæk",
+        "phonetic british": "pɪtʃ blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "e zezë e zezë (idiomë)",
+                "sentence": "It was pitch black outside when the power went out.",
+                "sentence translation": "Jashtë ishte errësirë kur u shua rryma."
+            }
+        ]
+    },
+    {
+        "word": "place in the sun",
+        "phonetic american": "pleɪs ɪn ðə sʌn",
+        "phonetic british": "pleɪs ɪn ðə sʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një vend ose situatë që vihet re dhe vlerësohet nga të gjithë (idiomë)",
+                "sentence": "She’s finally found her place in the sun with her new career.",
+                "sentence translation": "Më në fund ai gjeti një vend të ndritshëm në karrierën e tij të re."
+            }
+        ]
+    },
+    {
+        "word": "pop the question",
+        "phonetic american": "pɑːp ðə ˈkwɛstʃən",
+        "phonetic british": "pɒp ðə ˈkwɛstʃən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bëj një propozim martese (idiomë)",
+                "sentence": "He popped the question during their vacation in Paris.",
+                "sentence translation": "Ai i propozoi gjatë pushimeve të tyre në Paris."
+            }
+        ]
+    },
+    {
+        "word": "pot calling the kettle black",
+        "phonetic american": "pɑːt ˈkɔːlɪŋ ðə ˈkɛtəl blæk",
+        "phonetic british": "pɒt ˈkɔːlɪŋ ðə ˈkɛtl blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të kritikosh dikë tjetër për një të metë të vetes (idiomë)",
+                "sentence": "When he criticized her for being late, it was the pot calling the kettle black.",
+                "sentence translation": "Kur ajo e kritikoi atë për vonesë, ishte vërtet një situatë &#39;fundi i tenxhere&#39;."
+            }
+        ]
+    },
+    {
+        "word": "pressed for time",
+        "phonetic american": "prɛst fɔːr taɪm",
+        "phonetic british": "prɛst fɔː taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të kesh pak kohë (idiomë)",
+                "sentence": "I can’t talk right now; I’m pressed for time.",
+                "sentence translation": "Nuk mund të flas tani; Koha ime është shumë e kufizuar."
+            }
+        ]
+    },
+    {
+        "word": "proud as a peacock",
+        "phonetic american": "praʊd æz ə ˈpiːkɑːk",
+        "phonetic british": "praʊd æz ə ˈpiːkɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të jesh shumë krenar (idiomë)",
+                "sentence": "He was as proud as a peacock when he received the award.",
+                "sentence translation": "Ai ishte shumë krenar kur mori çmimin."
+            }
+        ]
+    },
+    {
+        "word": "pull the plug",
+        "phonetic american": "pʊl ðə plʌɡ",
+        "phonetic british": "pʊl ðə plʌɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të ndaluar ose përfunduar diçka (idiomë)",
+                "sentence": "The company decided to pull the plug on the failing project.",
+                "sentence translation": "Kompania vendosi të përfundojë projektin e dështuar."
+            }
+        ]
+    },
+    {
+        "word": "pull wool over other people's eyes",
+        "phonetic american": "pʊl wʊl ˈoʊvər ˈʌðər ˈpiːpəlz aɪz",
+        "phonetic british": "pʊl wʊl ˈəʊvə ˈʌðə ˈpiːplz aɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të mashtruar ose mashtruar dikë (idiomë)",
+                "sentence": "He tried to pull the wool over the manager’s eyes, but she saw through his lies.",
+                "sentence translation": "Ai u përpoq të mashtronte menaxherin por gënjeshtrat e tij u zbuluan."
+            }
+        ]
+    },
+    {
+        "word": "pulling out all the stops",
+        "phonetic american": "ˈpʊlɪŋ aʊt ɔːl ðə stɑːps",
+        "phonetic british": "ˈpʊlɪŋ aʊt ɔːl ðə stɒps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Përdorimi i të gjitha mundësive për të arritur diçka (idiomë)",
+                "sentence": "They’re pulling out all the stops to make the event successful.",
+                "sentence translation": "Ata përdorin të gjitha mjetet për ta bërë këtë ngjarje të suksesshme."
+            }
+        ]
+    },
+    {
+        "word": "punch above one's weight",
+        "phonetic american": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "phonetic british": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "performoj më mirë se sa pritej (idiomë)",
+                "sentence": "The small company is punching above its weight in the tech industry.",
+                "sentence translation": "Kompania e vogël po performon më mirë se sa pritej në sektorin e teknologjisë."
+            }
+        ]
+    },
+    {
+        "word": "puppy love",
+        "phonetic american": "ˈpʌpi lʌv",
+        "phonetic british": "ˈpʌpi lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dashuria romantike e ndjerë në moshë fëminore ose të re (idiomë)",
+                "sentence": "Their relationship was just puppy love and didn’t last long.",
+                "sentence translation": "Lidhja e tyre ishte thjesht dashuri adoleshente dhe nuk zgjati shumë."
+            }
+        ]
+    },
+    {
+        "word": "put it in black and white",
+        "phonetic american": "pʊt ɪt ɪn blæk ənd waɪt",
+        "phonetic british": "pʊt ɪt ɪn blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të shkruash diçka, ta zyrtarizosh (idiomë)",
+                "sentence": "Before we agree, let’s put it in black and white.",
+                "sentence translation": "Le ta bëjmë këtë me shkrim përpara se ta pranojmë."
+            }
+        ]
+    },
+    {
+        "word": "put your thinking cap on",
+        "phonetic american": "pʊt jʊr ˈθɪŋkɪŋ kæp ɑn",
+        "phonetic british": "pʊt jɔː ˈθɪŋkɪŋ kæp ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mendo seriozisht (idiomë)",
+                "sentence": "We need to solve this problem, so put your thinking cap on.",
+                "sentence translation": "Ne duhet ta zgjidhim këtë problem, ndaj mendoni seriozisht."
+            }
+        ]
+    },
+    {
+        "word": "rags to riches",
+        "phonetic american": "ræɡz tə ˈrɪtʃɪz",
+        "phonetic british": "ræɡz tə ˈrɪtʃɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "rritja nga varfëria në pasuri (idiomë)",
+                "sentence": "His story is a classic rags-to-riches tale.",
+                "sentence translation": "Historia e tij është një përrallë klasike e zhveshur."
+            }
+        ]
+    },
+    {
+        "word": "raining cats and dogs",
+        "phonetic american": "ˈreɪnɪŋ kæts ənd dɔːɡz",
+        "phonetic british": "ˈreɪnɪŋ kæts ənd dɒɡz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të bie shi i madh (idiomë)",
+                "sentence": "We couldn’t go outside because it was raining cats and dogs.",
+                "sentence translation": "Nuk dilnim dot sepse binte shi i madh."
+            }
+        ]
+    },
+    {
+        "word": "raise the white flag",
+        "phonetic american": "reɪz ðə waɪt flæɡ",
+        "phonetic british": "reɪz ðə waɪt flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "dorëzohem, pranoj humbjen (idiomë)",
+                "sentence": "After hours of arguing, she finally raised the white flag.",
+                "sentence translation": "Pas disa orësh debati, ai më në fund pranoi humbjen."
+            }
+        ]
+    },
+    {
+        "word": "raring to go",
+        "phonetic american": "ˈrɛrɪŋ tə ɡoʊ",
+        "phonetic british": "ˈrɛərɪŋ tə ɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mezi pres të fillojë (idiomë)",
+                "sentence": "The team is raring to go for the big game.",
+                "sentence translation": "Skuadra po pret me padurim ndeshjen e madhe."
+            }
+        ]
+    },
+    {
+        "word": "rat race",
+        "phonetic american": "ræt reɪs",
+        "phonetic british": "ræt reɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mënyrë jetese plot konkurrencë të fortë dhe stres (idiomë)",
+                "sentence": "He left the rat race to live a simpler life in the countryside.",
+                "sentence translation": "Ai hoqi dorë nga një jetë me konkurrencë të fortë për të jetuar një jetë më të thjeshtë."
+            }
+        ]
+    },
+    {
+        "word": "red flag",
+        "phonetic american": "rɛd flæɡ",
+        "phonetic british": "rɛd flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një shenjë rreziku ose paralajmërimi (idiomë)",
+                "sentence": "Her constant lateness is a red flag for her reliability.",
+                "sentence translation": "Vonesa e tij e vazhdueshme është një shenjë paralajmëruese për besueshmërinë e tij."
+            }
+        ]
+    },
+    {
+        "word": "red herring",
+        "phonetic american": "rɛd ˈhɛrɪŋ",
+        "phonetic british": "rɛd ˈhɛrɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Diçka që largon vëmendjen nga tema kryesore (idioma)",
+                "sentence": "The mystery novel had plenty of red herrings to keep readers guessing.",
+                "sentence translation": "Romani detektiv përmbante shumë elemente mashtruese që i mbanin lexuesit të hamendeshin."
+            }
+        ]
+    },
+    {
+        "word": "red hot",
+        "phonetic american": "rɛd hɑːt",
+        "phonetic british": "rɛd hɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "shumë popullor ose i suksesshëm (idiomë)",
+                "sentence": "The new smartphone is red hot in the market.",
+                "sentence translation": "Smartphone i ri është shumë i popullarizuar në treg."
+            }
+        ]
+    },
+    {
+        "word": "red in the face",
+        "phonetic american": "rɛd ɪn ðə feɪs",
+        "phonetic british": "rɛd ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "skuqem nga turpi ose zemërimi (idiomë)",
+                "sentence": "She was red in the face after tripping in front of everyone.",
+                "sentence translation": "Ai u skuq teksa u pengua para të gjithëve."
+            }
+        ]
+    },
+    {
+        "word": "red tape",
+        "phonetic american": "rɛd teɪp",
+        "phonetic british": "rɛd teɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Burokraci e tepruar ose formalitete të panevojshme (frazë)",
+                "sentence": "We had to deal with a lot of red tape to get the permits approved.",
+                "sentence translation": "Na u desh të merreshim me shumë burokraci për të miratuar lejet."
+            }
+        ]
+    },
+    {
+        "word": "red-eye",
+        "phonetic american": "rɛd-aɪ",
+        "phonetic british": "rɛd-aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Fluturim natën vonë (idiomë)",
+                "sentence": "He took the red-eye to New York to save time.",
+                "sentence translation": "Për të kursyer kohë, ai mori një fluturim natën vonë për në Nju Jork."
+            }
+        ]
+    },
+    {
+        "word": "road hog",
+        "phonetic american": "roʊd hɑːɡ",
+        "phonetic british": "rəʊd hɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shoferi që shqetëson të tjerët në rrugë (idiomë)",
+                "sentence": "That road hog nearly caused an accident by swerving.",
+                "sentence translation": "Ai ngacmues rrugor për pak sa nuk shkaktoi një aksident duke u devijuar."
+            }
+        ]
+    },
+    {
+        "word": "roll out the red carpet",
+        "phonetic american": "roʊl aʊt ðə rɛd ˈkɑːrpɪt",
+        "phonetic british": "rəʊl aʊt ðə rɛd ˈkɑːpɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të tregosh interes ose kujdes të veçantë ndaj dikujt (idiomë)",
+                "sentence": "The hotel rolled out the red carpet for its celebrity guests.",
+                "sentence translation": "Hoteli organizoi një pritje të veçantë për mysafirët e tij të famshëm."
+            }
+        ]
+    },
+    {
+        "word": "sail through something",
+        "phonetic american": "seɪl θruː ˈsʌmθɪŋ",
+        "phonetic british": "seɪl θruː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të bërë diçka me lehtësi ose për të qenë i suksesshëm (idiomë)",
+                "sentence": "She sailed through her exams with top marks.",
+                "sentence translation": "Provimet i kaloi lehtësisht me nota të larta."
+            }
+        ]
+    },
+    {
+        "word": "save time",
+        "phonetic american": "seɪv taɪm",
+        "phonetic british": "seɪv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kurse kohë (idiomë)",
+                "sentence": "Using a dishwasher saves time compared to washing dishes by hand.",
+                "sentence translation": "Përdorimi i një makinë larëse enësh kursen kohë në krahasim me larjen e enëve me dorë."
+            }
+        ]
+    },
+    {
+        "word": "school of hard knocks",
+        "phonetic american": "skuːl əv hɑːrd nɑːks",
+        "phonetic british": "skuːl əv hɑːd nɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mësimet e nxjerra nga vështirësitë e jetës (idiomë)",
+                "sentence": "He didn’t go to college but learned everything through the school of hard knocks.",
+                "sentence translation": "Ai nuk shkoi në universitet, por mësoi gjithçka nga vështirësitë e jetës."
+            }
+        ]
+    },
+    {
+        "word": "school of thought",
+        "phonetic american": "skuːl əv θɔːt",
+        "phonetic british": "skuːl əv θɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Sistemi i mendimit (idioma) në të cilin pajtohen një grup njerëzish",
+                "sentence": "There’s a school of thought that believes in minimalism for a happier life.",
+                "sentence translation": "Ekziston një sistem mendimi që beson në minimalizmin për një jetë më të lumtur."
+            }
+        ]
+    },
+    {
+        "word": "schoolboy error",
+        "phonetic american": "ˈskuːlbɔɪ ˈɛrər",
+        "phonetic british": "ˈskuːlbɔɪ ˈɛrə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një gabim i thjeshtë dhe budalla (idiomë)",
+                "sentence": "The goalkeeper made a schoolboy error and let the ball go in.",
+                "sentence translation": "Portieri bëri një gabim të thjeshtë dhe e la topin të hynte."
+            }
+        ]
+    },
+    {
+        "word": "seeing eye to eye",
+        "phonetic american": "ˈsiːɪŋ aɪ tə aɪ",
+        "phonetic british": "ˈsiːɪŋ aɪ tə aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pajtohem për diçka (idiomë)",
+                "sentence": "They don’t always see eye to eye, but they respect each other’s opinions.",
+                "sentence translation": "Ata respektojnë mendimet e njëri-tjetrit, edhe nëse nuk janë gjithmonë dakord."
+            }
+        ]
+    },
+    {
+        "word": "seeing red",
+        "phonetic american": "ˈsiːɪŋ rɛd",
+        "phonetic british": "ˈsiːɪŋ rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "zemërohem shumë (idiomë)",
+                "sentence": "She was seeing red when she found out someone had scratched her car.",
+                "sentence translation": "Ai u tërbua kur mori vesh se dikush i kishte gërvishtur makinën."
+            }
+        ]
+    },
+    {
+        "word": "sell ice to Eskimos",
+        "phonetic american": "sɛl aɪs tə ˈɛskɪmoʊz",
+        "phonetic british": "sɛl aɪs tə ˈɛskɪməʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh mjaftueshëm bindës për të shitur diçka të vështirë (idiomë)",
+                "sentence": "He's so charming, he could sell ice to Eskimos.",
+                "sentence translation": "Ai është aq tërheqës sa mund të shesë edhe akull te Eskimezët."
+            }
+        ]
+    },
+    {
+        "word": "shelf life",
+        "phonetic american": "ʃɛlf laɪf",
+        "phonetic british": "ʃɛlf laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Periudha kohore kur një produkt është i disponueshëm (frazë)",
+                "sentence": "The shelf life of this yogurt is about two weeks.",
+                "sentence translation": "Afati i ruajtjes së këtij kosi është rreth dy javë."
+            }
+        ]
+    },
+    {
+        "word": "show of hands",
+        "phonetic american": "ʃoʊ əv hændz",
+        "phonetic british": "ʃəʊ əv hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Votimi me ngritjen e duarve (idioma)",
+                "sentence": "Let’s take a show of hands to decide where to go.",
+                "sentence translation": "Le të ngremë duart për të vendosur se ku të shkojmë."
+            }
+        ]
+    },
+    {
+        "word": "shown the red card",
+        "phonetic american": "ʃoʊn ðə rɛd kɑːrd",
+        "phonetic british": "ʃəʊn ðə rɛd kɑːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dhënia e një paralajmërimi ose ndëshkimi përfundimtar për dikë (idiomë)",
+                "sentence": "After repeated mistakes, he was finally shown the red card by his boss.",
+                "sentence translation": "Pas gabimeve të përsëritura më në fund u ndëshkua nga shefi i tij."
+            }
+        ]
+    },
+    {
+        "word": "silver screen",
+        "phonetic american": "ˈsɪlvər skriːn",
+        "phonetic british": "ˈsɪlvə skriːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bota e kinemasë (idiomë)",
+                "sentence": "She dreamed of becoming a star on the silver screen.",
+                "sentence translation": "Ai ëndërronte të bëhej një yll në botën e kinemasë."
+            }
+        ]
+    },
+    {
+        "word": "single file",
+        "phonetic american": "ˈsɪŋɡəl faɪl",
+        "phonetic british": "ˈsɪŋɡəl faɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "marshimi në skedar të vetëm (idiom)",
+                "sentence": "The children walked in single file along the narrow path.",
+                "sentence translation": "Fëmijët ecnin në një dosje të vetme përgjatë shtegut të ngushtë."
+            }
+        ]
+    },
+    {
+        "word": "sink or swim",
+        "phonetic american": "sɪŋk ɔːr swɪm",
+        "phonetic british": "sɪŋk ɔː swɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të kesh sukses ose të dështosh (idiomë)",
+                "sentence": "Starting your own business is a sink-or-swim situation.",
+                "sentence translation": "Fillimi i biznesit tuaj është një situatë ku ose duhet të keni sukses ose të dështoni."
+            }
+        ]
+    },
+    {
+        "word": "sinking teeth into something",
+        "phonetic american": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "phonetic british": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh plotësisht i fokusuar ose i përfshirë në diçka (idiomë)",
+                "sentence": "She’s really sinking her teeth into this new project.",
+                "sentence translation": "Ai me të vërtetë po futet në projektin e ri."
+            }
+        ]
+    },
+    {
+        "word": "sit on the fence",
+        "phonetic american": "sɪt ɑn ðə fɛns",
+        "phonetic british": "sɪt ɒn ðə fɛns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të qëndrosh neutral ose të mos vendosësh për një çështje (idiomë)",
+                "sentence": "You can’t sit on the fence forever; you need to choose a side.",
+                "sentence translation": "Ju nuk mund të qëndroni asnjanës përgjithmonë; Ju duhet të zgjidhni një anë."
+            }
+        ]
+    },
+    {
+        "word": "skip class",
+        "phonetic american": "skɪp klæs",
+        "phonetic british": "skɪp klɑːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mos ndjekja e mësimit, anashkalimi i mësimit (idioma)",
+                "sentence": "He got into trouble for skipping class yesterday.",
+                "sentence translation": "Ai u gjend në telashe për shkak të braktisjes së mësimit dje."
+            }
+        ]
+    },
+    {
+        "word": "sleeping (or silent) partner",
+        "phonetic american": "ˈsliːpɪŋ ˈpɑːrtnər",
+        "phonetic british": "ˈsliːpɪŋ ˈpɑːtnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Partner biznesi që nuk është aktiv, por ka investuar kapital (idiomë)",
+                "sentence": "He’s just a sleeping partner in the business and doesn’t get involved in daily operations.",
+                "sentence translation": "Ai është thjesht një partner pasiv në biznes dhe nuk është i përfshirë në operacionet e përditshme."
+            }
+        ]
+    },
+    {
+        "word": "slice of the pie",
+        "phonetic american": "slaɪs əv ðə paɪ",
+        "phonetic british": "slaɪs əv ðə paɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pjesë e drejtë e diçkaje (idiomë)",
+                "sentence": "Everyone in the team deserves a slice of the pie after the success.",
+                "sentence translation": "Të gjithë në ekip meritojnë një pjesë të drejtë të suksesit."
+            }
+        ]
+    },
+    {
+        "word": "smash hit",
+        "phonetic american": "smæʃ hɪt",
+        "phonetic british": "smæʃ hɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një vepër me sukses të madh (idiomë)",
+                "sentence": "The movie was a smash hit and broke box office records.",
+                "sentence translation": "Filmi pati një sukses të madh dhe theu rekorde në arkë."
+            }
+        ]
+    },
+    {
+        "word": "snowed under",
+        "phonetic american": "snoʊd ˈʌndər",
+        "phonetic british": "snəʊd ˈʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të kesh shumë punë, të ndihesh i mbingarkuar (idiomë)",
+                "sentence": "I’m snowed under with work and can’t take on any more tasks.",
+                "sentence translation": "Jam shumë i zënë me punë dhe nuk mund të marr asnjë detyrë tjetër."
+            }
+        ]
+    },
+    {
+        "word": "sooner or later",
+        "phonetic american": "ˈsuːnər ɔːr ˈleɪtər",
+        "phonetic british": "ˈsuːnə ɔː ˈleɪtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Herët a vonë (idiomë)",
+                "sentence": "Sooner or later, you’ll realize that I was right.",
+                "sentence translation": "Herët a vonë do ta kuptoni se kam të drejtë."
+            }
+        ]
+    },
+    {
+        "word": "sour grapes",
+        "phonetic american": "saʊr ɡreɪps",
+        "phonetic british": "saʊə ɡreɪps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të nënçmuar diçka që nuk mund të arrihet (idiomë)",
+                "sentence": "He said he didn’t want the job anyway, but it’s just sour grapes.",
+                "sentence translation": "Ai tashmë tha se nuk e donte punën, por kjo thjesht nënçmon atë që nuk e mori."
+            }
+        ]
+    },
+    {
+        "word": "spanner in the works",
+        "phonetic american": "ˈspænər ɪn ðə wɜːrks",
+        "phonetic british": "ˈspænə ɪn ðə wɜːks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një situatë ose person që prish planin (idioma)",
+                "sentence": "The unexpected weather threw a spanner in the works for the outdoor event.",
+                "sentence translation": "Moti i papritur prishi planin e aktiviteteve në natyrë."
+            }
+        ]
+    },
+    {
+        "word": "speak of the devil",
+        "phonetic american": "spiːk əv ðə ˈdɛvəl",
+        "phonetic british": "spiːk əv ðə ˈdɛvəl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Përdoret nëse personi për të cilin po flisni shfaqet papritur (idiomë)",
+                "sentence": "Speak of the devil! We were just talking about you.",
+                "sentence translation": "Mire qe fole! Ne po flisnim vetëm për ju."
+            }
+        ]
+    },
+    {
+        "word": "speaks volumes",
+        "phonetic american": "spiːks ˈvɑːljuːmz",
+        "phonetic british": "spiːks ˈvɒljuːmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të tregosh shumë, të shprehësh (idiomë)",
+                "sentence": "Her smile speaks volumes about her happiness.",
+                "sentence translation": "Buzëqeshja e saj tregon shumë për lumturinë e saj."
+            }
+        ]
+    },
+    {
+        "word": "spill the beans",
+        "phonetic american": "spɪl ðə biːnz",
+        "phonetic british": "spɪl ðə biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zbulimi i një sekreti (idiomë)",
+                "sentence": "He spilled the beans about the surprise party.",
+                "sentence translation": "Ai zbuloi sekretin për festën surprizë."
+            }
+        ]
+    },
+    {
+        "word": "standing ground",
+        "phonetic american": "ˈstændɪŋ ɡraʊnd",
+        "phonetic british": "ˈstændɪŋ ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mbroj pozicionin ose mendimin e dikujt (idiom)",
+                "sentence": "She stood her ground despite the intense criticism.",
+                "sentence translation": "Pavarësisht kritikave të forta, ai mbrojti mendimin e tij."
+            }
+        ]
+    },
+    {
+        "word": "standing the test of time",
+        "phonetic american": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "phonetic british": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të ruajtur vlerën ose rëndësinë për një periudhë të gjatë kohore (idiomë)",
+                "sentence": "This classic novel has stood the test of time.",
+                "sentence translation": "Ky roman klasik i ka rezistuar kohës."
+            }
+        ]
+    },
+    {
+        "word": "steal someone's thunder",
+        "phonetic american": "stiːl ˈsʌmwʌnz ˈθʌndər",
+        "phonetic british": "stiːl ˈsʌmwʌnz ˈθʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "vjedhja e suksesit ose e vëmendjes së dikujt (idiomë)",
+                "sentence": "She stole my thunder by announcing her promotion before I could announce mine.",
+                "sentence translation": "Ai tërhoqi vëmendjen duke shpallur promovimin e tij përpara se të shpallte timin."
+            }
+        ]
+    },
+    {
+        "word": "stiff upper lip",
+        "phonetic american": "stɪf ˈʌpər lɪp",
+        "phonetic british": "stɪf ˈʌpə lɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të mos tregosh emocione, të tregosh qëndresë (idiomë)",
+                "sentence": "Even during the crisis, he kept a stiff upper lip.",
+                "sentence translation": "Edhe gjatë krizës ai nuk i shfaqi emocionet e tij."
+            }
+        ]
+    },
+    {
+        "word": "storm in a teacup",
+        "phonetic american": "stɔːrm ɪn ə ˈtiːˌkʌp",
+        "phonetic british": "stɔːm ɪn ə ˈtiːˌkʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për të krijuar një argument të panevojshëm për një çështje të parëndësishme (idiomë)",
+                "sentence": "This argument over seating arrangements is just a storm in a teacup.",
+                "sentence translation": "Ky diskutim rreth rregullimit të ndenjëseve është krejtësisht i panevojshëm."
+            }
+        ]
+    },
+    {
+        "word": "straight from the horse's mouth",
+        "phonetic american": "streɪt frəm ðə hɔːrsɪz maʊθ",
+        "phonetic british": "streɪt frəm ðə hɔːsɪz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Informacioni i marrë drejtpërdrejt nga një burim i besueshëm (idiomë)",
+                "sentence": "I heard the news straight from the horse’s mouth.",
+                "sentence translation": "Lajmin e mora direkt nga një burim i besueshëm."
+            }
+        ]
+    },
+    {
+        "word": "stuck in a time warp",
+        "phonetic american": "stʌk ɪn ə taɪm wɔːrp",
+        "phonetic british": "stʌk ɪn ə taɪm wɔːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "i modës së vjetër, i paaftë për t&#39;u përshtatur me kohën (idiomë)",
+                "sentence": "His style of clothing makes him look like he’s stuck in a time warp.",
+                "sentence translation": "Mënyra se si vishet e bën të duket sikur ka ngecur në modën e vjetër."
+            }
+        ]
+    },
+    {
+        "word": "swallow one's pride",
+        "phonetic american": "ˈswɑːloʊ wʌnz praɪd",
+        "phonetic british": "ˈswɒləʊ wʌnz praɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "lë mënjanë krenarinë tënde (idiomë)",
+                "sentence": "He had to swallow his pride and apologize to her.",
+                "sentence translation": "Ai duhej të gëlltiste krenarinë e tij dhe t&#39;i kërkonte falje asaj."
+            }
+        ]
+    },
+    {
+        "word": "sweet tooth",
+        "phonetic american": "swiːt tuːθ",
+        "phonetic british": "swiːt tuːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "dhëmb i ëmbël (idiomë)",
+                "sentence": "She has a sweet tooth and loves desserts.",
+                "sentence translation": "Ai ka një ëmbëlsirë dhe i do shumë ëmbëlsirat."
+            }
+        ]
+    },
+    {
+        "word": "take each day as it comes",
+        "phonetic american": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "phonetic british": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jetosh nga dita në ditë pa menduar shumë për të ardhmen (idiomë)",
+                "sentence": "Life is unpredictable, so I just take each day as it comes.",
+                "sentence translation": "Jeta është e paparashikueshme, ndaj e jetoj atë ditë pas dite."
+            }
+        ]
+    },
+    {
+        "word": "take with a grain (or pinch) of salt",
+        "phonetic american": "teɪk wɪð ə ɡreɪn əv sɔːlt",
+        "phonetic british": "teɪk wɪð ə pɪnʧ əv sɒlt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të vlerësosh diçka me dyshim (idiomë)",
+                "sentence": "Take what you read on the internet with a grain of salt.",
+                "sentence translation": "Ju duhet ta merrni atë që lexoni në internet me një kokërr kripë."
+            }
+        ]
+    },
+    {
+        "word": "taste of your own medicine",
+        "phonetic american": "teɪst əv jʊr oʊn ˈmɛdəsən",
+        "phonetic british": "teɪst əv jɔːr əʊn ˈmɛdɪsɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Përjetimi i efekteve negative të sjelljes së vet (idioma)",
+                "sentence": "When he got ignored by his team, he had a taste of his own medicine.",
+                "sentence translation": "Kur ai u injorua nga ekipi i tij, ai vuajti ndikimin e veprimeve të tij."
+            }
+        ]
+    },
+    {
+        "word": "teacher's pet",
+        "phonetic american": "ˈtiːtʃərz pɛt",
+        "phonetic british": "ˈtiːtʃəz pɛt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nxënësi i preferuar i mësuesit (idioma)",
+                "sentence": "She always gets extra privileges because she’s the teacher’s pet.",
+                "sentence translation": "Ai gjithmonë merr privilegje shtesë sepse është i përkëdheluri i mësuesit."
+            }
+        ]
+    },
+    {
+        "word": "the big time",
+        "phonetic american": "ðə bɪɡ taɪm",
+        "phonetic british": "ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Arri sukses të madh (idiomë)",
+                "sentence": "He hit the big time with his new book.",
+                "sentence translation": "Ai arriti sukses të madh me librin e tij të ri."
+            }
+        ]
+    },
+    {
+        "word": "the moment of truth",
+        "phonetic american": "ðə ˈmoʊmənt əv truːθ",
+        "phonetic british": "ðə ˈməʊmənt əv truːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Momenti i përballjes me faktet (idioma)",
+                "sentence": "The moment of truth came when the test results were revealed.",
+                "sentence translation": "Kur u shpallën rezultatet e testit, erdhi momenti për t&#39;u përballur me faktet."
+            }
+        ]
+    },
+    {
+        "word": "the ship has sailed",
+        "phonetic american": "ðə ʃɪp hæz seɪld",
+        "phonetic british": "ðə ʃɪp hæz seɪld",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka kaluar një mundësi (idiomë)",
+                "sentence": "I wanted to apply for that job, but the ship has sailed.",
+                "sentence translation": "Doja të aplikoja për atë punë, por rasti kaloi."
+            }
+        ]
+    },
+    {
+        "word": "the time is ripe",
+        "phonetic american": "ðə taɪm ɪz raɪp",
+        "phonetic british": "ðə taɪm ɪz raɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka ardhur koha e duhur për diçka (idiomë)",
+                "sentence": "The time is ripe to start your own business.",
+                "sentence translation": "Ka ardhur koha për të filluar biznesin tuaj."
+            }
+        ]
+    },
+    {
+        "word": "thinking on your feet",
+        "phonetic american": "ˈθɪŋkɪŋ ɑn jʊr fiːt",
+        "phonetic british": "ˈθɪŋkɪŋ ɒn jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të mendosh shpejt dhe në mënyrë efektive (idiomë)",
+                "sentence": "He’s great at thinking on his feet during meetings.",
+                "sentence translation": "Shumë i mirë për të menduar shpejt dhe efektivisht në takime."
+            }
+        ]
+    },
+    {
+        "word": "this day and age",
+        "phonetic american": "ðɪs deɪ ənd eɪdʒ",
+        "phonetic british": "ðɪs deɪ ənd eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Në ditët e sotme, në kohët moderne (idiomë)",
+                "sentence": "In this day and age, technology is essential for communication.",
+                "sentence translation": "Në ditët e sotme, teknologjia është jetike për komunikimin."
+            }
+        ]
+    },
+    {
+        "word": "tickled pink",
+        "phonetic american": "ˈtɪkld pɪŋk",
+        "phonetic british": "ˈtɪkld pɪŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të jesh shumë i lumtur (idiomë)",
+                "sentence": "She was tickled pink when she received the surprise gift.",
+                "sentence translation": "Ai u lumturua shumë kur mori dhuratën surprizë."
+            }
+        ]
+    },
+    {
+        "word": "tie the knot",
+        "phonetic american": "taɪ ðə nɑːt",
+        "phonetic british": "taɪ ðə nɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të martohesh (idiomë)",
+                "sentence": "They’re planning to tie the knot next spring.",
+                "sentence translation": "Ata planifikojnë të martohen pranverën e ardhshme."
+            }
+        ]
+    },
+    {
+        "word": "time after time (time and time again)",
+        "phonetic american": "taɪm ˈæftər taɪm",
+        "phonetic british": "taɪm ənd taɪm əˈɡɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pa pushim (idiom)",
+                "sentence": "Time after time, he proved that he could be trusted.",
+                "sentence translation": "Ai e ka dëshmuar veten të besueshëm herë pas here."
+            }
+        ]
+    },
+    {
+        "word": "time flies",
+        "phonetic american": "taɪm flaɪz",
+        "phonetic british": "taɪm flaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Koha fluturon shpejt (idiomë)",
+                "sentence": "Time flies when you’re having fun.",
+                "sentence translation": "Koha kalon shpejt kur je duke u argëtuar."
+            }
+        ]
+    },
+    {
+        "word": "time for a change",
+        "phonetic american": "taɪm fɔːr ə ʧeɪnʤ",
+        "phonetic british": "taɪm fɔːr ə ʧeɪnʤ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Është një kohë për ndryshim (idiomë)",
+                "sentence": "After years in the same job, it’s time for a change.",
+                "sentence translation": "Pas vitesh në të njëjtën punë, është koha për një ndryshim."
+            }
+        ]
+    },
+    {
+        "word": "time heals all wounds (or time is a great healer)",
+        "phonetic american": "taɪm hiːlz ɔːl wuːndz",
+        "phonetic british": "taɪm hiːlz ɔːl wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Koha shëron gjithçka (idiomë)",
+                "sentence": "Don’t worry; time heals all wounds.",
+                "sentence translation": "Mos u shqetësoni; Koha shëron gjithçka."
+            }
+        ]
+    },
+    {
+        "word": "time is money",
+        "phonetic american": "taɪm ɪz ˈmʌni",
+        "phonetic british": "taɪm ɪz ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Koha është e vlefshme (idiomë)",
+                "sentence": "Let’s not waste time; time is money.",
+                "sentence translation": "Të mos humbim kohë; Koha është e vlefshme."
+            }
+        ]
+    },
+    {
+        "word": "time is of the essence",
+        "phonetic american": "taɪm ɪz əv ði ˈɛsəns",
+        "phonetic british": "taɪm ɪz əv ði ˈɛsns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Koha është shumë e rëndësishme (idiomë)",
+                "sentence": "Time is of the essence, so we need to act quickly.",
+                "sentence translation": "Koha është thelbësore, ndaj duhet të veprojmë shpejt."
+            }
+        ]
+    },
+    {
+        "word": "time of one's life",
+        "phonetic american": "taɪm əv wʌnz laɪf",
+        "phonetic british": "taɪm əv wʌnz laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Koha më e mirë e jetës suaj (idiomë)",
+                "sentence": "We had the time of our lives on our vacation.",
+                "sentence translation": "Kemi kaluar kohën më të mirë të jetës sonë me pushime."
+            }
+        ]
+    },
+    {
+        "word": "time on one's hands (or side)",
+        "phonetic american": "taɪm ɑn wʌnz hændz",
+        "phonetic british": "taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të kesh shumë kohë (idiomë)",
+                "sentence": "Now that he’s retired, he has time on his hands.",
+                "sentence translation": "Tani që ka dalë në pension, ka mjaft kohë."
+            }
+        ]
+    },
+    {
+        "word": "tongue-tied",
+        "phonetic american": "tʌŋ taɪd",
+        "phonetic british": "tʌŋ taɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pamundësia për të folur për shkak të eksitimit ose sikletit (idiomë)",
+                "sentence": "He was tongue-tied during the interview.",
+                "sentence translation": "Ai nuk mundi të fliste gjatë intervistës për shkak të emocioneve."
+            }
+        ]
+    },
+    {
+        "word": "too many chiefs and not enough Indians",
+        "phonetic american": "tuː ˈmɛni tʃiːfs ənd nɑːt ɪˈnʌf ˈɪndiənz",
+        "phonetic british": "tuː ˈmɛni tʃiːfs ənd nɒt ɪˈnʌf ˈɪndiənz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Shumë drejtues, por jo mjaftueshëm punonjës (idiomë)",
+                "sentence": "The project failed because there were too many chiefs and not enough Indians.",
+                "sentence translation": "Projekti dështoi sepse kishte shumë drejtues, por jo mjaftueshëm punonjës."
+            }
+        ]
+    },
+    {
+        "word": "too much (free) time on one's hands",
+        "phonetic american": "tuː mʌtʃ taɪm ɑn wʌnz hændz",
+        "phonetic british": "tuː mʌtʃ taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të kesh shumë kohë të lirë dhe ta humbasësh atë (idiomë)",
+                "sentence": "He started spreading rumors because he has too much time on his hands.",
+                "sentence translation": "Duke qenë se kishte shumë kohë të lirë, filloi të përhapte thashetheme."
+            }
+        ]
+    },
+    {
+        "word": "top banana",
+        "phonetic american": "tɑːp bəˈnænə",
+        "phonetic british": "tɒp bəˈnænə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "udhëheqës i një grupi ose organizate (idioma)",
+                "sentence": "He’s the top banana in the company.",
+                "sentence translation": "Ai është drejtuesi i kompanisë."
+            }
+        ]
+    },
+    {
+        "word": "top dog",
+        "phonetic american": "tɑːp dɔːɡ",
+        "phonetic british": "tɒp dɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Personi më i fuqishëm ose më i suksesshëm (idioma)",
+                "sentence": "After winning the competition, he became the top dog in his field.",
+                "sentence translation": "Pasi fitoi konkursin, ai u bë personi më i fortë në fushën e tij."
+            }
+        ]
+    },
+    {
+        "word": "tough cookie",
+        "phonetic american": "tʌf ˈkʊki",
+        "phonetic british": "tʌf ˈkʊki",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Personi i fortë që mund të përballojë situata të vështira (idiomë)",
+                "sentence": "She’s a tough cookie; she never gives up.",
+                "sentence translation": "Ai është një person i fortë që mund të përballojë situata të vështira; Ai nuk dorëzohet kurrë."
+            }
+        ]
+    },
+    {
+        "word": "tricks of the trade",
+        "phonetic american": "trɪks əv ðə treɪd",
+        "phonetic british": "trɪks əv ðə treɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Njohuri të veçanta ose metoda të përdorura në një punë (idioma)",
+                "sentence": "He learned the tricks of the trade from his mentor.",
+                "sentence translation": "Ai mësoi ndërlikimet e profesionit nga mentori i tij."
+            }
+        ]
+    },
+    {
+        "word": "true colours",
+        "phonetic american": "truː ˈkʌlərz",
+        "phonetic british": "truː ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tregimi i karakterit ose qëllimeve të vërteta të dikujt (idiomë)",
+                "sentence": "She showed her true colours when she refused to help.",
+                "sentence translation": "Ai tregoi ngjyrat e tij të vërteta kur refuzoi të ndihmonte."
+            }
+        ]
+    },
+    {
+        "word": "turn back the hands of time",
+        "phonetic american": "tɜːrn bæk ðə hændz əv taɪm",
+        "phonetic british": "tɜːn bæk ðə hændz əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Për t&#39;u kthyer në të kaluarën ose për të kthyer kohën pas (idiomë)",
+                "sentence": "If I could turn back the hands of time, I’d make a different decision.",
+                "sentence translation": "Nëse do të mund ta ktheja kohën pas, do të kisha marrë një vendim tjetër."
+            }
+        ]
+    },
+    {
+        "word": "university of life",
+        "phonetic american": "ˌjuːnɪˈvɜːrsɪti əv laɪf",
+        "phonetic british": "ˌjuːnɪˈvɜːsɪti əv laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mësimet e nxjerra nga jeta (idioma)",
+                "sentence": "He never went to college but learned everything from the university of life.",
+                "sentence translation": "Ai nuk shkoi në universitet, por mësoi gjithçka nga jeta."
+            }
+        ]
+    },
+    {
+        "word": "until hell freezes over",
+        "phonetic american": "ʌnˈtɪl hɛl ˈfriːzɪz ˈoʊvər",
+        "phonetic british": "ʌnˈtɪl hɛl ˈfriːzɪz ˈəʊvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Diçka që nuk do të ndodhë kurrë (idiomë)",
+                "sentence": "You can wait until hell freezes over, but I won’t change my mind.",
+                "sentence translation": "Mund të presësh përgjithmonë, por unë nuk do të ndryshoj mendje."
+            }
+        ]
+    },
+    {
+        "word": "up in smoke",
+        "phonetic american": "ʌp ɪn smoʊk",
+        "phonetic british": "ʌp ɪn sməʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "diçka që shkon dëm ose dështon (idiomë)",
+                "sentence": "All our hard work went up in smoke when the project was canceled.",
+                "sentence translation": "E gjithë puna jonë e palodhur shkoi në fund kur projekti u anulua."
+            }
+        ]
+    },
+    {
+        "word": "waiting in the wings",
+        "phonetic american": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "phonetic british": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "duke pritur për një mundësi, duke u përgatitur (idiomë)",
+                "sentence": "She’s waiting in the wings for a chance to prove herself.",
+                "sentence translation": "Ai pret një mundësi për të provuar veten."
+            }
+        ]
+    },
+    {
+        "word": "walk out on someone",
+        "phonetic american": "wɔːk aʊt ɑn ˈsʌmwʌn",
+        "phonetic british": "wɔːk aʊt ɒn ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të braktisësh ose të zhgënjesh dikë (idiomë)",
+                "sentence": "He walked out on his family when things got tough.",
+                "sentence translation": "Kur gjërat u vështirësuan, ai braktisi familjen e tij."
+            }
+        ]
+    },
+    {
+        "word": "wasting time",
+        "phonetic american": "ˈweɪstɪŋ taɪm",
+        "phonetic british": "ˈweɪstɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "humbje kohe (idiomë)",
+                "sentence": "We’re wasting time discussing irrelevant issues.",
+                "sentence translation": "Ne humbim kohë duke diskutuar tema të parëndësishme."
+            }
+        ]
+    },
+    {
+        "word": "well-oiled machine",
+        "phonetic american": "wɛl-ɔɪld məˈʃiːn",
+        "phonetic british": "wɛl-ɔɪld məˈʃiːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Sistemi ose grupi që funksionon pa probleme (idiomë)",
+                "sentence": "The team works like a well-oiled machine.",
+                "sentence translation": "Ekipi funksionon si një sistem që funksionon pa probleme."
+            }
+        ]
+    },
+    {
+        "word": "whale of a time",
+        "phonetic american": "weɪl əv ə taɪm",
+        "phonetic british": "weɪl əv ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kalofshi bukur (idiomë)",
+                "sentence": "We had a whale of a time at the amusement park.",
+                "sentence translation": "Kaluam bukur në parkun argëtues."
+            }
+        ]
+    },
+    {
+        "word": "white as a sheet (or ghost)",
+        "phonetic american": "waɪt æz ə ʃiːt",
+        "phonetic british": "waɪt æz ə ʃiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Të jesh shumë i zbehtë nga frika ose sëmundja (idiomë)",
+                "sentence": "He turned white as a sheet when he heard the news.",
+                "sentence translation": "Ai u zbeh kur dëgjoi lajmin."
+            }
+        ]
+    },
+    {
+        "word": "white collar",
+        "phonetic american": "waɪt ˈkɑːlər",
+        "phonetic british": "waɪt ˈkɒlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "punonjës zyre, person që bën punë mendore (idioma)",
+                "sentence": "White-collar jobs are becoming more common in urban areas.",
+                "sentence translation": "Punët me jakë të bardhë po bëhen më të zakonshme në zonat urbane."
+            }
+        ]
+    },
+    {
+        "word": "white elephant",
+        "phonetic american": "waɪt ˈɛləfənt",
+        "phonetic british": "waɪt ˈɛləfənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Diçka që kushton shumë, por është e padobishme (idiomë)",
+                "sentence": "The stadium turned out to be a white elephant for the city.",
+                "sentence translation": "Stadiumi doli të ishte një investim i shtrenjtë, por i kotë për qytetin."
+            }
+        ]
+    },
+    {
+        "word": "white lie",
+        "phonetic american": "waɪt laɪ",
+        "phonetic british": "waɪt laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Një gënjeshtër e padëmshme ose me qëllim të mirë (idiomë)",
+                "sentence": "She told a white lie to avoid hurting his feelings.",
+                "sentence translation": "Ai tha një gënjeshtër të vogël për të mos lënduar ndjenjat e saj."
+            }
+        ]
+    },
+    {
+        "word": "whitewash",
+        "phonetic american": "ˈwaɪtˌwɑːʃ",
+        "phonetic british": "ˈwaɪtˌwɒʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "për të mbuluar një gabim ose të metë (idiomë)",
+                "sentence": "The company tried to whitewash the scandal.",
+                "sentence translation": "Kompania u përpoq të mbulonte skandalin."
+            }
+        ]
+    },
+    {
+        "word": "whole nine yards",
+        "phonetic american": "hoʊl naɪn jɑːrdz",
+        "phonetic british": "həʊl naɪn jɑːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "të gjitha, gjithçka (idiomë)",
+                "sentence": "When they throw a party, they go the whole nine yards with decorations and food.",
+                "sentence translation": "Kur bëjnë një festë, ata shkojnë të gjithë me dekorime dhe ushqime."
+            }
+        ]
+    },
+    {
+        "word": "with bells on",
+        "phonetic american": "wɪð bɛlz ɑn",
+        "phonetic british": "wɪð bɛlz ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Me eksitim dhe entuziazëm të madh (idiomë)",
+                "sentence": "I’ll be at your party with bells on!",
+                "sentence translation": "Unë do të vij në festën tuaj me shumë emocion!"
+            }
+        ]
+    },
+    {
+        "word": "wooden spoon",
+        "phonetic american": "ˈwʊdən spuːn",
+        "phonetic british": "ˈwʊdən spuːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çmimi ose titulli që i jepet personit që vjen i fundit (idiomë)",
+                "sentence": "They were awarded the wooden spoon for finishing last in the league.",
+                "sentence translation": "Ata morën çmimin e lugës së drurit për të qenë të fundit në ligë."
+            }
+        ]
+    },
+    {
+        "word": "works like a charm",
+        "phonetic american": "wɜːrks laɪk ə ʧɑːrm",
+        "phonetic british": "wɜːks laɪk ə ʧɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "punon perfekt (idiom)",
+                "sentence": "This new cleaning product works like a charm.",
+                "sentence translation": "Ky produkt i ri pastrimi funksionon në mënyrë perfekte."
+            }
+        ]
+    },
+    {
+        "word": "wouldn't be caught dead",
+        "phonetic american": "ˈwʊdənt bi kɔːt dɛd",
+        "phonetic british": "ˈwʊdnt biː kɔːt dɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Unë kurrë nuk do të bëja ose do të isha në një situatë (idiomë)",
+                "sentence": "I wouldn’t be caught dead wearing that outfit.",
+                "sentence translation": "Nuk do ta vishja kurrë atë veshje."
+            }
+        ]
+    },
+    {
+        "word": "year in, year out",
+        "phonetic american": "jɪr ɪn, jɪr aʊt",
+        "phonetic british": "jɪə ɪn, jɪə aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Në mënyrë të përsëritur, vit pas viti, për vite me radhë (idiomë)",
+                "sentence": "They visit the same beach year in, year out.",
+                "sentence translation": "Ata vizitojnë të njëjtin plazh çdo vit."
+            }
+        ]
+    },
+    {
+        "word": "yellow-bellied",
+        "phonetic american": "ˈjɛloʊ ˈbɛlid",
+        "phonetic british": "ˈjɛləʊ ˈbɛlid",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "frikacak, guximtar (idiomë)",
+                "sentence": "He’s too yellow-bellied to confront his boss.",
+                "sentence translation": "Ai është shumë frikacak për t&#39;u përballur me shefin e tij."
+            }
+        ]
+    },
+    {
+        "word": "you can't teach an old dog new tricks",
+        "phonetic american": "juː kænt tiːʧ ən oʊld dɔːɡ nuː trɪks",
+        "phonetic british": "juː kɑːnt tiːʧ ən əʊld dɒɡ njuː trɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Është e vështirë të ndryshosh dikë me zakone të vjetra (idiomë)",
+                "sentence": "He refuses to learn how to use a smartphone; you can’t teach an old dog new tricks.",
+                "sentence translation": "Ai refuzon të mësojë se si të përdorë një smartphone; Është e vështirë të ndryshosh zakonet e vjetra."
+            }
+        ]
+    },
+    {
+        "word": "your guess is as good as mine",
+        "phonetic american": "jʊr gɛs ɪz æz ɡʊd æz maɪn",
+        "phonetic british": "jɔːr gɛs ɪz æz ɡʊd æz maɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "As unë nuk e di, të dy supozimet tona mund të jenë po aq të sakta (idioma)",
+                "sentence": "Why the train is late? Your guess is as good as mine.",
+                "sentence translation": "Pse u vonua treni? As unë nuk e di."
+            }
+        ]
+    }
+]

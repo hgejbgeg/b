@@ -1,0 +1,4864 @@
+[
+    {
+        "word": "acid test",
+        "phonetic american": "ˈæsɪd tɛst",
+        "phonetic british": "ˈæsɪd tɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "真正的考试，严峻的考验（成语）",
+                "sentence": "The acid test of a good chef is how they handle a busy dinner service.",
+                "sentence translation": "对一名优秀厨师的真正考验是他如何管理繁忙的晚餐服务。"
+            }
+        ]
+    },
+    {
+        "word": "actions speak louder than words",
+        "phonetic american": "ˈækʃənz spiːk ˈlaʊdər ðæn wɜrdz",
+        "phonetic british": "ˈækʃənz spiːk ˈlaʊdə ðən wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "行动比言语更重要（成语）",
+                "sentence": "She proved her loyalty because actions speak louder than words.",
+                "sentence translation": "他已经证明了自己的忠诚，因为行动比言语更重要。"
+            }
+        ]
+    },
+    {
+        "word": "add insult to injury",
+        "phonetic american": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "phonetic british": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "往伤口上撒盐，让伤口变得更糟（成语）",
+                "sentence": "He was late to the meeting, and to add insult to injury, he forgot the presentation.",
+                "sentence translation": "他开会迟到了，而且还忘记了演讲，这简直就是在伤口上撒盐。"
+            }
+        ]
+    },
+    {
+        "word": "after the watershed",
+        "phonetic american": "ˈæftər ðə ˈwɑːtərʃɛd",
+        "phonetic british": "ˈɑːftə ðə ˈwɔːtəʃɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "夜间广播区（成语）",
+                "sentence": "The movie can only be shown after the watershed due to its content.",
+                "sentence translation": "由于内容原因，该片只能在夜播区上映。"
+            }
+        ]
+    },
+    {
+        "word": "against the clock",
+        "phonetic american": "əˈgɛnst ðə klɑːk",
+        "phonetic british": "əˈgɛnst ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "与时间赛跑（成语）",
+                "sentence": "We were working against the clock to finish the project.",
+                "sentence translation": "我们争分夺秒地完成这个项目。"
+            }
+        ]
+    },
+    {
+        "word": "ahead of time",
+        "phonetic american": "əˈhɛd əv taɪm",
+        "phonetic british": "əˈhɛd əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "提前（成语）",
+                "sentence": "We finished the preparations ahead of time.",
+                "sentence translation": "我们提前完成了准备工作。"
+            }
+        ]
+    },
+    {
+        "word": "all ears",
+        "phonetic american": "ɔːl ɪrz",
+        "phonetic british": "ɔːl ɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "专心聆听（成语）",
+                "sentence": "Tell me your idea; I'm all ears.",
+                "sentence translation": "说出你的想法；我正在认真听你说话。"
+            }
+        ]
+    },
+    {
+        "word": "an arm and a leg",
+        "phonetic american": "æn ɑːrm ənd ə lɛg",
+        "phonetic british": "æn ɑːm ənd ə lɛg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "太贵了（成语）",
+                "sentence": "The repairs cost an arm and a leg.",
+                "sentence translation": "维修费用非常昂贵。"
+            }
+        ]
+    },
+    {
+        "word": "around the clock",
+        "phonetic american": "əˈraʊnd ðə klɑːk",
+        "phonetic british": "əˈraʊnd ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "白天和黑夜（成语）",
+                "sentence": "The hospital staff works around the clock.",
+                "sentence translation": "医院工作人员日夜工作。"
+            }
+        ]
+    },
+    {
+        "word": "around the corner",
+        "phonetic american": "əˈraʊnd ðə ˈkɔrnər",
+        "phonetic british": "əˈraʊnd ðə ˈkɔːnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常接近，迫在眉睫（成语）",
+                "sentence": "The holidays are just around the corner.",
+                "sentence translation": "假期即将来临。"
+            }
+        ]
+    },
+    {
+        "word": "as time goes by",
+        "phonetic american": "æz taɪm ɡoʊz baɪ",
+        "phonetic british": "æz taɪm ɡəʊz baɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "随着时间的推移（成语）",
+                "sentence": "As time goes by, old memories fade away.",
+                "sentence translation": "随着时间的流逝，旧的记忆逐渐消失。"
+            }
+        ]
+    },
+    {
+        "word": "at the drop of a hat",
+        "phonetic american": "æt ðə drɑːp əv ə hæt",
+        "phonetic british": "æt ðə drɒp əv ə hæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "立即，不假思索（成语）",
+                "sentence": "He is always ready to help at the drop of a hat.",
+                "sentence translation": "他不假思索就准备立即提供帮助。"
+            }
+        ]
+    },
+    {
+        "word": "back to basics",
+        "phonetic american": "bæk tə ˈbeɪsɪks",
+        "phonetic british": "bæk tə ˈbeɪsɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "回到基础（成语）",
+                "sentence": "The teacher decided to go back to basics for better understanding.",
+                "sentence translation": "老师决定回到基础知识以更好地理解。"
+            }
+        ]
+    },
+    {
+        "word": "back to the drawing board",
+        "phonetic american": "bæk tə ðə ˈdrɔːɪŋ bɔːrd",
+        "phonetic british": "bæk tə ðə ˈdrɔːɪŋ bɔːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "从头开始（成语）",
+                "sentence": "After the plan failed, they had to go back to the drawing board.",
+                "sentence translation": "计划失败后，他们只得从头开始。"
+            }
+        ]
+    },
+    {
+        "word": "bad apple",
+        "phonetic american": "bæd ˈæpl",
+        "phonetic british": "bæd ˈæpl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "坏苹果，坏人（成语）",
+                "sentence": "One bad apple can ruin the entire team.",
+                "sentence translation": "一个害群之马可能毁掉整个团队。"
+            }
+        ]
+    },
+    {
+        "word": "ball is in your court",
+        "phonetic american": "bɔːl ɪz ɪn jʊr kɔːrt",
+        "phonetic british": "bɔːl ɪz ɪn jɔː kɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "球在你的场上，轮到你了（成语）",
+                "sentence": "I've explained my position; now the ball is in your court.",
+                "sentence translation": "我解释了我的情况；现在球在你的场上。"
+            }
+        ]
+    },
+    {
+        "word": "barking up the wrong tree",
+        "phonetic american": "ˈbɑːrkɪŋ ʌp ðə rɔːŋ triː",
+        "phonetic british": "ˈbɑːkɪŋ ʌp ðə rɒŋ triː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "敲错门、走错地方（成语）",
+                "sentence": "You're barking up the wrong tree if you think I can help with that.",
+                "sentence translation": "如果您认为我可以帮助您，那么您就敲错门了。"
+            }
+        ]
+    },
+    {
+        "word": "be glad to see the back of",
+        "phonetic american": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "phonetic british": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "因摆脱某人或某事而感到高兴（成语）",
+                "sentence": "I'll be glad to see the back of this project.",
+                "sentence translation": "我会很高兴摆脱这个项目。"
+            }
+        ]
+    },
+    {
+        "word": "beat around the bush",
+        "phonetic american": "biːt əˈraʊnd ðə bʊʃ",
+        "phonetic british": "biːt əˈraʊnd ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "拐弯抹角，不直接说什么（成语）",
+                "sentence": "Stop beating around the bush and tell me the truth.",
+                "sentence translation": "别再拐弯抹角了，告诉我真相吧。"
+            }
+        ]
+    },
+    {
+        "word": "beat the clock",
+        "phonetic american": "biːt ðə klɑːk",
+        "phonetic british": "biːt ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "按时完成，战胜时间（成语）",
+                "sentence": "They managed to beat the clock and submit the report on time.",
+                "sentence translation": "他们与时间赛跑，最终按时提交了报告。"
+            }
+        ]
+    },
+    {
+        "word": "bee in one's bonnet",
+        "phonetic american": "biː ɪn wʌnz ˈbɑːnɪt",
+        "phonetic british": "biː ɪn wʌnz ˈbɒnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "着迷，对某事着迷（成语）",
+                "sentence": "She has a bee in her bonnet about recycling.",
+                "sentence translation": "他热衷于回收利用。"
+            }
+        ]
+    },
+    {
+        "word": "behind the times",
+        "phonetic american": "bɪˈhaɪnd ðə taɪmz",
+        "phonetic british": "bɪˈhaɪnd ðə taɪmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "过时的，过时的（成语）",
+                "sentence": "He is a bit behind the times when it comes to technology.",
+                "sentence translation": "在技术方面他有点老派。"
+            }
+        ]
+    },
+    {
+        "word": "bells and whistles",
+        "phonetic american": "bɛlz ənd ˈwɪsəlz",
+        "phonetic british": "bɛlz ənd ˈwɪslz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不必要的装饰、额外的功能（成语）",
+                "sentence": "This phone has all the bells and whistles you could ask for.",
+                "sentence translation": "这款手机拥有您想要的所有额外功能。"
+            }
+        ]
+    },
+    {
+        "word": "best of both worlds",
+        "phonetic american": "bɛst əv boʊθ wɜːrldz",
+        "phonetic british": "bɛst əv bəʊθ wɜːldz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "将两件事最好的方面结合在一起（成语）",
+                "sentence": "Living in the countryside but working in the city gives her the best of both worlds.",
+                "sentence translation": "生活在乡村和在城市工作让他两全其美。"
+            }
+        ]
+    },
+    {
+        "word": "best thing since sliced bread",
+        "phonetic american": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "phonetic british": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "伟大的创新，美妙的事情（成语）",
+                "sentence": "This new software is the best thing since sliced bread.",
+                "sentence translation": "这个新软件是自切片面包以来最好的东西。"
+            }
+        ]
+    },
+    {
+        "word": "better late than never",
+        "phonetic american": "ˈbɛtər leɪt ðæn ˈnɛvər",
+        "phonetic british": "ˈbɛtə leɪt ðæn ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "可能会迟到，可能不会迟到（成语）",
+                "sentence": "He finally apologized, better late than never.",
+                "sentence translation": "他终于道歉了，宜早不宜迟。"
+            }
+        ]
+    },
+    {
+        "word": "bide one's time",
+        "phonetic american": "baɪd wʌnz taɪm",
+        "phonetic british": "baɪd wʌnz taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "等待合适的时机（成语）",
+                "sentence": "He is biding his time before making his next move.",
+                "sentence translation": "他正在等待合适的时机再采取下一步行动。"
+            }
+        ]
+    },
+    {
+        "word": "big cheese",
+        "phonetic american": "bɪɡ tʃiːz",
+        "phonetic british": "bɪɡ tʃiːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "重要人物、老板（成语）",
+                "sentence": "He is the big cheese in the company.",
+                "sentence translation": "他是公司的重要人物。"
+            }
+        ]
+    },
+    {
+        "word": "bird in the hand is worth two in the bush",
+        "phonetic american": "bɜrd ɪn ðə hænd ɪz wɜːrθ tuː ɪn ðə bʊʃ",
+        "phonetic british": "bɜːd ɪn ðə hænd ɪz wɜːθ tuː ɪn ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一鸟在手，胜过二鸟在林（成语）",
+                "sentence": "You should keep this offer; a bird in the hand is worth two in the bush.",
+                "sentence translation": "您应该考虑此优惠；一鸟在手，胜过二鸟在林。"
+            }
+        ]
+    },
+    {
+        "word": "bite off more than you can chew",
+        "phonetic american": "baɪt ɔf mɔːr ðæn ju kən tʃuː",
+        "phonetic british": "baɪt ɒf mɔː ðæn ju kən tʃuː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "试图做对你来说太大的事情（成语）",
+                "sentence": "He bit off more than he could chew by taking on two jobs at once.",
+                "sentence translation": "他同时身兼两份工作，承担着超出自己能力范围的任务。"
+            }
+        ]
+    },
+    {
+        "word": "black and blue",
+        "phonetic american": "blæk ənd bluː",
+        "phonetic british": "blæk ənd bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "遍体鳞伤，遍体鳞伤（成语）",
+                "sentence": "After falling down the stairs, his legs were black and blue.",
+                "sentence translation": "从楼梯上摔下来后，他的腿变成了紫色。"
+            }
+        ]
+    },
+    {
+        "word": "black and white",
+        "phonetic american": "blæk ənd waɪt",
+        "phonetic british": "blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "清晰、准确（成语）",
+                "sentence": "The rules are written in black and white.",
+                "sentence translation": "规则清晰简洁。"
+            }
+        ]
+    },
+    {
+        "word": "black as night",
+        "phonetic american": "blæk æz naɪt",
+        "phonetic british": "blæk æz naɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "漆黑，漆黑（成语）",
+                "sentence": "The cave was black as night.",
+                "sentence translation": "山洞里漆黑一片。"
+            }
+        ]
+    },
+    {
+        "word": "black eye",
+        "phonetic american": "blæk aɪ",
+        "phonetic british": "blæk aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "黑眼圈，处境不好（成语）",
+                "sentence": "The scandal gave the company a black eye.",
+                "sentence translation": "这起丑闻给公司造成了糟糕的局面。"
+            }
+        ]
+    },
+    {
+        "word": "black market",
+        "phonetic american": "blæk ˈmɑːrkɪt",
+        "phonetic british": "blæk ˈmɑːkɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "黑市（成语）",
+                "sentence": "The goods were being sold on the black market.",
+                "sentence translation": "这些货物在黑市上出售。"
+            }
+        ]
+    },
+    {
+        "word": "black out",
+        "phonetic american": "blæk aʊt",
+        "phonetic british": "blæk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "昏厥、昏暗（成语）",
+                "sentence": "He blacked out during the marathon due to heat exhaustion.",
+                "sentence translation": "他在马拉松比赛中因热晕倒了。"
+            }
+        ]
+    },
+    {
+        "word": "black sheep",
+        "phonetic american": "blæk ʃiːp",
+        "phonetic british": "blæk ʃiːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "家庭中的弃儿，害群之马（成语）",
+                "sentence": "He has always been the black sheep of the family.",
+                "sentence translation": "他一直是家里的害群之马。"
+            }
+        ]
+    },
+    {
+        "word": "blackball",
+        "phonetic american": "ˈblækbɔːl",
+        "phonetic british": "ˈblækbɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "否决，拒绝（成语）",
+                "sentence": "He was blackballed from the club for breaking its rules.",
+                "sentence translation": "他因违反俱乐部规则而被俱乐部否决。"
+            }
+        ]
+    },
+    {
+        "word": "blacklist",
+        "phonetic american": "ˈblæklɪst",
+        "phonetic british": "ˈblæklɪst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "黑名单（成语）",
+                "sentence": "The company blacklisted him for sharing confidential information.",
+                "sentence translation": "该公司因他分享机密信息而将他列入黑名单。"
+            }
+        ]
+    },
+    {
+        "word": "blackmail",
+        "phonetic american": "ˈblækmeɪl",
+        "phonetic british": "ˈblækmeɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "讹诈（成语）",
+                "sentence": "He tried to blackmail her with a private photo.",
+                "sentence translation": "他试图用私人照片勒索她。"
+            }
+        ]
+    },
+    {
+        "word": "blessing in disguise",
+        "phonetic american": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "phonetic british": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "尽管一开始看起来很糟糕，但这是一个好情况（成语）。",
+                "sentence": "Losing that job turned out to be a blessing in disguise.",
+                "sentence translation": "事实证明，失去那份工作是一件好事。"
+            }
+        ]
+    },
+    {
+        "word": "blind date",
+        "phonetic american": "blaɪnd deɪt",
+        "phonetic british": "blaɪnd deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "与素未谋面的人见面（成语）",
+                "sentence": "She was nervous about her blind date.",
+                "sentence translation": "会议前他对会议感到紧张。"
+            }
+        ]
+    },
+    {
+        "word": "blood red",
+        "phonetic american": "blʌd rɛd",
+        "phonetic british": "blʌd rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "血红色（成语）",
+                "sentence": "The sunset was a beautiful blood red.",
+                "sentence translation": "夕阳呈现出美丽的血红色。"
+            }
+        ]
+    },
+    {
+        "word": "blood, sweat & tears",
+        "phonetic american": "blʌd swɛt ənd tɪrz",
+        "phonetic british": "blʌd swɛt ənd tɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "大量的努力和奉献（成语）",
+                "sentence": "The project was completed with blood, sweat, and tears.",
+                "sentence translation": "该项目是经过巨大的努力和奉献而完成的。"
+            }
+        ]
+    },
+    {
+        "word": "blow a fuse",
+        "phonetic american": "bloʊ ə fjuz",
+        "phonetic british": "bləʊ ə fjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "生气，生气（成语）",
+                "sentence": "He blew a fuse when he found out about the mistake.",
+                "sentence translation": "当他得知这个错误后，他非常愤怒。"
+            }
+        ]
+    },
+    {
+        "word": "blow up in the face",
+        "phonetic american": "bloʊ ʌp ɪn ðə feɪs",
+        "phonetic british": "bləʊ ʌp ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "适得其反、出错（成语）",
+                "sentence": "The plan blew up in his face when the details leaked.",
+                "sentence translation": "当细节泄露后，该计划适得其反。"
+            }
+        ]
+    },
+    {
+        "word": "blue blood",
+        "phonetic american": "bluː blʌd",
+        "phonetic british": "bluː blʌd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "贵族血统（成语）",
+                "sentence": "He claimed to have blue blood running in his veins.",
+                "sentence translation": "他声称他的血管里流淌着高贵的血液。"
+            }
+        ]
+    },
+    {
+        "word": "blue collar",
+        "phonetic american": "bluː ˈkɑːlər",
+        "phonetic british": "bluː ˈkɒlər",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "体力劳动阶级（成语）",
+                "sentence": "He comes from a blue-collar family.",
+                "sentence translation": "他来自一个体力劳动阶级家庭。"
+            }
+        ]
+    },
+    {
+        "word": "blue in the face",
+        "phonetic american": "bluː ɪn ðə feɪs",
+        "phonetic british": "bluː ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "徒劳无功，没有结果（成语）",
+                "sentence": "You can argue until you're blue in the face, but he won't change his mind.",
+                "sentence translation": "你们可以继续争论没有结果，但他不会改变主意。"
+            }
+        ]
+    },
+    {
+        "word": "blue ribbon",
+        "phonetic american": "bluː ˈrɪbən",
+        "phonetic british": "bluː ˈrɪbən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一等奖，最佳（成语）",
+                "sentence": "She won the blue ribbon for her painting.",
+                "sentence translation": "他以画作获得一等奖。"
+            }
+        ]
+    },
+    {
+        "word": "bolt from the blue",
+        "phonetic american": "boʊlt frəm ðə bluː",
+        "phonetic british": "bəʊlt frəm ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "意外事件，意外（成语）",
+                "sentence": "The announcement was like a bolt from the blue.",
+                "sentence translation": "这一启示是出乎意料的。"
+            }
+        ]
+    },
+    {
+        "word": "bookworm",
+        "phonetic american": "ˈbʊkwɜːrm",
+        "phonetic british": "ˈbʊkwɜːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "书呆子，爱书人（成语）",
+                "sentence": "She's such a bookworm; she finishes a novel every week.",
+                "sentence translation": "他真是个书呆子；他每周完成一本小说。"
+            }
+        ]
+    },
+    {
+        "word": "born with a silver spoon in one's mouth",
+        "phonetic american": "bɔrn wɪð ə ˈsɪlvər spuːn ɪn wʌnz maʊθ",
+        "phonetic british": "bɔːn wɪð ə ˈsɪlvə spuːn ɪn wʌnz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "出生在一个富裕而特权的家庭（成语）",
+                "sentence": "He doesn't understand the struggles of others because he was born with a silver spoon in his mouth.",
+                "sentence translation": "出生在富裕家庭的他，并不理解别人的辛苦。"
+            }
+        ]
+    },
+    {
+        "word": "bottom falls out",
+        "phonetic american": "ˈbɑːtəm fɔːlz aʊt",
+        "phonetic british": "ˈbɒtəm fɔːlz aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "经历崩溃，市场崩溃（成语）",
+                "sentence": "The bottom fell out of the market after the financial crisis.",
+                "sentence translation": "金融危机后，市场崩溃。"
+            }
+        ]
+    },
+    {
+        "word": "brainstorm",
+        "phonetic american": "ˈbreɪnˌstɔːrm",
+        "phonetic british": "ˈbreɪnˌstɔːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "产生想法，集思广益（成语）",
+                "sentence": "The team brainstormed ideas for the new project.",
+                "sentence translation": "团队为新项目产生了想法。"
+            }
+        ]
+    },
+    {
+        "word": "bread-winner",
+        "phonetic american": "ˈbrɛdˌwɪnər",
+        "phonetic british": "ˈbrɛdˌwɪnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "养家糊口的人（成语）",
+                "sentence": "He is the bread-winner of his family.",
+                "sentence translation": "他是家里的经济支柱。"
+            }
+        ]
+    },
+    {
+        "word": "bring home the bacon",
+        "phonetic american": "brɪŋ hoʊm ðə ˈbeɪkən",
+        "phonetic british": "brɪŋ həʊm ðə ˈbeɪkən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "把面包带回家，赚钱（成语）",
+                "sentence": "He works hard to bring home the bacon.",
+                "sentence translation": "他努力工作，为家里送面包。"
+            }
+        ]
+    },
+    {
+        "word": "broken watch is right twice a day",
+        "phonetic american": "ˈbroʊkən wɑːtʃ ɪz raɪt twaɪs ə deɪ",
+        "phonetic british": "ˈbrəʊkən wɒtʃ ɪz raɪt twaɪs ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "即使是坏事有时也可能是对的（成语）",
+                "sentence": "Even a broken watch is right twice a day.",
+                "sentence translation": "即使时钟很差，一天也可能有两次准时。"
+            }
+        ]
+    },
+    {
+        "word": "buckle down",
+        "phonetic american": "ˈbʌkəl daʊn",
+        "phonetic british": "ˈbʌkəl daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "开始努力工作，认真专注工作（成语）",
+                "sentence": "You need to buckle down and study for the exam.",
+                "sentence translation": "你必须努力学习并准备考试。"
+            }
+        ]
+    },
+    {
+        "word": "bun in the oven",
+        "phonetic american": "bʌn ɪn ðə ˈʌvən",
+        "phonetic british": "bʌn ɪn ðə ˈʌvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "怀孕（成语）",
+                "sentence": "She just announced that she has a bun in the oven.",
+                "sentence translation": "她刚刚宣布自己怀孕了。"
+            }
+        ]
+    },
+    {
+        "word": "butter up",
+        "phonetic american": "ˈbʌtər ʌp",
+        "phonetic british": "ˈbʌtə ʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "用赞美来欺骗某人，奉承某人（成语）",
+                "sentence": "He tried to butter up his boss for a promotion.",
+                "sentence translation": "他试图通过奉承老板来获得升职。"
+            }
+        ]
+    },
+    {
+        "word": "by degrees",
+        "phonetic american": "baɪ dɪˈɡriːz",
+        "phonetic british": "baɪ dɪˈɡriːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "渐渐地，渐渐地（成语）",
+                "sentence": "She improved her skills by degrees.",
+                "sentence translation": "他逐渐提高了自己的技能。"
+            }
+        ]
+    },
+    {
+        "word": "by the skin of your teeth",
+        "phonetic american": "baɪ ðə skɪn əv jɔːr tiːθ",
+        "phonetic british": "baɪ ðə skɪn əv jɔː tiːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "九死一生（成语）",
+                "sentence": "He escaped the accident by the skin of his teeth.",
+                "sentence translation": "他侥幸逃脱了这次事故。"
+            }
+        ]
+    },
+    {
+        "word": "call it a day",
+        "phonetic american": "kɔːl ɪt ə deɪ",
+        "phonetic british": "kɔːl ɪt ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "终止工作，停止工作（成语）",
+                "sentence": "After finishing the report, they decided to call it a day.",
+                "sentence translation": "完成报告后，他们决定停止工作。"
+            }
+        ]
+    },
+    {
+        "word": "calling time",
+        "phonetic american": "ˈkɔːlɪŋ taɪm",
+        "phonetic british": "ˈkɔːlɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "完成某事、完成（成语）",
+                "sentence": "The coach is calling time on his career after 20 years.",
+                "sentence translation": "科奇结束了 20 年后的职业生涯。"
+            }
+        ]
+    },
+    {
+        "word": "carry the torch for",
+        "phonetic american": "ˈkæri ðə tɔːrtʃ fɔːr",
+        "phonetic british": "ˈkæri ðə tɔːtʃ fɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "对某人或某事保持忠诚（成语）",
+                "sentence": "He still carries the torch for his high school sweetheart.",
+                "sentence translation": "仍然忠于他的高中恋人。"
+            }
+        ]
+    },
+    {
+        "word": "cash cow",
+        "phonetic american": "kæʃ kaʊ",
+        "phonetic british": "kæʃ kaʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "产生永久收入的业务或产品（习语）",
+                "sentence": "Their new app is a real cash cow for the company.",
+                "sentence translation": "他们的新应用程序是公司真正的收入来源。"
+            }
+        ]
+    },
+    {
+        "word": "cat burglar",
+        "phonetic american": "kæt ˈbɜːrɡlər",
+        "phonetic british": "kæt ˈbɜːɡlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "默默偷窃的人（成语）",
+                "sentence": "The cat burglar entered the house without making a sound.",
+                "sentence translation": "沉默的小偷一声不吭地进了屋。"
+            }
+        ]
+    },
+    {
+        "word": "catch someone at a bad time",
+        "phonetic american": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "phonetic british": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "在错误的时间抓住某人（成语）",
+                "sentence": "I'm sorry if I caught you at a bad time.",
+                "sentence translation": "如果我在错误的时间发现了你，我很抱歉。"
+            }
+        ]
+    },
+    {
+        "word": "catch someone red-handed",
+        "phonetic american": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "phonetic british": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "当场抓住某人（成语）",
+                "sentence": "The police caught him red-handed stealing the car.",
+                "sentence translation": "警察当场抓获了他偷车的行为。"
+            }
+        ]
+    },
+    {
+        "word": "chance one's arm",
+        "phonetic american": "tʃæns wʌnz ɑːrm",
+        "phonetic british": "tʃɑːns wʌnz ɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "试试运气，冒险（成语）",
+                "sentence": "He decided to chance his arm and apply for the position.",
+                "sentence translation": "他决定申请这个职位碰碰运气。"
+            }
+        ]
+    },
+    {
+        "word": "chase rainbows",
+        "phonetic american": "tʃeɪs ˈreɪnboʊz",
+        "phonetic british": "tʃeɪs ˈreɪnbəʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "追逐不可能的梦想（成语）",
+                "sentence": "Stop chasing rainbows and focus on achievable goals.",
+                "sentence translation": "停止追逐不可能的梦想，专注于可实现的目标。"
+            }
+        ]
+    },
+    {
+        "word": "chase your tail",
+        "phonetic american": "tʃeɪs jʊr teɪl",
+        "phonetic british": "tʃeɪs jɔː teɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "徒劳地奋斗，浪费时间（成语）",
+                "sentence": "I've been chasing my tail all day trying to get everything done.",
+                "sentence translation": "我一整天都在徒劳地努力完成所有工作。"
+            }
+        ]
+    },
+    {
+        "word": "cheesy",
+        "phonetic american": "ˈtʃiːzi",
+        "phonetic british": "ˈtʃiːzi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "简单、粗制滥造、陈词滥调（成语）",
+                "sentence": "The movie was too cheesy for my taste.",
+                "sentence translation": "这部电影对我来说太陈词滥调了。"
+            }
+        ]
+    },
+    {
+        "word": "clock-in/clock-out",
+        "phonetic american": "klɑːk ɪn / klɑːk aʊt",
+        "phonetic british": "klɒk ɪn / klɒk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "签入/签出工作时间（惯用语）",
+                "sentence": "Don't forget to clock in when you arrive at work.",
+                "sentence translation": "上班时不要忘记登录。"
+            }
+        ]
+    },
+    {
+        "word": "close to home",
+        "phonetic american": "kloʊs tə hoʊm",
+        "phonetic british": "kləʊs tə həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "以感人的方式处理个人问题（成语）",
+                "sentence": "The comment about his family was too close to home.",
+                "sentence translation": "关于他家人的评论触及了一个深刻的个人观点。"
+            }
+        ]
+    },
+    {
+        "word": "cold shoulder",
+        "phonetic american": "koʊld ˈʃoʊldər",
+        "phonetic british": "kəʊld ˈʃəʊldə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "表现冷漠、冷漠（成语）",
+                "sentence": "She gave him the cold shoulder after their argument.",
+                "sentence translation": "争吵后，他对她态度冷淡。"
+            }
+        ]
+    },
+    {
+        "word": "coming of age",
+        "phonetic american": "ˈkʌmɪŋ əv eɪdʒ",
+        "phonetic british": "ˈkʌmɪŋ əv eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "成熟，步入成年（成语）",
+                "sentence": "The novel is a beautiful coming-of-age story.",
+                "sentence translation": "这部小说是一个美丽的成长故事。"
+            }
+        ]
+    },
+    {
+        "word": "cook someone's goose",
+        "phonetic american": "kʊk ˈsʌmwʌnz ɡuːs",
+        "phonetic british": "kʊk ˈsʌmwʌnz ɡuːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "破坏某人的计划（成语）",
+                "sentence": "If you tell the boss about his mistake, it will cook his goose.",
+                "sentence translation": "如果你告诉老板他的错误，你就会破坏他的计划。"
+            }
+        ]
+    },
+    {
+        "word": "copycat",
+        "phonetic american": "ˈkɑːpiˌkæt",
+        "phonetic british": "ˈkɒpiˌkæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "模仿者（成语）",
+                "sentence": "The new app is just a copycat of the original one.",
+                "sentence translation": "新应用程序只是原版应用程序的模仿。"
+            }
+        ]
+    },
+    {
+        "word": "costs an arm and a leg",
+        "phonetic american": "kɔːsts æn ɑːrm ənd ə lɛɡ",
+        "phonetic british": "kɒsts ən ɑːm ənd ə lɛɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "花费很多（成语）",
+                "sentence": "This vacation is going to cost an arm and a leg.",
+                "sentence translation": "这个假期要花很多钱。"
+            }
+        ]
+    },
+    {
+        "word": "couch potato",
+        "phonetic american": "kaʊtʃ pəˈteɪtoʊ",
+        "phonetic british": "kaʊtʃ pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "整天看电视的懒人（成语）",
+                "sentence": "He's such a couch potato; he never goes outside.",
+                "sentence translation": "他真是个懒鬼；永远不会出去。"
+            }
+        ]
+    },
+    {
+        "word": "cover a lot of ground",
+        "phonetic american": "ˈkʌvər ə lɒt əv ɡraʊnd",
+        "phonetic british": "ˈkʌvə ə lɒt əv ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "取得很大的进步，涉足广阔的领域（成语）",
+                "sentence": "We covered a lot of ground in today's meeting.",
+                "sentence translation": "今天的会议我们取得了很多进展。"
+            }
+        ]
+    },
+    {
+        "word": "crack of dawn",
+        "phonetic american": "kræk əv dɔːn",
+        "phonetic british": "kræk əv dɔːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "天亮了，天亮了（成语）",
+                "sentence": "We left at the crack of dawn to catch the first train.",
+                "sentence translation": "我们黎明时分出发去赶第一班火车。"
+            }
+        ]
+    },
+    {
+        "word": "cross that bridge when you come to it",
+        "phonetic american": "krɔːs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "phonetic british": "krɒs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "遇到问题时解决问题（成语）",
+                "sentence": "We’ll cross that bridge when we come to it.",
+                "sentence translation": "当我们遇到这个问题时，我们就解决它。"
+            }
+        ]
+    },
+    {
+        "word": "crunch time",
+        "phonetic american": "krʌntʃ taɪm",
+        "phonetic british": "krʌntʃ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "时间压力大的时期（成语）",
+                "sentence": "It's crunch time for the project, so everyone is working overtime.",
+                "sentence translation": "现在正是项目的关键时刻，所以大家都在加班加点。"
+            }
+        ]
+    },
+    {
+        "word": "cry over spilt milk",
+        "phonetic american": "kraɪ ˈoʊvər spɪlt mɪlk",
+        "phonetic british": "kraɪ ˈəʊvə spɪlt mɪlk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "对过去的事情感到遗憾（成语）",
+                "sentence": "There's no use crying over spilt milk; let's focus on fixing the problem.",
+                "sentence translation": "担心过去是没有意义的；让我们集中精力解决问题。"
+            }
+        ]
+    },
+    {
+        "word": "curiosity killed the cat",
+        "phonetic american": "ˌkjʊriˈɑːsəti kɪld ðə kæt",
+        "phonetic british": "ˌkjʊərɪˈɒsɪti kɪld ðə kæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "过度的好奇心可能会带来危险（成语）",
+                "sentence": "Don't go into that abandoned house; curiosity killed the cat.",
+                "sentence translation": "不要进入那个废弃的房子；过度的好奇心可能是危险的。"
+            }
+        ]
+    },
+    {
+        "word": "cut corners",
+        "phonetic american": "kʌt ˈkɔːrnərz",
+        "phonetic british": "kʌt ˈkɔːnəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "偷工减料，降低质量（成语）",
+                "sentence": "They cut corners to finish the project quickly, but it led to mistakes.",
+                "sentence translation": "他们采取了简单的方法来快速完成项目，但这导致了错误。"
+            }
+        ]
+    },
+    {
+        "word": "cut one's own throat",
+        "phonetic american": "kʌt wʌnz oʊn θroʊt",
+        "phonetic british": "kʌt wʌnz əʊn θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "损害自己的利益（成语）",
+                "sentence": "By refusing the deal, he ended up cutting his own throat.",
+                "sentence translation": "他拒绝协议，损害了自己的利益。"
+            }
+        ]
+    },
+    {
+        "word": "cut the mustard",
+        "phonetic american": "kʌt ðə ˈmʌstərd",
+        "phonetic british": "kʌt ðə ˈmʌstəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "达到预期标准（成语）",
+                "sentence": "He didn’t cut the mustard, so he wasn’t hired.",
+                "sentence translation": "他没有被录用，因为他达不到预期的标准。"
+            }
+        ]
+    },
+    {
+        "word": "cut to the chase",
+        "phonetic american": "kʌt tə ðə tʃeɪs",
+        "phonetic british": "kʌt tə ðə tʃeɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "进入正题（成语）",
+                "sentence": "Let’s cut to the chase and discuss the main issue.",
+                "sentence translation": "咱们进入正题，讨论一下主要话题。"
+            }
+        ]
+    },
+    {
+        "word": "day to day",
+        "phonetic american": "deɪ tə deɪ",
+        "phonetic british": "deɪ tə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "日常琐事或例行公事（成语）",
+                "sentence": "She handles the day-to-day operations of the business.",
+                "sentence translation": "他负责管理企业的日常运营。"
+            }
+        ]
+    },
+    {
+        "word": "days are numbered",
+        "phonetic american": "deɪz ər ˈnʌmbərd",
+        "phonetic british": "deɪz ə ˈnʌmbəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "它的日子已经屈指可数了，它即将结束（成语）",
+                "sentence": "With sales dropping, the company’s days are numbered.",
+                "sentence translation": "随着销售额的下降，该公司的日子已经屈指可数了。"
+            }
+        ]
+    },
+    {
+        "word": "dead duck",
+        "phonetic american": "dɛd dʌk",
+        "phonetic british": "dɛd dʌk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "失败或废弃（习语）",
+                "sentence": "After losing the lawsuit, their business plan was a dead duck.",
+                "sentence translation": "官司败诉后，他们的商业计划就失败了。"
+            }
+        ]
+    },
+    {
+        "word": "dead in the water",
+        "phonetic american": "dɛd ɪn ðə ˈwɔːtər",
+        "phonetic british": "dɛd ɪn ðə ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "没有任何进展或精疲力尽（成语）",
+                "sentence": "Without funding, the project is dead in the water.",
+                "sentence translation": "由于没有资金，该项目已完全停止。"
+            }
+        ]
+    },
+    {
+        "word": "dead wood",
+        "phonetic american": "dɛd wʊd",
+        "phonetic british": "dɛd wʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "无用的人或物（成语）",
+                "sentence": "The company decided to remove the dead wood to increase productivity.",
+                "sentence translation": "公司决定解雇无用的人员以提高效率。"
+            }
+        ]
+    },
+    {
+        "word": "deep down",
+        "phonetic american": "diːp daʊn",
+        "phonetic british": "diːp daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "里面，内心深处（成语）",
+                "sentence": "Deep down, she knew she had made the right choice.",
+                "sentence translation": "他内心深处知道自己做出了正确的决定。"
+            }
+        ]
+    },
+    {
+        "word": "deliver the goods",
+        "phonetic american": "dɪˈlɪvər ðə ɡʊdz",
+        "phonetic british": "dɪˈlɪvə ðə ɡʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "表现出预期的业绩，兑现承诺（成语）",
+                "sentence": "The new software delivered the goods as promised.",
+                "sentence translation": "新软件显示了所承诺的预期性能。"
+            }
+        ]
+    },
+    {
+        "word": "devil's advocate",
+        "phonetic american": "ˈdɛvəlz ˈædvəkət",
+        "phonetic british": "ˈdɛvəlz ˈædvəkət",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "提出反驳论点的人（习语）",
+                "sentence": "He played devil's advocate to test the strength of their argument.",
+                "sentence translation": "他唱反调来检验他的论点的说服力。"
+            }
+        ]
+    },
+    {
+        "word": "do time (serve time)",
+        "phonetic american": "duː taɪm / sɜːrv taɪm",
+        "phonetic british": "duː taɪm / sɜːv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "进监狱（成语）",
+                "sentence": "He did time for robbery when he was younger.",
+                "sentence translation": "他十几岁时就因抢劫入狱。"
+            }
+        ]
+    },
+    {
+        "word": "donkey's years",
+        "phonetic american": "ˈdɑːŋkiz jɪrz",
+        "phonetic british": "ˈdɒŋkɪz jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "许多年（成语）",
+                "sentence": "I haven’t seen her in donkey’s years.",
+                "sentence translation": "我已经很多年没见到他了。"
+            }
+        ]
+    },
+    {
+        "word": "don't count your chickens before they've hatched",
+        "phonetic american": "doʊnt kaʊnt jʊr ˈtʃɪkɪnz bɪˈfɔːr ðeɪv hætʃt",
+        "phonetic british": "dəʊnt kaʊnt jɔː ˈtʃɪkɪnz bɪˈfɔː ðeɪv hætʃt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不见溪流不卷裤（成语）",
+                "sentence": "Don’t count your chickens before they’ve hatched; the deal isn’t finalized yet.",
+                "sentence translation": "未见溪流不卷裤衩；该交易尚未最终确定。"
+            }
+        ]
+    },
+    {
+        "word": "don't give up the day job",
+        "phonetic american": "doʊnt ɡɪv ʌp ðə deɪ ʤɑːb",
+        "phonetic british": "dəʊnt ɡɪv ʌp ðə deɪ ʤɒb",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不专注于缺乏人才的领域（成语）",
+                "sentence": "Your singing is okay, but don’t give up the day job.",
+                "sentence translation": "唱歌不错，但不要把它当成职业。"
+            }
+        ]
+    },
+    {
+        "word": "don't put all your eggs in one basket",
+        "phonetic american": "doʊnt pʊt ɔːl jʊr ɛɡz ɪn wʌn ˈbæskɪt",
+        "phonetic british": "dəʊnt pʊt ɔːl jɔːr ɛɡz ɪn wʌn ˈbɑːskɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "将所有风险与一件事联系起来（成语）",
+                "sentence": "It’s risky to invest all your money in stocks; don’t put all your eggs in one basket.",
+                "sentence translation": "把所有的钱都投入股票是有风险的；不要将所有风险都归因于一件事。"
+            }
+        ]
+    },
+    {
+        "word": "double date",
+        "phonetic american": "ˈdʌbəl deɪt",
+        "phonetic british": "ˈdʌbəl deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "两对情侣一起出去约会（成语）",
+                "sentence": "We went on a double date with my best friend and her boyfriend.",
+                "sentence translation": "我们和我最好的朋友和她的男朋友一起去约会。"
+            }
+        ]
+    },
+    {
+        "word": "drastic times call for drastic measures",
+        "phonetic american": "ˈdræstɪk taɪmz kɔːl fɔːr ˈdræstɪk ˈmɛʒərz",
+        "phonetic british": "ˈdræstɪk taɪmz kɔːl fɔː ˈdræstɪk ˈmɛʒəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "困难的情况需要艰难的决定（成语）",
+                "sentence": "The company had to lay off employees because drastic times call for drastic measures.",
+                "sentence translation": "该公司不得不裁员，因为它需要做出艰难的决定。"
+            }
+        ]
+    },
+    {
+        "word": "drawing a blank",
+        "phonetic american": "ˈdrɔːɪŋ ə blæŋk",
+        "phonetic british": "ˈdrɔːɪŋ ə blæŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "没有取得任何成果，什么都记不住（成语）",
+                "sentence": "I tried to remember her name, but I kept drawing a blank.",
+                "sentence translation": "我试图记住他的名字，但我记不住。"
+            }
+        ]
+    },
+    {
+        "word": "dropout",
+        "phonetic american": "ˈdrɑːpaʊt",
+        "phonetic british": "ˈdrɒpaʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "退学或退学的人（习语）",
+                "sentence": "He’s a college dropout who started his own company.",
+                "sentence translation": "一个从大学退学并创办了自己的公司的人。"
+            }
+        ]
+    },
+    {
+        "word": "dwell on the past",
+        "phonetic american": "dwɛl ɑn ðə pæst",
+        "phonetic british": "dwɛl ɒn ðə pɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "停留在过去（成语）",
+                "sentence": "It’s time to move forward and stop dwelling on the past.",
+                "sentence translation": "现在是展望未来而不是停留在过去的时候了。"
+            }
+        ]
+    },
+    {
+        "word": "eager beaver",
+        "phonetic american": "ˈiːɡər ˈbiːvər",
+        "phonetic british": "ˈiːɡə ˈbiːvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "过于热心或勤奋的人（成语）",
+                "sentence": "She’s such an eager beaver; she always finishes her tasks ahead of time.",
+                "sentence translation": "他是一个非常勤奋的人；他总是提前完成自己的职责。"
+            }
+        ]
+    },
+    {
+        "word": "easy as ABC",
+        "phonetic american": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "phonetic british": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "这很简单，就像儿戏（成语）",
+                "sentence": "The instructions were easy as ABC, so I had no trouble assembling the furniture.",
+                "sentence translation": "说明非常简单，所以我组装家具没有遇到任何困难。"
+            }
+        ]
+    },
+    {
+        "word": "eat, sleep & breathe something",
+        "phonetic american": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "phonetic british": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "把一生奉献给某件事（成语）",
+                "sentence": "He eats, sleeps, and breathes football.",
+                "sentence translation": "他是一个将一生奉献给足球的人。"
+            }
+        ]
+    },
+    {
+        "word": "egg head",
+        "phonetic american": "ˈɛɡ hɛd",
+        "phonetic british": "ˈɛɡ hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "过于聪明或学术的人（成语）",
+                "sentence": "The professor is a real egg head when it comes to mathematics.",
+                "sentence translation": "这位教授在数学方面是一位十足的知识分子。"
+            }
+        ]
+    },
+    {
+        "word": "elbow room",
+        "phonetic american": "ˈɛlboʊ ruːm",
+        "phonetic british": "ˈɛlbəʊ ruːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "行动自由（成语）",
+                "sentence": "The new office gives us more elbow room.",
+                "sentence translation": "新办公室给了我们更多的空间。"
+            }
+        ]
+    },
+    {
+        "word": "eleventh hour",
+        "phonetic american": "ɪˈlɛvənθ ˈaʊər",
+        "phonetic british": "ɪˈlɛvənθ ˈaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "最后一分钟，最后一刻（成语）",
+                "sentence": "They reached an agreement at the eleventh hour.",
+                "sentence translation": "他们在最后一刻达成协议。"
+            }
+        ]
+    },
+    {
+        "word": "Elvis has left the building",
+        "phonetic american": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "phonetic british": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "活动结束了，工作到此结束（成语）",
+                "sentence": "The concert is over; Elvis has left the building.",
+                "sentence translation": "音乐会结束了；活动已经结束。"
+            }
+        ]
+    },
+    {
+        "word": "every cloud has a silver lining",
+        "phonetic american": "ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ",
+        "phonetic british": "ˈɛvri klaʊd hæz ə ˈsɪlvə ˈlaɪnɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "凡事皆有好处（成语）",
+                "sentence": "Don’t worry about losing your job; every cloud has a silver lining.",
+                "sentence translation": "不用担心失去工作；每件坏事都有好处。"
+            }
+        ]
+    },
+    {
+        "word": "explore all avenues",
+        "phonetic american": "ɪkˈsplɔːr ɔːl ˈævəˌnuːz",
+        "phonetic british": "ɪkˈsplɔːr ɔːl ˈævənjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "探索一切可能性（成语）",
+                "sentence": "We need to explore all avenues before making a decision.",
+                "sentence translation": "在做出决定之前，我们应该探索所有的可能性。"
+            }
+        ]
+    },
+    {
+        "word": "eye-catching",
+        "phonetic american": "ˈaɪ ˌkætʃɪŋ",
+        "phonetic british": "ˈaɪ ˌkætʃɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "引人注目的，引人注目的（成语）",
+                "sentence": "The new advertisement is very eye-catching.",
+                "sentence translation": "新广告非常引人注目。"
+            }
+        ]
+    },
+    {
+        "word": "fallen in love",
+        "phonetic american": "ˈfɔːlən ɪn lʌv",
+        "phonetic british": "ˈfɔːlən ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "坠入爱河（成语）",
+                "sentence": "He has fallen in love with his best friend.",
+                "sentence translation": "他爱上了他最好的朋友。"
+            }
+        ]
+    },
+    {
+        "word": "far cry from",
+        "phonetic american": "fɑːr kraɪ frʌm",
+        "phonetic british": "fɑː kraɪ frʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常不同，不相关（习语）",
+                "sentence": "This new design is a far cry from the old one.",
+                "sentence translation": "这种新设计与旧设计有很大不同。"
+            }
+        ]
+    },
+    {
+        "word": "feeling blue",
+        "phonetic american": "ˈfiːlɪŋ bluː",
+        "phonetic british": "ˈfiːlɪŋ bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "感到悲伤、不高兴（成语）",
+                "sentence": "I’ve been feeling blue ever since she moved away.",
+                "sentence translation": "自从他搬走后，我一直感到难过。"
+            }
+        ]
+    },
+    {
+        "word": "feeling under the weather",
+        "phonetic american": "ˈfiːlɪŋ ˈʌndər ðə ˈwɛðər",
+        "phonetic british": "ˈfiːlɪŋ ˈʌndə ðə ˈwɛðə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "感觉不舒服或虚弱（习语）",
+                "sentence": "I’m feeling under the weather today, so I’ll stay home.",
+                "sentence translation": "我今天感觉很虚弱，所以我会呆在家里。"
+            }
+        ]
+    },
+    {
+        "word": "fever pitch",
+        "phonetic american": "ˈfiːvər pɪtʃ",
+        "phonetic british": "ˈfiːvə pɪtʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "极度兴奋或紧张的状态（成语）",
+                "sentence": "The excitement in the stadium reached fever pitch.",
+                "sentence translation": "体育场内的兴奋达到了顶峰。"
+            }
+        ]
+    },
+    {
+        "word": "fill in the blanks",
+        "phonetic american": "fɪl ɪn ðə blæŋks",
+        "phonetic british": "fɪl ɪn ðə blæŋks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "填写缺失的信息（习语）",
+                "sentence": "She didn’t give us all the details, so we had to fill in the blanks.",
+                "sentence translation": "他没有向我们提供所有详细信息，因此我们必须填写缺失的信息。"
+            }
+        ]
+    },
+    {
+        "word": "first in, best dressed",
+        "phonetic american": "fɜːrst ɪn bɛst drɛst",
+        "phonetic british": "fɜːst ɪn bɛst drɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "第一个获胜（成语）",
+                "sentence": "The sale was first in, best dressed, so we arrived early.",
+                "sentence translation": "促销是先到先得，所以我们很早就到了。"
+            }
+        ]
+    },
+    {
+        "word": "first out of the gate",
+        "phonetic american": "fɜːrst aʊt əv ðə ɡeɪt",
+        "phonetic british": "fɜːst aʊt əv ðə ɡeɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "首先开始或采取某事的人（习语）",
+                "sentence": "He was the first out of the gate with his project proposal.",
+                "sentence translation": "他是第一个对项目提案采取行动的人。"
+            }
+        ]
+    },
+    {
+        "word": "fish out of water",
+        "phonetic american": "fɪʃ aʊt əv ˈwɔːtər",
+        "phonetic british": "fɪʃ aʊt əv ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "在陌生的环境中感到不舒服（成语）",
+                "sentence": "He felt like a fish out of water at the formal dinner party.",
+                "sentence translation": "在正式的晚宴上，他感觉自己身处异国环境。"
+            }
+        ]
+    },
+    {
+        "word": "foot in the door",
+        "phonetic american": "fʊt ɪn ðə dɔːr",
+        "phonetic british": "fʊt ɪn ðə dɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "获得开始的机会（成语）",
+                "sentence": "This internship will help you get your foot in the door of the industry.",
+                "sentence translation": "此次实习将帮助您进入该行业。"
+            }
+        ]
+    },
+    {
+        "word": "for the time being",
+        "phonetic american": "fɔːr ðə taɪm ˈbiːɪŋ",
+        "phonetic british": "fɔː ðə taɪm ˈbiːɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "现在，暂时（成语）",
+                "sentence": "For the time being, we’ll stay here until we find a better place.",
+                "sentence translation": "现在，我们将留在这里，直到找到更好的地方。"
+            }
+        ]
+    },
+    {
+        "word": "from now on",
+        "phonetic american": "frʌm naʊ ɑːn",
+        "phonetic british": "frʌm naʊ ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "从现在开始（成语）",
+                "sentence": "From now on, I’ll be more careful with my spending.",
+                "sentence translation": "从现在开始，我会更加谨慎地花钱。"
+            }
+        ]
+    },
+    {
+        "word": "from time to time",
+        "phonetic american": "frʌm taɪm tə taɪm",
+        "phonetic british": "frʌm taɪm tə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "偶尔，有时（成语）",
+                "sentence": "I like to visit my hometown from time to time.",
+                "sentence translation": "我喜欢时常回家乡看看。"
+            }
+        ]
+    },
+    {
+        "word": "full of beans",
+        "phonetic american": "fʊl əv biːnz",
+        "phonetic british": "fʊl əv biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "充满活力、充满活力（成语）",
+                "sentence": "The children were full of beans after the party.",
+                "sentence translation": "聚会结束后，孩子们精神抖擞。"
+            }
+        ]
+    },
+    {
+        "word": "full of the joys of spring",
+        "phonetic american": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "phonetic british": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常高兴、高兴（成语）",
+                "sentence": "She came into the office full of the joys of spring.",
+                "sentence translation": "他满怀春天的喜悦走进办公室。"
+            }
+        ]
+    },
+    {
+        "word": "getting sacked (or axed, or fired)",
+        "phonetic american": "ˈɡɛtɪŋ sækt",
+        "phonetic british": "ˈɡɛtɪŋ sækt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "被解雇（成语）",
+                "sentence": "He was afraid of getting sacked after the mistake.",
+                "sentence translation": "他害怕犯错后会被解雇。"
+            }
+        ]
+    },
+    {
+        "word": "getting the show on the road",
+        "phonetic american": "ˈɡɛtɪŋ ðə ʃoʊ ɑn ðə roʊd",
+        "phonetic british": "ˈɡɛtɪŋ ðə ʃəʊ ɒn ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "开始一个项目或活动（习语）",
+                "sentence": "Let’s get the show on the road and start the meeting.",
+                "sentence translation": "让我们言归正传，开始会议吧。"
+            }
+        ]
+    },
+    {
+        "word": "give the benefit of the doubt",
+        "phonetic american": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "phonetic british": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "尽管有怀疑却相信某人（成语）",
+                "sentence": "Let’s give her the benefit of the doubt and assume she’s telling the truth.",
+                "sentence translation": "让我们假设你尽管心存疑虑却相信他，并且他说的是实话。"
+            }
+        ]
+    },
+    {
+        "word": "give the green light",
+        "phonetic american": "ɡɪv ðə ɡriːn laɪt",
+        "phonetic british": "ɡɪv ðə ɡriːn laɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "允许，批准（成语）",
+                "sentence": "The manager gave the green light to start the project.",
+                "sentence translation": "经理批准启动该项目。"
+            }
+        ]
+    },
+    {
+        "word": "go belly up",
+        "phonetic american": "ɡoʊ ˈbɛli ˈʌp",
+        "phonetic british": "ɡəʊ ˈbɛli ˈʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "失败，破产（成语）",
+                "sentence": "The company went belly up after losing its main client.",
+                "sentence translation": "该公司在失去主要客户后破产。"
+            }
+        ]
+    },
+    {
+        "word": "going places",
+        "phonetic american": "ˈɡoʊɪŋ ˈpleɪsɪz",
+        "phonetic british": "ˈɡəʊɪŋ ˈpleɪsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "有成功的潜力（成语）",
+                "sentence": "With her talent, she’s definitely going places.",
+                "sentence translation": "以他的天赋，一定会成功。"
+            }
+        ]
+    },
+    {
+        "word": "golden boy",
+        "phonetic american": "ˈɡoʊldən bɔɪ",
+        "phonetic british": "ˈɡəʊldən bɔɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一个深受爱戴并期望成功的人（成语）",
+                "sentence": "He’s the golden boy of the football team.",
+                "sentence translation": "他是足球队的最爱。"
+            }
+        ]
+    },
+    {
+        "word": "golden handshake",
+        "phonetic american": "ˈɡoʊldən ˈhændˌʃeɪk",
+        "phonetic british": "ˈɡəʊldən ˈhændˌʃeɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "退休金或遣散费（短语）",
+                "sentence": "The CEO received a golden handshake upon his retirement.",
+                "sentence translation": "首席执行官退休后获得补偿。"
+            }
+        ]
+    },
+    {
+        "word": "golden opportunity",
+        "phonetic american": "ˈɡoʊldən ˌɑːpərˈtuːnɪti",
+        "phonetic british": "ˈɡəʊldən ˌɒpəˈtjuːnɪti",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不容错过的好机会（成语）",
+                "sentence": "This job offer is a golden opportunity for your career.",
+                "sentence translation": "这份工作机会是您职业生涯中不容错过的机会。"
+            }
+        ]
+    },
+    {
+        "word": "grass is always greener on the other side",
+        "phonetic american": "ɡræs ɪz ˈɔːlweɪz ˈɡriːnər ɑn ði ˈʌðər saɪd",
+        "phonetic british": "ɡrɑːs ɪz ˈɔːlweɪz ˈɡriːnə ɒn ði ˈʌðə saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "其他的东西总是显得更有吸引力（成语）",
+                "sentence": "He left his job thinking the grass is always greener on the other side, but now he regrets it.",
+                "sentence translation": "他辞去了工作，认为有别的事情更有吸引力，但现在他后悔了。"
+            }
+        ]
+    },
+    {
+        "word": "grease someone's palm",
+        "phonetic american": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "phonetic british": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "贿赂某人（成语）",
+                "sentence": "He had to grease the official’s palm to get the permit approved.",
+                "sentence translation": "他必须贿赂官员才能获得许可。"
+            }
+        ]
+    },
+    {
+        "word": "green thumb",
+        "phonetic american": "ɡriːn θʌm",
+        "phonetic british": "ɡriːn θʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "种植植物的能力（成语）",
+                "sentence": "She has a green thumb; her garden is always blooming.",
+                "sentence translation": "他有能力种植植物；他的花园里总是鲜花盛开。"
+            }
+        ]
+    },
+    {
+        "word": "green with envy",
+        "phonetic american": "ɡriːn wɪð ˈɛnvi",
+        "phonetic british": "ɡriːn wɪð ˈɛnvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "嫉妒心爆棚（成语）",
+                "sentence": "She was green with envy when she saw her friend’s new car.",
+                "sentence translation": "当他看到朋友的新车时，充满了嫉妒。"
+            }
+        ]
+    },
+    {
+        "word": "grey area",
+        "phonetic american": "ɡreɪ ˈɛriə",
+        "phonetic british": "ɡreɪ ˈɛərɪə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不确定或不确定的情况（成语）",
+                "sentence": "The rules about online privacy are still a grey area.",
+                "sentence translation": "在线隐私规则仍然是一个不明确的问题。"
+            }
+        ]
+    },
+    {
+        "word": "hanging on by fingernails",
+        "phonetic american": "ˈhæŋɪŋ ɑn baɪ ˈfɪŋɡərˌneɪlz",
+        "phonetic british": "ˈhæŋɪŋ ɒn baɪ ˈfɪŋɡəˌneɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "在困难的情况下努力生存（成语）",
+                "sentence": "The company is hanging on by its fingernails due to financial issues.",
+                "sentence translation": "该公司因财务问题而陷入生存困境。"
+            }
+        ]
+    },
+    {
+        "word": "hard as nails",
+        "phonetic american": "hɑːrd æz neɪlz",
+        "phonetic british": "hɑːd æz neɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "没有感情或有弹性的人（成语）",
+                "sentence": "She may look kind, but she’s hard as nails when it comes to business.",
+                "sentence translation": "他看似温和，但在做生意时却非常强硬。"
+            }
+        ]
+    },
+    {
+        "word": "hard time",
+        "phonetic american": "hɑːrd taɪm",
+        "phonetic british": "hɑːd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "经历一段困难时期（成语）",
+                "sentence": "He had a hard time finding a job after college.",
+                "sentence translation": "大学毕业后他很难找到工作。"
+            }
+        ]
+    },
+    {
+        "word": "having one's heart set on something",
+        "phonetic american": "ˈhævɪŋ wʌnz hɑːrt sɛt ɑn ˈsʌmθɪŋ",
+        "phonetic british": "ˈhævɪŋ wʌnz hɑːt sɛt ɒn ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "真的想要某样东西（成语）",
+                "sentence": "She has her heart set on studying abroad next year.",
+                "sentence translation": "他真的很想明年出国留学。"
+            }
+        ]
+    },
+    {
+        "word": "head in the clouds",
+        "phonetic american": "hɛd ɪn ðə klaʊdz",
+        "phonetic british": "hɛd ɪn ðə klaʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "做一个梦想家，远离现实（成语）",
+                "sentence": "He’s always got his head in the clouds, dreaming of becoming a rock star.",
+                "sentence translation": "他总是沉浸在自己的梦想世界中，梦想着成为一名摇滚明星。"
+            }
+        ]
+    },
+    {
+        "word": "head over heels in love",
+        "phonetic american": "hɛd ˈoʊvər hilz ɪn lʌv",
+        "phonetic british": "hɛd ˈəʊvə hiːlz ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "为爱神魂颠倒（成语）",
+                "sentence": "He fell head over heels in love with her the moment they met.",
+                "sentence translation": "他一见到她就爱上了她。"
+            }
+        ]
+    },
+    {
+        "word": "hear it on the grapevine",
+        "phonetic american": "hɪr ɪt ɑn ðə ˈɡreɪpˌvaɪn",
+        "phonetic british": "hɪə ɪt ɒn ðə ˈɡreɪpˌvaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "听到谣言（成语）",
+                "sentence": "I heard on the grapevine that they’re getting married.",
+                "sentence translation": "我通过小道消息听说他们要结婚了。"
+            }
+        ]
+    },
+    {
+        "word": "heart is in the right place",
+        "phonetic american": "hɑːrt ɪz ɪn ðə raɪt pleɪs",
+        "phonetic british": "hɑːt ɪz ɪn ðə raɪt pleɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "有正确的意图（成语）",
+                "sentence": "She makes mistakes sometimes, but her heart is in the right place.",
+                "sentence translation": "他有时会犯错误，但他的意图是真实的。"
+            }
+        ]
+    },
+    {
+        "word": "here today, gone tomorrow",
+        "phonetic american": "hɪr təˈdeɪ, ɡɑn təˈmɑːroʊ",
+        "phonetic british": "hɪə təˈdeɪ, ɡɒn təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "用于临时的事情（成语）",
+                "sentence": "The popularity of certain trends is here today, gone tomorrow.",
+                "sentence translation": "某些趋势的流行是暂时的。"
+            }
+        ]
+    },
+    {
+        "word": "high time",
+        "phonetic american": "haɪ taɪm",
+        "phonetic british": "haɪ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "时间到了，已经晚了（成语）",
+                "sentence": "It’s high time you cleaned your room.",
+                "sentence translation": "现在是打扫房间的时候了。"
+            }
+        ]
+    },
+    {
+        "word": "hit the big time",
+        "phonetic american": "hɪt ðə bɪɡ taɪm",
+        "phonetic british": "hɪt ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "取得巨大成功（成语）",
+                "sentence": "He hit the big time after his song became a global hit.",
+                "sentence translation": "他的歌曲风靡全球后取得了巨大成功。"
+            }
+        ]
+    },
+    {
+        "word": "hit the books",
+        "phonetic american": "hɪt ðə bʊks",
+        "phonetic british": "hɪt ðə bʊks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "开始工作（成语）",
+                "sentence": "I have to hit the books if I want to pass the exam.",
+                "sentence translation": "如果我想通过考试，我就必须开始学习。"
+            }
+        ]
+    },
+    {
+        "word": "hit the nail on the head",
+        "phonetic american": "hɪt ðə neɪl ɑn ðə hɛd",
+        "phonetic british": "hɪt ðə neɪl ɒn ðə hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "说得一针见血，说得对（成语）",
+                "sentence": "You hit the nail on the head with your analysis.",
+                "sentence translation": "您的分析一针见血。"
+            }
+        ]
+    },
+    {
+        "word": "hit the panic button",
+        "phonetic american": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "phonetic british": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "惊慌（成语）",
+                "sentence": "Don’t hit the panic button; we still have time to fix this.",
+                "sentence translation": "不要恐慌;我们还有时间解决这个问题。"
+            }
+        ]
+    },
+    {
+        "word": "hit the road",
+        "phonetic american": "hɪt ðə roʊd",
+        "phonetic british": "hɪt ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "出发，离开一个地方（成语）",
+                "sentence": "It’s getting late; we’d better hit the road.",
+                "sentence translation": "天色已晚；我们最好出发了。"
+            }
+        ]
+    },
+    {
+        "word": "hit the sack (or sheets, or hay)",
+        "phonetic american": "hɪt ðə sæk",
+        "phonetic british": "hɪt ðə sæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "去睡觉，去睡觉（成语）",
+                "sentence": "I’m exhausted, so I’m going to hit the sack.",
+                "sentence translation": "我很累了，所以我要去睡觉了。"
+            }
+        ]
+    },
+    {
+        "word": "hold the fort",
+        "phonetic american": "hoʊld ðə fɔːrt",
+        "phonetic british": "həʊld ðə fɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "管理某人，暂时承担责任（成语）",
+                "sentence": "Can you hold the fort while I’m away?",
+                "sentence translation": "我不在的时候你能处理好这个情况吗？"
+            }
+        ]
+    },
+    {
+        "word": "honest as the day is long",
+        "phonetic american": "ˈɑːnɪst æz ðə deɪ ɪz lɔːŋ",
+        "phonetic british": "ˈɒnɪst æz ðə deɪ ɪz lɒŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "完全诚实（成语）",
+                "sentence": "She’s as honest as the day is long; you can trust her.",
+                "sentence translation": "他是完全诚实的；你可以相信他。"
+            }
+        ]
+    },
+    {
+        "word": "hot potato",
+        "phonetic american": "hɑt pəˈteɪtoʊ",
+        "phonetic british": "hɒt pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "困难或有争议的主题（习语）",
+                "sentence": "The new policy is a political hot potato.",
+                "sentence translation": "新政策是一个政治辩论问题。"
+            }
+        ]
+    },
+    {
+        "word": "hour of need",
+        "phonetic american": "ˈaʊər əv niːd",
+        "phonetic british": "ˈaʊə əv niːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "困难时刻，需要时刻（成语）",
+                "sentence": "He was always there for me in my hour of need.",
+                "sentence translation": "在我困难的时候，他总是在我身边。"
+            }
+        ]
+    },
+    {
+        "word": "in due course",
+        "phonetic american": "ɪn duː kɔːrs",
+        "phonetic british": "ɪn djuː kɔːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "到时候，最终（成语）",
+                "sentence": "You will receive your promotion in due course.",
+                "sentence translation": "您将在适当的时候获得晋升。"
+            }
+        ]
+    },
+    {
+        "word": "in one's own time",
+        "phonetic american": "ɪn wʌnz oʊn taɪm",
+        "phonetic british": "ɪn wʌnz əʊn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "按照自己的节奏，不着急（成语）",
+                "sentence": "Take this project in your own time; there’s no rush.",
+                "sentence translation": "按照自己的节奏完成这个项目；无需着急。"
+            }
+        ]
+    },
+    {
+        "word": "in someone's black book",
+        "phonetic american": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "phonetic british": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "被列入某人的坏名单，失宠（成语）",
+                "sentence": "He’s in the boss’s black book after missing the deadline.",
+                "sentence translation": "由于错过了最后期限，他失去了老板的青睐。"
+            }
+        ]
+    },
+    {
+        "word": "in the bag",
+        "phonetic american": "ɪn ðə bæg",
+        "phonetic british": "ɪn ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "有保证，有保证（成语）",
+                "sentence": "With all the preparation we’ve done, victory is in the bag.",
+                "sentence translation": "我们做好了一切准备，胜利是有保证的。"
+            }
+        ]
+    },
+    {
+        "word": "in the black",
+        "phonetic american": "ɪn ðə blæk",
+        "phonetic british": "ɪn ðə blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "为了盈利，为了保持良好的财务状况（成语）",
+                "sentence": "The company is finally in the black after years of losses.",
+                "sentence translation": "该公司在多年亏损后终于扭亏为盈。"
+            }
+        ]
+    },
+    {
+        "word": "in the blink of an eye",
+        "phonetic american": "ɪn ðə blɪŋk əv ən aɪ",
+        "phonetic british": "ɪn ðə blɪŋk əv ən aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一会儿，一眨眼（成语）",
+                "sentence": "The car disappeared in the blink of an eye.",
+                "sentence translation": "汽车突然消失了。"
+            }
+        ]
+    },
+    {
+        "word": "in the heat of the moment",
+        "phonetic american": "ɪn ðə hiːt əv ðə ˈmoʊmənt",
+        "phonetic british": "ɪn ðə hiːt əv ðə ˈməʊmənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "在兴奋或压力的时刻（成语）",
+                "sentence": "He said something hurtful in the heat of the moment.",
+                "sentence translation": "一时激动，说出了伤人的话。"
+            }
+        ]
+    },
+    {
+        "word": "in the interim",
+        "phonetic american": "ɪn ði ˈɪntərɪm",
+        "phonetic british": "ɪn ði ˈɪntərɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "同时，暂时（成语）",
+                "sentence": "The company hired a consultant in the interim.",
+                "sentence translation": "与此同时，该公司聘请了一名顾问。"
+            }
+        ]
+    },
+    {
+        "word": "in the long run",
+        "phonetic american": "ɪn ðə lɔːŋ rʌn",
+        "phonetic british": "ɪn ðə lɒŋ rʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "从长远来看（成语）",
+                "sentence": "This investment will pay off in the long run.",
+                "sentence translation": "从长远来看，这项投资将会得到回报。"
+            }
+        ]
+    },
+    {
+        "word": "in the nick of time",
+        "phonetic american": "ɪn ðə nɪk əv taɪm",
+        "phonetic british": "ɪn ðə nɪk əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恰逢其时，在最后一刻（成语）",
+                "sentence": "The firefighters arrived in the nick of time.",
+                "sentence translation": "消防员及时赶到。"
+            }
+        ]
+    },
+    {
+        "word": "in the red",
+        "phonetic american": "ɪn ðə rɛd",
+        "phonetic british": "ɪn ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "负债累累（成语）",
+                "sentence": "The company has been in the red for three months.",
+                "sentence translation": "该公司已经连续三个月亏损。"
+            }
+        ]
+    },
+    {
+        "word": "in the right place at the right time",
+        "phonetic american": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "phonetic british": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "在正确的时间出现在正确的地点（成语）",
+                "sentence": "He got the job because he was in the right place at the right time.",
+                "sentence translation": "他得到这份工作是因为他在正确的时间出现在正确的地点。"
+            }
+        ]
+    },
+    {
+        "word": "in the wrong place at the wrong time",
+        "phonetic american": "ɪn ðə rɔːŋ pleɪs æt ðə rɔːŋ taɪm",
+        "phonetic british": "ɪn ðə rɒŋ pleɪs æt ðə rɒŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "在错误的时间出现在错误的地点（成语）",
+                "sentence": "He was arrested because he was in the wrong place at the wrong time.",
+                "sentence translation": "他被捕是因为他在错误的时间出现在错误的地点。"
+            }
+        ]
+    },
+    {
+        "word": "in tune with someone (on the same wavelength)",
+        "phonetic american": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "phonetic british": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "与某人和谐相处（成语）",
+                "sentence": "They work well together because they’re in tune with each other.",
+                "sentence translation": "他们合作得很好，因为他们彼此和谐。"
+            }
+        ]
+    },
+    {
+        "word": "it takes two to tango",
+        "phonetic american": "ɪt teɪks tuː tə ˈtæŋɡoʊ",
+        "phonetic british": "ɪt teɪks tuː tə ˈtæŋɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "事件双方都有责任（成语）",
+                "sentence": "Don’t blame her entirely; it takes two to tango.",
+                "sentence translation": "不要完全责怪他；双方在这件事上都有份。"
+            }
+        ]
+    },
+    {
+        "word": "itchy feet",
+        "phonetic american": "ˈɪtʃi fiːt",
+        "phonetic british": "ˈɪtʃi fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "心烦意乱，渴望旅行（成语）",
+                "sentence": "After a year in the same city, he’s starting to get itchy feet.",
+                "sentence translation": "在同一个城市待了一年，不安的感觉开始了。"
+            }
+        ]
+    },
+    {
+        "word": "judge a book by its cover",
+        "phonetic american": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvər",
+        "phonetic british": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "以貌取人（成语）",
+                "sentence": "Don’t judge a book by its cover; he’s actually very kind.",
+                "sentence translation": "不要根据外表来决定；他其实是一个非常善良的人。"
+            }
+        ]
+    },
+    {
+        "word": "jump on the bandwagon",
+        "phonetic american": "dʒʌmp ɑn ðə ˈbændˌwæɡən",
+        "phonetic british": "dʒʌmp ɒn ðə ˈbændˌwæɡən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "参加流行的事情（成语）",
+                "sentence": "He decided to jump on the bandwagon and start investing in cryptocurrency.",
+                "sentence translation": "他决定加入流行趋势，开始投资加密货币。"
+            }
+        ]
+    },
+    {
+        "word": "keep something at bay",
+        "phonetic american": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "phonetic british": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "控制或阻止某事（成语）",
+                "sentence": "She exercises daily to keep stress at bay.",
+                "sentence translation": "他每天都会锻炼身体以缓解压力。"
+            }
+        ]
+    },
+    {
+        "word": "keeping up appearances",
+        "phonetic american": "ˈkiːpɪŋ ʌp əˈpɪrənsɪz",
+        "phonetic british": "ˈkiːpɪŋ ʌp əˈpɪərənsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "试图让情况在外面看起来很好（成语）",
+                "sentence": "Despite their financial struggles, they’re keeping up appearances.",
+                "sentence translation": "尽管经济困难，他们仍试图向外界展示良好的情况。"
+            }
+        ]
+    },
+    {
+        "word": "keeping your finger on the pulse",
+        "phonetic american": "ˈkiːpɪŋ jʊr ˈfɪŋɡər ɑn ðə pʌls",
+        "phonetic british": "ˈkiːpɪŋ jɔː ˈfɪŋɡə ɒn ðə pʌls",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "了解当前事件或发展（习语）",
+                "sentence": "He’s a great leader because he always keeps his finger on the pulse of the market.",
+                "sentence translation": "他是一位伟大的领导者，因为他始终掌握着市场的脉搏。"
+            }
+        ]
+    },
+    {
+        "word": "kept in the dark",
+        "phonetic american": "kɛpt ɪn ðə dɑːrk",
+        "phonetic british": "kɛpt ɪn ðə dɑːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不知情、不知情（成语）",
+                "sentence": "The employees were kept in the dark about the merger.",
+                "sentence translation": "员工对合并一无所知。"
+            }
+        ]
+    },
+    {
+        "word": "kill time",
+        "phonetic american": "kɪl taɪm",
+        "phonetic british": "kɪl taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "花时间，逗留（成语）",
+                "sentence": "I played a game on my phone to kill time while waiting for the train.",
+                "sentence translation": "等火车的时候，我用手机玩游戏来打发时间。"
+            }
+        ]
+    },
+    {
+        "word": "kill two birds with one stone",
+        "phonetic american": "kɪl tuː bɜːrdz wɪð wʌn stoʊn",
+        "phonetic british": "kɪl tuː bɜːdz wɪð wʌn stəʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一石二鸟，一劳永逸（成语）",
+                "sentence": "By walking to work, she kills two birds with one stone: exercise and saving money on transport.",
+                "sentence translation": "她步行去上班，一石二鸟：既锻炼了身体，又节省了交通费。"
+            }
+        ]
+    },
+    {
+        "word": "landslide victory",
+        "phonetic american": "ˈlændˌslaɪd ˈvɪktəri",
+        "phonetic british": "ˈlændˌslaɪd ˈvɪktəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "压倒性胜利，大获全胜（成语）",
+                "sentence": "The candidate won by a landslide victory in the election.",
+                "sentence translation": "这位候选人在选举中获得压倒性胜利。"
+            }
+        ]
+    },
+    {
+        "word": "last straw",
+        "phonetic american": "læst strɔː",
+        "phonetic british": "lɑːst strɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "最后一根稻草（成语）",
+                "sentence": "The broken promise was the last straw in their relationship.",
+                "sentence translation": "违背的承诺成为压垮他们关系的最后一根稻草。"
+            }
+        ]
+    },
+    {
+        "word": "laugh a minute",
+        "phonetic american": "læf ə ˈmɪnɪt",
+        "phonetic british": "lɑːf ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常有趣的情况或人（习语）",
+                "sentence": "The comedian’s show was a laugh a minute.",
+                "sentence translation": "这位喜剧演员的表演非常有趣。"
+            }
+        ]
+    },
+    {
+        "word": "learn by rote",
+        "phonetic american": "lɜːrn baɪ roʊt",
+        "phonetic british": "lɜːn baɪ rəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "通过记忆来学习（成语）",
+                "sentence": "Students often learn by rote for exams, but they forget everything quickly.",
+                "sentence translation": "学生经常为了考试而记住一些东西，但很快就会忘记一切。"
+            }
+        ]
+    },
+    {
+        "word": "learn something off by heart",
+        "phonetic american": "lɜːrn ˈsʌmθɪŋ ɔːf baɪ hɑːrt",
+        "phonetic british": "lɜːn ˈsʌmθɪŋ ɒf baɪ hɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "熟记于心（成语）",
+                "sentence": "He learned the poem off by heart for the recital.",
+                "sentence translation": "他为演出背下了这首诗。"
+            }
+        ]
+    },
+    {
+        "word": "learn the ropes",
+        "phonetic american": "lɜːrn ðə roʊps",
+        "phonetic british": "lɜːn ðə rəʊps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "学习工作的基础知识（习语）",
+                "sentence": "It will take time to learn the ropes at the new job.",
+                "sentence translation": "学习新工作的基础知识需要时间。"
+            }
+        ]
+    },
+    {
+        "word": "lemon",
+        "phonetic american": "ˈlɛmən",
+        "phonetic british": "ˈlɛmən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "有缺陷或无用的东西（成语）",
+                "sentence": "The car he bought turned out to be a lemon.",
+                "sentence translation": "结果他买的车没用了。"
+            }
+        ]
+    },
+    {
+        "word": "let me see the colour of your money",
+        "phonetic american": "lɛt miː siː ðə ˈkʌlər əv jʊr ˈmʌni",
+        "phonetic british": "lɛt miː siː ðə ˈkʌlə əv jɔː ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "看出某人付款的意图（成语）",
+                "sentence": "If you want to place an order, let me see the colour of your money first.",
+                "sentence translation": "如果您想订购，您需要证明您将先付款。"
+            }
+        ]
+    },
+    {
+        "word": "let sleeping dogs lie",
+        "phonetic american": "lɛt ˈsliːpɪŋ dɔːɡz laɪ",
+        "phonetic british": "lɛt ˈsliːpɪŋ dɒɡz laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不要纠缠于过去的问题（成语）",
+                "sentence": "Don’t bring up old arguments; let sleeping dogs lie.",
+                "sentence translation": "不要开启旧的讨论；不要纠缠于过去的问题。"
+            }
+        ]
+    },
+    {
+        "word": "let slip through fingers",
+        "phonetic american": "lɛt slɪp θruː ˈfɪŋɡərz",
+        "phonetic british": "lɛt slɪp θruː ˈfɪŋɡəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "错过机会（成语）",
+                "sentence": "He let the chance of a promotion slip through his fingers.",
+                "sentence translation": "他放弃了升职的机会。"
+            }
+        ]
+    },
+    {
+        "word": "let the cat out of the bag",
+        "phonetic american": "lɛt ðə kæt aʊt əv ðə bæg",
+        "phonetic british": "lɛt ðə kæt aʊt əv ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "泄露秘密（成语）",
+                "sentence": "He accidentally let the cat out of the bag about the surprise party.",
+                "sentence translation": "他不小心泄露了惊喜派对的秘密。"
+            }
+        ]
+    },
+    {
+        "word": "lick one's wounds",
+        "phonetic american": "lɪk wʌnz wuːndz",
+        "phonetic british": "lɪk wʌnz wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "舔舐伤口，使情况好转（成语）",
+                "sentence": "After losing the match, the team went home to lick their wounds.",
+                "sentence translation": "输掉比赛后，球队回家舔伤。"
+            }
+        ]
+    },
+    {
+        "word": "lightning fast",
+        "phonetic american": "ˈlaɪtnɪŋ fæst",
+        "phonetic british": "ˈlaɪtnɪŋ fɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "速度极快，如闪电（成语）",
+                "sentence": "The new processor is lightning fast.",
+                "sentence translation": "新处理器速度快如闪电。"
+            }
+        ]
+    },
+    {
+        "word": "lights are on but nobody is home",
+        "phonetic american": "laɪts ɑːr ɑn bʌt ˈnoʊbədi ɪz hoʊm",
+        "phonetic british": "laɪts ɑːr ɒn bʌt ˈnəʊbədi ɪz həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "身体在场但表现出缺乏注意力或意识（习语）",
+                "sentence": "I tried explaining the problem, but it was like the lights were on but nobody was home.",
+                "sentence translation": "我试图解释这个问题，但他似乎没有注意。"
+            }
+        ]
+    },
+    {
+        "word": "like clockwork",
+        "phonetic american": "laɪk ˈklɑːkˌwɜːrk",
+        "phonetic british": "laɪk ˈklɒkˌwɜːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恰到好处，没有任何问题（成语）",
+                "sentence": "The trains in Japan run like clockwork.",
+                "sentence translation": "日本的火车准点运行。"
+            }
+        ]
+    },
+    {
+        "word": "like there's no tomorrow",
+        "phonetic american": "laɪk ðɛrz noʊ təˈmɑːroʊ",
+        "phonetic british": "laɪk ðɛəz nəʊ təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "做某事不受约束或仓促（成语）",
+                "sentence": "She’s spending money like there’s no tomorrow.",
+                "sentence translation": "他花钱就像没有明天一样。"
+            }
+        ]
+    },
+    {
+        "word": "lining up all the ducks in a row",
+        "phonetic american": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə roʊ",
+        "phonetic british": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə rəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "安排并准备好所有细节（成语）",
+                "sentence": "Before the presentation, she made sure all her ducks were in a row.",
+                "sentence translation": "他确保在演示之前所有细节都已准备就绪。"
+            }
+        ]
+    },
+    {
+        "word": "living beyond your means",
+        "phonetic american": "ˈlɪvɪŋ bɪˈjɑːnd jʊr miːnz",
+        "phonetic british": "ˈlɪvɪŋ bɪˈjɒnd jɔː miːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "支出超过收入（成语）",
+                "sentence": "He’s living beyond his means with that expensive car.",
+                "sentence translation": "他靠那辆昂贵的汽车过着高于收入的生活。"
+            }
+        ]
+    },
+    {
+        "word": "living in an ivory tower",
+        "phonetic american": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊər",
+        "phonetic british": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "与现实世界隔绝的生活（成语）",
+                "sentence": "Academics are often accused of living in an ivory tower.",
+                "sentence translation": "学者经常被指责生活在与现实世界隔绝的状态。"
+            }
+        ]
+    },
+    {
+        "word": "living on the breadline",
+        "phonetic american": "ˈlɪvɪŋ ɑn ðə ˈbrɛdˌlaɪn",
+        "phonetic british": "ˈlɪvɪŋ ɒn ðə ˈbrɛdˌlaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "生活在贫困的边缘（成语）",
+                "sentence": "Many families are living on the breadline due to the economic crisis.",
+                "sentence translation": "由于经济危机，许多家庭生活在贫困线上。"
+            }
+        ]
+    },
+    {
+        "word": "long arm of the law",
+        "phonetic american": "lɔːŋ ɑrm əv ðə lɔː",
+        "phonetic british": "lɒŋ ɑːm əv ðə lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "没有法律不能到达的地方（成语）",
+                "sentence": "You can’t escape the long arm of the law.",
+                "sentence translation": "你无法逃脱法律的制裁。"
+            }
+        ]
+    },
+    {
+        "word": "long time no see",
+        "phonetic american": "lɔːŋ taɪm noʊ siː",
+        "phonetic british": "lɒŋ taɪm nəʊ siː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "好久不见（成语）",
+                "sentence": "Hey, long time no see! How have you been?",
+                "sentence translation": "嘿嘿，好久不见！你好吗？"
+            }
+        ]
+    },
+    {
+        "word": "look on the bright side",
+        "phonetic american": "lʊk ɑn ðə braɪt saɪd",
+        "phonetic british": "lʊk ɒn ðə braɪt saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "看到事情积极的一面（成语）",
+                "sentence": "Look on the bright side; at least you learned something from the experience.",
+                "sentence translation": "看到事物积极的一面；至少你从这次经历中学到了一些东西。"
+            }
+        ]
+    },
+    {
+        "word": "love at first sight",
+        "phonetic american": "lʌv æt fɜːrst saɪt",
+        "phonetic british": "lʌv æt fɜːst saɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一见钟情（成语）",
+                "sentence": "It was love at first sight when they met at the party.",
+                "sentence translation": "当他们在聚会上相遇时，一见钟情。"
+            }
+        ]
+    },
+    {
+        "word": "lovey-dovey",
+        "phonetic american": "ˈlʌvi ˈdʌvi",
+        "phonetic british": "ˈlʌvi ˈdʌvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常有爱和浪漫（成语）",
+                "sentence": "The couple was so lovey-dovey at the restaurant.",
+                "sentence translation": "夫妻俩在餐厅里非常浪漫。"
+            }
+        ]
+    },
+    {
+        "word": "lump in your throat",
+        "phonetic american": "lʌmp ɪn jʊr θroʊt",
+        "phonetic british": "lʌmp ɪn jɔː θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "情绪激动时哽咽（成语）",
+                "sentence": "He felt a lump in his throat when he saw the farewell letter.",
+                "sentence translation": "当他看到那封告别信时，他感到喉咙哽住。"
+            }
+        ]
+    },
+    {
+        "word": "make a long story short",
+        "phonetic american": "meɪk ə lɔːŋ ˈstɔːri ʃɔːrt",
+        "phonetic british": "meɪk ə lɒŋ ˈstɔːri ʃɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "言归正传（成语）",
+                "sentence": "To make a long story short, we decided to cancel the trip.",
+                "sentence translation": "简而言之，我们决定取消这次旅行。"
+            }
+        ]
+    },
+    {
+        "word": "make my day",
+        "phonetic american": "meɪk maɪ deɪ",
+        "phonetic british": "meɪk maɪ deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "让我很高兴（成语）",
+                "sentence": "Your kind words really made my day.",
+                "sentence translation": "你的善意的话真的让我很高兴。"
+            }
+        ]
+    },
+    {
+        "word": "make or break",
+        "phonetic american": "meɪk ɔːr breɪk",
+        "phonetic british": "meɪk ɔː breɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "什么会导致成功或失败（成语）",
+                "sentence": "This is a make-or-break moment for the company.",
+                "sentence translation": "这是一个将决定公司成败的时刻。"
+            }
+        ]
+    },
+    {
+        "word": "make the grade",
+        "phonetic american": "meɪk ðə ɡreɪd",
+        "phonetic british": "meɪk ðə ɡreɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "达到预期标准（成语）",
+                "sentence": "She worked hard to make the grade and secure her promotion.",
+                "sentence translation": "他努力工作以达到获得晋升的预期标准。"
+            }
+        ]
+    },
+    {
+        "word": "make time",
+        "phonetic american": "meɪk taɪm",
+        "phonetic british": "meɪk taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "为某事腾出时间（成语）",
+                "sentence": "You should make time for your hobbies.",
+                "sentence translation": "你应该为你的爱好腾出时间。"
+            }
+        ]
+    },
+    {
+        "word": "makes your flesh crawl",
+        "phonetic american": "meɪks jʊr flɛʃ krɔːl",
+        "phonetic british": "meɪks jɔː flɛʃ krɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "吓唬、惊吓或打扰（成语）",
+                "sentence": "The creepy noises in the house made my flesh crawl.",
+                "sentence translation": "屋里传来奇怪的声音，让我不寒而栗。"
+            }
+        ]
+    },
+    {
+        "word": "making a go of it",
+        "phonetic american": "ˈmeɪkɪŋ ə ɡoʊ əv ɪt",
+        "phonetic british": "ˈmeɪkɪŋ ə ɡəʊ əv ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "试图使某事成功（习语）",
+                "sentence": "They’re making a go of their new business despite the challenges.",
+                "sentence translation": "尽管困难重重，他们还是努力成功经营他们的新业务。"
+            }
+        ]
+    },
+    {
+        "word": "making good time",
+        "phonetic american": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "phonetic british": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "快速到达目的地（成语）",
+                "sentence": "We’re making good time; we should arrive by noon.",
+                "sentence translation": "我们行动迅速；我们将在中午到达。"
+            }
+        ]
+    },
+    {
+        "word": "making headway",
+        "phonetic american": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "phonetic british": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "取得进步（成语）",
+                "sentence": "We’re finally making headway on the project after weeks of delays.",
+                "sentence translation": "经过几周的拖延，我们终于在该项目上取得了进展。"
+            }
+        ]
+    },
+    {
+        "word": "match made in heaven",
+        "phonetic american": "mætʃ meɪd ɪn ˈhɛvən",
+        "phonetic british": "mætʃ meɪd ɪn ˈhɛvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "门当户对的情侣或伴侣（成语）",
+                "sentence": "Their partnership is a match made in heaven.",
+                "sentence translation": "他们的合作关系非常融洽。"
+            }
+        ]
+    },
+    {
+        "word": "method to my madness",
+        "phonetic american": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "phonetic british": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "在看似混乱的事物背后有一个逻辑或计划（成语）",
+                "sentence": "It may seem chaotic, but there’s a method to my madness.",
+                "sentence translation": "这可能看起来很混乱，但我所做的事情是有逻辑的。"
+            }
+        ]
+    },
+    {
+        "word": "mile a minute",
+        "phonetic american": "maɪl ə ˈmɪnɪt",
+        "phonetic british": "maɪl ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "说话或动作很快（习语）",
+                "sentence": "She was talking a mile a minute, and I couldn’t keep up.",
+                "sentence translation": "他说得太快了，我根本跟不上。"
+            }
+        ]
+    },
+    {
+        "word": "miss the boat",
+        "phonetic american": "mɪs ðə boʊt",
+        "phonetic british": "mɪs ðə bəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "错过机会（成语）",
+                "sentence": "I wanted to apply for that job, but I missed the boat.",
+                "sentence translation": "我想申请那份工作，但我错过了机会。"
+            }
+        ]
+    },
+    {
+        "word": "monkey business",
+        "phonetic american": "ˈmʌŋki ˈbɪznɪs",
+        "phonetic british": "ˈmʌŋki ˈbɪznɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恶作剧或欺骗（成语）",
+                "sentence": "The teacher warned the students to stop their monkey business.",
+                "sentence translation": "老师警告学生们停止不良行为。"
+            }
+        ]
+    },
+    {
+        "word": "month of Sundays",
+        "phonetic american": "mʌnθ əv ˈsʌndiz",
+        "phonetic british": "mʌnθ əv ˈsʌndɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "很长一段时间（成语）",
+                "sentence": "I haven’t seen him in a month of Sundays.",
+                "sentence translation": "我已经很长时间没见到他了。"
+            }
+        ]
+    },
+    {
+        "word": "Murphy's law",
+        "phonetic american": "ˈmɜːrfiz lɔː",
+        "phonetic british": "ˈmɜːfiz lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "如果某件事可能出错，它就会出错（成语）。",
+                "sentence": "We prepared for everything, but Murphy's law struck again, and the power went out.",
+                "sentence translation": "我们已经做好了一切准备，但墨菲定律再次发挥作用，停电了。"
+            }
+        ]
+    },
+    {
+        "word": "never in a million years",
+        "phonetic american": "ˈnɛvər ɪn ə ˈmɪljən jɪrz",
+        "phonetic british": "ˈnɛvə ɪn ə ˈmɪljən jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "决不、绝不（成语）",
+                "sentence": "Never in a million years did I think I would win the lottery.",
+                "sentence translation": "我从来没有想过自己会中彩票，哪怕是百万分之一。"
+            }
+        ]
+    },
+    {
+        "word": "no time like the present",
+        "phonetic american": "noʊ taɪm laɪk ðə ˈprɛzənt",
+        "phonetic british": "nəʊ taɪm laɪk ðə ˈprɛzənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "表示现在是做某事的最佳时机（成语）",
+                "sentence": "Let’s start the project now; there’s no time like the present.",
+                "sentence translation": "现在让我们开始这个项目；没有比现在更好的时机了。"
+            }
+        ]
+    },
+    {
+        "word": "no time to lose",
+        "phonetic american": "noʊ taɪm tə luz",
+        "phonetic british": "nəʊ taɪm tə luːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "没有时间可以浪费，情况需要赶快（成语）",
+                "sentence": "We have to leave immediately; there’s no time to lose.",
+                "sentence translation": "我们必须立即离开；没有浪费时间的余地。"
+            }
+        ]
+    },
+    {
+        "word": "not letting grass grow under your feet",
+        "phonetic american": "nɑːt ˈlɛtɪŋ ɡræs ɡroʊ ˈʌndər jʊr fit",
+        "phonetic british": "nɒt ˈlɛtɪŋ ɡrɑːs ɡrəʊ ˈʌndə jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "毫不犹豫地采取行动（成语）",
+                "sentence": "She never lets grass grow under her feet; she started her new business right after finishing college.",
+                "sentence translation": "他不浪费时间；大学一毕业他就开始了新的工作。"
+            }
+        ]
+    },
+    {
+        "word": "now and then",
+        "phonetic american": "naʊ ənd ðɛn",
+        "phonetic british": "naʊ ənd ðɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "偶尔，有时（成语）",
+                "sentence": "I like to visit my grandparents now and then.",
+                "sentence translation": "我喜欢偶尔去看望我的祖父母。"
+            }
+        ]
+    },
+    {
+        "word": "now or never",
+        "phonetic american": "naʊ ɔr ˈnɛvər",
+        "phonetic british": "naʊ ɔː ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "是时候做点什么了（成语）",
+                "sentence": "If you want to change your career, it’s now or never.",
+                "sentence translation": "如果你想改变你的职业，现在正是时候。"
+            }
+        ]
+    },
+    {
+        "word": "off colour",
+        "phonetic american": "ɔf ˈkʌlər",
+        "phonetic british": "ɒf ˈkʌlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "感觉迟钝或不舒服（习语）",
+                "sentence": "I’ve been feeling a bit off colour today.",
+                "sentence translation": "我今天感觉有点累。"
+            }
+        ]
+    },
+    {
+        "word": "off one's rocker",
+        "phonetic american": "ɔf wʌnz ˈrɑːkər",
+        "phonetic british": "ɒf wʌnz ˈrɒkə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "表现得疯狂或非理性（成语）",
+                "sentence": "You must be off your rocker to drive in this weather.",
+                "sentence translation": "在这种天气里尝试开车真是太疯狂了。"
+            }
+        ]
+    },
+    {
+        "word": "off to a flying start",
+        "phonetic american": "ɔf tə ə ˈflaɪɪŋ stɑːrt",
+        "phonetic british": "ɒf tə ə ˈflaɪɪŋ stɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一个非常成功的开始（成语）",
+                "sentence": "The team got off to a flying start by scoring in the first minute.",
+                "sentence translation": "球队开局非常成功，开场第一分钟就取得进球。"
+            }
+        ]
+    },
+    {
+        "word": "old hand",
+        "phonetic american": "oʊld hænd",
+        "phonetic british": "əʊld hænd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "有经验的人（成语）",
+                "sentence": "He’s an old hand at fixing cars.",
+                "sentence translation": "他在汽车修理方面很有经验。"
+            }
+        ]
+    },
+    {
+        "word": "old school",
+        "phonetic american": "oʊld skuːl",
+        "phonetic british": "əʊld skuːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "老式的，传统的（成语）",
+                "sentence": "He prefers old school methods over modern technology.",
+                "sentence translation": "与现代技术相比，他更喜欢老式方法。"
+            }
+        ]
+    },
+    {
+        "word": "on the ball",
+        "phonetic american": "ɑn ðə bɔːl",
+        "phonetic british": "ɒn ðə bɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "小心翼翼、行动迅速（成语）",
+                "sentence": "The manager is really on the ball and catches mistakes quickly.",
+                "sentence translation": "经理真的很细心，很快就发现了错误。"
+            }
+        ]
+    },
+    {
+        "word": "on the brain",
+        "phonetic american": "ɑn ðə breɪn",
+        "phonetic british": "ɒn ðə breɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "始终痴迷于某个主题（成语）",
+                "sentence": "He has football on the brain; it’s all he talks about.",
+                "sentence translation": "他的心思始终集中在足球上；这就是他所说的全部。"
+            }
+        ]
+    },
+    {
+        "word": "on the rocks",
+        "phonetic american": "ɑn ðə rɑːks",
+        "phonetic british": "ɒn ðə rɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "处境困难，尤其是在人际关系或财务状况方面（成语）",
+                "sentence": "Their marriage is on the rocks after years of arguments.",
+                "sentence translation": "经过多年的争吵，他们的婚姻陷入了困境。"
+            }
+        ]
+    },
+    {
+        "word": "on time",
+        "phonetic american": "ɑn taɪm",
+        "phonetic british": "ɒn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恰到好处，毫不拖延（成语）",
+                "sentence": "The train arrived on time, as scheduled.",
+                "sentence translation": "火车按计划准时到达。"
+            }
+        ]
+    },
+    {
+        "word": "once in a blue moon",
+        "phonetic american": "wʌns ɪn ə bluː muːn",
+        "phonetic british": "wʌns ɪn ə bluː muːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "很少发生的事情（成语）",
+                "sentence": "I only go to the cinema once in a blue moon.",
+                "sentence translation": "我很少去电影院。"
+            }
+        ]
+    },
+    {
+        "word": "once upon a time",
+        "phonetic american": "wʌns əˈpɑːn ə taɪm",
+        "phonetic british": "wʌns əˈpɒn ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "很久很久以前，常用于故事的开头（成语）",
+                "sentence": "Once upon a time, there was a beautiful princess.",
+                "sentence translation": "从前有一位美丽的公主。"
+            }
+        ]
+    },
+    {
+        "word": "only time will tell",
+        "phonetic american": "ˈoʊnli taɪm wɪl tɛl",
+        "phonetic british": "ˈəʊnli taɪm wɪl tɛl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "只有时间才能证明事情的结果（成语）",
+                "sentence": "Only time will tell if their decision was the right one.",
+                "sentence translation": "只有时间才能证明他们的决定是否正确。"
+            }
+        ]
+    },
+    {
+        "word": "out of the blue",
+        "phonetic american": "aʊt əv ðə bluː",
+        "phonetic british": "aʊt əv ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "出乎意料（成语）",
+                "sentence": "He showed up out of the blue after years of no contact.",
+                "sentence translation": "多年没有消息后突然出现。"
+            }
+        ]
+    },
+    {
+        "word": "out of the red",
+        "phonetic american": "aʊt əv ðə rɛd",
+        "phonetic british": "aʊt əv ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "摆脱债务（成语）",
+                "sentence": "The company is finally out of the red and starting to make a profit.",
+                "sentence translation": "公司终于摆脱了债务并开始盈利。"
+            }
+        ]
+    },
+    {
+        "word": "out of time",
+        "phonetic american": "aʊt əv taɪm",
+        "phonetic british": "aʊt əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不合时宜（成语）",
+                "sentence": "We’re out of time, so we’ll have to continue this discussion later.",
+                "sentence translation": "我们已经没时间了，所以我们必须稍后再继续讨论。"
+            }
+        ]
+    },
+    {
+        "word": "paint the town red",
+        "phonetic american": "peɪnt ðə taʊn rɛd",
+        "phonetic british": "peɪnt ðə taʊn rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "出去玩（成语）",
+                "sentence": "After finishing their exams, the students decided to paint the town red.",
+                "sentence translation": "考试结束后，同学们决定出去玩。"
+            }
+        ]
+    },
+    {
+        "word": "pass with flying colours",
+        "phonetic american": "pæs wɪð ˈflaɪɪŋ ˈkʌlərz",
+        "phonetic british": "pɑːs wɪð ˈflaɪɪŋ ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "出色地通过（成语）",
+                "sentence": "She passed the exam with flying colours.",
+                "sentence translation": "他以优异的成绩通过了考试。"
+            }
+        ]
+    },
+    {
+        "word": "penny for your thoughts",
+        "phonetic american": "ˈpɛni fɔːr jʊr θɔːts",
+        "phonetic british": "ˈpɛni fɔː jɔː θɔːts",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "询问某人的想法（习语）",
+                "sentence": "You’ve been quiet all evening; a penny for your thoughts?",
+                "sentence translation": "整个晚上你都沉默不语；你在想什么？"
+            }
+        ]
+    },
+    {
+        "word": "picture paints a thousand words",
+        "phonetic american": "ˈpɪktʃər peɪnts ə ˈθaʊzənd wɜːrdz",
+        "phonetic british": "ˈpɪktʃə peɪnts ə ˈθaʊzənd wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一图胜千言（成语）",
+                "sentence": "Instead of explaining the design, just show them; a picture paints a thousand words.",
+                "sentence translation": "向他们展示设计而不是解释它；一张图胜过一千个字。"
+            }
+        ]
+    },
+    {
+        "word": "piece of cake",
+        "phonetic american": "piːs əv keɪk",
+        "phonetic british": "piːs əv keɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "这是一件很容易的事（成语）",
+                "sentence": "The test was a piece of cake; I finished it in ten minutes.",
+                "sentence translation": "测试非常简单；我十分钟就完成了。"
+            }
+        ]
+    },
+    {
+        "word": "pitch black",
+        "phonetic american": "pɪtʃ blæk",
+        "phonetic british": "pɪtʃ blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "漆黑（成语）",
+                "sentence": "It was pitch black outside when the power went out.",
+                "sentence translation": "停电时，外面一片漆黑。"
+            }
+        ]
+    },
+    {
+        "word": "place in the sun",
+        "phonetic american": "pleɪs ɪn ðə sʌn",
+        "phonetic british": "pleɪs ɪn ðə sʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "受到所有人关注和欣赏的地方或情况（成语）",
+                "sentence": "She’s finally found her place in the sun with her new career.",
+                "sentence translation": "他终于在新的职业生涯中找到了亮点。"
+            }
+        ]
+    },
+    {
+        "word": "pop the question",
+        "phonetic american": "pɑːp ðə ˈkwɛstʃən",
+        "phonetic british": "pɒp ðə ˈkwɛstʃən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "求婚（成语）",
+                "sentence": "He popped the question during their vacation in Paris.",
+                "sentence translation": "他在巴黎度假期间求婚。"
+            }
+        ]
+    },
+    {
+        "word": "pot calling the kettle black",
+        "phonetic american": "pɑːt ˈkɔːlɪŋ ðə ˈkɛtəl blæk",
+        "phonetic british": "pɒt ˈkɔːlɪŋ ðə ˈkɛtl blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "批评别人自己的缺点（成语）",
+                "sentence": "When he criticized her for being late, it was the pot calling the kettle black.",
+                "sentence translation": "当她批评他迟到时，这确实是一种“底线”的情况。"
+            }
+        ]
+    },
+    {
+        "word": "pressed for time",
+        "phonetic american": "prɛst fɔːr taɪm",
+        "phonetic british": "prɛst fɔː taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "时间不够（成语）",
+                "sentence": "I can’t talk right now; I’m pressed for time.",
+                "sentence translation": "我现在不能说话；我的时间非常有限。"
+            }
+        ]
+    },
+    {
+        "word": "proud as a peacock",
+        "phonetic american": "praʊd æz ə ˈpiːkɑːk",
+        "phonetic british": "praʊd æz ə ˈpiːkɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常自豪（成语）",
+                "sentence": "He was as proud as a peacock when he received the award.",
+                "sentence translation": "当他获得这个奖项时，他感到非常自豪。"
+            }
+        ]
+    },
+    {
+        "word": "pull the plug",
+        "phonetic american": "pʊl ðə plʌɡ",
+        "phonetic british": "pʊl ðə plʌɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "停止或结束某事（习语）",
+                "sentence": "The company decided to pull the plug on the failing project.",
+                "sentence translation": "公司决定终止这个失败的项目。"
+            }
+        ]
+    },
+    {
+        "word": "pull wool over other people's eyes",
+        "phonetic american": "pʊl wʊl ˈoʊvər ˈʌðər ˈpiːpəlz aɪz",
+        "phonetic british": "pʊl wʊl ˈəʊvə ˈʌðə ˈpiːplz aɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "欺骗或误导某人（成语）",
+                "sentence": "He tried to pull the wool over the manager’s eyes, but she saw through his lies.",
+                "sentence translation": "他试图欺骗经理，但他的谎言被揭穿了。"
+            }
+        ]
+    },
+    {
+        "word": "pulling out all the stops",
+        "phonetic american": "ˈpʊlɪŋ aʊt ɔːl ðə stɑːps",
+        "phonetic british": "ˈpʊlɪŋ aʊt ɔːl ðə stɒps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "利用一切可能性来实现某事（成语）",
+                "sentence": "They’re pulling out all the stops to make the event successful.",
+                "sentence translation": "他们使用一切手段来使活动取得成功。"
+            }
+        ]
+    },
+    {
+        "word": "punch above one's weight",
+        "phonetic american": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "phonetic british": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "表现比预期更好（成语）",
+                "sentence": "The small company is punching above its weight in the tech industry.",
+                "sentence translation": "这家小公司在科技领域的表现好于预期。"
+            }
+        ]
+    },
+    {
+        "word": "puppy love",
+        "phonetic american": "ˈpʌpi lʌv",
+        "phonetic british": "ˈpʌpi lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "幼稚或年轻时感受到的浪漫爱情（成语）",
+                "sentence": "Their relationship was just puppy love and didn’t last long.",
+                "sentence translation": "他们的关系只是青少年时期的爱情，并没有持续多久。"
+            }
+        ]
+    },
+    {
+        "word": "put it in black and white",
+        "phonetic american": "pʊt ɪt ɪn blæk ənd waɪt",
+        "phonetic british": "pʊt ɪt ɪn blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "把某事写成书面的，使其正式化（成语）",
+                "sentence": "Before we agree, let’s put it in black and white.",
+                "sentence translation": "在我们接受之前，让我们把它写下来。"
+            }
+        ]
+    },
+    {
+        "word": "put your thinking cap on",
+        "phonetic american": "pʊt jʊr ˈθɪŋkɪŋ kæp ɑn",
+        "phonetic british": "pʊt jɔː ˈθɪŋkɪŋ kæp ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "认真思考（成语）",
+                "sentence": "We need to solve this problem, so put your thinking cap on.",
+                "sentence translation": "我们需要解决这个问题，所以要认真思考。"
+            }
+        ]
+    },
+    {
+        "word": "rags to riches",
+        "phonetic american": "ræɡz tə ˈrɪtʃɪz",
+        "phonetic british": "ræɡz tə ˈrɪtʃɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "脱贫致富（成语）",
+                "sentence": "His story is a classic rags-to-riches tale.",
+                "sentence translation": "他的故事是一个典型的白手起家的故事。"
+            }
+        ]
+    },
+    {
+        "word": "raining cats and dogs",
+        "phonetic american": "ˈreɪnɪŋ kæts ənd dɔːɡz",
+        "phonetic british": "ˈreɪnɪŋ kæts ənd dɒɡz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "下大雨（成语）",
+                "sentence": "We couldn’t go outside because it was raining cats and dogs.",
+                "sentence translation": "我们不能出去，因为雨下得很大。"
+            }
+        ]
+    },
+    {
+        "word": "raise the white flag",
+        "phonetic american": "reɪz ðə waɪt flæɡ",
+        "phonetic british": "reɪz ðə waɪt flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "投降，认输（成语）",
+                "sentence": "After hours of arguing, she finally raised the white flag.",
+                "sentence translation": "经过几个小时的辩论，他最终认输了。"
+            }
+        ]
+    },
+    {
+        "word": "raring to go",
+        "phonetic american": "ˈrɛrɪŋ tə ɡoʊ",
+        "phonetic british": "ˈrɛərɪŋ tə ɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "等不及要开始（成语）",
+                "sentence": "The team is raring to go for the big game.",
+                "sentence translation": "球队对这场重要的比赛充满期待。"
+            }
+        ]
+    },
+    {
+        "word": "rat race",
+        "phonetic american": "ræt reɪs",
+        "phonetic british": "ræt reɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "充满激烈竞争和压力的生活方式（成语）",
+                "sentence": "He left the rat race to live a simpler life in the countryside.",
+                "sentence translation": "他放弃了激烈竞争的生活，过上了简单的生活。"
+            }
+        ]
+    },
+    {
+        "word": "red flag",
+        "phonetic american": "rɛd flæɡ",
+        "phonetic british": "rɛd flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "危险或警告信号（习语）",
+                "sentence": "Her constant lateness is a red flag for her reliability.",
+                "sentence translation": "他经常迟到是对他可靠性的一个警告信号。"
+            }
+        ]
+    },
+    {
+        "word": "red herring",
+        "phonetic american": "rɛd ˈhɛrɪŋ",
+        "phonetic british": "rɛd ˈhɛrɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "转移注意力的事情（成语）",
+                "sentence": "The mystery novel had plenty of red herrings to keep readers guessing.",
+                "sentence translation": "这部侦探小说包含许多误导性的内容，让读者不断猜测。"
+            }
+        ]
+    },
+    {
+        "word": "red hot",
+        "phonetic american": "rɛd hɑːt",
+        "phonetic british": "rɛd hɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常受欢迎或成功（习语）",
+                "sentence": "The new smartphone is red hot in the market.",
+                "sentence translation": "这款新型智能手机在市场上很受欢迎。"
+            }
+        ]
+    },
+    {
+        "word": "red in the face",
+        "phonetic american": "rɛd ɪn ðə feɪs",
+        "phonetic british": "rɛd ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "因羞愧或愤怒而脸红（成语）",
+                "sentence": "She was red in the face after tripping in front of everyone.",
+                "sentence translation": "当他在众人面前跌跌撞撞时，他脸红了。"
+            }
+        ]
+    },
+    {
+        "word": "red tape",
+        "phonetic american": "rɛd teɪp",
+        "phonetic british": "rɛd teɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "过多的官僚主义或不必要的手续（短语）",
+                "sentence": "We had to deal with a lot of red tape to get the permits approved.",
+                "sentence translation": "我们必须处理大量繁文缛节才能获得许可。"
+            }
+        ]
+    },
+    {
+        "word": "red-eye",
+        "phonetic american": "rɛd-aɪ",
+        "phonetic british": "rɛd-aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "深夜飞行（成语）",
+                "sentence": "He took the red-eye to New York to save time.",
+                "sentence translation": "为了节省时间，他乘坐深夜航班飞往纽约。"
+            }
+        ]
+    },
+    {
+        "word": "road hog",
+        "phonetic american": "roʊd hɑːɡ",
+        "phonetic british": "rəʊd hɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "司机在路上妨碍他人（成语）",
+                "sentence": "That road hog nearly caused an accident by swerving.",
+                "sentence translation": "那个路霸差点因为转弯而酿成事故。"
+            }
+        ]
+    },
+    {
+        "word": "roll out the red carpet",
+        "phonetic american": "roʊl aʊt ðə rɛd ˈkɑːrpɪt",
+        "phonetic british": "rəʊl aʊt ðə rɛd ˈkɑːpɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "对某人表现出特别的兴趣或关心（习语）",
+                "sentence": "The hotel rolled out the red carpet for its celebrity guests.",
+                "sentence translation": "酒店为著名客人举办了特别招待会。"
+            }
+        ]
+    },
+    {
+        "word": "sail through something",
+        "phonetic american": "seɪl θruː ˈsʌmθɪŋ",
+        "phonetic british": "seɪl θruː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "轻松地完成某件事或取得成功（成语）",
+                "sentence": "She sailed through her exams with top marks.",
+                "sentence translation": "他以高分轻松地通过了考试。"
+            }
+        ]
+    },
+    {
+        "word": "save time",
+        "phonetic american": "seɪv taɪm",
+        "phonetic british": "seɪv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "节省时间（成语）",
+                "sentence": "Using a dishwasher saves time compared to washing dishes by hand.",
+                "sentence translation": "与手洗相比，使用洗碗机可以节省时间。"
+            }
+        ]
+    },
+    {
+        "word": "school of hard knocks",
+        "phonetic american": "skuːl əv hɑːrd nɑːks",
+        "phonetic british": "skuːl əv hɑːd nɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "从生活的困难中吸取的教训（成语）",
+                "sentence": "He didn’t go to college but learned everything through the school of hard knocks.",
+                "sentence translation": "他没有上过大学，但他从生活的困难中学到了一切。"
+            }
+        ]
+    },
+    {
+        "word": "school of thought",
+        "phonetic american": "skuːl əv θɔːt",
+        "phonetic british": "skuːl əv θɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一群人达成一致的思想体系（习语）",
+                "sentence": "There’s a school of thought that believes in minimalism for a happier life.",
+                "sentence translation": "有一种思想体系相信极简主义可以带来更幸福的生活。"
+            }
+        ]
+    },
+    {
+        "word": "schoolboy error",
+        "phonetic american": "ˈskuːlbɔɪ ˈɛrər",
+        "phonetic british": "ˈskuːlbɔɪ ˈɛrə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一个简单而愚蠢的错误（习语）",
+                "sentence": "The goalkeeper made a schoolboy error and let the ball go in.",
+                "sentence translation": "守门员犯了一个简单的错误，让球进了。"
+            }
+        ]
+    },
+    {
+        "word": "seeing eye to eye",
+        "phonetic american": "ˈsiːɪŋ aɪ tə aɪ",
+        "phonetic british": "ˈsiːɪŋ aɪ tə aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "对某事达成一致（成语）",
+                "sentence": "They don’t always see eye to eye, but they respect each other’s opinions.",
+                "sentence translation": "他们尊重彼此的意见，即使他们并不总是同意。"
+            }
+        ]
+    },
+    {
+        "word": "seeing red",
+        "phonetic american": "ˈsiːɪŋ rɛd",
+        "phonetic british": "ˈsiːɪŋ rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常生气（成语）",
+                "sentence": "She was seeing red when she found out someone had scratched her car.",
+                "sentence translation": "当他发现有人划伤他的车时，他非常愤怒。"
+            }
+        ]
+    },
+    {
+        "word": "sell ice to Eskimos",
+        "phonetic american": "sɛl aɪs tə ˈɛskɪmoʊz",
+        "phonetic british": "sɛl aɪs tə ˈɛskɪməʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "有足够的说服力来推销困难的东西（成语）",
+                "sentence": "He's so charming, he could sell ice to Eskimos.",
+                "sentence translation": "他太有吸引力了，甚至可以把冰块卖给爱斯基摩人。"
+            }
+        ]
+    },
+    {
+        "word": "shelf life",
+        "phonetic american": "ʃɛlf laɪf",
+        "phonetic british": "ʃɛlf laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "产品可用的时间段（短语）",
+                "sentence": "The shelf life of this yogurt is about two weeks.",
+                "sentence translation": "这种酸奶的保质期约为两周。"
+            }
+        ]
+    },
+    {
+        "word": "show of hands",
+        "phonetic american": "ʃoʊ əv hændz",
+        "phonetic british": "ʃəʊ əv hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "举手表决（成语）",
+                "sentence": "Let’s take a show of hands to decide where to go.",
+                "sentence translation": "让我们举起手来决定去哪里。"
+            }
+        ]
+    },
+    {
+        "word": "shown the red card",
+        "phonetic american": "ʃoʊn ðə rɛd kɑːrd",
+        "phonetic british": "ʃəʊn ðə rɛd kɑːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "对某人给予最后的警告或惩罚（成语）",
+                "sentence": "After repeated mistakes, he was finally shown the red card by his boss.",
+                "sentence translation": "一次又一次的失误后，他终于受到了老板的惩罚。"
+            }
+        ]
+    },
+    {
+        "word": "silver screen",
+        "phonetic american": "ˈsɪlvər skriːn",
+        "phonetic british": "ˈsɪlvə skriːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "电影世界（成语）",
+                "sentence": "She dreamed of becoming a star on the silver screen.",
+                "sentence translation": "他梦想成为电影界的明星。"
+            }
+        ]
+    },
+    {
+        "word": "single file",
+        "phonetic american": "ˈsɪŋɡəl faɪl",
+        "phonetic british": "ˈsɪŋɡəl faɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "排成一列行进（成语）",
+                "sentence": "The children walked in single file along the narrow path.",
+                "sentence translation": "孩子们排成一列沿着狭窄的小路走着。"
+            }
+        ]
+    },
+    {
+        "word": "sink or swim",
+        "phonetic american": "sɪŋk ɔːr swɪm",
+        "phonetic british": "sɪŋk ɔː swɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "要么成功，要么失败（成语）",
+                "sentence": "Starting your own business is a sink-or-swim situation.",
+                "sentence translation": "创办自己的企业是一种要么成功要么失败的情况。"
+            }
+        ]
+    },
+    {
+        "word": "sinking teeth into something",
+        "phonetic american": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "phonetic british": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "完全专注于或参与某事（习语）",
+                "sentence": "She’s really sinking her teeth into this new project.",
+                "sentence translation": "他真的全身心投入到这个新项目中。"
+            }
+        ]
+    },
+    {
+        "word": "sit on the fence",
+        "phonetic american": "sɪt ɑn ðə fɛns",
+        "phonetic british": "sɪt ɒn ðə fɛns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "保持中立或不对问题做出决定（习语）",
+                "sentence": "You can’t sit on the fence forever; you need to choose a side.",
+                "sentence translation": "你不可能永远保持中立；你需要选择一边。"
+            }
+        ]
+    },
+    {
+        "word": "skip class",
+        "phonetic american": "skɪp klæs",
+        "phonetic british": "skɪp klɑːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不上课、逃课（成语）",
+                "sentence": "He got into trouble for skipping class yesterday.",
+                "sentence translation": "他昨天因为逃课而惹上麻烦。"
+            }
+        ]
+    },
+    {
+        "word": "sleeping (or silent) partner",
+        "phonetic american": "ˈsliːpɪŋ ˈpɑːrtnər",
+        "phonetic british": "ˈsliːpɪŋ ˈpɑːtnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不活跃但已投入资金的商业伙伴（成语）",
+                "sentence": "He’s just a sleeping partner in the business and doesn’t get involved in daily operations.",
+                "sentence translation": "他只是业务中的被动合伙人，不参与日常运营。"
+            }
+        ]
+    },
+    {
+        "word": "slice of the pie",
+        "phonetic american": "slaɪs əv ðə paɪ",
+        "phonetic british": "slaɪs əv ðə paɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "公平分享某物（成语）",
+                "sentence": "Everyone in the team deserves a slice of the pie after the success.",
+                "sentence translation": "团队中的每个人都应该分享成功。"
+            }
+        ]
+    },
+    {
+        "word": "smash hit",
+        "phonetic american": "smæʃ hɪt",
+        "phonetic british": "smæʃ hɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一部大获成功的作品（成语）",
+                "sentence": "The movie was a smash hit and broke box office records.",
+                "sentence translation": "这部电影取得了巨大成功，打破了票房纪录。"
+            }
+        ]
+    },
+    {
+        "word": "snowed under",
+        "phonetic american": "snoʊd ˈʌndər",
+        "phonetic british": "snəʊd ˈʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "工作太多，感到不知所措（成语）",
+                "sentence": "I’m snowed under with work and can’t take on any more tasks.",
+                "sentence translation": "我工作太忙，无法承担任何其他职责。"
+            }
+        ]
+    },
+    {
+        "word": "sooner or later",
+        "phonetic american": "ˈsuːnər ɔːr ˈleɪtər",
+        "phonetic british": "ˈsuːnə ɔː ˈleɪtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "迟早（成语）",
+                "sentence": "Sooner or later, you’ll realize that I was right.",
+                "sentence translation": "迟早你会意识到我是对的。"
+            }
+        ]
+    },
+    {
+        "word": "sour grapes",
+        "phonetic american": "saʊr ɡreɪps",
+        "phonetic british": "saʊə ɡreɪps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "贬低无法实现的事情（成语）",
+                "sentence": "He said he didn’t want the job anyway, but it’s just sour grapes.",
+                "sentence translation": "他已经说过他不想要这份工作，但这只是贬低他没有得到的工作。"
+            }
+        ]
+    },
+    {
+        "word": "spanner in the works",
+        "phonetic american": "ˈspænər ɪn ðə wɜːrks",
+        "phonetic british": "ˈspænə ɪn ðə wɜːks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "打乱计划的情况或人（习语）",
+                "sentence": "The unexpected weather threw a spanner in the works for the outdoor event.",
+                "sentence translation": "意外的天气打乱了户外活动计划。"
+            }
+        ]
+    },
+    {
+        "word": "speak of the devil",
+        "phonetic american": "spiːk əv ðə ˈdɛvəl",
+        "phonetic british": "spiːk əv ðə ˈdɛvəl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "用于如果你正在谈论的人突然出现（成语）",
+                "sentence": "Speak of the devil! We were just talking about you.",
+                "sentence translation": "还好你开口说话了！我们刚才正在谈论你。"
+            }
+        ]
+    },
+    {
+        "word": "speaks volumes",
+        "phonetic american": "spiːks ˈvɑːljuːmz",
+        "phonetic british": "spiːks ˈvɒljuːmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "讲述很多，表达（成语）",
+                "sentence": "Her smile speaks volumes about her happiness.",
+                "sentence translation": "她的笑容透露了很多她的幸福。"
+            }
+        ]
+    },
+    {
+        "word": "spill the beans",
+        "phonetic american": "spɪl ðə biːnz",
+        "phonetic british": "spɪl ðə biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "泄露秘密（成语）",
+                "sentence": "He spilled the beans about the surprise party.",
+                "sentence translation": "他透露了惊喜派对的秘密。"
+            }
+        ]
+    },
+    {
+        "word": "standing ground",
+        "phonetic american": "ˈstændɪŋ ɡraʊnd",
+        "phonetic british": "ˈstændɪŋ ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "捍卫自己的立场或观点（习语）",
+                "sentence": "She stood her ground despite the intense criticism.",
+                "sentence translation": "尽管受到强烈批评，他还是捍卫了自己的观点。"
+            }
+        ]
+    },
+    {
+        "word": "standing the test of time",
+        "phonetic american": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "phonetic british": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "长期保留价值或重要性（习语）",
+                "sentence": "This classic novel has stood the test of time.",
+                "sentence translation": "这部经典小说经受住了时间的考验。"
+            }
+        ]
+    },
+    {
+        "word": "steal someone's thunder",
+        "phonetic american": "stiːl ˈsʌmwʌnz ˈθʌndər",
+        "phonetic british": "stiːl ˈsʌmwʌnz ˈθʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "窃取某人的成功或注意力（习语）",
+                "sentence": "She stole my thunder by announcing her promotion before I could announce mine.",
+                "sentence translation": "他在宣布我的晋升之前先宣布了自己的晋升，从而引起了人们的注意。"
+            }
+        ]
+    },
+    {
+        "word": "stiff upper lip",
+        "phonetic american": "stɪf ˈʌpər lɪp",
+        "phonetic british": "stɪf ˈʌpə lɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不表露感情，表现刚毅（成语）",
+                "sentence": "Even during the crisis, he kept a stiff upper lip.",
+                "sentence translation": "即使在危机时刻，他也没有表现出自己的情绪。"
+            }
+        ]
+    },
+    {
+        "word": "storm in a teacup",
+        "phonetic american": "stɔːrm ɪn ə ˈtiːˌkʌp",
+        "phonetic british": "stɔːm ɪn ə ˈtiːˌkʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "对一个不重要的问题进行不必要的争论（习语）",
+                "sentence": "This argument over seating arrangements is just a storm in a teacup.",
+                "sentence translation": "这种关于座位安排的讨论是完全没有必要的。"
+            }
+        ]
+    },
+    {
+        "word": "straight from the horse's mouth",
+        "phonetic american": "streɪt frəm ðə hɔːrsɪz maʊθ",
+        "phonetic british": "streɪt frəm ðə hɔːsɪz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "直接从可靠来源获取的信息（习语）",
+                "sentence": "I heard the news straight from the horse’s mouth.",
+                "sentence translation": "我直接从可靠的来源收到了这个消息。"
+            }
+        ]
+    },
+    {
+        "word": "stuck in a time warp",
+        "phonetic american": "stʌk ɪn ə taɪm wɔːrp",
+        "phonetic british": "stʌk ɪn ə taɪm wɔːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "守旧、不适应时代（成语）",
+                "sentence": "His style of clothing makes him look like he’s stuck in a time warp.",
+                "sentence translation": "他的穿着方式让他看起来像是陷入了旧时尚之中。"
+            }
+        ]
+    },
+    {
+        "word": "swallow one's pride",
+        "phonetic american": "ˈswɑːloʊ wʌnz praɪd",
+        "phonetic british": "ˈswɒləʊ wʌnz praɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "放下你的骄傲（成语）",
+                "sentence": "He had to swallow his pride and apologize to her.",
+                "sentence translation": "他必须放下自尊，向她道歉。"
+            }
+        ]
+    },
+    {
+        "word": "sweet tooth",
+        "phonetic american": "swiːt tuːθ",
+        "phonetic british": "swiːt tuːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "爱吃甜食（成语）",
+                "sentence": "She has a sweet tooth and loves desserts.",
+                "sentence translation": "他爱吃甜食，非常喜欢吃甜食。"
+            }
+        ]
+    },
+    {
+        "word": "take each day as it comes",
+        "phonetic american": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "phonetic british": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "过好每一天，不去想太多未来（成语）",
+                "sentence": "Life is unpredictable, so I just take each day as it comes.",
+                "sentence translation": "生活是不可预测的，所以我一天天过着。"
+            }
+        ]
+    },
+    {
+        "word": "take with a grain (or pinch) of salt",
+        "phonetic american": "teɪk wɪð ə ɡreɪn əv sɔːlt",
+        "phonetic british": "teɪk wɪð ə pɪnʧ əv sɒlt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "以怀疑的态度评价某事（成语）",
+                "sentence": "Take what you read on the internet with a grain of salt.",
+                "sentence translation": "您应该对在互联网上读到的内容持保留态度。"
+            }
+        ]
+    },
+    {
+        "word": "taste of your own medicine",
+        "phonetic american": "teɪst əv jʊr oʊn ˈmɛdəsən",
+        "phonetic british": "teɪst əv jɔːr əʊn ˈmɛdɪsɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "体验自己行为的负面影响（成语）",
+                "sentence": "When he got ignored by his team, he had a taste of his own medicine.",
+                "sentence translation": "当他被团队忽视时，他也因自己的行为而受到影响。"
+            }
+        ]
+    },
+    {
+        "word": "teacher's pet",
+        "phonetic american": "ˈtiːtʃərz pɛt",
+        "phonetic british": "ˈtiːtʃəz pɛt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "老师最喜欢的学生（成语）",
+                "sentence": "She always gets extra privileges because she’s the teacher’s pet.",
+                "sentence translation": "他总是得到额外的特权，因为他是老师的宠儿。"
+            }
+        ]
+    },
+    {
+        "word": "the big time",
+        "phonetic american": "ðə bɪɡ taɪm",
+        "phonetic british": "ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "取得巨大成功（成语）",
+                "sentence": "He hit the big time with his new book.",
+                "sentence translation": "他的新书取得了巨大成功。"
+            }
+        ]
+    },
+    {
+        "word": "the moment of truth",
+        "phonetic american": "ðə ˈmoʊmənt əv truːθ",
+        "phonetic british": "ðə ˈməʊmənt əv truːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "面对事实的时刻（成语）",
+                "sentence": "The moment of truth came when the test results were revealed.",
+                "sentence translation": "当测试结果公布时，就到了面对事实的时刻了。"
+            }
+        ]
+    },
+    {
+        "word": "the ship has sailed",
+        "phonetic american": "ðə ʃɪp hæz seɪld",
+        "phonetic british": "ðə ʃɪp hæz seɪld",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "机会已经过去了（成语）",
+                "sentence": "I wanted to apply for that job, but the ship has sailed.",
+                "sentence translation": "我想申请那份工作，但机会已经过去了。"
+            }
+        ]
+    },
+    {
+        "word": "the time is ripe",
+        "phonetic american": "ðə taɪm ɪz raɪp",
+        "phonetic british": "ðə taɪm ɪz raɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "某件事的正确时机已经到来（成语）",
+                "sentence": "The time is ripe to start your own business.",
+                "sentence translation": "是时候开始自己的事业了。"
+            }
+        ]
+    },
+    {
+        "word": "thinking on your feet",
+        "phonetic american": "ˈθɪŋkɪŋ ɑn jʊr fiːt",
+        "phonetic british": "ˈθɪŋkɪŋ ɒn jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "快速有效地思考（习语）",
+                "sentence": "He’s great at thinking on his feet during meetings.",
+                "sentence translation": "非常善于在会议中快速有效地思考。"
+            }
+        ]
+    },
+    {
+        "word": "this day and age",
+        "phonetic american": "ðɪs deɪ ənd eɪdʒ",
+        "phonetic british": "ðɪs deɪ ənd eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "如今，近代（成语）",
+                "sentence": "In this day and age, technology is essential for communication.",
+                "sentence translation": "如今，技术对于沟通至关重要。"
+            }
+        ]
+    },
+    {
+        "word": "tickled pink",
+        "phonetic american": "ˈtɪkld pɪŋk",
+        "phonetic british": "ˈtɪkld pɪŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常高兴（成语）",
+                "sentence": "She was tickled pink when she received the surprise gift.",
+                "sentence translation": "当他收到这份惊喜礼物时，他非常高兴。"
+            }
+        ]
+    },
+    {
+        "word": "tie the knot",
+        "phonetic american": "taɪ ðə nɑːt",
+        "phonetic british": "taɪ ðə nɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "结婚（成语）",
+                "sentence": "They’re planning to tie the knot next spring.",
+                "sentence translation": "他们计划明年春天结婚。"
+            }
+        ]
+    },
+    {
+        "word": "time after time (time and time again)",
+        "phonetic american": "taɪm ˈæftər taɪm",
+        "phonetic british": "taɪm ənd taɪm əˈɡɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一遍又一遍（成语）",
+                "sentence": "Time after time, he proved that he could be trusted.",
+                "sentence translation": "它一次又一次证明了自己的可靠性。"
+            }
+        ]
+    },
+    {
+        "word": "time flies",
+        "phonetic american": "taɪm flaɪz",
+        "phonetic british": "taɪm flaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "时间过得真快（成语）",
+                "sentence": "Time flies when you’re having fun.",
+                "sentence translation": "当你玩得开心的时候，时间过得很快。"
+            }
+        ]
+    },
+    {
+        "word": "time for a change",
+        "phonetic american": "taɪm fɔːr ə ʧeɪnʤ",
+        "phonetic british": "taɪm fɔːr ə ʧeɪnʤ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "现在是改变的时候了（成语）",
+                "sentence": "After years in the same job, it’s time for a change.",
+                "sentence translation": "在同一份工作多年之后，是时候做出改变了。"
+            }
+        ]
+    },
+    {
+        "word": "time heals all wounds (or time is a great healer)",
+        "phonetic american": "taɪm hiːlz ɔːl wuːndz",
+        "phonetic british": "taɪm hiːlz ɔːl wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "时间可以治愈一切（成语）",
+                "sentence": "Don’t worry; time heals all wounds.",
+                "sentence translation": "不用担心;时间可以治愈一切。"
+            }
+        ]
+    },
+    {
+        "word": "time is money",
+        "phonetic american": "taɪm ɪz ˈmʌni",
+        "phonetic british": "taɪm ɪz ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "时间很宝贵（成语）",
+                "sentence": "Let’s not waste time; time is money.",
+                "sentence translation": "我们不要浪费时间；时间很宝贵。"
+            }
+        ]
+    },
+    {
+        "word": "time is of the essence",
+        "phonetic american": "taɪm ɪz əv ði ˈɛsəns",
+        "phonetic british": "taɪm ɪz əv ði ˈɛsns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "时间很重要（成语）",
+                "sentence": "Time is of the essence, so we need to act quickly.",
+                "sentence translation": "时间至关重要，所以我们必须迅速行动。"
+            }
+        ]
+    },
+    {
+        "word": "time of one's life",
+        "phonetic american": "taɪm əv wʌnz laɪf",
+        "phonetic british": "taɪm əv wʌnz laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "人生中最美好的时光（成语）",
+                "sentence": "We had the time of our lives on our vacation.",
+                "sentence translation": "我们在假期里度过了一生中最美好的时光。"
+            }
+        ]
+    },
+    {
+        "word": "time on one's hands (or side)",
+        "phonetic american": "taɪm ɑn wʌnz hændz",
+        "phonetic british": "taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "有充足的时间（成语）",
+                "sentence": "Now that he’s retired, he has time on his hands.",
+                "sentence translation": "现在他已经退休了，时间还很充裕。"
+            }
+        ]
+    },
+    {
+        "word": "tongue-tied",
+        "phonetic american": "tʌŋ taɪd",
+        "phonetic british": "tʌŋ taɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "因兴奋或尴尬而说不出话（成语）",
+                "sentence": "He was tongue-tied during the interview.",
+                "sentence translation": "接受采访时，他因激动而无法说话。"
+            }
+        ]
+    },
+    {
+        "word": "too many chiefs and not enough Indians",
+        "phonetic american": "tuː ˈmɛni tʃiːfs ənd nɑːt ɪˈnʌf ˈɪndiənz",
+        "phonetic british": "tuː ˈmɛni tʃiːfs ənd nɒt ɪˈnʌf ˈɪndiənz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "领导太多，员工太少（成语）",
+                "sentence": "The project failed because there were too many chiefs and not enough Indians.",
+                "sentence translation": "该项目失败了，因为领导者太多，但员工不够。"
+            }
+        ]
+    },
+    {
+        "word": "too much (free) time on one's hands",
+        "phonetic american": "tuː mʌtʃ taɪm ɑn wʌnz hændz",
+        "phonetic british": "tuː mʌtʃ taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "有很多空闲时间却浪费了（成语）",
+                "sentence": "He started spreading rumors because he has too much time on his hands.",
+                "sentence translation": "由于他有很多空闲时间，他开始传播八卦。"
+            }
+        ]
+    },
+    {
+        "word": "top banana",
+        "phonetic american": "tɑːp bəˈnænə",
+        "phonetic british": "tɒp bəˈnænə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "团体或组织的领导者（成语）",
+                "sentence": "He’s the top banana in the company.",
+                "sentence translation": "他是公司的领导。"
+            }
+        ]
+    },
+    {
+        "word": "top dog",
+        "phonetic american": "tɑːp dɔːɡ",
+        "phonetic british": "tɒp dɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "最有权势或最成功的人（成语）",
+                "sentence": "After winning the competition, he became the top dog in his field.",
+                "sentence translation": "赢得比赛后，他成为了所在领域的最强者。"
+            }
+        ]
+    },
+    {
+        "word": "tough cookie",
+        "phonetic american": "tʌf ˈkʊki",
+        "phonetic british": "tʌf ˈkʊki",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "能处理困难情况的坚强的人（成语）",
+                "sentence": "She’s a tough cookie; she never gives up.",
+                "sentence translation": "他是一个坚强的人，能够处理困难的情况；他从不放弃。"
+            }
+        ]
+    },
+    {
+        "word": "tricks of the trade",
+        "phonetic american": "trɪks əv ðə treɪd",
+        "phonetic british": "trɪks əv ðə treɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "工作中使用的特殊知识或方法（习语）",
+                "sentence": "He learned the tricks of the trade from his mentor.",
+                "sentence translation": "他从导师那里了解到了这个职业的复杂性。"
+            }
+        ]
+    },
+    {
+        "word": "true colours",
+        "phonetic american": "truː ˈkʌlərz",
+        "phonetic british": "truː ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "显示某人的真实性格或意图（成语）",
+                "sentence": "She showed her true colours when she refused to help.",
+                "sentence translation": "当他拒绝帮忙时，他就露出了真面目。"
+            }
+        ]
+    },
+    {
+        "word": "turn back the hands of time",
+        "phonetic american": "tɜːrn bæk ðə hændz əv taɪm",
+        "phonetic british": "tɜːn bæk ðə hændz əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "回到过去或时光倒流（成语）",
+                "sentence": "If I could turn back the hands of time, I’d make a different decision.",
+                "sentence translation": "如果时光可以倒流，我一定会做出不同的决定。"
+            }
+        ]
+    },
+    {
+        "word": "university of life",
+        "phonetic american": "ˌjuːnɪˈvɜːrsɪti əv laɪf",
+        "phonetic british": "ˌjuːnɪˈvɜːsɪti əv laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "生活中的教训（成语）",
+                "sentence": "He never went to college but learned everything from the university of life.",
+                "sentence translation": "他没有上过大学，但他从生活中学到了一切。"
+            }
+        ]
+    },
+    {
+        "word": "until hell freezes over",
+        "phonetic american": "ʌnˈtɪl hɛl ˈfriːzɪz ˈoʊvər",
+        "phonetic british": "ʌnˈtɪl hɛl ˈfriːzɪz ˈəʊvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "永远不会发生的事（成语）",
+                "sentence": "You can wait until hell freezes over, but I won’t change my mind.",
+                "sentence translation": "你可以永远等待，但我不会改变主意。"
+            }
+        ]
+    },
+    {
+        "word": "up in smoke",
+        "phonetic american": "ʌp ɪn smoʊk",
+        "phonetic british": "ʌp ɪn sməʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "某些东西将被浪费或失败（习语）",
+                "sentence": "All our hard work went up in smoke when the project was canceled.",
+                "sentence translation": "当项目被取消时，我们所有的努力都付之东流。"
+            }
+        ]
+    },
+    {
+        "word": "waiting in the wings",
+        "phonetic american": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "phonetic british": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "等待机会，做好准备（成语）",
+                "sentence": "She’s waiting in the wings for a chance to prove herself.",
+                "sentence translation": "他正在等待一个机会来证明自己。"
+            }
+        ]
+    },
+    {
+        "word": "walk out on someone",
+        "phonetic american": "wɔːk aʊt ɑn ˈsʌmwʌn",
+        "phonetic british": "wɔːk aʊt ɒn ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "放弃或令某人失望（成语）",
+                "sentence": "He walked out on his family when things got tough.",
+                "sentence translation": "当事情变得艰难时，他抛弃了家人。"
+            }
+        ]
+    },
+    {
+        "word": "wasting time",
+        "phonetic american": "ˈweɪstɪŋ taɪm",
+        "phonetic british": "ˈweɪstɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "浪费时间（成语）",
+                "sentence": "We’re wasting time discussing irrelevant issues.",
+                "sentence translation": "我们浪费时间讨论不相关的话题。"
+            }
+        ]
+    },
+    {
+        "word": "well-oiled machine",
+        "phonetic american": "wɛl-ɔɪld məˈʃiːn",
+        "phonetic british": "wɛl-ɔɪld məˈʃiːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "运行顺利的系统或团体（成语）",
+                "sentence": "The team works like a well-oiled machine.",
+                "sentence translation": "团队的运作就像一个平稳运行的系统。"
+            }
+        ]
+    },
+    {
+        "word": "whale of a time",
+        "phonetic american": "weɪl əv ə taɪm",
+        "phonetic british": "weɪl əv ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "玩得很开心（成语）",
+                "sentence": "We had a whale of a time at the amusement park.",
+                "sentence translation": "我们在游乐园玩得很开心。"
+            }
+        ]
+    },
+    {
+        "word": "white as a sheet (or ghost)",
+        "phonetic american": "waɪt æz ə ʃiːt",
+        "phonetic british": "waɪt æz ə ʃiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "因恐惧或疾病而脸色苍白（成语）",
+                "sentence": "He turned white as a sheet when he heard the news.",
+                "sentence translation": "当他听到这个消息时，他的脸色变得苍白。"
+            }
+        ]
+    },
+    {
+        "word": "white collar",
+        "phonetic american": "waɪt ˈkɑːlər",
+        "phonetic british": "waɪt ˈkɒlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "上班族，做脑力劳动的人（成语）",
+                "sentence": "White-collar jobs are becoming more common in urban areas.",
+                "sentence translation": "白领工作在城市地区变得越来越普遍。"
+            }
+        ]
+    },
+    {
+        "word": "white elephant",
+        "phonetic american": "waɪt ˈɛləfənt",
+        "phonetic british": "waɪt ˈɛləfənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "花费太多却没有用的东西（成语）",
+                "sentence": "The stadium turned out to be a white elephant for the city.",
+                "sentence translation": "事实证明，这座体育场对这座城市来说是一项昂贵但无用的投资。"
+            }
+        ]
+    },
+    {
+        "word": "white lie",
+        "phonetic american": "waɪt laɪ",
+        "phonetic british": "waɪt laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "无害或善意的谎言（习语）",
+                "sentence": "She told a white lie to avoid hurting his feelings.",
+                "sentence translation": "为了避免伤害她的感情，他撒了一个小谎。"
+            }
+        ]
+    },
+    {
+        "word": "whitewash",
+        "phonetic american": "ˈwaɪtˌwɑːʃ",
+        "phonetic british": "ˈwaɪtˌwɒʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "掩盖错误或缺陷（习语）",
+                "sentence": "The company tried to whitewash the scandal.",
+                "sentence translation": "该公司试图掩盖这一丑闻。"
+            }
+        ]
+    },
+    {
+        "word": "whole nine yards",
+        "phonetic american": "hoʊl naɪn jɑːrdz",
+        "phonetic british": "həʊl naɪn jɑːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "所有，一切（成语）",
+                "sentence": "When they throw a party, they go the whole nine yards with decorations and food.",
+                "sentence translation": "当他们举办聚会时，他们会全力以赴地布置装饰品和食物。"
+            }
+        ]
+    },
+    {
+        "word": "with bells on",
+        "phonetic american": "wɪð bɛlz ɑn",
+        "phonetic british": "wɪð bɛlz ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "怀着极大的兴奋和热情（成语）",
+                "sentence": "I’ll be at your party with bells on!",
+                "sentence translation": "我会怀着无比兴奋的心情来参加你们的聚会！"
+            }
+        ]
+    },
+    {
+        "word": "wooden spoon",
+        "phonetic american": "ˈwʊdən spuːn",
+        "phonetic british": "ˈwʊdən spuːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "授予最后一名的人的奖品或头衔（成语）",
+                "sentence": "They were awarded the wooden spoon for finishing last in the league.",
+                "sentence translation": "他们因联盟垫底而获得木勺奖。"
+            }
+        ]
+    },
+    {
+        "word": "works like a charm",
+        "phonetic american": "wɜːrks laɪk ə ʧɑːrm",
+        "phonetic british": "wɜːks laɪk ə ʧɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "完美地工作（成语）",
+                "sentence": "This new cleaning product works like a charm.",
+                "sentence translation": "这种新的清洁产品效果非常好。"
+            }
+        ]
+    },
+    {
+        "word": "wouldn't be caught dead",
+        "phonetic american": "ˈwʊdənt bi kɔːt dɛd",
+        "phonetic british": "ˈwʊdnt biː kɔːt dɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "我永远不会做或处于某种情况（习语）",
+                "sentence": "I wouldn’t be caught dead wearing that outfit.",
+                "sentence translation": "我永远不会穿那件衣服。"
+            }
+        ]
+    },
+    {
+        "word": "year in, year out",
+        "phonetic american": "jɪr ɪn, jɪr aʊt",
+        "phonetic british": "jɪə ɪn, jɪə aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "反反复复，年复一年，年复一年（成语）",
+                "sentence": "They visit the same beach year in, year out.",
+                "sentence translation": "他们每年都会去同一个海滩。"
+            }
+        ]
+    },
+    {
+        "word": "yellow-bellied",
+        "phonetic american": "ˈjɛloʊ ˈbɛlid",
+        "phonetic british": "ˈjɛləʊ ˈbɛlid",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "胆怯、勇敢（成语）",
+                "sentence": "He’s too yellow-bellied to confront his boss.",
+                "sentence translation": "他太胆小了，不敢面对他的老板。"
+            }
+        ]
+    },
+    {
+        "word": "you can't teach an old dog new tricks",
+        "phonetic american": "juː kænt tiːʧ ən oʊld dɔːɡ nuː trɪks",
+        "phonetic british": "juː kɑːnt tiːʧ ən əʊld dɒɡ njuː trɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一个人的旧习惯很难改变（成语）",
+                "sentence": "He refuses to learn how to use a smartphone; you can’t teach an old dog new tricks.",
+                "sentence translation": "他拒绝学习如何使用智能手机；改变旧习惯是很困难的。"
+            }
+        ]
+    },
+    {
+        "word": "your guess is as good as mine",
+        "phonetic american": "jʊr gɛs ɪz æz ɡʊd æz maɪn",
+        "phonetic british": "jɔːr gɛs ɪz æz ɡʊd æz maɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "我也不知道，我们的猜测可能同样准确（成语）",
+                "sentence": "Why the train is late? Your guess is as good as mine.",
+                "sentence translation": "火车为什么晚点？我也不知道。"
+            }
+        ]
+    }
+]

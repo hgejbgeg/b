@@ -1,0 +1,4864 @@
+[
+    {
+        "word": "acid test",
+        "phonetic american": "ˈæsɪd tɛst",
+        "phonetic british": "ˈæsɪd tɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "本当の試験、厳しい試験（慣用句）",
+                "sentence": "The acid test of a good chef is how they handle a busy dinner service.",
+                "sentence translation": "優れたシェフの真の試練は、忙しいディナーサービスをどのように管理するかです。"
+            }
+        ]
+    },
+    {
+        "word": "actions speak louder than words",
+        "phonetic american": "ˈækʃənz spiːk ˈlaʊdər ðæn wɜrdz",
+        "phonetic british": "ˈækʃənz spiːk ˈlaʊdə ðən wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "言葉よりも行動が大切（慣用句）",
+                "sentence": "She proved her loyalty because actions speak louder than words.",
+                "sentence translation": "彼は言葉よりも行動が重要であるため、忠誠心を証明しました。"
+            }
+        ]
+    },
+    {
+        "word": "add insult to injury",
+        "phonetic american": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "phonetic british": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "傷口に塩を注ぎ込んで悪化させる（慣用句）",
+                "sentence": "He was late to the meeting, and to add insult to injury, he forgot the presentation.",
+                "sentence translation": "彼は会議に遅刻し、傷口に塩を加えるためにプレゼンテーションのことを忘れてしまいました。"
+            }
+        ]
+    },
+    {
+        "word": "after the watershed",
+        "phonetic american": "ˈæftər ðə ˈwɑːtərʃɛd",
+        "phonetic british": "ˈɑːftə ðə ˈwɔːtəʃɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "夜間放送帯（慣用句）",
+                "sentence": "The movie can only be shown after the watershed due to its content.",
+                "sentence translation": "この映画は内容の都合上、夜間放送帯でしか上映できません。"
+            }
+        ]
+    },
+    {
+        "word": "against the clock",
+        "phonetic american": "əˈgɛnst ðə klɑːk",
+        "phonetic british": "əˈgɛnst ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間との戦い（イディオム）",
+                "sentence": "We were working against the clock to finish the project.",
+                "sentence translation": "私たちはプロジェクトを完了するまで時間との戦いでした。"
+            }
+        ]
+    },
+    {
+        "word": "ahead of time",
+        "phonetic american": "əˈhɛd əv taɪm",
+        "phonetic british": "əˈhɛd əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "予定より早い（イディオム）",
+                "sentence": "We finished the preparations ahead of time.",
+                "sentence translation": "予定より早く準備を完了しました。"
+            }
+        ]
+    },
+    {
+        "word": "all ears",
+        "phonetic american": "ɔːl ɪrz",
+        "phonetic british": "ɔːl ɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "注意深く聞く（イディオム）",
+                "sentence": "Tell me your idea; I'm all ears.",
+                "sentence translation": "自分の考えを話してください。注意深くお話を聞いております。"
+            }
+        ]
+    },
+    {
+        "word": "an arm and a leg",
+        "phonetic american": "æn ɑːrm ənd ə lɛg",
+        "phonetic british": "æn ɑːm ənd ə lɛg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "高すぎる（慣用句）",
+                "sentence": "The repairs cost an arm and a leg.",
+                "sentence translation": "修理費は非常に高額でした。"
+            }
+        ]
+    },
+    {
+        "word": "around the clock",
+        "phonetic american": "əˈraʊnd ðə klɑːk",
+        "phonetic british": "əˈraʊnd ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "昼も夜も（イディオム）",
+                "sentence": "The hospital staff works around the clock.",
+                "sentence translation": "病院スタッフは昼も夜も働いています。"
+            }
+        ]
+    },
+    {
+        "word": "around the corner",
+        "phonetic american": "əˈraʊnd ðə ˈkɔrnər",
+        "phonetic british": "əˈraʊnd ðə ˈkɔːnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常に近い、差し迫った（慣用句）",
+                "sentence": "The holidays are just around the corner.",
+                "sentence translation": "休暇もすぐそこまで来ています。"
+            }
+        ]
+    },
+    {
+        "word": "as time goes by",
+        "phonetic american": "æz taɪm ɡoʊz baɪ",
+        "phonetic british": "æz taɪm ɡəʊz baɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間が経つにつれて（慣用句）",
+                "sentence": "As time goes by, old memories fade away.",
+                "sentence translation": "時間が経てば経つほど、古い記憶は薄れていきます。"
+            }
+        ]
+    },
+    {
+        "word": "at the drop of a hat",
+        "phonetic american": "æt ðə drɑːp əv ə hæt",
+        "phonetic british": "æt ðə drɒp əv ə hæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何も考えずにすぐに（イディオム）",
+                "sentence": "He is always ready to help at the drop of a hat.",
+                "sentence translation": "彼は何も考えずにすぐに助けてくれます。"
+            }
+        ]
+    },
+    {
+        "word": "back to basics",
+        "phonetic american": "bæk tə ˈbeɪsɪks",
+        "phonetic british": "bæk tə ˈbeɪsɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "基本に戻る（イディオム）",
+                "sentence": "The teacher decided to go back to basics for better understanding.",
+                "sentence translation": "先生は理解を深めるために基本に立ち返ることにしました。"
+            }
+        ]
+    },
+    {
+        "word": "back to the drawing board",
+        "phonetic american": "bæk tə ðə ˈdrɔːɪŋ bɔːrd",
+        "phonetic british": "bæk tə ðə ˈdrɔːɪŋ bɔːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ゼロからやり直す（イディオム）",
+                "sentence": "After the plan failed, they had to go back to the drawing board.",
+                "sentence translation": "計画が失敗した後、彼らは最初からやり直さなければなりませんでした。"
+            }
+        ]
+    },
+    {
+        "word": "bad apple",
+        "phonetic american": "bæd ˈæpl",
+        "phonetic british": "bæd ˈæpl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "悪いリンゴ、悪意のある人（慣用句）",
+                "sentence": "One bad apple can ruin the entire team.",
+                "sentence translation": "1 つの悪いリンゴがチーム全体を台無しにする可能性があります。"
+            }
+        ]
+    },
+    {
+        "word": "ball is in your court",
+        "phonetic american": "bɔːl ɪz ɪn jʊr kɔːrt",
+        "phonetic british": "bɔːl ɪz ɪn jɔː kɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ボールはあなたのコートにあり、あなたの番です（イディオム）",
+                "sentence": "I've explained my position; now the ball is in your court.",
+                "sentence translation": "私は自分の状況を説明しました。今、ボールはあなたのコートにあります。"
+            }
+        ]
+    },
+    {
+        "word": "barking up the wrong tree",
+        "phonetic american": "ˈbɑːrkɪŋ ʌp ðə rɔːŋ triː",
+        "phonetic british": "ˈbɑːkɪŋ ʌp ðə rɒŋ triː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "間違ったドアをノックし、間違った場所に向かう（イディオム）",
+                "sentence": "You're barking up the wrong tree if you think I can help with that.",
+                "sentence translation": "私がこの問題についてお手伝いできると思うなら、あなたは間違ったドアをノックしています。"
+            }
+        ]
+    },
+    {
+        "word": "be glad to see the back of",
+        "phonetic american": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "phonetic british": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かや何かを取り除くと喜ぶこと（慣用句）",
+                "sentence": "I'll be glad to see the back of this project.",
+                "sentence translation": "このプロジェクトを取りやめていただけると幸いです。"
+            }
+        ]
+    },
+    {
+        "word": "beat around the bush",
+        "phonetic american": "biːt əˈraʊnd ðə bʊʃ",
+        "phonetic british": "biːt əˈraʊnd ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "直接何も言わずに、その場を打ち負かすこと（慣用句）",
+                "sentence": "Stop beating around the bush and tell me the truth.",
+                "sentence translation": "言い争いをやめて真実を教えてください。"
+            }
+        ]
+    },
+    {
+        "word": "beat the clock",
+        "phonetic american": "biːt ðə klɑːk",
+        "phonetic british": "biːt ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間通りに終わる、時間に勝つ（慣用句）",
+                "sentence": "They managed to beat the clock and submit the report on time.",
+                "sentence translation": "彼らは時間との戦いで、なんとか時間通りにレポートを提出することができました。"
+            }
+        ]
+    },
+    {
+        "word": "bee in one's bonnet",
+        "phonetic american": "biː ɪn wʌnz ˈbɑːnɪt",
+        "phonetic british": "biː ɪn wʌnz ˈbɒnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かに夢中になる、何かに夢中になる（イディオム）",
+                "sentence": "She has a bee in her bonnet about recycling.",
+                "sentence translation": "彼はリサイクルに夢中だ。"
+            }
+        ]
+    },
+    {
+        "word": "behind the times",
+        "phonetic american": "bɪˈhaɪnd ðə taɪmz",
+        "phonetic british": "bɪˈhaɪnd ðə taɪmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時代遅れの、時代遅れの（慣用句）",
+                "sentence": "He is a bit behind the times when it comes to technology.",
+                "sentence translation": "彼はテクノロジーに関しては少し古いタイプです。"
+            }
+        ]
+    },
+    {
+        "word": "bells and whistles",
+        "phonetic american": "bɛlz ənd ˈwɪsəlz",
+        "phonetic british": "bɛlz ənd ˈwɪslz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不要な装飾、余分な機能 (慣用句)",
+                "sentence": "This phone has all the bells and whistles you could ask for.",
+                "sentence translation": "この携帯電話には、あなたが望むすべての追加機能が備わっています。"
+            }
+        ]
+    },
+    {
+        "word": "best of both worlds",
+        "phonetic american": "bɛst əv boʊθ wɜːrldz",
+        "phonetic british": "bɛst əv bəʊθ wɜːldz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "2 つのものの良い面を組み合わせる (イディオム)",
+                "sentence": "Living in the countryside but working in the city gives her the best of both worlds.",
+                "sentence translation": "田舎に住み、都会で働くことで、彼は両方の長所を享受できます。"
+            }
+        ]
+    },
+    {
+        "word": "best thing since sliced bread",
+        "phonetic american": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "phonetic british": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "素晴らしいイノベーション、素晴らしいこと（慣用句）",
+                "sentence": "This new software is the best thing since sliced bread.",
+                "sentence translation": "この新しいソフトウェアはスライスパン以来最高のものです。"
+            }
+        ]
+    },
+    {
+        "word": "better late than never",
+        "phonetic american": "ˈbɛtər leɪt ðæn ˈnɛvər",
+        "phonetic british": "ˈbɛtə leɪt ðæn ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "遅くてもいいです、遅くないかもしれません（イディオム）",
+                "sentence": "He finally apologized, better late than never.",
+                "sentence translation": "彼はついに、遅かれ早かれ謝罪した。"
+            }
+        ]
+    },
+    {
+        "word": "bide one's time",
+        "phonetic american": "baɪd wʌnz taɪm",
+        "phonetic british": "baɪd wʌnz taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "適切な時期を待っている（イディオム）",
+                "sentence": "He is biding his time before making his next move.",
+                "sentence translation": "彼は次の行動を起こす前に、適切な時期を待っています。"
+            }
+        ]
+    },
+    {
+        "word": "big cheese",
+        "phonetic american": "bɪɡ tʃiːz",
+        "phonetic british": "bɪɡ tʃiːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "大切な人、上司（慣用句）",
+                "sentence": "He is the big cheese in the company.",
+                "sentence translation": "彼は会社の重要人物です。"
+            }
+        ]
+    },
+    {
+        "word": "bird in the hand is worth two in the bush",
+        "phonetic american": "bɜrd ɪn ðə hænd ɪz wɜːrθ tuː ɪn ðə bʊʃ",
+        "phonetic british": "bɜːd ɪn ðə hænd ɪz wɜːθ tuː ɪn ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "手に持った一羽の鳥は藪にいる二羽の鳥よりも優れている (慣用句)",
+                "sentence": "You should keep this offer; a bird in the hand is worth two in the bush.",
+                "sentence translation": "このオファーを検討してください。手にある一羽の鳥は、藪の中に二羽いるよりも優れています。"
+            }
+        ]
+    },
+    {
+        "word": "bite off more than you can chew",
+        "phonetic american": "baɪt ɔf mɔːr ðæn ju kən tʃuː",
+        "phonetic british": "baɪt ɒf mɔː ðæn ju kən tʃuː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "自分にとって大きすぎることをやろうとする（慣用句）",
+                "sentence": "He bit off more than he could chew by taking on two jobs at once.",
+                "sentence translation": "彼は二つの仕事を同時に引き受け、自分のキャパシティを超えた仕事を引き受けた。"
+            }
+        ]
+    },
+    {
+        "word": "black and blue",
+        "phonetic american": "blæk ənd bluː",
+        "phonetic british": "blæk ənd bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "あざだらけ、あざだらけ（イディオム）",
+                "sentence": "After falling down the stairs, his legs were black and blue.",
+                "sentence translation": "階段から落ちた後、彼の足は紫色になった。"
+            }
+        ]
+    },
+    {
+        "word": "black and white",
+        "phonetic american": "blæk ənd waɪt",
+        "phonetic british": "blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "明確、正確 (イディオム)",
+                "sentence": "The rules are written in black and white.",
+                "sentence translation": "ルールは明確かつ簡潔です。"
+            }
+        ]
+    },
+    {
+        "word": "black as night",
+        "phonetic american": "blæk æz naɪt",
+        "phonetic british": "blæk æz naɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "真っ黒、真っ黒（イディオム）",
+                "sentence": "The cave was black as night.",
+                "sentence translation": "洞窟の中は真っ暗でした。"
+            }
+        ]
+    },
+    {
+        "word": "black eye",
+        "phonetic american": "blæk aɪ",
+        "phonetic british": "blæk aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "黒い目、悪い状況（慣用句）",
+                "sentence": "The scandal gave the company a black eye.",
+                "sentence translation": "そのスキャンダルは会社にとって悪い状況を引き起こした。"
+            }
+        ]
+    },
+    {
+        "word": "black market",
+        "phonetic american": "blæk ˈmɑːrkɪt",
+        "phonetic british": "blæk ˈmɑːkɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ブラックマーケット (イディオム)",
+                "sentence": "The goods were being sold on the black market.",
+                "sentence translation": "商品は闇市場で売られていました。"
+            }
+        ]
+    },
+    {
+        "word": "black out",
+        "phonetic american": "blæk aʊt",
+        "phonetic british": "blæk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "気を失う、暗くなる（イディオム）",
+                "sentence": "He blacked out during the marathon due to heat exhaustion.",
+                "sentence translation": "彼はマラソン中に暑さで気を失った。"
+            }
+        ]
+    },
+    {
+        "word": "black sheep",
+        "phonetic american": "blæk ʃiːp",
+        "phonetic british": "blæk ʃiːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "家族の中でのけ者、黒い羊 (イディオム)",
+                "sentence": "He has always been the black sheep of the family.",
+                "sentence translation": "彼は常に家族にとって厄介者でした。"
+            }
+        ]
+    },
+    {
+        "word": "blackball",
+        "phonetic american": "ˈblækbɔːl",
+        "phonetic british": "ˈblækbɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "拒否する、拒否する（イディオム）",
+                "sentence": "He was blackballed from the club for breaking its rules.",
+                "sentence translation": "彼はクラブの規則に違反したため、クラブから拒否権を発動された。"
+            }
+        ]
+    },
+    {
+        "word": "blacklist",
+        "phonetic american": "ˈblæklɪst",
+        "phonetic british": "ˈblæklɪst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ブラックリスト（イディオム）",
+                "sentence": "The company blacklisted him for sharing confidential information.",
+                "sentence translation": "会社は彼を機密情報を共有したとしてブラックリストに登録した。"
+            }
+        ]
+    },
+    {
+        "word": "blackmail",
+        "phonetic american": "ˈblækmeɪl",
+        "phonetic british": "ˈblækmeɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "脅迫（イディオム）",
+                "sentence": "He tried to blackmail her with a private photo.",
+                "sentence translation": "彼は私的な写真を使って彼女を脅迫しようとした。"
+            }
+        ]
+    },
+    {
+        "word": "blessing in disguise",
+        "phonetic american": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "phonetic british": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一見悪いように見えても、それは良い状況です（慣用句）。",
+                "sentence": "Losing that job turned out to be a blessing in disguise.",
+                "sentence translation": "その仕事を失ったことは結果的に良いことだった。"
+            }
+        ]
+    },
+    {
+        "word": "blind date",
+        "phonetic american": "blaɪnd deɪt",
+        "phonetic british": "blaɪnd deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "会わずに会った人との出会い（イディオム）",
+                "sentence": "She was nervous about her blind date.",
+                "sentence translation": "彼は会議の前にその会議について緊張していた。"
+            }
+        ]
+    },
+    {
+        "word": "blood red",
+        "phonetic american": "blʌd rɛd",
+        "phonetic british": "blʌd rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "血のように赤い（イディオム）",
+                "sentence": "The sunset was a beautiful blood red.",
+                "sentence translation": "夕焼けが血のように赤い色でとても綺麗でした。"
+            }
+        ]
+    },
+    {
+        "word": "blood, sweat & tears",
+        "phonetic american": "blʌd swɛt ənd tɪrz",
+        "phonetic british": "blʌd swɛt ənd tɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "多大な努力と献身 (イディオム)",
+                "sentence": "The project was completed with blood, sweat, and tears.",
+                "sentence translation": "このプロジェクトは多大な努力と献身的な努力によって完了しました。"
+            }
+        ]
+    },
+    {
+        "word": "blow a fuse",
+        "phonetic american": "bloʊ ə fjuz",
+        "phonetic british": "bləʊ ə fjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "怒る、怒る（イディオム）",
+                "sentence": "He blew a fuse when he found out about the mistake.",
+                "sentence translation": "彼はその間違いを知って激怒した。"
+            }
+        ]
+    },
+    {
+        "word": "blow up in the face",
+        "phonetic american": "bloʊ ʌp ɪn ðə feɪs",
+        "phonetic british": "bləʊ ʌp ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "逆効果になる、間違った方向に進む（イディオム）",
+                "sentence": "The plan blew up in his face when the details leaked.",
+                "sentence translation": "詳細が漏洩したことで計画は裏目に出た。"
+            }
+        ]
+    },
+    {
+        "word": "blue blood",
+        "phonetic american": "bluː blʌd",
+        "phonetic british": "bluː blʌd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "高貴な血統（慣用句）",
+                "sentence": "He claimed to have blue blood running in his veins.",
+                "sentence translation": "彼は自分の静脈には高貴な血が流れていると主張した。"
+            }
+        ]
+    },
+    {
+        "word": "blue collar",
+        "phonetic american": "bluː ˈkɑːlər",
+        "phonetic british": "bluː ˈkɒlər",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "肉体労働者階級 (イディオム)",
+                "sentence": "He comes from a blue-collar family.",
+                "sentence translation": "彼は肉体労働者階級の家庭の出身です。"
+            }
+        ]
+    },
+    {
+        "word": "blue in the face",
+        "phonetic american": "bluː ɪn ðə feɪs",
+        "phonetic british": "bluː ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "努力しても結果が出ない（慣用句）",
+                "sentence": "You can argue until you're blue in the face, but he won't change his mind.",
+                "sentence translation": "結果が出ないまま議論を続けることもできますが、彼は考えを変えません。"
+            }
+        ]
+    },
+    {
+        "word": "blue ribbon",
+        "phonetic american": "bluː ˈrɪbən",
+        "phonetic british": "bluː ˈrɪbən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一等賞、最優秀賞（イディオム）",
+                "sentence": "She won the blue ribbon for her painting.",
+                "sentence translation": "彼は自分の絵で一等賞を受賞した。"
+            }
+        ]
+    },
+    {
+        "word": "bolt from the blue",
+        "phonetic american": "boʊlt frəm ðə bluː",
+        "phonetic british": "bəʊlt frəm ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "予期せぬ出来事、驚き（慣用句）",
+                "sentence": "The announcement was like a bolt from the blue.",
+                "sentence translation": "その啓示は予期せぬものでした。"
+            }
+        ]
+    },
+    {
+        "word": "bookworm",
+        "phonetic american": "ˈbʊkwɜːrm",
+        "phonetic british": "ˈbʊkwɜːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "本の虫、本の愛好家（イディオム）",
+                "sentence": "She's such a bookworm; she finishes a novel every week.",
+                "sentence translation": "彼は本当に本の虫だ。彼は毎週小説を完成させます。"
+            }
+        ]
+    },
+    {
+        "word": "born with a silver spoon in one's mouth",
+        "phonetic american": "bɔrn wɪð ə ˈsɪlvər spuːn ɪn wʌnz maʊθ",
+        "phonetic british": "bɔːn wɪð ə ˈsɪlvə spuːn ɪn wʌnz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "裕福で恵まれた家庭に生まれる（慣用句）",
+                "sentence": "He doesn't understand the struggles of others because he was born with a silver spoon in his mouth.",
+                "sentence translation": "裕福な家庭に生まれたため、他人の苦労が分からない。"
+            }
+        ]
+    },
+    {
+        "word": "bottom falls out",
+        "phonetic american": "ˈbɑːtəm fɔːlz aʊt",
+        "phonetic british": "ˈbɒtəm fɔːlz aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "暴落を経験する、市場の暴落（イディオム）",
+                "sentence": "The bottom fell out of the market after the financial crisis.",
+                "sentence translation": "金融危機の後、市場は暴落しました。"
+            }
+        ]
+    },
+    {
+        "word": "brainstorm",
+        "phonetic american": "ˈbreɪnˌstɔːrm",
+        "phonetic british": "ˈbreɪnˌstɔːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "アイデアの生成、ブレインストーミング (イディオム)",
+                "sentence": "The team brainstormed ideas for the new project.",
+                "sentence translation": "チームは新しいプロジェクトのアイデアを生み出しました。"
+            }
+        ]
+    },
+    {
+        "word": "bread-winner",
+        "phonetic american": "ˈbrɛdˌwɪnər",
+        "phonetic british": "ˈbrɛdˌwɪnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "大黒柱（イディオム）",
+                "sentence": "He is the bread-winner of his family.",
+                "sentence translation": "彼は家族の稼ぎ手です。"
+            }
+        ]
+    },
+    {
+        "word": "bring home the bacon",
+        "phonetic american": "brɪŋ hoʊm ðə ˈbeɪkən",
+        "phonetic british": "brɪŋ həʊm ðə ˈbeɪkən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "パンを家に持ち帰る、お金を稼ぐ（慣用句）",
+                "sentence": "He works hard to bring home the bacon.",
+                "sentence translation": "彼は家にパンを届けるために一生懸命働いています。"
+            }
+        ]
+    },
+    {
+        "word": "broken watch is right twice a day",
+        "phonetic american": "ˈbroʊkən wɑːtʃ ɪz raɪt twaɪs ə deɪ",
+        "phonetic british": "ˈbrəʊkən wɒtʃ ɪz raɪt twaɪs ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "悪いことでも時々正しいことがある（慣用句）",
+                "sentence": "Even a broken watch is right twice a day.",
+                "sentence translation": "時計が悪い場合でも、1 日に 2 回は正確になることがあります。"
+            }
+        ]
+    },
+    {
+        "word": "buckle down",
+        "phonetic american": "ˈbʌkəl daʊn",
+        "phonetic british": "ˈbʌkəl daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一生懸命働き始める、仕事に真剣に集中する（慣用句）",
+                "sentence": "You need to buckle down and study for the exam.",
+                "sentence translation": "あなたは試験のために一生懸命働いて勉強しなければなりません。"
+            }
+        ]
+    },
+    {
+        "word": "bun in the oven",
+        "phonetic american": "bʌn ɪn ðə ˈʌvən",
+        "phonetic british": "bʌn ɪn ðə ˈʌvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "妊娠している（イディオム）",
+                "sentence": "She just announced that she has a bun in the oven.",
+                "sentence translation": "彼女は妊娠していることを発表したばかりです。"
+            }
+        ]
+    },
+    {
+        "word": "butter up",
+        "phonetic american": "ˈbʌtər ʌp",
+        "phonetic british": "ˈbʌtə ʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "賞賛で誰かをだます、誰かにお世辞を言う（慣用句）",
+                "sentence": "He tried to butter up his boss for a promotion.",
+                "sentence translation": "彼は昇進するために上司におだてようとした。"
+            }
+        ]
+    },
+    {
+        "word": "by degrees",
+        "phonetic american": "baɪ dɪˈɡriːz",
+        "phonetic british": "baɪ dɪˈɡriːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "徐々に、徐々に（イディオム）",
+                "sentence": "She improved her skills by degrees.",
+                "sentence translation": "彼は徐々にスキルを向上させました。"
+            }
+        ]
+    },
+    {
+        "word": "by the skin of your teeth",
+        "phonetic american": "baɪ ðə skɪn əv jɔːr tiːθ",
+        "phonetic british": "baɪ ðə skɪn əv jɔː tiːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "九死に一生を得た（イディオム）",
+                "sentence": "He escaped the accident by the skin of his teeth.",
+                "sentence translation": "彼はかろうじて事故を免れた。"
+            }
+        ]
+    },
+    {
+        "word": "call it a day",
+        "phonetic american": "kɔːl ɪt ə deɪ",
+        "phonetic british": "kɔːl ɪt ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "仕事を終了する、仕事をやめる（イディオム）",
+                "sentence": "After finishing the report, they decided to call it a day.",
+                "sentence translation": "報告を終えた後、彼らは作業を中止することに決めた。"
+            }
+        ]
+    },
+    {
+        "word": "calling time",
+        "phonetic american": "ˈkɔːlɪŋ taɪm",
+        "phonetic british": "ˈkɔːlɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かの終わりに達する、終了する（イディオム）",
+                "sentence": "The coach is calling time on his career after 20 years.",
+                "sentence translation": "コチは20年間のキャリアに終止符を打つことになる。"
+            }
+        ]
+    },
+    {
+        "word": "carry the torch for",
+        "phonetic american": "ˈkæri ðə tɔːrtʃ fɔːr",
+        "phonetic british": "ˈkæri ðə tɔːtʃ fɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かまたは何かに忠実であり続けること（イディオム）",
+                "sentence": "He still carries the torch for his high school sweetheart.",
+                "sentence translation": "高校時代の恋人に今でも忠実です。"
+            }
+        ]
+    },
+    {
+        "word": "cash cow",
+        "phonetic american": "kæʃ kaʊ",
+        "phonetic british": "kæʃ kaʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恒久的な収入を生み出すビジネスまたは製品 (イディオム)",
+                "sentence": "Their new app is a real cash cow for the company.",
+                "sentence translation": "彼らの新しいアプリケーションは、会社にとって本当の収入源です。"
+            }
+        ]
+    },
+    {
+        "word": "cat burglar",
+        "phonetic american": "kæt ˈbɜːrɡlər",
+        "phonetic british": "kæt ˈbɜːɡlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "黙って盗む人（慣用句）",
+                "sentence": "The cat burglar entered the house without making a sound.",
+                "sentence translation": "物言わぬ泥棒は音も立てずに家に入った。"
+            }
+        ]
+    },
+    {
+        "word": "catch someone at a bad time",
+        "phonetic american": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "phonetic british": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "間違ったタイミングで誰かを捕まえる（イディオム）",
+                "sentence": "I'm sorry if I caught you at a bad time.",
+                "sentence translation": "間違ったタイミングで捕まえてしまったらごめんなさい。"
+            }
+        ]
+    },
+    {
+        "word": "catch someone red-handed",
+        "phonetic american": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "phonetic british": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かを現行犯で捕まえる（慣用句）",
+                "sentence": "The police caught him red-handed stealing the car.",
+                "sentence translation": "警察は彼が車を盗んだ現行犯で逮捕した。"
+            }
+        ]
+    },
+    {
+        "word": "chance one's arm",
+        "phonetic american": "tʃæns wʌnz ɑːrm",
+        "phonetic british": "tʃɑːns wʌnz ɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "運を試す、リスクを取る（イディオム）",
+                "sentence": "He decided to chance his arm and apply for the position.",
+                "sentence translation": "彼はその職に応募して運を試してみることにしました。"
+            }
+        ]
+    },
+    {
+        "word": "chase rainbows",
+        "phonetic american": "tʃeɪs ˈreɪnboʊz",
+        "phonetic british": "tʃeɪs ˈreɪnbəʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不可能な夢を追う（イディオム）",
+                "sentence": "Stop chasing rainbows and focus on achievable goals.",
+                "sentence translation": "不可能な夢を追うのはやめて、達成可能な目標に集中してください。"
+            }
+        ]
+    },
+    {
+        "word": "chase your tail",
+        "phonetic american": "tʃeɪs jʊr teɪl",
+        "phonetic british": "tʃeɪs jɔː teɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "無駄に奮闘する、時間を無駄にする（慣用句）",
+                "sentence": "I've been chasing my tail all day trying to get everything done.",
+                "sentence translation": "すべての仕事を終わらせようと一日中努力しましたが無駄でした。"
+            }
+        ]
+    },
+    {
+        "word": "cheesy",
+        "phonetic american": "ˈtʃiːzi",
+        "phonetic british": "ˈtʃiːzi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "シンプル、粗末、決まり文句 (慣用句)",
+                "sentence": "The movie was too cheesy for my taste.",
+                "sentence translation": "その映画は私の好みにはありきたりすぎた。"
+            }
+        ]
+    },
+    {
+        "word": "clock-in/clock-out",
+        "phonetic american": "klɑːk ɪn / klɑːk aʊt",
+        "phonetic british": "klɒk ɪn / klɒk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "勤務時間外のチェックイン/チェックアウト (イディオム)",
+                "sentence": "Don't forget to clock in when you arrive at work.",
+                "sentence translation": "出勤したら忘れずにログインしてください。"
+            }
+        ]
+    },
+    {
+        "word": "close to home",
+        "phonetic american": "kloʊs tə hoʊm",
+        "phonetic british": "kləʊs tə həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "個人的な問題に感動的な方法で対処する（慣用句）",
+                "sentence": "The comment about his family was too close to home.",
+                "sentence translation": "彼の家族についてのコメントは非常に個人的な点に触れた。"
+            }
+        ]
+    },
+    {
+        "word": "cold shoulder",
+        "phonetic american": "koʊld ˈʃoʊldər",
+        "phonetic british": "kəʊld ˈʃəʊldə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "冷淡に振る舞う、無関心を保つ（慣用句）",
+                "sentence": "She gave him the cold shoulder after their argument.",
+                "sentence translation": "彼らの口論の後、彼は彼女を冷たく扱った。"
+            }
+        ]
+    },
+    {
+        "word": "coming of age",
+        "phonetic american": "ˈkʌmɪŋ əv eɪdʒ",
+        "phonetic british": "ˈkʌmɪŋ əv eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "成熟する、大人への一歩を踏み出す（イディオム）",
+                "sentence": "The novel is a beautiful coming-of-age story.",
+                "sentence translation": "この小説は美しい青春の物語です。"
+            }
+        ]
+    },
+    {
+        "word": "cook someone's goose",
+        "phonetic american": "kʊk ˈsʌmwʌnz ɡuːs",
+        "phonetic british": "kʊk ˈsʌmwʌnz ɡuːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "（人の計画を台無しにする）（慣用句）",
+                "sentence": "If you tell the boss about his mistake, it will cook his goose.",
+                "sentence translation": "上司に自分の間違いを告げると、彼の計画は台無しになってしまいます。"
+            }
+        ]
+    },
+    {
+        "word": "copycat",
+        "phonetic american": "ˈkɑːpiˌkæt",
+        "phonetic british": "ˈkɒpiˌkæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "模倣者（イディオム）",
+                "sentence": "The new app is just a copycat of the original one.",
+                "sentence translation": "新しいアプリはオリジナルの単なる模倣です。"
+            }
+        ]
+    },
+    {
+        "word": "costs an arm and a leg",
+        "phonetic american": "kɔːsts æn ɑːrm ənd ə lɛɡ",
+        "phonetic british": "kɒsts ən ɑːm ənd ə lɛɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "費用がかかる（慣用句）",
+                "sentence": "This vacation is going to cost an arm and a leg.",
+                "sentence translation": "この休暇は多額の出費になるだろう。"
+            }
+        ]
+    },
+    {
+        "word": "couch potato",
+        "phonetic american": "kaʊtʃ pəˈteɪtoʊ",
+        "phonetic british": "kaʊtʃ pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "いつもテレビを見ている怠け者 (慣用句)",
+                "sentence": "He's such a couch potato; he never goes outside.",
+                "sentence translation": "彼はとても怠け者だ。決して外に出ない。"
+            }
+        ]
+    },
+    {
+        "word": "cover a lot of ground",
+        "phonetic american": "ˈkʌvər ə lɒt əv ɡraʊnd",
+        "phonetic british": "ˈkʌvə ə lɒt əv ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "多くの進歩を遂げる、広範囲をカバーする（慣用句）",
+                "sentence": "We covered a lot of ground in today's meeting.",
+                "sentence translation": "今日の会議では多くの進展がありました。"
+            }
+        ]
+    },
+    {
+        "word": "crack of dawn",
+        "phonetic american": "kræk əv dɔːn",
+        "phonetic british": "kræk əv dɔːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "夜明けに、夜明けに（イディオム）",
+                "sentence": "We left at the crack of dawn to catch the first train.",
+                "sentence translation": "私たちは始発の電車に乗るために夜明けに出発しました。"
+            }
+        ]
+    },
+    {
+        "word": "cross that bridge when you come to it",
+        "phonetic american": "krɔːs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "phonetic british": "krɒs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "問題に直面したときにそれを解決する（イディオム）",
+                "sentence": "We’ll cross that bridge when we come to it.",
+                "sentence translation": "その問題に遭遇したとき、私たちはそれを解決します。"
+            }
+        ]
+    },
+    {
+        "word": "crunch time",
+        "phonetic american": "krʌntʃ taɪm",
+        "phonetic british": "krʌntʃ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間的プレッシャーが激しい時期（慣用句）",
+                "sentence": "It's crunch time for the project, so everyone is working overtime.",
+                "sentence translation": "プロジェクトにとって重要な時期なので、全員が残業しています。"
+            }
+        ]
+    },
+    {
+        "word": "cry over spilt milk",
+        "phonetic american": "kraɪ ˈoʊvər spɪlt mɪlk",
+        "phonetic british": "kraɪ ˈəʊvə spɪlt mɪlk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "過去のことを残念に思う（イディオム）",
+                "sentence": "There's no use crying over spilt milk; let's focus on fixing the problem.",
+                "sentence translation": "過去を心配しても意味がありません。問題を解決することに集中しましょう。"
+            }
+        ]
+    },
+    {
+        "word": "curiosity killed the cat",
+        "phonetic american": "ˌkjʊriˈɑːsəti kɪld ðə kæt",
+        "phonetic british": "ˌkjʊərɪˈɒsɪti kɪld ðə kæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "過度の好奇心は危険です（慣用句）",
+                "sentence": "Don't go into that abandoned house; curiosity killed the cat.",
+                "sentence translation": "あの廃屋には入ってはいけない。過度の好奇心は危険を伴う可能性があります。"
+            }
+        ]
+    },
+    {
+        "word": "cut corners",
+        "phonetic american": "kʌt ˈkɔːrnərz",
+        "phonetic british": "kʌt ˈkɔːnəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "手抜き、品質低下（慣用句）",
+                "sentence": "They cut corners to finish the project quickly, but it led to mistakes.",
+                "sentence translation": "彼らはプロジェクトを早く終わらせるために安易な方法をとりましたが、それがミスにつながりました。"
+            }
+        ]
+    },
+    {
+        "word": "cut one's own throat",
+        "phonetic american": "kʌt wʌnz oʊn θroʊt",
+        "phonetic british": "kʌt wʌnz əʊn θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "自分の利益を損なう（慣用句）",
+                "sentence": "By refusing the deal, he ended up cutting his own throat.",
+                "sentence translation": "彼は協定を拒否したことで自分の利益を害した。"
+            }
+        ]
+    },
+    {
+        "word": "cut the mustard",
+        "phonetic american": "kʌt ðə ˈmʌstərd",
+        "phonetic british": "kʌt ðə ˈmʌstəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "期待される標準を達成する (イディオム)",
+                "sentence": "He didn’t cut the mustard, so he wasn’t hired.",
+                "sentence translation": "彼は期待された基準を満たせなかったため採用されなかった。"
+            }
+        ]
+    },
+    {
+        "word": "cut to the chase",
+        "phonetic american": "kʌt tə ðə tʃeɪs",
+        "phonetic british": "kʌt tə ðə tʃeɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "要点に到達する（イディオム）",
+                "sentence": "Let’s cut to the chase and discuss the main issue.",
+                "sentence translation": "本題に入り、本題について議論しましょう。"
+            }
+        ]
+    },
+    {
+        "word": "day to day",
+        "phonetic american": "deɪ tə deɪ",
+        "phonetic british": "deɪ tə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "毎日の雑用またはルーチン (イディオム)",
+                "sentence": "She handles the day-to-day operations of the business.",
+                "sentence translation": "彼はビジネスの日常業務を管理します。"
+            }
+        ]
+    },
+    {
+        "word": "days are numbered",
+        "phonetic american": "deɪz ər ˈnʌmbərd",
+        "phonetic british": "deɪz ə ˈnʌmbəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "その日々は終わりに近づいている (慣用句)",
+                "sentence": "With sales dropping, the company’s days are numbered.",
+                "sentence translation": "売上高の減少により、同社の存続期間は残りわずかとなった。"
+            }
+        ]
+    },
+    {
+        "word": "dead duck",
+        "phonetic american": "dɛd dʌk",
+        "phonetic british": "dɛd dʌk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "失敗または不使用 (イディオム)",
+                "sentence": "After losing the lawsuit, their business plan was a dead duck.",
+                "sentence translation": "敗訴後、彼らの事業計画は失敗に終わりました。"
+            }
+        ]
+    },
+    {
+        "word": "dead in the water",
+        "phonetic american": "dɛd ɪn ðə ˈwɔːtər",
+        "phonetic british": "dɛd ɪn ðə ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何も進まない、または疲れ果てた（慣用句）",
+                "sentence": "Without funding, the project is dead in the water.",
+                "sentence translation": "資金がなかったため、プロジェクトは完全に停止しました。"
+            }
+        ]
+    },
+    {
+        "word": "dead wood",
+        "phonetic american": "dɛd wʊd",
+        "phonetic british": "dɛd wʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "役に立たない人や物（慣用句）",
+                "sentence": "The company decided to remove the dead wood to increase productivity.",
+                "sentence translation": "会社は効率を上げるために役に立たない人を解雇することに決めた。"
+            }
+        ]
+    },
+    {
+        "word": "deep down",
+        "phonetic american": "diːp daʊn",
+        "phonetic british": "diːp daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "内側、奥深く（イディオム）",
+                "sentence": "Deep down, she knew she had made the right choice.",
+                "sentence translation": "彼は心の底では自分が正しい決断を下したと分かっていた。"
+            }
+        ]
+    },
+    {
+        "word": "deliver the goods",
+        "phonetic american": "dɪˈlɪvər ðə ɡʊdz",
+        "phonetic british": "dɪˈlɪvə ðə ɡʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "期待されたパフォーマンスを示す、約束を果たす（慣用句）",
+                "sentence": "The new software delivered the goods as promised.",
+                "sentence translation": "新しいソフトウェアは約束どおり期待通りのパフォーマンスを示しました。"
+            }
+        ]
+    },
+    {
+        "word": "devil's advocate",
+        "phonetic american": "ˈdɛvəlz ˈædvəkət",
+        "phonetic british": "ˈdɛvəlz ˈædvəkət",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "反論（イディオム）を展開する人",
+                "sentence": "He played devil's advocate to test the strength of their argument.",
+                "sentence translation": "彼は自分の主張の強さを試すために悪魔の代弁者を演じた。"
+            }
+        ]
+    },
+    {
+        "word": "do time (serve time)",
+        "phonetic american": "duː taɪm / sɜːrv taɪm",
+        "phonetic british": "duː taɪm / sɜːv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "刑務所に行く（イディオム）",
+                "sentence": "He did time for robbery when he was younger.",
+                "sentence translation": "彼は十代の頃に強盗の罪で刑務所に服役していた。"
+            }
+        ]
+    },
+    {
+        "word": "donkey's years",
+        "phonetic american": "ˈdɑːŋkiz jɪrz",
+        "phonetic british": "ˈdɒŋkɪz jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何年も（イディオム）",
+                "sentence": "I haven’t seen her in donkey’s years.",
+                "sentence translation": "もう何年も彼に会っていません。"
+            }
+        ]
+    },
+    {
+        "word": "don't count your chickens before they've hatched",
+        "phonetic american": "doʊnt kaʊnt jʊr ˈtʃɪkɪnz bɪˈfɔːr ðeɪv hætʃt",
+        "phonetic british": "dəʊnt kaʊnt jɔː ˈtʃɪkɪnz bɪˈfɔː ðeɪv hætʃt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "流れを見ずにズボンをまくり上げないでください（慣用句）",
+                "sentence": "Don’t count your chickens before they’ve hatched; the deal isn’t finalized yet.",
+                "sentence translation": "川を見ずにズボンをまくり上げないでください。契約はまだ完了していない。"
+            }
+        ]
+    },
+    {
+        "word": "don't give up the day job",
+        "phonetic american": "doʊnt ɡɪv ʌp ðə deɪ ʤɑːb",
+        "phonetic british": "dəʊnt ɡɪv ʌp ðə deɪ ʤɒb",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "才能が欠けている分野に注力しない（慣用句）",
+                "sentence": "Your singing is okay, but don’t give up the day job.",
+                "sentence translation": "歌うのは悪いことではありませんが、それを職業にしてはいけません。"
+            }
+        ]
+    },
+    {
+        "word": "don't put all your eggs in one basket",
+        "phonetic american": "doʊnt pʊt ɔːl jʊr ɛɡz ɪn wʌn ˈbæskɪt",
+        "phonetic british": "dəʊnt pʊt ɔːl jɔːr ɛɡz ɪn wʌn ˈbɑːskɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "すべてのリスクを 1 つの事柄に結び付ける (イディオム)",
+                "sentence": "It’s risky to invest all your money in stocks; don’t put all your eggs in one basket.",
+                "sentence translation": "全財産を株につぎ込むのは危険です。すべてのリスクを 1 つの要因に帰しないでください。"
+            }
+        ]
+    },
+    {
+        "word": "double date",
+        "phonetic american": "ˈdʌbəl deɪt",
+        "phonetic british": "ˈdʌbəl deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "二組のカップルが一緒に出かけるデート（慣用句）",
+                "sentence": "We went on a double date with my best friend and her boyfriend.",
+                "sentence translation": "私たちは親友と彼女のボーイフレンドとカップルデートに行きました。"
+            }
+        ]
+    },
+    {
+        "word": "drastic times call for drastic measures",
+        "phonetic american": "ˈdræstɪk taɪmz kɔːl fɔːr ˈdræstɪk ˈmɛʒərz",
+        "phonetic british": "ˈdræstɪk taɪmz kɔːl fɔː ˈdræstɪk ˈmɛʒəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "困難な状況には難しい決断が必要 (イディオム)",
+                "sentence": "The company had to lay off employees because drastic times call for drastic measures.",
+                "sentence translation": "難しい決断が必要だったため、会社は従業員を解雇しなければならなかった。"
+            }
+        ]
+    },
+    {
+        "word": "drawing a blank",
+        "phonetic american": "ˈdrɔːɪŋ ə blæŋk",
+        "phonetic british": "ˈdrɔːɪŋ ə blæŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何も成果が出せない、何も思い出せない（慣用句）",
+                "sentence": "I tried to remember her name, but I kept drawing a blank.",
+                "sentence translation": "彼の名前を思い出そうとしましたが、できませんでした。"
+            }
+        ]
+    },
+    {
+        "word": "dropout",
+        "phonetic american": "ˈdrɑːpaʊt",
+        "phonetic british": "ˈdrɒpaʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "学校やプログラムを中退した人 (慣用句)",
+                "sentence": "He’s a college dropout who started his own company.",
+                "sentence translation": "大学を中退して起業した人。"
+            }
+        ]
+    },
+    {
+        "word": "dwell on the past",
+        "phonetic american": "dwɛl ɑn ðə pæst",
+        "phonetic british": "dwɛl ɒn ðə pɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "過去に囚われている（イディオム）",
+                "sentence": "It’s time to move forward and stop dwelling on the past.",
+                "sentence translation": "今は過去に囚われず、前を向くときです。"
+            }
+        ]
+    },
+    {
+        "word": "eager beaver",
+        "phonetic american": "ˈiːɡər ˈbiːvər",
+        "phonetic british": "ˈiːɡə ˈbiːvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "過度に熱心な人、または勤勉な人（慣用句）",
+                "sentence": "She’s such an eager beaver; she always finishes her tasks ahead of time.",
+                "sentence translation": "彼はとても働き者です。彼はいつも早く仕事を終えます。"
+            }
+        ]
+    },
+    {
+        "word": "easy as ABC",
+        "phonetic american": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "phonetic british": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "それは簡単です、それは子供の遊びです（慣用句）",
+                "sentence": "The instructions were easy as ABC, so I had no trouble assembling the furniture.",
+                "sentence translation": "説明書もとても簡単だったので、家具の組み立てに迷うことはありませんでした。"
+            }
+        ]
+    },
+    {
+        "word": "eat, sleep & breathe something",
+        "phonetic american": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "phonetic british": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "人生を何かに捧げる（慣用句）",
+                "sentence": "He eats, sleeps, and breathes football.",
+                "sentence translation": "彼はサッカーに人生を捧げた人だ。"
+            }
+        ]
+    },
+    {
+        "word": "egg head",
+        "phonetic american": "ˈɛɡ hɛd",
+        "phonetic british": "ˈɛɡ hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "過度に知的な人または学者（慣用句）",
+                "sentence": "The professor is a real egg head when it comes to mathematics.",
+                "sentence translation": "教授は数学に関して完全な知識人です。"
+            }
+        ]
+    },
+    {
+        "word": "elbow room",
+        "phonetic american": "ˈɛlboʊ ruːm",
+        "phonetic british": "ˈɛlbəʊ ruːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "移動の自由（イディオム）",
+                "sentence": "The new office gives us more elbow room.",
+                "sentence translation": "新しいオフィスは私たちにもっと広いスペースを与えてくれます。"
+            }
+        ]
+    },
+    {
+        "word": "eleventh hour",
+        "phonetic american": "ɪˈlɛvənθ ˈaʊər",
+        "phonetic british": "ɪˈlɛvənθ ˈaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "最後の瞬間、最後の瞬間（イディオム）",
+                "sentence": "They reached an agreement at the eleventh hour.",
+                "sentence translation": "彼らは土壇場で合意に達した。"
+            }
+        ]
+    },
+    {
+        "word": "Elvis has left the building",
+        "phonetic american": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "phonetic british": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "イベントは終わりました、仕事はここで終わります（慣用句）",
+                "sentence": "The concert is over; Elvis has left the building.",
+                "sentence translation": "コンサートは終わりました。イベントは終了しました。"
+            }
+        ]
+    },
+    {
+        "word": "every cloud has a silver lining",
+        "phonetic american": "ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ",
+        "phonetic british": "ˈɛvri klaʊd hæz ə ˈsɪlvə ˈlaɪnɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "どんな悪いことにも良いことがある（慣用句）",
+                "sentence": "Don’t worry about losing your job; every cloud has a silver lining.",
+                "sentence translation": "職を失うことを心配する必要はありません。あらゆる悪いことの中にも良いところがあります。"
+            }
+        ]
+    },
+    {
+        "word": "explore all avenues",
+        "phonetic american": "ɪkˈsplɔːr ɔːl ˈævəˌnuːz",
+        "phonetic british": "ɪkˈsplɔːr ɔːl ˈævənjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "あらゆる可能性を探求する（イディオム）",
+                "sentence": "We need to explore all avenues before making a decision.",
+                "sentence translation": "決断を下す前に、あらゆる可能性を検討する必要があります。"
+            }
+        ]
+    },
+    {
+        "word": "eye-catching",
+        "phonetic american": "ˈaɪ ˌkætʃɪŋ",
+        "phonetic british": "ˈaɪ ˌkætʃɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "目を引く、目を引く（イディオム）",
+                "sentence": "The new advertisement is very eye-catching.",
+                "sentence translation": "新しい広告はとても目を引きます。"
+            }
+        ]
+    },
+    {
+        "word": "fallen in love",
+        "phonetic american": "ˈfɔːlən ɪn lʌv",
+        "phonetic british": "ˈfɔːlən ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恋に落ちる（イディオム）",
+                "sentence": "He has fallen in love with his best friend.",
+                "sentence translation": "彼は親友に恋をした。"
+            }
+        ]
+    },
+    {
+        "word": "far cry from",
+        "phonetic american": "fɑːr kraɪ frʌm",
+        "phonetic british": "fɑː kraɪ frʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常に異なる、関連性のない（イディオム）",
+                "sentence": "This new design is a far cry from the old one.",
+                "sentence translation": "この新しいデザインは古いものとは大きく異なります。"
+            }
+        ]
+    },
+    {
+        "word": "feeling blue",
+        "phonetic american": "ˈfiːlɪŋ bluː",
+        "phonetic british": "ˈfiːlɪŋ bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "悲しい、不幸な気分（イディオム）",
+                "sentence": "I’ve been feeling blue ever since she moved away.",
+                "sentence translation": "彼が引っ越して以来、私はずっと悲しい気持ちになっています。"
+            }
+        ]
+    },
+    {
+        "word": "feeling under the weather",
+        "phonetic american": "ˈfiːlɪŋ ˈʌndər ðə ˈwɛðər",
+        "phonetic british": "ˈfiːlɪŋ ˈʌndə ðə ˈwɛðə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "気分が悪い、または弱っている（イディオム）",
+                "sentence": "I’m feeling under the weather today, so I’ll stay home.",
+                "sentence translation": "今日は体が弱いので家にいます。"
+            }
+        ]
+    },
+    {
+        "word": "fever pitch",
+        "phonetic american": "ˈfiːvər pɪtʃ",
+        "phonetic british": "ˈfiːvə pɪtʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "極度の興奮または緊張の状態（慣用句）",
+                "sentence": "The excitement in the stadium reached fever pitch.",
+                "sentence translation": "スタジアムの興奮は最高潮に達した。"
+            }
+        ]
+    },
+    {
+        "word": "fill in the blanks",
+        "phonetic american": "fɪl ɪn ðə blæŋks",
+        "phonetic british": "fɪl ɪn ðə blæŋks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "足りない情報を埋める（イディオム）",
+                "sentence": "She didn’t give us all the details, so we had to fill in the blanks.",
+                "sentence translation": "彼は詳細をすべて教えてくれなかったので、不足している情報を埋める必要がありました。"
+            }
+        ]
+    },
+    {
+        "word": "first in, best dressed",
+        "phonetic american": "fɜːrst ɪn bɛst drɛst",
+        "phonetic british": "fɜːst ɪn bɛst drɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "早い者勝ち（イディオム）",
+                "sentence": "The sale was first in, best dressed, so we arrived early.",
+                "sentence translation": "販売は先着順だったので、早めに到着しました。"
+            }
+        ]
+    },
+    {
+        "word": "first out of the gate",
+        "phonetic american": "fɜːrst aʊt əv ðə ɡeɪt",
+        "phonetic british": "fɜːst aʊt əv ðə ɡeɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かを最初に始めるか行動を起こす人（イディオム）",
+                "sentence": "He was the first out of the gate with his project proposal.",
+                "sentence translation": "彼はこのプロジェクトの提案に対して最初に行動を起こした人物でした。"
+            }
+        ]
+    },
+    {
+        "word": "fish out of water",
+        "phonetic american": "fɪʃ aʊt əv ˈwɔːtər",
+        "phonetic british": "fɪʃ aʊt əv ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "見知らぬ環境で不快に感じる（慣用句）",
+                "sentence": "He felt like a fish out of water at the formal dinner party.",
+                "sentence translation": "フォーマルな晩餐会では、彼はまるで異国の環境にいるような気分になった。"
+            }
+        ]
+    },
+    {
+        "word": "foot in the door",
+        "phonetic american": "fʊt ɪn ðə dɔːr",
+        "phonetic british": "fʊt ɪn ðə dɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "先発の機会を得る（イディオム）",
+                "sentence": "This internship will help you get your foot in the door of the industry.",
+                "sentence translation": "このインターンシップは、業界への参入に役立ちます。"
+            }
+        ]
+    },
+    {
+        "word": "for the time being",
+        "phonetic american": "fɔːr ðə taɪm ˈbiːɪŋ",
+        "phonetic british": "fɔː ðə taɪm ˈbiːɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "とりあえず、一時的に（慣用句）",
+                "sentence": "For the time being, we’ll stay here until we find a better place.",
+                "sentence translation": "今のところ、より良い場所が見つかるまでここに滞在します。"
+            }
+        ]
+    },
+    {
+        "word": "from now on",
+        "phonetic american": "frʌm naʊ ɑːn",
+        "phonetic british": "frʌm naʊ ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "これから（イディオム）",
+                "sentence": "From now on, I’ll be more careful with my spending.",
+                "sentence translation": "これからは支出にはもっと気をつけます。"
+            }
+        ]
+    },
+    {
+        "word": "from time to time",
+        "phonetic american": "frʌm taɪm tə taɪm",
+        "phonetic british": "frʌm taɪm tə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時々、時々（イディオム）",
+                "sentence": "I like to visit my hometown from time to time.",
+                "sentence translation": "私は時々故郷を訪れるのが好きです。"
+            }
+        ]
+    },
+    {
+        "word": "full of beans",
+        "phonetic american": "fʊl əv biːnz",
+        "phonetic british": "fʊl əv biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "エネルギーに満ちた、活気に満ちた（慣用句）",
+                "sentence": "The children were full of beans after the party.",
+                "sentence translation": "パーティーの後、子供たちは元気いっぱいでした。"
+            }
+        ]
+    },
+    {
+        "word": "full of the joys of spring",
+        "phonetic american": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "phonetic british": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "とても幸せ、楽しい（イディオム）",
+                "sentence": "She came into the office full of the joys of spring.",
+                "sentence translation": "彼は春の喜びに満ちてオフィスにやって来た。"
+            }
+        ]
+    },
+    {
+        "word": "getting sacked (or axed, or fired)",
+        "phonetic american": "ˈɡɛtɪŋ sækt",
+        "phonetic british": "ˈɡɛtɪŋ sækt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "解雇される（イディオム）",
+                "sentence": "He was afraid of getting sacked after the mistake.",
+                "sentence translation": "彼は自分のミスの後に解雇されるのを恐れていた。"
+            }
+        ]
+    },
+    {
+        "word": "getting the show on the road",
+        "phonetic american": "ˈɡɛtɪŋ ðə ʃoʊ ɑn ðə roʊd",
+        "phonetic british": "ˈɡɛtɪŋ ðə ʃəʊ ɒn ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "プロジェクトまたは活動を開始する (イディオム)",
+                "sentence": "Let’s get the show on the road and start the meeting.",
+                "sentence translation": "本題に入り、会議を始めましょう。"
+            }
+        ]
+    },
+    {
+        "word": "give the benefit of the doubt",
+        "phonetic american": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "phonetic british": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "疑いにもかかわらず誰かを信じる（イディオム）",
+                "sentence": "Let’s give her the benefit of the doubt and assume she’s telling the truth.",
+                "sentence translation": "あなたは疑いを持ちながらも彼を信じており、彼が真実を語っていると仮定しましょう。"
+            }
+        ]
+    },
+    {
+        "word": "give the green light",
+        "phonetic american": "ɡɪv ðə ɡriːn laɪt",
+        "phonetic british": "ɡɪv ðə ɡriːn laɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "許可する、承認する（イディオム）",
+                "sentence": "The manager gave the green light to start the project.",
+                "sentence translation": "マネージャーはプロジェクトを開始することを承認しました。"
+            }
+        ]
+    },
+    {
+        "word": "go belly up",
+        "phonetic american": "ɡoʊ ˈbɛli ˈʌp",
+        "phonetic british": "ɡəʊ ˈbɛli ˈʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "失敗する、破産する（慣用句）",
+                "sentence": "The company went belly up after losing its main client.",
+                "sentence translation": "その会社は主要顧客を失ったために倒産した。"
+            }
+        ]
+    },
+    {
+        "word": "going places",
+        "phonetic american": "ˈɡoʊɪŋ ˈpleɪsɪz",
+        "phonetic british": "ˈɡəʊɪŋ ˈpleɪsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "成功する可能性がある（イディオム）",
+                "sentence": "With her talent, she’s definitely going places.",
+                "sentence translation": "彼の才能があれば、彼は間違いなく成功するだろう。"
+            }
+        ]
+    },
+    {
+        "word": "golden boy",
+        "phonetic american": "ˈɡoʊldən bɔɪ",
+        "phonetic british": "ˈɡəʊldən bɔɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "とても愛され、成功が期待される人（慣用句）",
+                "sentence": "He’s the golden boy of the football team.",
+                "sentence translation": "彼はフットボールチームのお気に入りです。"
+            }
+        ]
+    },
+    {
+        "word": "golden handshake",
+        "phonetic american": "ˈɡoʊldən ˈhændˌʃeɪk",
+        "phonetic british": "ˈɡəʊldən ˈhændˌʃeɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "退職金または退職金（フレーズ）",
+                "sentence": "The CEO received a golden handshake upon his retirement.",
+                "sentence translation": "CEOは退職時に報酬を受け取りました。"
+            }
+        ]
+    },
+    {
+        "word": "golden opportunity",
+        "phonetic american": "ˈɡoʊldən ˌɑːpərˈtuːnɪti",
+        "phonetic british": "ˈɡəʊldən ˌɒpəˈtjuːnɪti",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "逃してはいけない絶好のチャンス（慣用句）",
+                "sentence": "This job offer is a golden opportunity for your career.",
+                "sentence translation": "この求人はあなたのキャリアにとって逃せないチャンスです。"
+            }
+        ]
+    },
+    {
+        "word": "grass is always greener on the other side",
+        "phonetic american": "ɡræs ɪz ˈɔːlweɪz ˈɡriːnər ɑn ði ˈʌðər saɪd",
+        "phonetic british": "ɡrɑːs ɪz ˈɔːlweɪz ˈɡriːnə ɒn ði ˈʌðə saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "他の何かがいつもより魅力的に見える（イディオム）",
+                "sentence": "He left his job thinking the grass is always greener on the other side, but now he regrets it.",
+                "sentence translation": "彼は別の仕事のほうが魅力的だと考えて仕事を辞めたが、今はそれを後悔している。"
+            }
+        ]
+    },
+    {
+        "word": "grease someone's palm",
+        "phonetic american": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "phonetic british": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かに賄賂を渡す（イディオム）",
+                "sentence": "He had to grease the official’s palm to get the permit approved.",
+                "sentence translation": "彼は許可を承認してもらうために役人に賄賂を贈らなければならなかった。"
+            }
+        ]
+    },
+    {
+        "word": "green thumb",
+        "phonetic american": "ɡriːn θʌm",
+        "phonetic british": "ɡriːn θʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "植物を育てる能力（イディオム）",
+                "sentence": "She has a green thumb; her garden is always blooming.",
+                "sentence translation": "彼は植物を育てる能力を持っています。彼の庭はいつも花が咲いています。"
+            }
+        ]
+    },
+    {
+        "word": "green with envy",
+        "phonetic american": "ɡriːn wɪð ˈɛnvi",
+        "phonetic british": "ɡriːn wɪð ˈɛnvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "嫉妬が爆発する（イディオム）",
+                "sentence": "She was green with envy when she saw her friend’s new car.",
+                "sentence translation": "彼は友人の新しい車を見て嫉妬でいっぱいになった。"
+            }
+        ]
+    },
+    {
+        "word": "grey area",
+        "phonetic american": "ɡreɪ ˈɛriə",
+        "phonetic british": "ɡreɪ ˈɛərɪə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "不確実または不確かな状況（イディオム）",
+                "sentence": "The rules about online privacy are still a grey area.",
+                "sentence translation": "オンラインのプライバシー規則は依然として不明確な問題です。"
+            }
+        ]
+    },
+    {
+        "word": "hanging on by fingernails",
+        "phonetic american": "ˈhæŋɪŋ ɑn baɪ ˈfɪŋɡərˌneɪlz",
+        "phonetic british": "ˈhæŋɪŋ ɒn baɪ ˈfɪŋɡəˌneɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "困難な状況で生き残ろうとする（慣用句）",
+                "sentence": "The company is hanging on by its fingernails due to financial issues.",
+                "sentence translation": "その会社は財務上の問題により存続するのに苦労している。"
+            }
+        ]
+    },
+    {
+        "word": "hard as nails",
+        "phonetic american": "hɑːrd æz neɪlz",
+        "phonetic british": "hɑːd æz neɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "感情的でない、または打たれ強い人 (イディオム)",
+                "sentence": "She may look kind, but she’s hard as nails when it comes to business.",
+                "sentence translation": "彼は一見優しそうに見えますが、ビジネスとなると非常に厳しいです。"
+            }
+        ]
+    },
+    {
+        "word": "hard time",
+        "phonetic american": "hɑːrd taɪm",
+        "phonetic british": "hɑːd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "困難な時期を経験している（イディオム）",
+                "sentence": "He had a hard time finding a job after college.",
+                "sentence translation": "彼は大学卒業後、仕事を見つけるのに苦労した。"
+            }
+        ]
+    },
+    {
+        "word": "having one's heart set on something",
+        "phonetic american": "ˈhævɪŋ wʌnz hɑːrt sɛt ɑn ˈsʌmθɪŋ",
+        "phonetic british": "ˈhævɪŋ wʌnz hɑːt sɛt ɒn ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "本当に何かが欲しい（イディオム）",
+                "sentence": "She has her heart set on studying abroad next year.",
+                "sentence translation": "彼は来年本当に留学したいと思っています。"
+            }
+        ]
+    },
+    {
+        "word": "head in the clouds",
+        "phonetic american": "hɛd ɪn ðə klaʊdz",
+        "phonetic british": "hɛd ɪn ðə klaʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "現実から遠く離れた夢想家であること（イディオム）",
+                "sentence": "He’s always got his head in the clouds, dreaming of becoming a rock star.",
+                "sentence translation": "彼はいつも夢の世界にいて、ロックスターになることを夢見ています。"
+            }
+        ]
+    },
+    {
+        "word": "head over heels in love",
+        "phonetic american": "hɛd ˈoʊvər hilz ɪn lʌv",
+        "phonetic british": "hɛd ˈəʊvə hiːlz ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恋に真っ逆さまに落ちる（イディオム）",
+                "sentence": "He fell head over heels in love with her the moment they met.",
+                "sentence translation": "彼は彼女に会った瞬間に彼女に恋に落ちた。"
+            }
+        ]
+    },
+    {
+        "word": "hear it on the grapevine",
+        "phonetic american": "hɪr ɪt ɑn ðə ˈɡreɪpˌvaɪn",
+        "phonetic british": "hɪə ɪt ɒn ðə ˈɡreɪpˌvaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "噂から何かを聞く（イディオム）",
+                "sentence": "I heard on the grapevine that they’re getting married.",
+                "sentence translation": "彼らが結婚することを人づてに聞きました。"
+            }
+        ]
+    },
+    {
+        "word": "heart is in the right place",
+        "phonetic american": "hɑːrt ɪz ɪn ðə raɪt pleɪs",
+        "phonetic british": "hɑːt ɪz ɪn ðə raɪt pleɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "正しい意図を持っている（イディオム）",
+                "sentence": "She makes mistakes sometimes, but her heart is in the right place.",
+                "sentence translation": "彼は時々間違いを犯すが、彼の意図は正しい。"
+            }
+        ]
+    },
+    {
+        "word": "here today, gone tomorrow",
+        "phonetic american": "hɪr təˈdeɪ, ɡɑn təˈmɑːroʊ",
+        "phonetic british": "hɪə təˈdeɪ, ɡɒn təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一時的なものに使用される（イディオム）",
+                "sentence": "The popularity of certain trends is here today, gone tomorrow.",
+                "sentence translation": "一部のトレンドの人気は一時的なものです。"
+            }
+        ]
+    },
+    {
+        "word": "high time",
+        "phonetic american": "haɪ taɪm",
+        "phonetic british": "haɪ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "そろそろ、もう遅い（慣用句）",
+                "sentence": "It’s high time you cleaned your room.",
+                "sentence translation": "今こそ部屋を掃除する時期です。"
+            }
+        ]
+    },
+    {
+        "word": "hit the big time",
+        "phonetic american": "hɪt ðə bɪɡ taɪm",
+        "phonetic british": "hɪt ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "大成功を収める（慣用句）",
+                "sentence": "He hit the big time after his song became a global hit.",
+                "sentence translation": "彼の歌が世界的にヒットした後、彼は大きな成功を収めました。"
+            }
+        ]
+    },
+    {
+        "word": "hit the books",
+        "phonetic american": "hɪt ðə bʊks",
+        "phonetic british": "hɪt ðə bʊks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "仕事を始める（イディオム）",
+                "sentence": "I have to hit the books if I want to pass the exam.",
+                "sentence translation": "試験に合格したければ、勉強を始めなければなりません。"
+            }
+        ]
+    },
+    {
+        "word": "hit the nail on the head",
+        "phonetic american": "hɪt ðə neɪl ɑn ðə hɛd",
+        "phonetic british": "hɪt ðə neɪl ɒn ðə hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "釘を打つ、正しいことを言う（慣用句）",
+                "sentence": "You hit the nail on the head with your analysis.",
+                "sentence translation": "分析は見事に的中しました。"
+            }
+        ]
+    },
+    {
+        "word": "hit the panic button",
+        "phonetic american": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "phonetic british": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "パニックになる（イディオム）",
+                "sentence": "Don’t hit the panic button; we still have time to fix this.",
+                "sentence translation": "慌てないで;これを修正する時間はまだあります。"
+            }
+        ]
+    },
+    {
+        "word": "hit the road",
+        "phonetic american": "hɪt ðə roʊd",
+        "phonetic british": "hɪt ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "出発する、場所を離れる（イディオム）",
+                "sentence": "It’s getting late; we’d better hit the road.",
+                "sentence translation": "遅くなりました。始めたほうがいいよ。"
+            }
+        ]
+    },
+    {
+        "word": "hit the sack (or sheets, or hay)",
+        "phonetic american": "hɪt ðə sæk",
+        "phonetic british": "hɪt ðə sæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "寝る、寝る（イディオム）",
+                "sentence": "I’m exhausted, so I’m going to hit the sack.",
+                "sentence translation": "とても疲れたので寝ます。"
+            }
+        ]
+    },
+    {
+        "word": "hold the fort",
+        "phonetic american": "hoʊld ðə fɔːrt",
+        "phonetic british": "həʊld ðə fɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かを管理する、一時的に責任を負う（イディオム）",
+                "sentence": "Can you hold the fort while I’m away?",
+                "sentence translation": "私がいない間に状況を処理してもらえますか？"
+            }
+        ]
+    },
+    {
+        "word": "honest as the day is long",
+        "phonetic american": "ˈɑːnɪst æz ðə deɪ ɪz lɔːŋ",
+        "phonetic british": "ˈɒnɪst æz ðə deɪ ɪz lɒŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "正直に言うと（慣用句）",
+                "sentence": "She’s as honest as the day is long; you can trust her.",
+                "sentence translation": "彼はまったく正直です。あなたは彼を信頼できます。"
+            }
+        ]
+    },
+    {
+        "word": "hot potato",
+        "phonetic american": "hɑt pəˈteɪtoʊ",
+        "phonetic british": "hɒt pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "難しいまたは物議を醸す主題 (イディオム)",
+                "sentence": "The new policy is a political hot potato.",
+                "sentence translation": "新しい政策は政治的な議論の問題だ。"
+            }
+        ]
+    },
+    {
+        "word": "hour of need",
+        "phonetic american": "ˈaʊər əv niːd",
+        "phonetic british": "ˈaʊə əv niːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "困難な時期、必要な瞬間（イディオム）",
+                "sentence": "He was always there for me in my hour of need.",
+                "sentence translation": "彼は私が困難な時期にいつもそばにいてくれました。"
+            }
+        ]
+    },
+    {
+        "word": "in due course",
+        "phonetic american": "ɪn duː kɔːrs",
+        "phonetic british": "ɪn djuː kɔːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時が来れば、最終的には（イディオム）",
+                "sentence": "You will receive your promotion in due course.",
+                "sentence translation": "やがて昇進が得られます。"
+            }
+        ]
+    },
+    {
+        "word": "in one's own time",
+        "phonetic american": "ɪn wʌnz oʊn taɪm",
+        "phonetic british": "ɪn wʌnz əʊn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "焦らずに自分のペースで（慣用句）",
+                "sentence": "Take this project in your own time; there’s no rush.",
+                "sentence translation": "このプロジェクトは自分のペースで進めてください。急ぐ必要はありません。"
+            }
+        ]
+    },
+    {
+        "word": "in someone's black book",
+        "phonetic american": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "phonetic british": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かの悪いリストに載る、人気がなくなる（慣用句）",
+                "sentence": "He’s in the boss’s black book after missing the deadline.",
+                "sentence translation": "締め切りに遅れたため、彼は上司からの支持を失った。"
+            }
+        ]
+    },
+    {
+        "word": "in the bag",
+        "phonetic american": "ɪn ðə bæg",
+        "phonetic british": "ɪn ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "保証された、保証された（イディオム）",
+                "sentence": "With all the preparation we’ve done, victory is in the bag.",
+                "sentence translation": "私たちが行ってきたすべての準備により、勝利は保証されています。"
+            }
+        ]
+    },
+    {
+        "word": "in the black",
+        "phonetic american": "ɪn ðə blæk",
+        "phonetic british": "ɪn ðə blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "儲かる、財務状態が良い（慣用句）",
+                "sentence": "The company is finally in the black after years of losses.",
+                "sentence translation": "同社は長年の赤字の後、ついに黒字に転じた。"
+            }
+        ]
+    },
+    {
+        "word": "in the blink of an eye",
+        "phonetic american": "ɪn ðə blɪŋk əv ən aɪ",
+        "phonetic british": "ɪn ðə blɪŋk əv ən aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一瞬のうちに、瞬きのうちに（イディオム）",
+                "sentence": "The car disappeared in the blink of an eye.",
+                "sentence translation": "車が忽然と消えた。"
+            }
+        ]
+    },
+    {
+        "word": "in the heat of the moment",
+        "phonetic american": "ɪn ðə hiːt əv ðə ˈmoʊmənt",
+        "phonetic british": "ɪn ðə hiːt əv ðə ˈməʊmənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "その瞬間の興奮やストレスの中で（イディオム）",
+                "sentence": "He said something hurtful in the heat of the moment.",
+                "sentence translation": "興奮のあまり、彼は傷つくようなことを言いました。"
+            }
+        ]
+    },
+    {
+        "word": "in the interim",
+        "phonetic american": "ɪn ði ˈɪntərɪm",
+        "phonetic british": "ɪn ði ˈɪntərɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "その間、一時的に（慣用句）",
+                "sentence": "The company hired a consultant in the interim.",
+                "sentence translation": "同社はその間コンサルタントを雇用した。"
+            }
+        ]
+    },
+    {
+        "word": "in the long run",
+        "phonetic american": "ɪn ðə lɔːŋ rʌn",
+        "phonetic british": "ɪn ðə lɒŋ rʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "長期的には（イディオム）",
+                "sentence": "This investment will pay off in the long run.",
+                "sentence translation": "この投資は長期的には利益をもたらします。"
+            }
+        ]
+    },
+    {
+        "word": "in the nick of time",
+        "phonetic american": "ɪn ðə nɪk əv taɪm",
+        "phonetic british": "ɪn ðə nɪk əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ジャスト・イン・タイム、最後の瞬間（イディオム）",
+                "sentence": "The firefighters arrived in the nick of time.",
+                "sentence translation": "消防士はちょうどいいタイミングで到着した。"
+            }
+        ]
+    },
+    {
+        "word": "in the red",
+        "phonetic american": "ɪn ðə rɛd",
+        "phonetic british": "ɪn ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "借金を抱える、損失を被る（慣用句）",
+                "sentence": "The company has been in the red for three months.",
+                "sentence translation": "その会社は3か月間赤字が続いている。"
+            }
+        ]
+    },
+    {
+        "word": "in the right place at the right time",
+        "phonetic american": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "phonetic british": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "適切なタイミングで適切な場所にいること（イディオム）",
+                "sentence": "He got the job because he was in the right place at the right time.",
+                "sentence translation": "彼がその仕事に就いたのは、適切なタイミングで適切な場所にいたからだ。"
+            }
+        ]
+    },
+    {
+        "word": "in the wrong place at the wrong time",
+        "phonetic american": "ɪn ðə rɔːŋ pleɪs æt ðə rɔːŋ taɪm",
+        "phonetic british": "ɪn ðə rɒŋ pleɪs æt ðə rɒŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "間違った時間に間違った場所にいる（イディオム）",
+                "sentence": "He was arrested because he was in the wrong place at the wrong time.",
+                "sentence translation": "彼は間違った時間に間違った場所にいたために逮捕された。"
+            }
+        ]
+    },
+    {
+        "word": "in tune with someone (on the same wavelength)",
+        "phonetic american": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "phonetic british": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かと調和する（イディオム）",
+                "sentence": "They work well together because they’re in tune with each other.",
+                "sentence translation": "お互いに調和しているので、うまく連携します。"
+            }
+        ]
+    },
+    {
+        "word": "it takes two to tango",
+        "phonetic american": "ɪt teɪks tuː tə ˈtæŋɡoʊ",
+        "phonetic british": "ɪt teɪks tuː tə ˈtæŋɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "事件では双方に責任がある（慣用句）",
+                "sentence": "Don’t blame her entirely; it takes two to tango.",
+                "sentence translation": "彼を完全に責めないでください。これに関しては双方に分担がある。"
+            }
+        ]
+    },
+    {
+        "word": "itchy feet",
+        "phonetic american": "ˈɪtʃi fiːt",
+        "phonetic british": "ˈɪtʃi fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "落ち着きのなさ、旅行への欲求（イディオム）",
+                "sentence": "After a year in the same city, he’s starting to get itchy feet.",
+                "sentence translation": "同じ街に1年滞在した後、落ち着きのなさを感じ始めました。"
+            }
+        ]
+    },
+    {
+        "word": "judge a book by its cover",
+        "phonetic american": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvər",
+        "phonetic british": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "見た目で判断する（イディオム）",
+                "sentence": "Don’t judge a book by its cover; he’s actually very kind.",
+                "sentence translation": "見た目に基づいて判断しないでください。実はとても優しい人なんです。"
+            }
+        ]
+    },
+    {
+        "word": "jump on the bandwagon",
+        "phonetic american": "dʒʌmp ɑn ðə ˈbændˌwæɡən",
+        "phonetic british": "dʒʌmp ɒn ðə ˈbændˌwæɡən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "人気のあるものに参加する（イディオム）",
+                "sentence": "He decided to jump on the bandwagon and start investing in cryptocurrency.",
+                "sentence translation": "彼は暗号通貨への投資を始めることで、人気のトレンドに参加することを決意しました。"
+            }
+        ]
+    },
+    {
+        "word": "keep something at bay",
+        "phonetic american": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "phonetic british": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かを制御下に置いておく、または寄せ付けないようにする（イディオム）",
+                "sentence": "She exercises daily to keep stress at bay.",
+                "sentence translation": "彼はストレスを避けるために毎日運動しています。"
+            }
+        ]
+    },
+    {
+        "word": "keeping up appearances",
+        "phonetic american": "ˈkiːpɪŋ ʌp əˈpɪrənsɪz",
+        "phonetic british": "ˈkiːpɪŋ ʌp əˈpɪərənsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "状況を外から見て良く見せようとする（慣用句）",
+                "sentence": "Despite their financial struggles, they’re keeping up appearances.",
+                "sentence translation": "財政難にもかかわらず、彼らは外の世界に状況が良好であるように見せようとしている。"
+            }
+        ]
+    },
+    {
+        "word": "keeping your finger on the pulse",
+        "phonetic american": "ˈkiːpɪŋ jʊr ˈfɪŋɡər ɑn ðə pʌls",
+        "phonetic british": "ˈkiːpɪŋ jɔː ˈfɪŋɡə ɒn ðə pʌls",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "現在の出来事や発展について知らされること（慣用句）",
+                "sentence": "He’s a great leader because he always keeps his finger on the pulse of the market.",
+                "sentence translation": "彼は常に市場の動向を把握しているため、優れたリーダーです。"
+            }
+        ]
+    },
+    {
+        "word": "kept in the dark",
+        "phonetic american": "kɛpt ɪn ðə dɑːrk",
+        "phonetic british": "kɛpt ɪn ðə dɑːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "知らされていない、気づかないままである（イディオム）",
+                "sentence": "The employees were kept in the dark about the merger.",
+                "sentence translation": "従業員は合併のことを知らなかった。"
+            }
+        ]
+    },
+    {
+        "word": "kill time",
+        "phonetic american": "kɪl taɪm",
+        "phonetic british": "kɪl taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間を過ごす、長居する（イディオム）",
+                "sentence": "I played a game on my phone to kill time while waiting for the train.",
+                "sentence translation": "電車を待っている間、私は時間を潰すために携帯電話でゲームをしました。"
+            }
+        ]
+    },
+    {
+        "word": "kill two birds with one stone",
+        "phonetic american": "kɪl tuː bɜːrdz wɪð wʌn stoʊn",
+        "phonetic british": "kɪl tuː bɜːdz wɪð wʌn stəʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一つの仕事で二つの利益をもたらす一石二鳥（慣用句）",
+                "sentence": "By walking to work, she kills two birds with one stone: exercise and saving money on transport.",
+                "sentence translation": "歩いて通勤することで、運動もでき、交通費も節約でき、一石二鳥です。"
+            }
+        ]
+    },
+    {
+        "word": "landslide victory",
+        "phonetic american": "ˈlændˌslaɪd ˈvɪktəri",
+        "phonetic british": "ˈlændˌslaɪd ˈvɪktəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "地滑り的な勝利、大差で勝つ（慣用句）",
+                "sentence": "The candidate won by a landslide victory in the election.",
+                "sentence translation": "その候補者は選挙で地滑り的な勝利を収めた。"
+            }
+        ]
+    },
+    {
+        "word": "last straw",
+        "phonetic american": "læst strɔː",
+        "phonetic british": "lɑːst strɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "最後の藁 (イディオム)",
+                "sentence": "The broken promise was the last straw in their relationship.",
+                "sentence translation": "破られた約束は彼らの関係に最後の藁となった。"
+            }
+        ]
+    },
+    {
+        "word": "laugh a minute",
+        "phonetic american": "læf ə ˈmɪnɪt",
+        "phonetic british": "lɑːf ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常に面白い状況または人物 (イディオム)",
+                "sentence": "The comedian’s show was a laugh a minute.",
+                "sentence translation": "そのコメディアンのショーはとても面白かった。"
+            }
+        ]
+    },
+    {
+        "word": "learn by rote",
+        "phonetic american": "lɜːrn baɪ roʊt",
+        "phonetic british": "lɜːn baɪ rəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "暗記して学ぶ（イディオム）",
+                "sentence": "Students often learn by rote for exams, but they forget everything quickly.",
+                "sentence translation": "学生は試験のために暗記することがよくありますが、すぐにすべてを忘れてしまいます。"
+            }
+        ]
+    },
+    {
+        "word": "learn something off by heart",
+        "phonetic american": "lɜːrn ˈsʌmθɪŋ ɔːf baɪ hɑːrt",
+        "phonetic british": "lɜːn ˈsʌmθɪŋ ɒf baɪ hɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "暗記する（イディオム）",
+                "sentence": "He learned the poem off by heart for the recital.",
+                "sentence translation": "彼はショーのためにその詩を暗記した。"
+            }
+        ]
+    },
+    {
+        "word": "learn the ropes",
+        "phonetic american": "lɜːrn ðə roʊps",
+        "phonetic british": "lɜːn ðə rəʊps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "仕事の基礎（イディオム）を学ぶ",
+                "sentence": "It will take time to learn the ropes at the new job.",
+                "sentence translation": "新しい仕事で基礎を学ぶには時間がかかります。"
+            }
+        ]
+    },
+    {
+        "word": "lemon",
+        "phonetic american": "ˈlɛmən",
+        "phonetic british": "ˈlɛmən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "欠陥のあるもの、役に立たないもの（イディオム）",
+                "sentence": "The car he bought turned out to be a lemon.",
+                "sentence translation": "彼が買った車は役に立たないことが判明した。"
+            }
+        ]
+    },
+    {
+        "word": "let me see the colour of your money",
+        "phonetic american": "lɛt miː siː ðə ˈkʌlər əv jʊr ˈmʌni",
+        "phonetic british": "lɛt miː siː ðə ˈkʌlə əv jɔː ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かが支払う意思があることを確認する（イディオム）",
+                "sentence": "If you want to place an order, let me see the colour of your money first.",
+                "sentence translation": "注文したい場合は、先に支払うことを示す必要があります。"
+            }
+        ]
+    },
+    {
+        "word": "let sleeping dogs lie",
+        "phonetic american": "lɛt ˈsliːpɪŋ dɔːɡz laɪ",
+        "phonetic british": "lɛt ˈsliːpɪŋ dɒɡz laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "過去の問題にこだわらない（慣用句）",
+                "sentence": "Don’t bring up old arguments; let sleeping dogs lie.",
+                "sentence translation": "古いディスカッションを開かないでください。過去の問題にこだわらないでください。"
+            }
+        ]
+    },
+    {
+        "word": "let slip through fingers",
+        "phonetic american": "lɛt slɪp θruː ˈfɪŋɡərz",
+        "phonetic british": "lɛt slɪp θruː ˈfɪŋɡəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "機会を逃す（イディオム）",
+                "sentence": "He let the chance of a promotion slip through his fingers.",
+                "sentence translation": "彼は昇進の機会を逃した。"
+            }
+        ]
+    },
+    {
+        "word": "let the cat out of the bag",
+        "phonetic american": "lɛt ðə kæt aʊt əv ðə bæg",
+        "phonetic british": "lɛt ðə kæt aʊt əv ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "秘密を明らかにする（イディオム）",
+                "sentence": "He accidentally let the cat out of the bag about the surprise party.",
+                "sentence translation": "彼はサプライズパーティーの秘密をうっかり漏らしてしまった。"
+            }
+        ]
+    },
+    {
+        "word": "lick one's wounds",
+        "phonetic american": "lɪk wʌnz wuːndz",
+        "phonetic british": "lɪk wʌnz wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "傷をなめる、悪い状況から回復する（慣用句）",
+                "sentence": "After losing the match, the team went home to lick their wounds.",
+                "sentence translation": "試合に負けた後、チームは傷を舐めるために家に帰った。"
+            }
+        ]
+    },
+    {
+        "word": "lightning fast",
+        "phonetic american": "ˈlaɪtnɪŋ fæst",
+        "phonetic british": "ˈlaɪtnɪŋ fɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常に速く、稲妻のように (イディオム)",
+                "sentence": "The new processor is lightning fast.",
+                "sentence translation": "新しいプロセッサは超高速です。"
+            }
+        ]
+    },
+    {
+        "word": "lights are on but nobody is home",
+        "phonetic american": "laɪts ɑːr ɑn bʌt ˈnoʊbədi ɪz hoʊm",
+        "phonetic british": "laɪts ɑːr ɒn bʌt ˈnəʊbədi ɪz həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "物理的に存在しているが、注意や認識が欠けていることを示す（イディオム）",
+                "sentence": "I tried explaining the problem, but it was like the lights were on but nobody was home.",
+                "sentence translation": "私は問題を説明しようとしましたが、彼は注意を払っていないようでした。"
+            }
+        ]
+    },
+    {
+        "word": "like clockwork",
+        "phonetic american": "laɪk ˈklɑːkˌwɜːrk",
+        "phonetic british": "laɪk ˈklɒkˌwɜːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ジャストインタイム、問題なく（イディオム）",
+                "sentence": "The trains in Japan run like clockwork.",
+                "sentence translation": "日本の電車は時間どおりに走ります。"
+            }
+        ]
+    },
+    {
+        "word": "like there's no tomorrow",
+        "phonetic american": "laɪk ðɛrz noʊ təˈmɑːroʊ",
+        "phonetic british": "laɪk ðɛəz nəʊ təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かを抑制せずに、または急いで行うこと（慣用句）",
+                "sentence": "She’s spending money like there’s no tomorrow.",
+                "sentence translation": "彼は明日がないかのようにお金を使います。"
+            }
+        ]
+    },
+    {
+        "word": "lining up all the ducks in a row",
+        "phonetic american": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə roʊ",
+        "phonetic british": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə rəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "すべての詳細を手配して準備する（慣用句）",
+                "sentence": "Before the presentation, she made sure all her ducks were in a row.",
+                "sentence translation": "彼はプレゼンテーションの前にすべての詳細が準備されていることを確認しました。"
+            }
+        ]
+    },
+    {
+        "word": "living beyond your means",
+        "phonetic american": "ˈlɪvɪŋ bɪˈjɑːnd jʊr miːnz",
+        "phonetic british": "ˈlɪvɪŋ bɪˈjɒnd jɔː miːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "収入を超える支出（イディオム）",
+                "sentence": "He’s living beyond his means with that expensive car.",
+                "sentence translation": "彼はその高価な車で収入以上の生活をしています。"
+            }
+        ]
+    },
+    {
+        "word": "living in an ivory tower",
+        "phonetic american": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊər",
+        "phonetic british": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "現実世界から隔離された生活（イディオム）",
+                "sentence": "Academics are often accused of living in an ivory tower.",
+                "sentence translation": "学者は現実世界から孤立して生きているとよく非難される。"
+            }
+        ]
+    },
+    {
+        "word": "living on the breadline",
+        "phonetic american": "ˈlɪvɪŋ ɑn ðə ˈbrɛdˌlaɪn",
+        "phonetic british": "ˈlɪvɪŋ ɒn ðə ˈbrɛdˌlaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "貧困の瀬戸際で生きる（イディオム）",
+                "sentence": "Many families are living on the breadline due to the economic crisis.",
+                "sentence translation": "経済危機のせいで、多くの家族が貧困ラインで暮らしています。"
+            }
+        ]
+    },
+    {
+        "word": "long arm of the law",
+        "phonetic american": "lɔːŋ ɑrm əv ðə lɔː",
+        "phonetic british": "lɒŋ ɑːm əv ðə lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "法律が到達できない場所はない（慣用句）",
+                "sentence": "You can’t escape the long arm of the law.",
+                "sentence translation": "法の長い手から逃れることはできません。"
+            }
+        ]
+    },
+    {
+        "word": "long time no see",
+        "phonetic american": "lɔːŋ taɪm noʊ siː",
+        "phonetic british": "lɒŋ taɪm nəʊ siː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "長い間会っていない（慣用句）",
+                "sentence": "Hey, long time no see! How have you been?",
+                "sentence translation": "やあ、お久しぶりです！元気ですか？"
+            }
+        ]
+    },
+    {
+        "word": "look on the bright side",
+        "phonetic american": "lʊk ɑn ðə braɪt saɪd",
+        "phonetic british": "lʊk ɒn ðə braɪt saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "出来事の良い面を見る（イディオム）",
+                "sentence": "Look on the bright side; at least you learned something from the experience.",
+                "sentence translation": "物事のポジティブな面を見てください。少なくとも、あなたはこの経験から何かを学びました。"
+            }
+        ]
+    },
+    {
+        "word": "love at first sight",
+        "phonetic american": "lʌv æt fɜːrst saɪt",
+        "phonetic british": "lʌv æt fɜːst saɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一目惚れ（イディオム）",
+                "sentence": "It was love at first sight when they met at the party.",
+                "sentence translation": "彼らがパーティーで出会ったとき、それは一目惚れでした。"
+            }
+        ]
+    },
+    {
+        "word": "lovey-dovey",
+        "phonetic american": "ˈlʌvi ˈdʌvi",
+        "phonetic british": "ˈlʌvi ˈdʌvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常に愛情深くロマンチック (イディオム)",
+                "sentence": "The couple was so lovey-dovey at the restaurant.",
+                "sentence translation": "カップルはレストランでとてもロマンチックでした。"
+            }
+        ]
+    },
+    {
+        "word": "lump in your throat",
+        "phonetic american": "lʌmp ɪn jʊr θroʊt",
+        "phonetic british": "lʌmp ɪn jɔː θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "感情的な状況で喉が詰まる（イディオム）",
+                "sentence": "He felt a lump in his throat when he saw the farewell letter.",
+                "sentence translation": "別れの手紙を見たとき、彼は喉にしこりを感じた。"
+            }
+        ]
+    },
+    {
+        "word": "make a long story short",
+        "phonetic american": "meɪk ə lɔːŋ ˈstɔːri ʃɔːrt",
+        "phonetic british": "meɪk ə lɒŋ ˈstɔːri ʃɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "短くする、物事の核心に到達する（慣用句）",
+                "sentence": "To make a long story short, we decided to cancel the trip.",
+                "sentence translation": "切り詰めるために、私たちは旅行をキャンセルすることにしました。"
+            }
+        ]
+    },
+    {
+        "word": "make my day",
+        "phonetic american": "meɪk maɪ deɪ",
+        "phonetic british": "meɪk maɪ deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "とても幸せにしてください（イディオム）",
+                "sentence": "Your kind words really made my day.",
+                "sentence translation": "あなたの優しいお言葉が本当に嬉しかったです。"
+            }
+        ]
+    },
+    {
+        "word": "make or break",
+        "phonetic american": "meɪk ɔːr breɪk",
+        "phonetic british": "meɪk ɔː breɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何が成功または失敗につながるのか（イディオム）",
+                "sentence": "This is a make-or-break moment for the company.",
+                "sentence translation": "これが会社の成否を分ける瞬間です。"
+            }
+        ]
+    },
+    {
+        "word": "make the grade",
+        "phonetic american": "meɪk ðə ɡreɪd",
+        "phonetic british": "meɪk ðə ɡreɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "期待される基準を満たす（イディオム）",
+                "sentence": "She worked hard to make the grade and secure her promotion.",
+                "sentence translation": "彼は昇進するために期待される基準を満たすために一生懸命働きました。"
+            }
+        ]
+    },
+    {
+        "word": "make time",
+        "phonetic american": "meɪk taɪm",
+        "phonetic british": "meɪk taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かのために時間を作る（イディオム）",
+                "sentence": "You should make time for your hobbies.",
+                "sentence translation": "趣味のために時間を作る必要があります。"
+            }
+        ]
+    },
+    {
+        "word": "makes your flesh crawl",
+        "phonetic american": "meɪks jʊr flɛʃ krɔːl",
+        "phonetic british": "meɪks jɔː flɛʃ krɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "怖がらせる、怖がらせる、または邪魔する（イディオム）",
+                "sentence": "The creepy noises in the house made my flesh crawl.",
+                "sentence translation": "家の中で奇妙な音が聞こえて寒気がした。"
+            }
+        ]
+    },
+    {
+        "word": "making a go of it",
+        "phonetic american": "ˈmeɪkɪŋ ə ɡoʊ əv ɪt",
+        "phonetic british": "ˈmeɪkɪŋ ə ɡəʊ əv ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かをうまく機能させようとする（イディオム）",
+                "sentence": "They’re making a go of their new business despite the challenges.",
+                "sentence translation": "困難にもかかわらず、彼らは新しいビジネスを成功させようと努めています。"
+            }
+        ]
+    },
+    {
+        "word": "making good time",
+        "phonetic american": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "phonetic british": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "目的地に早く到着する（慣用句）",
+                "sentence": "We’re making good time; we should arrive by noon.",
+                "sentence translation": "私たちは急速に進んでいます。正午までに到着します。"
+            }
+        ]
+    },
+    {
+        "word": "making headway",
+        "phonetic american": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "phonetic british": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "進歩する（イディオム）",
+                "sentence": "We’re finally making headway on the project after weeks of delays.",
+                "sentence translation": "数週間の遅れを経て、ようやくプロジェクトが進みつつあります。"
+            }
+        ]
+    },
+    {
+        "word": "match made in heaven",
+        "phonetic american": "mætʃ meɪd ɪn ˈhɛvən",
+        "phonetic british": "mætʃ meɪd ɪn ˈhɛvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "相性の良いカップルまたはパートナーシップ (慣用句)",
+                "sentence": "Their partnership is a match made in heaven.",
+                "sentence translation": "彼らのパートナーシップは非常に調和的です。"
+            }
+        ]
+    },
+    {
+        "word": "method to my madness",
+        "phonetic american": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "phonetic british": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "混沌としているように見えるものの背後に論理や計画があること (慣用句)",
+                "sentence": "It may seem chaotic, but there’s a method to my madness.",
+                "sentence translation": "混沌としているように見えるかもしれませんが、私のやっていることには論理があります。"
+            }
+        ]
+    },
+    {
+        "word": "mile a minute",
+        "phonetic american": "maɪl ə ˈmɪnɪt",
+        "phonetic british": "maɪl ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常に早く話すか動く（イディオム）",
+                "sentence": "She was talking a mile a minute, and I couldn’t keep up.",
+                "sentence translation": "彼はとても早口で話したので、私はついていけませんでした。"
+            }
+        ]
+    },
+    {
+        "word": "miss the boat",
+        "phonetic american": "mɪs ðə boʊt",
+        "phonetic british": "mɪs ðə bəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "機会を逃す（イディオム）",
+                "sentence": "I wanted to apply for that job, but I missed the boat.",
+                "sentence translation": "私はその仕事に応募したかったのですが、機会を逃してしまいました。"
+            }
+        ]
+    },
+    {
+        "word": "monkey business",
+        "phonetic american": "ˈmʌŋki ˈbɪznɪs",
+        "phonetic british": "ˈmʌŋki ˈbɪznɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "いたずらまたは欺瞞（イディオム）",
+                "sentence": "The teacher warned the students to stop their monkey business.",
+                "sentence translation": "教師は生徒たちに不正行為をやめるよう警告した。"
+            }
+        ]
+    },
+    {
+        "word": "month of Sundays",
+        "phonetic american": "mʌnθ əv ˈsʌndiz",
+        "phonetic british": "mʌnθ əv ˈsʌndɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "とても長い間（慣用句）",
+                "sentence": "I haven’t seen him in a month of Sundays.",
+                "sentence translation": "長い間彼に会っていません。"
+            }
+        ]
+    },
+    {
+        "word": "Murphy's law",
+        "phonetic american": "ˈmɜːrfiz lɔː",
+        "phonetic british": "ˈmɜːfiz lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かがうまくいかない可能性があるなら、それはうまくいかないでしょう（イディオム）",
+                "sentence": "We prepared for everything, but Murphy's law struck again, and the power went out.",
+                "sentence translation": "私たちは何に対しても備えていましたが、再びマーフィーの法則が働き、停電してしまいました。"
+            }
+        ]
+    },
+    {
+        "word": "never in a million years",
+        "phonetic american": "ˈnɛvər ɪn ə ˈmɪljən jɪrz",
+        "phonetic british": "ˈnɛvə ɪn ə ˈmɪljən jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "決して、決して、決して（イディオム）",
+                "sentence": "Never in a million years did I think I would win the lottery.",
+                "sentence translation": "100万回に一度も、宝くじが当たるとは思ってもいませんでした。"
+            }
+        ]
+    },
+    {
+        "word": "no time like the present",
+        "phonetic american": "noʊ taɪm laɪk ðə ˈprɛzənt",
+        "phonetic british": "nəʊ taɪm laɪk ðə ˈprɛzənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "今が何かをするのに最適な時期であることを表現する（イディオム）",
+                "sentence": "Let’s start the project now; there’s no time like the present.",
+                "sentence translation": "今すぐプロジェクトを開始しましょう。今ほど良い時期はありません。"
+            }
+        ]
+    },
+    {
+        "word": "no time to lose",
+        "phonetic american": "noʊ taɪm tə luz",
+        "phonetic british": "nəʊ taɪm tə luːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "無駄にする時間はない、急ぐ必要がある状況（慣用句）",
+                "sentence": "We have to leave immediately; there’s no time to lose.",
+                "sentence translation": "私たちはすぐに立ち去らなければなりません。時間を無駄にする余地はありません。"
+            }
+        ]
+    },
+    {
+        "word": "not letting grass grow under your feet",
+        "phonetic american": "nɑːt ˈlɛtɪŋ ɡræs ɡroʊ ˈʌndər jʊr fit",
+        "phonetic british": "nɒt ˈlɛtɪŋ ɡrɑːs ɡrəʊ ˈʌndə jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "行動を起こすことをためらわない（慣用句）",
+                "sentence": "She never lets grass grow under her feet; she started her new business right after finishing college.",
+                "sentence translation": "彼は時間を無駄にしません。彼は大学を卒業するとすぐに新しい仕事を始めた。"
+            }
+        ]
+    },
+    {
+        "word": "now and then",
+        "phonetic american": "naʊ ənd ðɛn",
+        "phonetic british": "naʊ ənd ðɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時々、時々（イディオム）",
+                "sentence": "I like to visit my grandparents now and then.",
+                "sentence translation": "私は時々祖父母を訪ねるのが好きです。"
+            }
+        ]
+    },
+    {
+        "word": "now or never",
+        "phonetic american": "naʊ ɔr ˈnɛvər",
+        "phonetic british": "naʊ ɔː ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かをする時間だ（イディオム）",
+                "sentence": "If you want to change your career, it’s now or never.",
+                "sentence translation": "キャリアを変えたいなら、今がチャンスです。"
+            }
+        ]
+    },
+    {
+        "word": "off colour",
+        "phonetic american": "ɔf ˈkʌlər",
+        "phonetic british": "ɒf ˈkʌlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "だるい、または気分が悪い（イディオム）",
+                "sentence": "I’ve been feeling a bit off colour today.",
+                "sentence translation": "今日は少し疲れています。"
+            }
+        ]
+    },
+    {
+        "word": "off one's rocker",
+        "phonetic american": "ɔf wʌnz ˈrɑːkər",
+        "phonetic british": "ɒf wʌnz ˈrɒkə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "狂気または非合理的な行動をする（慣用句）",
+                "sentence": "You must be off your rocker to drive in this weather.",
+                "sentence translation": "この天気で運転しようとするのはクレイジーです。"
+            }
+        ]
+    },
+    {
+        "word": "off to a flying start",
+        "phonetic american": "ɔf tə ə ˈflaɪɪŋ stɑːrt",
+        "phonetic british": "ɒf tə ə ˈflaɪɪŋ stɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常に成功したスタートを切る（イディオム）",
+                "sentence": "The team got off to a flying start by scoring in the first minute.",
+                "sentence translation": "チームは開始1分でゴールを決め、素晴らしいスタートを切った。"
+            }
+        ]
+    },
+    {
+        "word": "old hand",
+        "phonetic american": "oʊld hænd",
+        "phonetic british": "əʊld hænd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "経験者（熟語）",
+                "sentence": "He’s an old hand at fixing cars.",
+                "sentence translation": "彼は車の修理の経験が豊富です。"
+            }
+        ]
+    },
+    {
+        "word": "old school",
+        "phonetic american": "oʊld skuːl",
+        "phonetic british": "əʊld skuːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "昔ながらの、伝統的な（慣用句）",
+                "sentence": "He prefers old school methods over modern technology.",
+                "sentence translation": "彼は現代のテクノロジーよりも昔ながらの方法を好みます。"
+            }
+        ]
+    },
+    {
+        "word": "on the ball",
+        "phonetic american": "ɑn ðə bɔːl",
+        "phonetic british": "ɒn ðə bɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "慎重かつ素早い動き（イディオム）",
+                "sentence": "The manager is really on the ball and catches mistakes quickly.",
+                "sentence translation": "マネージャーはとても気配りがあり、間違いをすぐに見つけます。"
+            }
+        ]
+    },
+    {
+        "word": "on the brain",
+        "phonetic american": "ɑn ðə breɪn",
+        "phonetic british": "ɒn ðə breɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "常にある主題に夢中になること（慣用句）",
+                "sentence": "He has football on the brain; it’s all he talks about.",
+                "sentence translation": "彼の心は常にサッカーのことだけだ。彼が話しているのはそれだけだ。"
+            }
+        ]
+    },
+    {
+        "word": "on the rocks",
+        "phonetic american": "ɑn ðə rɑːks",
+        "phonetic british": "ɒn ðə rɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "特に人間関係や経済状況に関して、困難な状況にあること（慣用句）",
+                "sentence": "Their marriage is on the rocks after years of arguments.",
+                "sentence translation": "何年もの口論の末、彼らの結婚生活は危機に陥っている。"
+            }
+        ]
+    },
+    {
+        "word": "on time",
+        "phonetic american": "ɑn taɪm",
+        "phonetic british": "ɒn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ジャストインタイム、遅滞なく（イディオム）",
+                "sentence": "The train arrived on time, as scheduled.",
+                "sentence translation": "電車は予定通り時間通りに到着した。"
+            }
+        ]
+    },
+    {
+        "word": "once in a blue moon",
+        "phonetic american": "wʌns ɪn ə bluː muːn",
+        "phonetic british": "wʌns ɪn ə bluː muːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常にまれに起こること（イディオム）",
+                "sentence": "I only go to the cinema once in a blue moon.",
+                "sentence translation": "私は映画館に行くことはほとんどありません。"
+            }
+        ]
+    },
+    {
+        "word": "once upon a time",
+        "phonetic american": "wʌns əˈpɑːn ə taɪm",
+        "phonetic british": "wʌns əˈpɒn ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "昔々、物語の始まりによく使われました (慣用句)",
+                "sentence": "Once upon a time, there was a beautiful princess.",
+                "sentence translation": "昔々、美しいお姫様がいました。"
+            }
+        ]
+    },
+    {
+        "word": "only time will tell",
+        "phonetic american": "ˈoʊnli taɪm wɪl tɛl",
+        "phonetic british": "ˈəʊnli taɪm wɪl tɛl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間だけが何かの結果を教えてくれる（イディオム）",
+                "sentence": "Only time will tell if their decision was the right one.",
+                "sentence translation": "彼らの決定が正しかったかどうかは時間が経てば分かるだろう。"
+            }
+        ]
+    },
+    {
+        "word": "out of the blue",
+        "phonetic american": "aʊt əv ðə bluː",
+        "phonetic british": "aʊt əv ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "思いがけず（イディオム）",
+                "sentence": "He showed up out of the blue after years of no contact.",
+                "sentence translation": "それは何年も音沙汰がなかった後に突然現れました。"
+            }
+        ]
+    },
+    {
+        "word": "out of the red",
+        "phonetic american": "aʊt əv ðə rɛd",
+        "phonetic british": "aʊt əv ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "借金をなくす（イディオム）",
+                "sentence": "The company is finally out of the red and starting to make a profit.",
+                "sentence translation": "会社はついに借金がなくなり、利益を上げ始めました。"
+            }
+        ]
+    },
+    {
+        "word": "out of time",
+        "phonetic american": "aʊt əv taɪm",
+        "phonetic british": "aʊt əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間がない（イディオム）",
+                "sentence": "We’re out of time, so we’ll have to continue this discussion later.",
+                "sentence translation": "時間がありませんので、この議論はまた後ほど続けさせていただきます。"
+            }
+        ]
+    },
+    {
+        "word": "paint the town red",
+        "phonetic american": "peɪnt ðə taʊn rɛd",
+        "phonetic british": "peɪnt ðə taʊn rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "出かけて楽しんでください（イディオム）",
+                "sentence": "After finishing their exams, the students decided to paint the town red.",
+                "sentence translation": "試験が終わった後、学生たちは外に出て楽しむことにしました。"
+            }
+        ]
+    },
+    {
+        "word": "pass with flying colours",
+        "phonetic american": "pæs wɪð ˈflaɪɪŋ ˈkʌlərz",
+        "phonetic british": "pɑːs wɪð ˈflaɪɪŋ ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "見事に合格 (イディオム)",
+                "sentence": "She passed the exam with flying colours.",
+                "sentence translation": "彼は見事に試験に合格した。"
+            }
+        ]
+    },
+    {
+        "word": "penny for your thoughts",
+        "phonetic american": "ˈpɛni fɔːr jʊr θɔːts",
+        "phonetic british": "ˈpɛni fɔː jɔː θɔːts",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "人にどう思うかを尋ねる（イディオム）",
+                "sentence": "You’ve been quiet all evening; a penny for your thoughts?",
+                "sentence translation": "あなたは一晩中黙っていました。何を考えていますか？"
+            }
+        ]
+    },
+    {
+        "word": "picture paints a thousand words",
+        "phonetic american": "ˈpɪktʃər peɪnts ə ˈθaʊzənd wɜːrdz",
+        "phonetic british": "ˈpɪktʃə peɪnts ə ˈθaʊzənd wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "百聞は一見に如かず（慣用句）",
+                "sentence": "Instead of explaining the design, just show them; a picture paints a thousand words.",
+                "sentence translation": "説明するのではなく、デザインを見せてください。百聞は一見にしかず。"
+            }
+        ]
+    },
+    {
+        "word": "piece of cake",
+        "phonetic american": "piːs əv keɪk",
+        "phonetic british": "piːs əv keɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "それはとても簡単なことです（慣用句）",
+                "sentence": "The test was a piece of cake; I finished it in ten minutes.",
+                "sentence translation": "テストはとても簡単でした。 10分で終わりました。"
+            }
+        ]
+    },
+    {
+        "word": "pitch black",
+        "phonetic american": "pɪtʃ blæk",
+        "phonetic british": "pɪtʃ blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "真っ黒（イディオム）",
+                "sentence": "It was pitch black outside when the power went out.",
+                "sentence translation": "停電すると外は真っ暗でした。"
+            }
+        ]
+    },
+    {
+        "word": "place in the sun",
+        "phonetic american": "pleɪs ɪn ðə sʌn",
+        "phonetic british": "pleɪs ɪn ðə sʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰もが注目し、高く評価する場所や状況（慣用句）",
+                "sentence": "She’s finally found her place in the sun with her new career.",
+                "sentence translation": "彼はついに自分の新しいキャリアに明るい兆しを見つけた。"
+            }
+        ]
+    },
+    {
+        "word": "pop the question",
+        "phonetic american": "pɑːp ðə ˈkwɛstʃən",
+        "phonetic british": "pɒp ðə ˈkwɛstʃən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "プロポーズする（イディオム）",
+                "sentence": "He popped the question during their vacation in Paris.",
+                "sentence translation": "彼はパリでの休暇中にプロポーズした。"
+            }
+        ]
+    },
+    {
+        "word": "pot calling the kettle black",
+        "phonetic american": "pɑːt ˈkɔːlɪŋ ðə ˈkɛtəl blæk",
+        "phonetic british": "pɒt ˈkɔːlɪŋ ðə ˈkɛtl blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "自分の欠点について他人を批判する（慣用句）",
+                "sentence": "When he criticized her for being late, it was the pot calling the kettle black.",
+                "sentence translation": "彼女が彼の遅刻を批判したとき、それはまさに「どん底」の状況でした。"
+            }
+        ]
+    },
+    {
+        "word": "pressed for time",
+        "phonetic american": "prɛst fɔːr taɪm",
+        "phonetic british": "prɛst fɔː taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間が足りない（イディオム）",
+                "sentence": "I can’t talk right now; I’m pressed for time.",
+                "sentence translation": "今は話すことができません。私の時間は非常に限られています。"
+            }
+        ]
+    },
+    {
+        "word": "proud as a peacock",
+        "phonetic american": "praʊd æz ə ˈpiːkɑːk",
+        "phonetic british": "praʊd æz ə ˈpiːkɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "とても誇りに思う（慣用句）",
+                "sentence": "He was as proud as a peacock when he received the award.",
+                "sentence translation": "彼は賞を受け取ったときとても誇らしく思いました。"
+            }
+        ]
+    },
+    {
+        "word": "pull the plug",
+        "phonetic american": "pʊl ðə plʌɡ",
+        "phonetic british": "pʊl ðə plʌɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かを止める、または終わらせる（イディオム）",
+                "sentence": "The company decided to pull the plug on the failing project.",
+                "sentence translation": "会社は失敗したプロジェクトを中止することを決定した。"
+            }
+        ]
+    },
+    {
+        "word": "pull wool over other people's eyes",
+        "phonetic american": "pʊl wʊl ˈoʊvər ˈʌðər ˈpiːpəlz aɪz",
+        "phonetic british": "pʊl wʊl ˈəʊvə ˈʌðə ˈpiːplz aɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かを騙したり誤解させたりする（イディオム）",
+                "sentence": "He tried to pull the wool over the manager’s eyes, but she saw through his lies.",
+                "sentence translation": "彼はマネージャーを騙そうとしたが、嘘がバレた。"
+            }
+        ]
+    },
+    {
+        "word": "pulling out all the stops",
+        "phonetic american": "ˈpʊlɪŋ aʊt ɔːl ðə stɑːps",
+        "phonetic british": "ˈpʊlɪŋ aʊt ɔːl ðə stɒps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かを達成するためにあらゆる可能性を利用する（イディオム）",
+                "sentence": "They’re pulling out all the stops to make the event successful.",
+                "sentence translation": "彼らはイベントを成功させるためにあらゆる手段を使います。"
+            }
+        ]
+    },
+    {
+        "word": "punch above one's weight",
+        "phonetic american": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "phonetic british": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "期待以上のパフォーマンスを発揮する（イディオム）",
+                "sentence": "The small company is punching above its weight in the tech industry.",
+                "sentence translation": "この中小企業はテクノロジー分野で予想を上回る業績を上げている。"
+            }
+        ]
+    },
+    {
+        "word": "puppy love",
+        "phonetic american": "ˈpʌpi lʌv",
+        "phonetic british": "ˈpʌpi lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "幼稚な、あるいは若い頃に感じたロマンチックな愛（慣用句）",
+                "sentence": "Their relationship was just puppy love and didn’t last long.",
+                "sentence translation": "彼らの関係は単なる十代の恋愛であり、長くは続きませんでした。"
+            }
+        ]
+    },
+    {
+        "word": "put it in black and white",
+        "phonetic american": "pʊt ɪt ɪn blæk ənd waɪt",
+        "phonetic british": "pʊt ɪt ɪn blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かを文書にして公式にすること（慣用句）",
+                "sentence": "Before we agree, let’s put it in black and white.",
+                "sentence translation": "受け入れる前に、このことを書面に書いておきましょう。"
+            }
+        ]
+    },
+    {
+        "word": "put your thinking cap on",
+        "phonetic american": "pʊt jʊr ˈθɪŋkɪŋ kæp ɑn",
+        "phonetic british": "pʊt jɔː ˈθɪŋkɪŋ kæp ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "真剣に考える（慣用句）",
+                "sentence": "We need to solve this problem, so put your thinking cap on.",
+                "sentence translation": "私たちはこの問題を解決する必要があるので、真剣に考えてください。"
+            }
+        ]
+    },
+    {
+        "word": "rags to riches",
+        "phonetic american": "ræɡz tə ˈrɪtʃɪz",
+        "phonetic british": "ræɡz tə ˈrɪtʃɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "貧困から富裕層に成り上がる（イディオム）",
+                "sentence": "His story is a classic rags-to-riches tale.",
+                "sentence translation": "彼の物語は、典型的な無一文から富豪への物語です。"
+            }
+        ]
+    },
+    {
+        "word": "raining cats and dogs",
+        "phonetic american": "ˈreɪnɪŋ kæts ənd dɔːɡz",
+        "phonetic british": "ˈreɪnɪŋ kæts ənd dɒɡz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "激しい雨が降る（慣用句）",
+                "sentence": "We couldn’t go outside because it was raining cats and dogs.",
+                "sentence translation": "大雨が降っていたので私たちは外出できませんでした。"
+            }
+        ]
+    },
+    {
+        "word": "raise the white flag",
+        "phonetic american": "reɪz ðə waɪt flæɡ",
+        "phonetic british": "reɪz ðə waɪt flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "降伏する、敗北を認める（イディオム）",
+                "sentence": "After hours of arguing, she finally raised the white flag.",
+                "sentence translation": "何時間もの議論の後、彼は最終的に敗北を認めた。"
+            }
+        ]
+    },
+    {
+        "word": "raring to go",
+        "phonetic american": "ˈrɛrɪŋ tə ɡoʊ",
+        "phonetic british": "ˈrɛərɪŋ tə ɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "始まるのが待ちきれない（イディオム）",
+                "sentence": "The team is raring to go for the big game.",
+                "sentence translation": "チームはビッグマッチを楽しみにしている。"
+            }
+        ]
+    },
+    {
+        "word": "rat race",
+        "phonetic american": "ræt reɪs",
+        "phonetic british": "ræt reɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "激しい競争とストレスに満ちたライフスタイル（イディオム）",
+                "sentence": "He left the rat race to live a simpler life in the countryside.",
+                "sentence translation": "彼は熾烈な競争の人生を捨て、よりシンプルな生活を送りました。"
+            }
+        ]
+    },
+    {
+        "word": "red flag",
+        "phonetic american": "rɛd flæɡ",
+        "phonetic british": "rɛd flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "危険または警告の兆候 (イディオム)",
+                "sentence": "Her constant lateness is a red flag for her reliability.",
+                "sentence translation": "彼の度重なる遅刻は彼の信頼性に対する危険信号である。"
+            }
+        ]
+    },
+    {
+        "word": "red herring",
+        "phonetic american": "rɛd ˈhɛrɪŋ",
+        "phonetic british": "rɛd ˈhɛrɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "本題から注意をそらすもの（慣用句）",
+                "sentence": "The mystery novel had plenty of red herrings to keep readers guessing.",
+                "sentence translation": "その探偵小説には、読者を推測させ続ける誤解を招く要素が数多く含まれていました。"
+            }
+        ]
+    },
+    {
+        "word": "red hot",
+        "phonetic american": "rɛd hɑːt",
+        "phonetic british": "rɛd hɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "非常に人気がある、または成功している（イディオム）",
+                "sentence": "The new smartphone is red hot in the market.",
+                "sentence translation": "新しいスマートフォンは市場で非常に人気があります。"
+            }
+        ]
+    },
+    {
+        "word": "red in the face",
+        "phonetic american": "rɛd ɪn ðə feɪs",
+        "phonetic british": "rɛd ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恥ずかしさや怒りで顔を赤らめる（イディオム）",
+                "sentence": "She was red in the face after tripping in front of everyone.",
+                "sentence translation": "彼はみんなの前でよろめきながら顔を赤らめた。"
+            }
+        ]
+    },
+    {
+        "word": "red tape",
+        "phonetic american": "rɛd teɪp",
+        "phonetic british": "rɛd teɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "過度の官僚主義または不必要な手続き（フレーズ）",
+                "sentence": "We had to deal with a lot of red tape to get the permits approved.",
+                "sentence translation": "許可を承認してもらうためには、多くの煩雑な手続きに対処する必要がありました。"
+            }
+        ]
+    },
+    {
+        "word": "red-eye",
+        "phonetic american": "rɛd-aɪ",
+        "phonetic british": "rɛd-aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "深夜便（イディオム）",
+                "sentence": "He took the red-eye to New York to save time.",
+                "sentence translation": "時間を節約するために、彼は深夜の飛行機でニューヨークに向かった。"
+            }
+        ]
+    },
+    {
+        "word": "road hog",
+        "phonetic american": "roʊd hɑːɡ",
+        "phonetic british": "rəʊd hɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "道路上で他人の迷惑となる運転手（イディオム）",
+                "sentence": "That road hog nearly caused an accident by swerving.",
+                "sentence translation": "その道路いじめっ子は、進路を変えて事故を引き起こしそうになった。"
+            }
+        ]
+    },
+    {
+        "word": "roll out the red carpet",
+        "phonetic american": "roʊl aʊt ðə rɛd ˈkɑːrpɪt",
+        "phonetic british": "rəʊl aʊt ðə rɛd ˈkɑːpɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かに特別な関心や気遣いを示すこと（イディオム）",
+                "sentence": "The hotel rolled out the red carpet for its celebrity guests.",
+                "sentence translation": "ホテルは著名なゲストのために特別なレセプションを企画しました。"
+            }
+        ]
+    },
+    {
+        "word": "sail through something",
+        "phonetic american": "seɪl θruː ˈsʌmθɪŋ",
+        "phonetic british": "seɪl θruː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かを簡単に成し遂げること、または成功すること（慣用句）",
+                "sentence": "She sailed through her exams with top marks.",
+                "sentence translation": "彼は高い成績で簡単に試験に合格した。"
+            }
+        ]
+    },
+    {
+        "word": "save time",
+        "phonetic american": "seɪv taɪm",
+        "phonetic british": "seɪv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間を節約する（イディオム）",
+                "sentence": "Using a dishwasher saves time compared to washing dishes by hand.",
+                "sentence translation": "食器洗い機を使用すると、手洗いに比べて時間を節約できます。"
+            }
+        ]
+    },
+    {
+        "word": "school of hard knocks",
+        "phonetic american": "skuːl əv hɑːrd nɑːks",
+        "phonetic british": "skuːl əv hɑːd nɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "人生の困難から学んだ教訓 (イディオム)",
+                "sentence": "He didn’t go to college but learned everything through the school of hard knocks.",
+                "sentence translation": "彼は大学には行かなかったが、人生の困難からすべてを学んだ。"
+            }
+        ]
+    },
+    {
+        "word": "school of thought",
+        "phonetic american": "skuːl əv θɔːt",
+        "phonetic british": "skuːl əv θɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "人々のグループが同意する思考体系 (イディオム)",
+                "sentence": "There’s a school of thought that believes in minimalism for a happier life.",
+                "sentence translation": "より幸せな生活のためのミニマリズムを信じる思想体系があります。"
+            }
+        ]
+    },
+    {
+        "word": "schoolboy error",
+        "phonetic american": "ˈskuːlbɔɪ ˈɛrər",
+        "phonetic british": "ˈskuːlbɔɪ ˈɛrə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "単純で愚かな間違い (イディオム)",
+                "sentence": "The goalkeeper made a schoolboy error and let the ball go in.",
+                "sentence translation": "ゴールキーパーは単純なミスを犯し、ボールを流してしまった。"
+            }
+        ]
+    },
+    {
+        "word": "seeing eye to eye",
+        "phonetic american": "ˈsiːɪŋ aɪ tə aɪ",
+        "phonetic british": "ˈsiːɪŋ aɪ tə aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かに同意する（イディオム）",
+                "sentence": "They don’t always see eye to eye, but they respect each other’s opinions.",
+                "sentence translation": "たとえ意見が必ずしも一致しないとしても、彼らはお互いの意見を尊重します。"
+            }
+        ]
+    },
+    {
+        "word": "seeing red",
+        "phonetic american": "ˈsiːɪŋ rɛd",
+        "phonetic british": "ˈsiːɪŋ rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "とても怒る（イディオム）",
+                "sentence": "She was seeing red when she found out someone had scratched her car.",
+                "sentence translation": "誰かが彼の車に傷を付けたことを知ったとき、彼は激怒した。"
+            }
+        ]
+    },
+    {
+        "word": "sell ice to Eskimos",
+        "phonetic american": "sɛl aɪs tə ˈɛskɪmoʊz",
+        "phonetic british": "sɛl aɪs tə ˈɛskɪməʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "難しいものを販売するのに十分な説得力があること（慣用句）",
+                "sentence": "He's so charming, he could sell ice to Eskimos.",
+                "sentence translation": "彼はエスキモーに氷を売ることさえできるほど魅力的です。"
+            }
+        ]
+    },
+    {
+        "word": "shelf life",
+        "phonetic american": "ʃɛlf laɪf",
+        "phonetic british": "ʃɛlf laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "商品の販売期間（フレーズ）",
+                "sentence": "The shelf life of this yogurt is about two weeks.",
+                "sentence translation": "このヨーグルトの賞味期限は約2週間です。"
+            }
+        ]
+    },
+    {
+        "word": "show of hands",
+        "phonetic american": "ʃoʊ əv hændz",
+        "phonetic british": "ʃəʊ əv hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "挙手による投票 (イディオム)",
+                "sentence": "Let’s take a show of hands to decide where to go.",
+                "sentence translation": "手を上げてどこに行くか決めましょう。"
+            }
+        ]
+    },
+    {
+        "word": "shown the red card",
+        "phonetic american": "ʃoʊn ðə rɛd kɑːrd",
+        "phonetic british": "ʃəʊn ðə rɛd kɑːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かに最後の警告または罰を与える（イディオム）",
+                "sentence": "After repeated mistakes, he was finally shown the red card by his boss.",
+                "sentence translation": "度重なるミスの後、彼はついに上司から罰せられた。"
+            }
+        ]
+    },
+    {
+        "word": "silver screen",
+        "phonetic american": "ˈsɪlvər skriːn",
+        "phonetic british": "ˈsɪlvə skriːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "映画の世界 (イディオム)",
+                "sentence": "She dreamed of becoming a star on the silver screen.",
+                "sentence translation": "彼は映画の世界でスターになることを夢見ていました。"
+            }
+        ]
+    },
+    {
+        "word": "single file",
+        "phonetic american": "ˈsɪŋɡəl faɪl",
+        "phonetic british": "ˈsɪŋɡəl faɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "一列で行進する（イディオム）",
+                "sentence": "The children walked in single file along the narrow path.",
+                "sentence translation": "子どもたちは狭い道を一列になって歩いた。"
+            }
+        ]
+    },
+    {
+        "word": "sink or swim",
+        "phonetic american": "sɪŋk ɔːr swɪm",
+        "phonetic british": "sɪŋk ɔː swɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "成功するか失敗するかのどちらかでなければならない（イディオム）",
+                "sentence": "Starting your own business is a sink-or-swim situation.",
+                "sentence translation": "自分のビジネスを始めるということは、成功するか失敗するかのどちらかしかない状況です。"
+            }
+        ]
+    },
+    {
+        "word": "sinking teeth into something",
+        "phonetic american": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "phonetic british": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かに完全に集中する、または何かに関与すること（イディオム）",
+                "sentence": "She’s really sinking her teeth into this new project.",
+                "sentence translation": "彼は新しいプロジェクトに真剣に取り組んでいます。"
+            }
+        ]
+    },
+    {
+        "word": "sit on the fence",
+        "phonetic american": "sɪt ɑn ðə fɛns",
+        "phonetic british": "sɪt ɒn ðə fɛns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "中立を保つ、または問題について決断しないこと（慣用句）",
+                "sentence": "You can’t sit on the fence forever; you need to choose a side.",
+                "sentence translation": "永遠に中立を保つことはできません。どちら側を選択する必要があります。"
+            }
+        ]
+    },
+    {
+        "word": "skip class",
+        "phonetic american": "skɪp klæs",
+        "phonetic british": "skɪp klɑːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "授業に出ない、授業をサボる（慣用句）",
+                "sentence": "He got into trouble for skipping class yesterday.",
+                "sentence translation": "彼は昨日授業をさぼってトラブルになった。"
+            }
+        ]
+    },
+    {
+        "word": "sleeping (or silent) partner",
+        "phonetic american": "ˈsliːpɪŋ ˈpɑːrtnər",
+        "phonetic british": "ˈsliːpɪŋ ˈpɑːtnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "活動はしていないが資本を投資しているビジネスパートナー (慣用句)",
+                "sentence": "He’s just a sleeping partner in the business and doesn’t get involved in daily operations.",
+                "sentence translation": "彼はビジネスにおいて単なる受動的なパートナーであり、日常業務には関与していません。"
+            }
+        ]
+    },
+    {
+        "word": "slice of the pie",
+        "phonetic american": "slaɪs əv ðə paɪ",
+        "phonetic british": "slaɪs əv ðə paɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かの公平な分け前（イディオム）",
+                "sentence": "Everyone in the team deserves a slice of the pie after the success.",
+                "sentence translation": "チームの全員が成功を公平に分け受ける権利があります。"
+            }
+        ]
+    },
+    {
+        "word": "smash hit",
+        "phonetic american": "smæʃ hɪt",
+        "phonetic british": "smæʃ hɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "大成功した作品（慣用句）",
+                "sentence": "The movie was a smash hit and broke box office records.",
+                "sentence translation": "その映画は大成功を収め、興行収入の記録を破った。"
+            }
+        ]
+    },
+    {
+        "word": "snowed under",
+        "phonetic american": "snoʊd ˈʌndər",
+        "phonetic british": "snəʊd ˈʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "仕事が多すぎて圧倒されてしまう（慣用句）",
+                "sentence": "I’m snowed under with work and can’t take on any more tasks.",
+                "sentence translation": "仕事が忙しすぎて、他の仕事を引き受けることができません。"
+            }
+        ]
+    },
+    {
+        "word": "sooner or later",
+        "phonetic american": "ˈsuːnər ɔːr ˈleɪtər",
+        "phonetic british": "ˈsuːnə ɔː ˈleɪtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "遅かれ早かれ（イディオム）",
+                "sentence": "Sooner or later, you’ll realize that I was right.",
+                "sentence translation": "遅かれ早かれ、あなたは私が正しいことに気づくでしょう。"
+            }
+        ]
+    },
+    {
+        "word": "sour grapes",
+        "phonetic american": "saʊr ɡreɪps",
+        "phonetic british": "saʊə ɡreɪps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "達成できないものを軽視すること（慣用句）",
+                "sentence": "He said he didn’t want the job anyway, but it’s just sour grapes.",
+                "sentence translation": "彼はすでにその仕事は望んでいないと言っていたが、それは彼が得られなかったことを軽視しているだけだ。"
+            }
+        ]
+    },
+    {
+        "word": "spanner in the works",
+        "phonetic american": "ˈspænər ɪn ðə wɜːrks",
+        "phonetic british": "ˈspænə ɪn ðə wɜːks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "計画を妨害する状況または人物 (慣用句)",
+                "sentence": "The unexpected weather threw a spanner in the works for the outdoor event.",
+                "sentence translation": "予想外の天候により、屋外イベントの計画が中断されました。"
+            }
+        ]
+    },
+    {
+        "word": "speak of the devil",
+        "phonetic american": "spiːk əv ðə ˈdɛvəl",
+        "phonetic british": "spiːk əv ðə ˈdɛvəl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "話し相手が突然現れた場合に使用（慣用句）",
+                "sentence": "Speak of the devil! We were just talking about you.",
+                "sentence translation": "声を上げてくれて良かったです！ちょうどあなたのことについて話していました。"
+            }
+        ]
+    },
+    {
+        "word": "speaks volumes",
+        "phonetic american": "spiːks ˈvɑːljuːmz",
+        "phonetic british": "spiːks ˈvɒljuːmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "多くを語る、表現する（イディオム）",
+                "sentence": "Her smile speaks volumes about her happiness.",
+                "sentence translation": "彼女の笑顔は彼女の幸せをたくさん物語っています。"
+            }
+        ]
+    },
+    {
+        "word": "spill the beans",
+        "phonetic american": "spɪl ðə biːnz",
+        "phonetic british": "spɪl ðə biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "秘密を明らかにする（イディオム）",
+                "sentence": "He spilled the beans about the surprise party.",
+                "sentence translation": "サプライズパーティーの秘密を明かした。"
+            }
+        ]
+    },
+    {
+        "word": "standing ground",
+        "phonetic american": "ˈstændɪŋ ɡraʊnd",
+        "phonetic british": "ˈstændɪŋ ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "自分の立場や意見を守る（イディオム）",
+                "sentence": "She stood her ground despite the intense criticism.",
+                "sentence translation": "激しい批判にもかかわらず、彼は自分の意見を擁護した。"
+            }
+        ]
+    },
+    {
+        "word": "standing the test of time",
+        "phonetic american": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "phonetic british": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "価値や重要性を長期間にわたって保持すること（慣用句）",
+                "sentence": "This classic novel has stood the test of time.",
+                "sentence translation": "この古典的な小説は時の試練に耐えてきました。"
+            }
+        ]
+    },
+    {
+        "word": "steal someone's thunder",
+        "phonetic american": "stiːl ˈsʌmwʌnz ˈθʌndər",
+        "phonetic british": "stiːl ˈsʌmwʌnz ˈθʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かの成功や注目を盗む（イディオム）",
+                "sentence": "She stole my thunder by announcing her promotion before I could announce mine.",
+                "sentence translation": "彼は私のプロモーションを発表する前に自分のプロモーションを発表して注目を集めました。"
+            }
+        ]
+    },
+    {
+        "word": "stiff upper lip",
+        "phonetic american": "stɪf ˈʌpər lɪp",
+        "phonetic british": "stɪf ˈʌpə lɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "感情を表に出さず、強さを見せる（慣用句）",
+                "sentence": "Even during the crisis, he kept a stiff upper lip.",
+                "sentence translation": "危機の最中でも、彼は感情を表に出さなかった。"
+            }
+        ]
+    },
+    {
+        "word": "storm in a teacup",
+        "phonetic american": "stɔːrm ɪn ə ˈtiːˌkʌp",
+        "phonetic british": "stɔːm ɪn ə ˈtiːˌkʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "重要ではない問題について不必要な議論を引き起こすこと (慣用句)",
+                "sentence": "This argument over seating arrangements is just a storm in a teacup.",
+                "sentence translation": "座席配置に関するこの議論はまったく不要です。"
+            }
+        ]
+    },
+    {
+        "word": "straight from the horse's mouth",
+        "phonetic american": "streɪt frəm ðə hɔːrsɪz maʊθ",
+        "phonetic british": "streɪt frəm ðə hɔːsɪz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "信頼できる情報源から直接取得した情報 (イディオム)",
+                "sentence": "I heard the news straight from the horse’s mouth.",
+                "sentence translation": "信頼できる情報源から直接そのニュースを受け取りました。"
+            }
+        ]
+    },
+    {
+        "word": "stuck in a time warp",
+        "phonetic american": "stʌk ɪn ə taɪm wɔːrp",
+        "phonetic british": "stʌk ɪn ə taɪm wɔːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時代遅れの、時代に適応できない（慣用句）",
+                "sentence": "His style of clothing makes him look like he’s stuck in a time warp.",
+                "sentence translation": "彼の服装を見ると、彼は古いファッションに囚われているように見えます。"
+            }
+        ]
+    },
+    {
+        "word": "swallow one's pride",
+        "phonetic american": "ˈswɑːloʊ wʌnz praɪd",
+        "phonetic british": "ˈswɒləʊ wʌnz praɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "プライドを脇に置いてください（イディオム）",
+                "sentence": "He had to swallow his pride and apologize to her.",
+                "sentence translation": "彼はプライドを捨てて彼女に謝らなければならなかった。"
+            }
+        ]
+    },
+    {
+        "word": "sweet tooth",
+        "phonetic american": "swiːt tuːθ",
+        "phonetic british": "swiːt tuːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "甘党（イディオム）",
+                "sentence": "She has a sweet tooth and loves desserts.",
+                "sentence translation": "彼は甘党で、甘いものが大好きです。"
+            }
+        ]
+    },
+    {
+        "word": "take each day as it comes",
+        "phonetic american": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "phonetic british": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "将来のことをあまり考えずにその日その日を生きる（慣用句）",
+                "sentence": "Life is unpredictable, so I just take each day as it comes.",
+                "sentence translation": "人生は予測不可能なので、毎日を生きています。"
+            }
+        ]
+    },
+    {
+        "word": "take with a grain (or pinch) of salt",
+        "phonetic american": "teɪk wɪð ə ɡreɪn əv sɔːlt",
+        "phonetic british": "teɪk wɪð ə pɪnʧ əv sɒlt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かを疑いの目で評価する（イディオム）",
+                "sentence": "Take what you read on the internet with a grain of salt.",
+                "sentence translation": "インターネットで読んだことは割り引いて聞いたほうがいいでしょう。"
+            }
+        ]
+    },
+    {
+        "word": "taste of your own medicine",
+        "phonetic american": "teɪst əv jʊr oʊn ˈmɛdəsən",
+        "phonetic british": "teɪst əv jɔːr əʊn ˈmɛdɪsɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "自分自身の行動の悪影響を経験する（慣用句）",
+                "sentence": "When he got ignored by his team, he had a taste of his own medicine.",
+                "sentence translation": "チームから無視されたとき、彼は自分自身の行動の影響に苦しみました。"
+            }
+        ]
+    },
+    {
+        "word": "teacher's pet",
+        "phonetic american": "ˈtiːtʃərz pɛt",
+        "phonetic british": "ˈtiːtʃəz pɛt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "先生のお気に入りの生徒 (イディオム)",
+                "sentence": "She always gets extra privileges because she’s the teacher’s pet.",
+                "sentence translation": "彼は先生のペットなので、いつも特別な特権を与えられています。"
+            }
+        ]
+    },
+    {
+        "word": "the big time",
+        "phonetic american": "ðə bɪɡ taɪm",
+        "phonetic british": "ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "大成功を収める（慣用句）",
+                "sentence": "He hit the big time with his new book.",
+                "sentence translation": "彼は新しい本で大きな成功を収めた。"
+            }
+        ]
+    },
+    {
+        "word": "the moment of truth",
+        "phonetic american": "ðə ˈmoʊmənt əv truːθ",
+        "phonetic british": "ðə ˈməʊmənt əv truːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "事実と向き合う瞬間（慣用句）",
+                "sentence": "The moment of truth came when the test results were revealed.",
+                "sentence translation": "検査結果が発表されたとき、事実と向き合う瞬間が訪れた。"
+            }
+        ]
+    },
+    {
+        "word": "the ship has sailed",
+        "phonetic american": "ðə ʃɪp hæz seɪld",
+        "phonetic british": "ðə ʃɪp hæz seɪld",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "機会は過ぎた（イディオム）",
+                "sentence": "I wanted to apply for that job, but the ship has sailed.",
+                "sentence translation": "私はその仕事に応募したかったのですが、チャンスは過ぎてしまいました。"
+            }
+        ]
+    },
+    {
+        "word": "the time is ripe",
+        "phonetic american": "ðə taɪm ɪz raɪp",
+        "phonetic british": "ðə taɪm ɪz raɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かをするのにふさわしい時期が来た（イディオム）",
+                "sentence": "The time is ripe to start your own business.",
+                "sentence translation": "自分のビジネスを始める時が来ました。"
+            }
+        ]
+    },
+    {
+        "word": "thinking on your feet",
+        "phonetic american": "ˈθɪŋkɪŋ ɑn jʊr fiːt",
+        "phonetic british": "ˈθɪŋkɪŋ ɒn jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "素早く効果的に考える（イディオム）",
+                "sentence": "He’s great at thinking on his feet during meetings.",
+                "sentence translation": "会議で迅速かつ効果的に考えるのが非常に得意です。"
+            }
+        ]
+    },
+    {
+        "word": "this day and age",
+        "phonetic american": "ðɪs deɪ ənd eɪdʒ",
+        "phonetic british": "ðɪs deɪ ənd eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "今、現代では（慣用句）",
+                "sentence": "In this day and age, technology is essential for communication.",
+                "sentence translation": "現代ではコミュニケーションにテクノロジーが欠かせません。"
+            }
+        ]
+    },
+    {
+        "word": "tickled pink",
+        "phonetic american": "ˈtɪkld pɪŋk",
+        "phonetic british": "ˈtɪkld pɪŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "とても幸せになる（慣用句）",
+                "sentence": "She was tickled pink when she received the surprise gift.",
+                "sentence translation": "サプライズのプレゼントをもらって彼はとても喜んでいました。"
+            }
+        ]
+    },
+    {
+        "word": "tie the knot",
+        "phonetic american": "taɪ ðə nɑːt",
+        "phonetic british": "taɪ ðə nɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "結婚する（イディオム）",
+                "sentence": "They’re planning to tie the knot next spring.",
+                "sentence translation": "彼らは来春結婚する予定だ。"
+            }
+        ]
+    },
+    {
+        "word": "time after time (time and time again)",
+        "phonetic american": "taɪm ˈæftər taɪm",
+        "phonetic british": "taɪm ənd taɪm əˈɡɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何度も何度も（イディオム）",
+                "sentence": "Time after time, he proved that he could be trusted.",
+                "sentence translation": "それは何度も信頼できることを証明しています。"
+            }
+        ]
+    },
+    {
+        "word": "time flies",
+        "phonetic american": "taɪm flaɪz",
+        "phonetic british": "taɪm flaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間が経つのは早い（慣用句）",
+                "sentence": "Time flies when you’re having fun.",
+                "sentence translation": "楽しいことをしていると時間はあっという間に過ぎてしまいます。"
+            }
+        ]
+    },
+    {
+        "word": "time for a change",
+        "phonetic american": "taɪm fɔːr ə ʧeɪnʤ",
+        "phonetic british": "taɪm fɔːr ə ʧeɪnʤ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "変化の時だ（イディオム）",
+                "sentence": "After years in the same job, it’s time for a change.",
+                "sentence translation": "同じ仕事を何年も続けた後、転職の時期が来ました。"
+            }
+        ]
+    },
+    {
+        "word": "time heals all wounds (or time is a great healer)",
+        "phonetic american": "taɪm hiːlz ɔːl wuːndz",
+        "phonetic british": "taɪm hiːlz ɔːl wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間がすべてを癒してくれる (イディオム)",
+                "sentence": "Don’t worry; time heals all wounds.",
+                "sentence translation": "心配しないで;時間がすべてを癒してくれます。"
+            }
+        ]
+    },
+    {
+        "word": "time is money",
+        "phonetic american": "taɪm ɪz ˈmʌni",
+        "phonetic british": "taɪm ɪz ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間は貴重です（イディオム）",
+                "sentence": "Let’s not waste time; time is money.",
+                "sentence translation": "時間を無駄にしないようにしましょう。時間は貴重です。"
+            }
+        ]
+    },
+    {
+        "word": "time is of the essence",
+        "phonetic american": "taɪm ɪz əv ði ˈɛsəns",
+        "phonetic british": "taɪm ɪz əv ði ˈɛsns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間はとても大切です（慣用句）",
+                "sentence": "Time is of the essence, so we need to act quickly.",
+                "sentence translation": "一刻を争うので、迅速に行動しなければなりません。"
+            }
+        ]
+    },
+    {
+        "word": "time of one's life",
+        "phonetic american": "taɪm əv wʌnz laɪf",
+        "phonetic british": "taɪm əv wʌnz laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "人生で最高の時間（イディオム）",
+                "sentence": "We had the time of our lives on our vacation.",
+                "sentence translation": "私たちは休暇で人生で最高の時間を過ごしました。"
+            }
+        ]
+    },
+    {
+        "word": "time on one's hands (or side)",
+        "phonetic american": "taɪm ɑn wʌnz hændz",
+        "phonetic british": "taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間はたっぷりある（慣用句）",
+                "sentence": "Now that he’s retired, he has time on his hands.",
+                "sentence translation": "彼は退職したので、時間はたっぷりあります。"
+            }
+        ]
+    },
+    {
+        "word": "tongue-tied",
+        "phonetic american": "tʌŋ taɪd",
+        "phonetic british": "tʌŋ taɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "興奮や恥ずかしさで声が出なくなる（慣用句）",
+                "sentence": "He was tongue-tied during the interview.",
+                "sentence translation": "彼は興奮のあまりインタビュー中に話すことができなかった。"
+            }
+        ]
+    },
+    {
+        "word": "too many chiefs and not enough Indians",
+        "phonetic american": "tuː ˈmɛni tʃiːfs ənd nɑːt ɪˈnʌf ˈɪndiənz",
+        "phonetic british": "tuː ˈmɛni tʃiːfs ənd nɒt ɪˈnʌf ˈɪndiənz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "リーダーが多すぎるが従業員が足りない（慣用句）",
+                "sentence": "The project failed because there were too many chiefs and not enough Indians.",
+                "sentence translation": "リーダーは多すぎるが従業員が足りなかったため、プロジェクトは失敗した。"
+            }
+        ]
+    },
+    {
+        "word": "too much (free) time on one's hands",
+        "phonetic american": "tuː mʌtʃ taɪm ɑn wʌnz hændz",
+        "phonetic british": "tuː mʌtʃ taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "自由時間がたくさんあるのにそれを無駄にしてしまう（慣用句）",
+                "sentence": "He started spreading rumors because he has too much time on his hands.",
+                "sentence translation": "彼は自由時間がたくさんあったので、噂話を広め始めました。"
+            }
+        ]
+    },
+    {
+        "word": "top banana",
+        "phonetic american": "tɑːp bəˈnænə",
+        "phonetic british": "tɒp bəˈnænə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "グループまたは組織のリーダー (イディオム)",
+                "sentence": "He’s the top banana in the company.",
+                "sentence translation": "彼は会社のリーダーです。"
+            }
+        ]
+    },
+    {
+        "word": "top dog",
+        "phonetic american": "tɑːp dɔːɡ",
+        "phonetic british": "tɒp dɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "最も強力な、または成功した人 (イディオム)",
+                "sentence": "After winning the competition, he became the top dog in his field.",
+                "sentence translation": "競争に勝った後、彼はその分野で最強の人物になりました。"
+            }
+        ]
+    },
+    {
+        "word": "tough cookie",
+        "phonetic american": "tʌf ˈkʊki",
+        "phonetic british": "tʌf ˈkʊki",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "困難な状況に対処できる強い人（慣用句）",
+                "sentence": "She’s a tough cookie; she never gives up.",
+                "sentence translation": "彼は困難な状況にも対処できる強い人です。彼は決して諦めません。"
+            }
+        ]
+    },
+    {
+        "word": "tricks of the trade",
+        "phonetic american": "trɪks əv ðə treɪd",
+        "phonetic british": "trɪks əv ðə treɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "仕事で使われる特別な知識や方法（熟語）",
+                "sentence": "He learned the tricks of the trade from his mentor.",
+                "sentence translation": "彼は指導者からこの職業の複雑さを学びました。"
+            }
+        ]
+    },
+    {
+        "word": "true colours",
+        "phonetic american": "truː ˈkʌlərz",
+        "phonetic british": "truː ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かの本当の性格や意図を示す（慣用句）",
+                "sentence": "She showed her true colours when she refused to help.",
+                "sentence translation": "彼は助けを拒否したときに本性を現した。"
+            }
+        ]
+    },
+    {
+        "word": "turn back the hands of time",
+        "phonetic american": "tɜːrn bæk ðə hændz əv taɪm",
+        "phonetic british": "tɜːn bæk ðə hændz əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "過去に戻る、または時間を巻き戻す（慣用句）",
+                "sentence": "If I could turn back the hands of time, I’d make a different decision.",
+                "sentence translation": "もし時間を戻せたら、違う決断をしただろう。"
+            }
+        ]
+    },
+    {
+        "word": "university of life",
+        "phonetic american": "ˌjuːnɪˈvɜːrsɪti əv laɪf",
+        "phonetic british": "ˌjuːnɪˈvɜːsɪti əv laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "人生から学んだ教訓（イディオム）",
+                "sentence": "He never went to college but learned everything from the university of life.",
+                "sentence translation": "彼は大学には行かなかったが、人生からすべてを学んだ。"
+            }
+        ]
+    },
+    {
+        "word": "until hell freezes over",
+        "phonetic american": "ʌnˈtɪl hɛl ˈfriːzɪz ˈoʊvər",
+        "phonetic british": "ʌnˈtɪl hɛl ˈfriːzɪz ˈəʊvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "決して起こらないこと（イディオム）",
+                "sentence": "You can wait until hell freezes over, but I won’t change my mind.",
+                "sentence translation": "永遠に待つこともできますが、私の考えは変わりません。"
+            }
+        ]
+    },
+    {
+        "word": "up in smoke",
+        "phonetic american": "ʌp ɪn smoʊk",
+        "phonetic british": "ʌp ɪn sməʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "何かが無駄になる、または失敗する（イディオム）",
+                "sentence": "All our hard work went up in smoke when the project was canceled.",
+                "sentence translation": "プロジェクトがキャンセルされたとき、私たちの努力はすべて水の泡になりました。"
+            }
+        ]
+    },
+    {
+        "word": "waiting in the wings",
+        "phonetic american": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "phonetic british": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "機会を待っている、準備ができている（イディオム）",
+                "sentence": "She’s waiting in the wings for a chance to prove herself.",
+                "sentence translation": "彼は自分の力を証明する機会を待っている。"
+            }
+        ]
+    },
+    {
+        "word": "walk out on someone",
+        "phonetic american": "wɔːk aʊt ɑn ˈsʌmwʌn",
+        "phonetic british": "wɔːk aʊt ɒn ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "誰かを放棄したり失望させたりする（イディオム）",
+                "sentence": "He walked out on his family when things got tough.",
+                "sentence translation": "状況が厳しくなると、彼は家族を捨てた。"
+            }
+        ]
+    },
+    {
+        "word": "wasting time",
+        "phonetic american": "ˈweɪstɪŋ taɪm",
+        "phonetic british": "ˈweɪstɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "時間を無駄にする（イディオム）",
+                "sentence": "We’re wasting time discussing irrelevant issues.",
+                "sentence translation": "私たちは無関係な話題について議論するのに時間を無駄にします。"
+            }
+        ]
+    },
+    {
+        "word": "well-oiled machine",
+        "phonetic american": "wɛl-ɔɪld məˈʃiːn",
+        "phonetic british": "wɛl-ɔɪld məˈʃiːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "スムーズに運営されるシステムまたはグループ (慣用句)",
+                "sentence": "The team works like a well-oiled machine.",
+                "sentence translation": "チームはスムーズに稼働するシステムのように機能します。"
+            }
+        ]
+    },
+    {
+        "word": "whale of a time",
+        "phonetic american": "weɪl əv ə taɪm",
+        "phonetic british": "weɪl əv ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "楽しい時間を過ごしてください（イディオム）",
+                "sentence": "We had a whale of a time at the amusement park.",
+                "sentence translation": "私たちは遊園地で楽しい時間を過ごしました。"
+            }
+        ]
+    },
+    {
+        "word": "white as a sheet (or ghost)",
+        "phonetic american": "waɪt æz ə ʃiːt",
+        "phonetic british": "waɪt æz ə ʃiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "恐怖や病気で顔面蒼白になること（慣用句）",
+                "sentence": "He turned white as a sheet when he heard the news.",
+                "sentence translation": "彼はその知らせを聞いて青ざめた。"
+            }
+        ]
+    },
+    {
+        "word": "white collar",
+        "phonetic american": "waɪt ˈkɑːlər",
+        "phonetic british": "waɪt ˈkɒlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "会社員、頭脳労働をする人（慣用句）",
+                "sentence": "White-collar jobs are becoming more common in urban areas.",
+                "sentence translation": "ホワイトカラーの仕事は都市部でより一般的になりつつある。"
+            }
+        ]
+    },
+    {
+        "word": "white elephant",
+        "phonetic american": "waɪt ˈɛləfənt",
+        "phonetic british": "waɪt ˈɛləfənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "高価だが役に立たないもの（慣用句）",
+                "sentence": "The stadium turned out to be a white elephant for the city.",
+                "sentence translation": "スタジアムは市にとって高価ではあるが無駄な投資であることが判明した。"
+            }
+        ]
+    },
+    {
+        "word": "white lie",
+        "phonetic american": "waɪt laɪ",
+        "phonetic british": "waɪt laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "無害な嘘、または善意の嘘（慣用句）",
+                "sentence": "She told a white lie to avoid hurting his feelings.",
+                "sentence translation": "彼は彼女の感情を傷つけないように小さな嘘をつきました。"
+            }
+        ]
+    },
+    {
+        "word": "whitewash",
+        "phonetic american": "ˈwaɪtˌwɑːʃ",
+        "phonetic british": "ˈwaɪtˌwɒʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "間違いや欠点を隠すこと（慣用句）",
+                "sentence": "The company tried to whitewash the scandal.",
+                "sentence translation": "会社はそのスキャンダルを隠蔽しようとした。"
+            }
+        ]
+    },
+    {
+        "word": "whole nine yards",
+        "phonetic american": "hoʊl naɪn jɑːrdz",
+        "phonetic british": "həʊl naɪn jɑːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "すべて、すべて（イディオム）",
+                "sentence": "When they throw a party, they go the whole nine yards with decorations and food.",
+                "sentence translation": "パーティーを開くとき、彼らは装飾と食べ物に全力を尽くします。"
+            }
+        ]
+    },
+    {
+        "word": "with bells on",
+        "phonetic american": "wɪð bɛlz ɑn",
+        "phonetic british": "wɪð bɛlz ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "大きな興奮と熱意を持って（慣用句）",
+                "sentence": "I’ll be at your party with bells on!",
+                "sentence translation": "とても興奮してあなたのパーティーに行きます！"
+            }
+        ]
+    },
+    {
+        "word": "wooden spoon",
+        "phonetic american": "ˈwʊdən spuːn",
+        "phonetic british": "ˈwʊdən spuːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "最後になった人に与えられる賞品または称号（慣用句）",
+                "sentence": "They were awarded the wooden spoon for finishing last in the league.",
+                "sentence translation": "彼らはリーグ最下位で木のスプーン賞を受賞した。"
+            }
+        ]
+    },
+    {
+        "word": "works like a charm",
+        "phonetic american": "wɜːrks laɪk ə ʧɑːrm",
+        "phonetic british": "wɜːks laɪk ə ʧɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "完璧に動作します（イディオム）",
+                "sentence": "This new cleaning product works like a charm.",
+                "sentence translation": "この新しいクリーニング製品は完璧に機能します。"
+            }
+        ]
+    },
+    {
+        "word": "wouldn't be caught dead",
+        "phonetic american": "ˈwʊdənt bi kɔːt dɛd",
+        "phonetic british": "ˈwʊdnt biː kɔːt dɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "私はそのような状況に陥ることも、その状況に陥ることもありません（イディオム）",
+                "sentence": "I wouldn’t be caught dead wearing that outfit.",
+                "sentence translation": "私だったら絶対にその服は着ません。"
+            }
+        ]
+    },
+    {
+        "word": "year in, year out",
+        "phonetic american": "jɪr ɪn, jɪr aʊt",
+        "phonetic british": "jɪə ɪn, jɪə aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "繰り返し、毎年、何年も（慣用句）",
+                "sentence": "They visit the same beach year in, year out.",
+                "sentence translation": "彼らは毎年同じビーチを訪れます。"
+            }
+        ]
+    },
+    {
+        "word": "yellow-bellied",
+        "phonetic american": "ˈjɛloʊ ˈbɛlid",
+        "phonetic british": "ˈjɛləʊ ˈbɛlid",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "臆病な、勇敢な（慣用句）",
+                "sentence": "He’s too yellow-bellied to confront his boss.",
+                "sentence translation": "彼は上司に立ち向かうにはあまりにも臆病だ。"
+            }
+        ]
+    },
+    {
+        "word": "you can't teach an old dog new tricks",
+        "phonetic american": "juː kænt tiːʧ ən oʊld dɔːɡ nuː trɪks",
+        "phonetic british": "juː kɑːnt tiːʧ ən əʊld dɒɡ njuː trɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "古い習慣を持つ人を変えるのは難しい（慣用句）",
+                "sentence": "He refuses to learn how to use a smartphone; you can’t teach an old dog new tricks.",
+                "sentence translation": "彼はスマートフォンの使い方を学ぶことを拒否します。古い習慣を変えるのは難しいです。"
+            }
+        ]
+    },
+    {
+        "word": "your guess is as good as mine",
+        "phonetic american": "jʊr gɛs ɪz æz ɡʊd æz maɪn",
+        "phonetic british": "jɔːr gɛs ɪz æz ɡʊd æz maɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "私にも分かりません、私たちの推測はどちらも同じくらい正確かもしれません (慣用句)",
+                "sentence": "Why the train is late? Your guess is as good as mine.",
+                "sentence translation": "なぜ電車が遅れたのですか?私にも分かりません。"
+            }
+        ]
+    }
+]

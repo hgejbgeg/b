@@ -1,0 +1,4864 @@
+[
+    {
+        "word": "acid test",
+        "phonetic american": "ˈæsɪd tɛst",
+        "phonetic british": "ˈæsɪd tɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həqiqi imtahan, çətin sınaq (deyim)",
+                "sentence": "The acid test of a good chef is how they handle a busy dinner service.",
+                "sentence translation": "Yaxşı bir aşpazın əsl sınağı onun sıx şam yeməyi xidmətini necə idarə etməsidir."
+            }
+        ]
+    },
+    {
+        "word": "actions speak louder than words",
+        "phonetic american": "ˈækʃənz spiːk ˈlaʊdər ðæn wɜrdz",
+        "phonetic british": "ˈækʃənz spiːk ˈlaʊdə ðən wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hərəkətlər sözlərdən daha vacibdir (deyim)",
+                "sentence": "She proved her loyalty because actions speak louder than words.",
+                "sentence translation": "O, sədaqətini sübut etdi, çünki hərəkətlər sözlərdən daha vacibdir."
+            }
+        ]
+    },
+    {
+        "word": "add insult to injury",
+        "phonetic american": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "phonetic british": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yaraya duz tökmək, onu daha da pisləşdirmək (idiom)",
+                "sentence": "He was late to the meeting, and to add insult to injury, he forgot the presentation.",
+                "sentence translation": "O, məclisə gecikdi və yaraya duz qatmaq üçün təqdimatı unudub."
+            }
+        ]
+    },
+    {
+        "word": "after the watershed",
+        "phonetic american": "ˈæftər ðə ˈwɑːtərʃɛd",
+        "phonetic british": "ˈɑːftə ðə ˈwɔːtəʃɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gecə yayımı zonası (deyim)",
+                "sentence": "The movie can only be shown after the watershed due to its content.",
+                "sentence translation": "Film məzmununa görə yalnız gecə yayımı zonasında nümayiş oluna bilər."
+            }
+        ]
+    },
+    {
+        "word": "against the clock",
+        "phonetic american": "əˈgɛnst ðə klɑːk",
+        "phonetic british": "əˈgɛnst ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "zamanla yarışmaq (deyim)",
+                "sentence": "We were working against the clock to finish the project.",
+                "sentence translation": "Layihəni bitirmək üçün zamanla yarışırdıq."
+            }
+        ]
+    },
+    {
+        "word": "ahead of time",
+        "phonetic american": "əˈhɛd əv taɪm",
+        "phonetic british": "əˈhɛd əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "vaxtından əvvəl (idiom)",
+                "sentence": "We finished the preparations ahead of time.",
+                "sentence translation": "Hazırlıqları vaxtından əvvəl başa çatdırdıq."
+            }
+        ]
+    },
+    {
+        "word": "all ears",
+        "phonetic american": "ɔːl ɪrz",
+        "phonetic british": "ɔːl ɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "diqqətlə dinləyici (idiom)",
+                "sentence": "Tell me your idea; I'm all ears.",
+                "sentence translation": "Fikrinizi danışın; Sizi diqqətlə dinləyirəm."
+            }
+        ]
+    },
+    {
+        "word": "an arm and a leg",
+        "phonetic american": "æn ɑːrm ənd ə lɛg",
+        "phonetic british": "æn ɑːm ənd ə lɛg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox bahalı (deyim)",
+                "sentence": "The repairs cost an arm and a leg.",
+                "sentence translation": "Təmir çox baha idi."
+            }
+        ]
+    },
+    {
+        "word": "around the clock",
+        "phonetic american": "əˈraʊnd ðə klɑːk",
+        "phonetic british": "əˈraʊnd ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "gecə və gündüz (deyim)",
+                "sentence": "The hospital staff works around the clock.",
+                "sentence translation": "Xəstəxana işçiləri gecə-gündüz işləyirlər."
+            }
+        ]
+    },
+    {
+        "word": "around the corner",
+        "phonetic american": "əˈraʊnd ðə ˈkɔrnər",
+        "phonetic british": "əˈraʊnd ðə ˈkɔːnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox yaxın, qaçılmaz (deyim)",
+                "sentence": "The holidays are just around the corner.",
+                "sentence translation": "Tətillərə az qalıb."
+            }
+        ]
+    },
+    {
+        "word": "as time goes by",
+        "phonetic american": "æz taɪm ɡoʊz baɪ",
+        "phonetic british": "æz taɪm ɡəʊz baɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zaman keçdikcə (deyim)",
+                "sentence": "As time goes by, old memories fade away.",
+                "sentence translation": "Zaman keçdikcə köhnə xatirələr yox olur."
+            }
+        ]
+    },
+    {
+        "word": "at the drop of a hat",
+        "phonetic american": "æt ðə drɑːp əv ə hæt",
+        "phonetic british": "æt ðə drɒp əv ə hæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "dərhal, düşünmədən (idiom)",
+                "sentence": "He is always ready to help at the drop of a hat.",
+                "sentence translation": "Düşünmədən dərhal kömək etməyə hazırdır."
+            }
+        ]
+    },
+    {
+        "word": "back to basics",
+        "phonetic american": "bæk tə ˈbeɪsɪks",
+        "phonetic british": "bæk tə ˈbeɪsɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əsaslara qayıt (deyim)",
+                "sentence": "The teacher decided to go back to basics for better understanding.",
+                "sentence translation": "Müəllim daha yaxşı başa düşmək üçün əsaslara qayıtmaq qərarına gəldi."
+            }
+        ]
+    },
+    {
+        "word": "back to the drawing board",
+        "phonetic american": "bæk tə ðə ˈdrɔːɪŋ bɔːrd",
+        "phonetic british": "bæk tə ðə ˈdrɔːɪŋ bɔːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Sıfırdan başlamaq (deyim)",
+                "sentence": "After the plan failed, they had to go back to the drawing board.",
+                "sentence translation": "Plan iflasa uğradıqdan sonra sıfırdan yenidən başlamalı oldular."
+            }
+        ]
+    },
+    {
+        "word": "bad apple",
+        "phonetic american": "bæd ˈæpl",
+        "phonetic british": "bæd ˈæpl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pis alma, pis niyyətli şəxs (idiom)",
+                "sentence": "One bad apple can ruin the entire team.",
+                "sentence translation": "Bir pis alma bütün komandanı məhv edə bilər."
+            }
+        ]
+    },
+    {
+        "word": "ball is in your court",
+        "phonetic american": "bɔːl ɪz ɪn jʊr kɔːrt",
+        "phonetic british": "bɔːl ɪz ɪn jɔː kɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Top sənin meydanındadır, növbə sənindir (idiom)",
+                "sentence": "I've explained my position; now the ball is in your court.",
+                "sentence translation": "Vəziyyətimi izah etdim; İndi top sizin meydançanızdadır."
+            }
+        ]
+    },
+    {
+        "word": "barking up the wrong tree",
+        "phonetic american": "ˈbɑːrkɪŋ ʌp ðə rɔːŋ triː",
+        "phonetic british": "ˈbɑːkɪŋ ʌp ðə rɒŋ triː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Səhv qapını döymək, yanlış yerə getmək (deyim)",
+                "sentence": "You're barking up the wrong tree if you think I can help with that.",
+                "sentence translation": "Bu işdə sizə kömək edə biləcəyimi düşünürsənsə, səhv qapını döyürsən."
+            }
+        ]
+    },
+    {
+        "word": "be glad to see the back of",
+        "phonetic american": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "phonetic british": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kimdənsə və ya bir şeydən xilas olmaqdan xoşbəxt olmaq (deyim)",
+                "sentence": "I'll be glad to see the back of this project.",
+                "sentence translation": "Bu layihədən qurtulmaqdan məmnun olaram."
+            }
+        ]
+    },
+    {
+        "word": "beat around the bush",
+        "phonetic american": "biːt əˈraʊnd ðə bʊʃ",
+        "phonetic british": "biːt əˈraʊnd ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kolun ətrafında döymək, birbaşa heç nə deməmək (deyim)",
+                "sentence": "Stop beating around the bush and tell me the truth.",
+                "sentence translation": "Kolun ətrafında döyülməyi dayandır və mənə həqiqəti söylə."
+            }
+        ]
+    },
+    {
+        "word": "beat the clock",
+        "phonetic american": "biːt ðə klɑːk",
+        "phonetic british": "biːt ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Vaxtında bitirmək, zamana qarşı qalib gəlmək (deyim)",
+                "sentence": "They managed to beat the clock and submit the report on time.",
+                "sentence translation": "Zamanla yarışaraq hesabatı vaxtında çatdırmağı bacardılar."
+            }
+        ]
+    },
+    {
+        "word": "bee in one's bonnet",
+        "phonetic american": "biː ɪn wʌnz ˈbɑːnɪt",
+        "phonetic british": "biː ɪn wʌnz ˈbɒnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "vəsvəsə olmaq, nəyəsə aludə olmaq (deyim)",
+                "sentence": "She has a bee in her bonnet about recycling.",
+                "sentence translation": "O, təkrar emalla məşğuldur."
+            }
+        ]
+    },
+    {
+        "word": "behind the times",
+        "phonetic american": "bɪˈhaɪnd ðə taɪmz",
+        "phonetic british": "bɪˈhaɪnd ðə taɪmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "köhnəlmiş, köhnəlmiş (deyim)",
+                "sentence": "He is a bit behind the times when it comes to technology.",
+                "sentence translation": "Texnologiyaya gəldikdə, o, bir az köhnə məktəbdir."
+            }
+        ]
+    },
+    {
+        "word": "bells and whistles",
+        "phonetic american": "bɛlz ənd ˈwɪsəlz",
+        "phonetic british": "bɛlz ənd ˈwɪslz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Lazımsız bəzəklər, əlavə xüsusiyyətlər (deyim)",
+                "sentence": "This phone has all the bells and whistles you could ask for.",
+                "sentence translation": "Bu telefon istədiyiniz bütün əlavə xüsusiyyətlərə malikdir."
+            }
+        ]
+    },
+    {
+        "word": "best of both worlds",
+        "phonetic american": "bɛst əv boʊθ wɜːrldz",
+        "phonetic british": "bɛst əv bəʊθ wɜːldz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "iki şeyin ən yaxşı tərəflərini bir araya gətirmək (idiom)",
+                "sentence": "Living in the countryside but working in the city gives her the best of both worlds.",
+                "sentence translation": "Kənddə yaşamaq və şəhərdə işləmək ona hər iki dünyanın ən yaxşısını təklif edir."
+            }
+        ]
+    },
+    {
+        "word": "best thing since sliced bread",
+        "phonetic american": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "phonetic british": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Böyük bir yenilik, gözəl bir şey (deyim)",
+                "sentence": "This new software is the best thing since sliced bread.",
+                "sentence translation": "Bu yeni proqram dilimlənmiş çörəkdən bəri ən yaxşı şeydir."
+            }
+        ]
+    },
+    {
+        "word": "better late than never",
+        "phonetic american": "ˈbɛtər leɪt ðæn ˈnɛvər",
+        "phonetic british": "ˈbɛtə leɪt ðæn ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gec olsun, gec olmasın (deyim)",
+                "sentence": "He finally apologized, better late than never.",
+                "sentence translation": "O, nəhayət, gec deyil, üzr istədi."
+            }
+        ]
+    },
+    {
+        "word": "bide one's time",
+        "phonetic american": "baɪd wʌnz taɪm",
+        "phonetic british": "baɪd wʌnz taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "doğru vaxtı gözləmək (deyim)",
+                "sentence": "He is biding his time before making his next move.",
+                "sentence translation": "Növbəti addımını atmazdan əvvəl doğru vaxtı gözləyir."
+            }
+        ]
+    },
+    {
+        "word": "big cheese",
+        "phonetic american": "bɪɡ tʃiːz",
+        "phonetic british": "bɪɡ tʃiːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əhəmiyyətli şəxs, patron (deyim)",
+                "sentence": "He is the big cheese in the company.",
+                "sentence translation": "O, şirkətdə vacib şəxsdir."
+            }
+        ]
+    },
+    {
+        "word": "bird in the hand is worth two in the bush",
+        "phonetic american": "bɜrd ɪn ðə hænd ɪz wɜːrθ tuː ɪn ðə bʊʃ",
+        "phonetic british": "bɜːd ɪn ðə hænd ɪz wɜːθ tuː ɪn ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əlindəki quş koldakı iki quşdan yaxşıdır (deyim)",
+                "sentence": "You should keep this offer; a bird in the hand is worth two in the bush.",
+                "sentence translation": "Bu təklifi nəzərə almalısınız; Əlindəki bir quş koldakı iki quşdan yaxşıdır."
+            }
+        ]
+    },
+    {
+        "word": "bite off more than you can chew",
+        "phonetic american": "baɪt ɔf mɔːr ðæn ju kən tʃuː",
+        "phonetic british": "baɪt ɒf mɔː ðæn ju kən tʃuː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Sizin üçün çox böyük olan işləri görməyə çalışmaq (deyim)",
+                "sentence": "He bit off more than he could chew by taking on two jobs at once.",
+                "sentence translation": "O, eyni vaxtda iki işi öz üzərinə götürdü və gücü çatmayan işləri öz üzərinə götürdü."
+            }
+        ]
+    },
+    {
+        "word": "black and blue",
+        "phonetic american": "blæk ənd bluː",
+        "phonetic british": "blæk ənd bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əzilmiş, çürüklərlə dolu (deyim)",
+                "sentence": "After falling down the stairs, his legs were black and blue.",
+                "sentence translation": "Pilləkənlərdən düşəndən sonra ayaqları bənövşəyi rəngə boyanmışdı."
+            }
+        ]
+    },
+    {
+        "word": "black and white",
+        "phonetic american": "blæk ənd waɪt",
+        "phonetic british": "blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Aydın, dəqiq (deyim)",
+                "sentence": "The rules are written in black and white.",
+                "sentence translation": "Qaydalar aydın və qısadır."
+            }
+        ]
+    },
+    {
+        "word": "black as night",
+        "phonetic american": "blæk æz naɪt",
+        "phonetic british": "blæk æz naɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "zibil qara, zibil qara (deyim)",
+                "sentence": "The cave was black as night.",
+                "sentence translation": "Mağara qaranlıq idi."
+            }
+        ]
+    },
+    {
+        "word": "black eye",
+        "phonetic american": "blæk aɪ",
+        "phonetic british": "blæk aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qara göz, pis vəziyyət (deyim)",
+                "sentence": "The scandal gave the company a black eye.",
+                "sentence translation": "Qalmaqal şirkət üçün pis vəziyyət yaradıb."
+            }
+        ]
+    },
+    {
+        "word": "black market",
+        "phonetic american": "blæk ˈmɑːrkɪt",
+        "phonetic british": "blæk ˈmɑːkɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qara bazar (idiom)",
+                "sentence": "The goods were being sold on the black market.",
+                "sentence translation": "Mallar qara bazarda satılırdı."
+            }
+        ]
+    },
+    {
+        "word": "black out",
+        "phonetic american": "blæk aʊt",
+        "phonetic british": "blæk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "huşunu itirmək, qaralmaq (deyim)",
+                "sentence": "He blacked out during the marathon due to heat exhaustion.",
+                "sentence translation": "O, marafon zamanı istidən huşunu itirib."
+            }
+        ]
+    },
+    {
+        "word": "black sheep",
+        "phonetic american": "blæk ʃiːp",
+        "phonetic british": "blæk ʃiːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ailədə kənar adam, qara qoyun (deyim)",
+                "sentence": "He has always been the black sheep of the family.",
+                "sentence translation": "O, həmişə ailənin qara qoyunu olub."
+            }
+        ]
+    },
+    {
+        "word": "blackball",
+        "phonetic american": "ˈblækbɔːl",
+        "phonetic british": "ˈblækbɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "veto, rədd etmək (deyim)",
+                "sentence": "He was blackballed from the club for breaking its rules.",
+                "sentence translation": "O, qaydaları pozduğuna görə klubdan vetoya məruz qalıb."
+            }
+        ]
+    },
+    {
+        "word": "blacklist",
+        "phonetic american": "ˈblæklɪst",
+        "phonetic british": "ˈblæklɪst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qara siyahı (deyim)",
+                "sentence": "The company blacklisted him for sharing confidential information.",
+                "sentence translation": "Şirkət məxfi məlumatları paylaşdığı üçün onu qara siyahıya salıb."
+            }
+        ]
+    },
+    {
+        "word": "blackmail",
+        "phonetic american": "ˈblækmeɪl",
+        "phonetic british": "ˈblækmeɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "şantaj (deyim)",
+                "sentence": "He tried to blackmail her with a private photo.",
+                "sentence translation": "O, şəxsi fotosu ilə onu şantaj etməyə çalışıb."
+            }
+        ]
+    },
+    {
+        "word": "blessing in disguise",
+        "phonetic american": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "phonetic british": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əvvəlcə pis görünsə də, yaxşı vəziyyətdir (deyim).",
+                "sentence": "Losing that job turned out to be a blessing in disguise.",
+                "sentence translation": "Bu işi itirmək yaxşı bir şey oldu."
+            }
+        ]
+    },
+    {
+        "word": "blind date",
+        "phonetic american": "blaɪnd deɪt",
+        "phonetic british": "blaɪnd deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Görmədiyiniz biri ilə görüşmək (deyim)",
+                "sentence": "She was nervous about her blind date.",
+                "sentence translation": "O, iclasdan əvvəl görüşdən əsəbi idi."
+            }
+        ]
+    },
+    {
+        "word": "blood red",
+        "phonetic american": "blʌd rɛd",
+        "phonetic british": "blʌd rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qan qırmızısı (deyim)",
+                "sentence": "The sunset was a beautiful blood red.",
+                "sentence translation": "Gün batımı gözəl qan qırmızı rəngi idi."
+            }
+        ]
+    },
+    {
+        "word": "blood, sweat & tears",
+        "phonetic american": "blʌd swɛt ənd tɪrz",
+        "phonetic british": "blʌd swɛt ənd tɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox səy və fədakarlıq (deyim)",
+                "sentence": "The project was completed with blood, sweat, and tears.",
+                "sentence translation": "Layihə böyük səy və fədakarlıqla tamamlandı."
+            }
+        ]
+    },
+    {
+        "word": "blow a fuse",
+        "phonetic american": "bloʊ ə fjuz",
+        "phonetic british": "bləʊ ə fjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qəzəblənmək, qəzəblənmək (deyim)",
+                "sentence": "He blew a fuse when he found out about the mistake.",
+                "sentence translation": "Səhv olduğunu biləndə qəzəbləndi."
+            }
+        ]
+    },
+    {
+        "word": "blow up in the face",
+        "phonetic american": "bloʊ ʌp ɪn ðə feɪs",
+        "phonetic british": "bləʊ ʌp ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "geri qayıtmaq, səhv getmək (deyim)",
+                "sentence": "The plan blew up in his face when the details leaked.",
+                "sentence translation": "Təfərrüatların sızması ilə plan əks nəticə verdi."
+            }
+        ]
+    },
+    {
+        "word": "blue blood",
+        "phonetic american": "bluː blʌd",
+        "phonetic british": "bluː blʌd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "nəcib soy (deyim)",
+                "sentence": "He claimed to have blue blood running in his veins.",
+                "sentence translation": "O, damarlarında nəcib qan axdığını iddia edirdi."
+            }
+        ]
+    },
+    {
+        "word": "blue collar",
+        "phonetic american": "bluː ˈkɑːlər",
+        "phonetic british": "bluː ˈkɒlər",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Fiziki işçi sinfi (deyim)",
+                "sentence": "He comes from a blue-collar family.",
+                "sentence translation": "O, fiziki işçi ailəsindən gəlir."
+            }
+        ]
+    },
+    {
+        "word": "blue in the face",
+        "phonetic american": "bluː ɪn ðə feɪs",
+        "phonetic british": "bluː ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Boş yerə cəhd etmək, nəticə əldə etməmək (deyim)",
+                "sentence": "You can argue until you're blue in the face, but he won't change his mind.",
+                "sentence translation": "Nəticə əldə etmədən mübahisəyə davam edə bilərsiniz, lakin o, fikrini dəyişməyəcək."
+            }
+        ]
+    },
+    {
+        "word": "blue ribbon",
+        "phonetic american": "bluː ˈrɪbən",
+        "phonetic british": "bluː ˈrɪbən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Birinci mükafat, ən yaxşı (deyim)",
+                "sentence": "She won the blue ribbon for her painting.",
+                "sentence translation": "O, rəsm əsəri ilə birinci mükafata layiq görülüb."
+            }
+        ]
+    },
+    {
+        "word": "bolt from the blue",
+        "phonetic american": "boʊlt frəm ðə bluː",
+        "phonetic british": "bəʊlt frəm ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gözlənilməz hadisə, sürpriz (deyim)",
+                "sentence": "The announcement was like a bolt from the blue.",
+                "sentence translation": "Açıqlama gözlənilməz bir şey kimi gəldi."
+            }
+        ]
+    },
+    {
+        "word": "bookworm",
+        "phonetic american": "ˈbʊkwɜːrm",
+        "phonetic british": "ˈbʊkwɜːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kitab qurdu, kitabsevər (deyim)",
+                "sentence": "She's such a bookworm; she finishes a novel every week.",
+                "sentence translation": "O, kitab qurdudur; O, hər həftə bir roman bitirir."
+            }
+        ]
+    },
+    {
+        "word": "born with a silver spoon in one's mouth",
+        "phonetic american": "bɔrn wɪð ə ˈsɪlvər spuːn ɪn wʌnz maʊθ",
+        "phonetic british": "bɔːn wɪð ə ˈsɪlvə spuːn ɪn wʌnz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zəngin və imtiyazlı bir ailədə doğulmaq (deyim)",
+                "sentence": "He doesn't understand the struggles of others because he was born with a silver spoon in his mouth.",
+                "sentence translation": "Varlı bir ailədə doğulduğu üçün başqalarının mübarizəsini başa düşmür."
+            }
+        ]
+    },
+    {
+        "word": "bottom falls out",
+        "phonetic american": "ˈbɑːtəm fɔːlz aʊt",
+        "phonetic british": "ˈbɒtəm fɔːlz aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qəza yaşamaq, bazar qəzası (deyim)",
+                "sentence": "The bottom fell out of the market after the financial crisis.",
+                "sentence translation": "Maliyyə böhranından sonra bazar çökdü."
+            }
+        ]
+    },
+    {
+        "word": "brainstorm",
+        "phonetic american": "ˈbreɪnˌstɔːrm",
+        "phonetic british": "ˈbreɪnˌstɔːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ideyalar yaratmaq, beyin fırtınası (deyim)",
+                "sentence": "The team brainstormed ideas for the new project.",
+                "sentence translation": "Komanda yeni layihə üçün ideyalar yaratdı."
+            }
+        ]
+    },
+    {
+        "word": "bread-winner",
+        "phonetic american": "ˈbrɛdˌwɪnər",
+        "phonetic british": "ˈbrɛdˌwɪnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çörək verən (deyim)",
+                "sentence": "He is the bread-winner of his family.",
+                "sentence translation": "O, ailəsinin təminatçısıdır."
+            }
+        ]
+    },
+    {
+        "word": "bring home the bacon",
+        "phonetic american": "brɪŋ hoʊm ðə ˈbeɪkən",
+        "phonetic british": "brɪŋ həʊm ðə ˈbeɪkən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Evə çörək gətirmək, pul qazanmaq (deyim)",
+                "sentence": "He works hard to bring home the bacon.",
+                "sentence translation": "Evə çörək gətirmək üçün çox çalışır."
+            }
+        ]
+    },
+    {
+        "word": "broken watch is right twice a day",
+        "phonetic american": "ˈbroʊkən wɑːtʃ ɪz raɪt twaɪs ə deɪ",
+        "phonetic british": "ˈbrəʊkən wɒtʃ ɪz raɪt twaɪs ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hətta pis bir şey bəzən doğru ola bilər (deyim)",
+                "sentence": "Even a broken watch is right twice a day.",
+                "sentence translation": "Hətta pis bir saat gündə iki dəfə sağ ola bilər."
+            }
+        ]
+    },
+    {
+        "word": "buckle down",
+        "phonetic american": "ˈbʌkəl daʊn",
+        "phonetic british": "ˈbʌkəl daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox işləməyə başlamaq, işə ciddi diqqət yetirmək (deyim)",
+                "sentence": "You need to buckle down and study for the exam.",
+                "sentence translation": "Çox çalışmalı və imtahana hazırlaşmalısan."
+            }
+        ]
+    },
+    {
+        "word": "bun in the oven",
+        "phonetic american": "bʌn ɪn ðə ˈʌvən",
+        "phonetic british": "bʌn ɪn ðə ˈʌvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "hamilə olmaq (deyim)",
+                "sentence": "She just announced that she has a bun in the oven.",
+                "sentence translation": "O, indicə hamilə olduğunu açıqlayıb."
+            }
+        ]
+    },
+    {
+        "word": "butter up",
+        "phonetic american": "ˈbʌtər ʌp",
+        "phonetic british": "ˈbʌtə ʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kimisə təriflə aldatmaq, kiməsə yaltaqlanmaq (deyim)",
+                "sentence": "He tried to butter up his boss for a promotion.",
+                "sentence translation": "O, vəzifədə yüksəlmək üçün müdirinə yaltaqlanmağa çalışırdı."
+            }
+        ]
+    },
+    {
+        "word": "by degrees",
+        "phonetic american": "baɪ dɪˈɡriːz",
+        "phonetic british": "baɪ dɪˈɡriːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tədricən, yavaş-yavaş (deyim)",
+                "sentence": "She improved her skills by degrees.",
+                "sentence translation": "Tədricən bacarıqlarını artırdı."
+            }
+        ]
+    },
+    {
+        "word": "by the skin of your teeth",
+        "phonetic american": "baɪ ðə skɪn əv jɔːr tiːθ",
+        "phonetic british": "baɪ ðə skɪn əv jɔː tiːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "dar qaçış (deyim)",
+                "sentence": "He escaped the accident by the skin of his teeth.",
+                "sentence translation": "O, qəzadan çətinliklə xilas olub."
+            }
+        ]
+    },
+    {
+        "word": "call it a day",
+        "phonetic american": "kɔːl ɪt ə deɪ",
+        "phonetic british": "kɔːl ɪt ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "işi dayandırmaq, işi dayandırmaq (deyim)",
+                "sentence": "After finishing the report, they decided to call it a day.",
+                "sentence translation": "Hesabatı bitirdikdən sonra işi dayandırmaq qərarına gəldilər."
+            }
+        ]
+    },
+    {
+        "word": "calling time",
+        "phonetic american": "ˈkɔːlɪŋ taɪm",
+        "phonetic british": "ˈkɔːlɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir şeyin sonuna gəlmək, başa çatdırmaq (deyim)",
+                "sentence": "The coach is calling time on his career after 20 years.",
+                "sentence translation": "Koç 20 ildən sonra karyerasını bitirir."
+            }
+        ]
+    },
+    {
+        "word": "carry the torch for",
+        "phonetic american": "ˈkæri ðə tɔːrtʃ fɔːr",
+        "phonetic british": "ˈkæri ðə tɔːtʃ fɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kiməsə və ya nəyəsə sadiq qalmaq (deyim)",
+                "sentence": "He still carries the torch for his high school sweetheart.",
+                "sentence translation": "Hələ də orta məktəb sevgilisinə sadiqdir."
+            }
+        ]
+    },
+    {
+        "word": "cash cow",
+        "phonetic american": "kæʃ kaʊ",
+        "phonetic british": "kæʃ kaʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Daimi gəlir gətirən biznes və ya məhsul (idiom)",
+                "sentence": "Their new app is a real cash cow for the company.",
+                "sentence translation": "Onların yeni tətbiqləri şirkət üçün real gəlir mənbəyidir."
+            }
+        ]
+    },
+    {
+        "word": "cat burglar",
+        "phonetic american": "kæt ˈbɜːrɡlər",
+        "phonetic british": "kæt ˈbɜːɡlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Səssizcə oğurluq edən adam (deyim)",
+                "sentence": "The cat burglar entered the house without making a sound.",
+                "sentence translation": "Səssiz oğru səsini çıxarmadan evə daxil olub."
+            }
+        ]
+    },
+    {
+        "word": "catch someone at a bad time",
+        "phonetic american": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "phonetic british": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yanlış zamanda kimisə tutmaq (deyim)",
+                "sentence": "I'm sorry if I caught you at a bad time.",
+                "sentence translation": "Səhv vaxtda tutmuşamsa üzr istəyirəm."
+            }
+        ]
+    },
+    {
+        "word": "catch someone red-handed",
+        "phonetic american": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "phonetic british": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Birini cinayət başında tutmaq (deyim)",
+                "sentence": "The police caught him red-handed stealing the car.",
+                "sentence translation": "Polis onu maşını oğurlayarkən cinayət başında yaxalayıb."
+            }
+        ]
+    },
+    {
+        "word": "chance one's arm",
+        "phonetic american": "tʃæns wʌnz ɑːrm",
+        "phonetic british": "tʃɑːns wʌnz ɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "şansını sınamaq, risk et (deyim)",
+                "sentence": "He decided to chance his arm and apply for the position.",
+                "sentence translation": "O, bu vəzifəyə müraciət edərək bəxtini sınamaq qərarına gəlib."
+            }
+        ]
+    },
+    {
+        "word": "chase rainbows",
+        "phonetic american": "tʃeɪs ˈreɪnboʊz",
+        "phonetic british": "tʃeɪs ˈreɪnbəʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qeyri-mümkün bir xəyalın arxasınca qaçmaq (deyim)",
+                "sentence": "Stop chasing rainbows and focus on achievable goals.",
+                "sentence translation": "Qeyri-mümkün arzuların arxasınca getməyi dayandırın və əldə edilə bilən məqsədlərə diqqət edin."
+            }
+        ]
+    },
+    {
+        "word": "chase your tail",
+        "phonetic american": "tʃeɪs jʊr teɪl",
+        "phonetic british": "tʃeɪs jɔː teɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Boş yerə mübarizə aparmaq, vaxt itirmək (deyim)",
+                "sentence": "I've been chasing my tail all day trying to get everything done.",
+                "sentence translation": "Bütün günü boş yerə çalışdım ki, bütün işləri bitirim."
+            }
+        ]
+    },
+    {
+        "word": "cheesy",
+        "phonetic american": "ˈtʃiːzi",
+        "phonetic british": "ˈtʃiːzi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Sadə, keyfiyyətsiz, klişe (deyim)",
+                "sentence": "The movie was too cheesy for my taste.",
+                "sentence translation": "Film mənim zövqüm üçün çox klişe idi."
+            }
+        ]
+    },
+    {
+        "word": "clock-in/clock-out",
+        "phonetic american": "klɑːk ɪn / klɑːk aʊt",
+        "phonetic british": "klɒk ɪn / klɒk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "İş saatlarına giriş/çıxış (deyim)",
+                "sentence": "Don't forget to clock in when you arrive at work.",
+                "sentence translation": "İşə gələndə daxil olmağı unutmayın."
+            }
+        ]
+    },
+    {
+        "word": "close to home",
+        "phonetic american": "kloʊs tə hoʊm",
+        "phonetic british": "kləʊs tə həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Şəxsi məsələni təsirli şəkildə həll etmək (deyim)",
+                "sentence": "The comment about his family was too close to home.",
+                "sentence translation": "Ailəsi ilə bağlı şərh dərin şəxsi məqama toxundu."
+            }
+        ]
+    },
+    {
+        "word": "cold shoulder",
+        "phonetic american": "koʊld ˈʃoʊldər",
+        "phonetic british": "kəʊld ˈʃəʊldə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "soyuqqanlı davranmaq, biganə qalmaq (deyim)",
+                "sentence": "She gave him the cold shoulder after their argument.",
+                "sentence translation": "Onların mübahisəsindən sonra onunla soyuq davranıb."
+            }
+        ]
+    },
+    {
+        "word": "coming of age",
+        "phonetic american": "ˈkʌmɪŋ əv eɪdʒ",
+        "phonetic british": "ˈkʌmɪŋ əv eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yetişmək, yetkinliyə qədəm qoymaq (deyim)",
+                "sentence": "The novel is a beautiful coming-of-age story.",
+                "sentence translation": "Roman gözəl bir yetkinlik hekayəsidir."
+            }
+        ]
+    },
+    {
+        "word": "cook someone's goose",
+        "phonetic american": "kʊk ˈsʌmwʌnz ɡuːs",
+        "phonetic british": "kʊk ˈsʌmwʌnz ɡuːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kiminsə planlarını pozmaq (deyim)",
+                "sentence": "If you tell the boss about his mistake, it will cook his goose.",
+                "sentence translation": "Müdirə səhvini söyləsəniz, onun planlarını pozacaqsınız."
+            }
+        ]
+    },
+    {
+        "word": "copycat",
+        "phonetic american": "ˈkɑːpiˌkæt",
+        "phonetic british": "ˈkɒpiˌkæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "təqlidçi (deyim)",
+                "sentence": "The new app is just a copycat of the original one.",
+                "sentence translation": "Yeni proqram sadəcə orijinalın təqlididir."
+            }
+        ]
+    },
+    {
+        "word": "costs an arm and a leg",
+        "phonetic american": "kɔːsts æn ɑːrm ənd ə lɛɡ",
+        "phonetic british": "kɒsts ən ɑːm ənd ə lɛɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "baha başa gəlir (idiom)",
+                "sentence": "This vacation is going to cost an arm and a leg.",
+                "sentence translation": "Bu bayram çox baha başa gələcək."
+            }
+        ]
+    },
+    {
+        "word": "couch potato",
+        "phonetic american": "kaʊtʃ pəˈteɪtoʊ",
+        "phonetic british": "kaʊtʃ pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hər zaman televizora baxan tənbəl insan (deyim)",
+                "sentence": "He's such a couch potato; he never goes outside.",
+                "sentence translation": "O, çox tənbəldir; heç vaxt çölə çıxmır."
+            }
+        ]
+    },
+    {
+        "word": "cover a lot of ground",
+        "phonetic american": "ˈkʌvər ə lɒt əv ɡraʊnd",
+        "phonetic british": "ˈkʌvə ə lɒt əv ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox irəliləyiş etmək, geniş ərazini əhatə etmək (deyim)",
+                "sentence": "We covered a lot of ground in today's meeting.",
+                "sentence translation": "Bugünkü görüşdə biz xeyli irəliləyiş əldə etdik."
+            }
+        ]
+    },
+    {
+        "word": "crack of dawn",
+        "phonetic american": "kræk əv dɔːn",
+        "phonetic british": "kræk əv dɔːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Səhər, sübh vaxtı (deyim)",
+                "sentence": "We left at the crack of dawn to catch the first train.",
+                "sentence translation": "İlk qatara yetişmək üçün səhərə yaxın yola düşdük."
+            }
+        ]
+    },
+    {
+        "word": "cross that bridge when you come to it",
+        "phonetic american": "krɔːs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "phonetic british": "krɒs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Problemlə qarşılaşdıqda onu həll etmək (deyim)",
+                "sentence": "We’ll cross that bridge when we come to it.",
+                "sentence translation": "Bu problemlə qarşılaşdığımız zaman onu həll edirik."
+            }
+        ]
+    },
+    {
+        "word": "crunch time",
+        "phonetic american": "krʌntʃ taɪm",
+        "phonetic british": "krʌntʃ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zaman təzyiqinin intensiv olduğu dövr (idiom)",
+                "sentence": "It's crunch time for the project, so everyone is working overtime.",
+                "sentence translation": "Layihə üçün kritik vaxtdır, ona görə də hamı iş vaxtından artıq işləyir."
+            }
+        ]
+    },
+    {
+        "word": "cry over spilt milk",
+        "phonetic american": "kraɪ ˈoʊvər spɪlt mɪlk",
+        "phonetic british": "kraɪ ˈəʊvə spɪlt mɪlk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "keçmişdəki şeylərə görə təəssüf hissi (deyim)",
+                "sentence": "There's no use crying over spilt milk; let's focus on fixing the problem.",
+                "sentence translation": "Keçmişdən narahat olmağın mənası yoxdur; Problemin həllinə diqqət yetirək."
+            }
+        ]
+    },
+    {
+        "word": "curiosity killed the cat",
+        "phonetic american": "ˌkjʊriˈɑːsəti kɪld ðə kæt",
+        "phonetic british": "ˌkjʊərɪˈɒsɪti kɪld ðə kæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həddindən artıq maraq təhlükəli ola bilər (deyim)",
+                "sentence": "Don't go into that abandoned house; curiosity killed the cat.",
+                "sentence translation": "O tərk edilmiş evə girmə; Həddindən artıq maraq təhlükəli ola bilər."
+            }
+        ]
+    },
+    {
+        "word": "cut corners",
+        "phonetic american": "kʌt ˈkɔːrnərz",
+        "phonetic british": "kʌt ˈkɔːnəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Küncləri kəsmək, keyfiyyəti azaltmaq (deyim)",
+                "sentence": "They cut corners to finish the project quickly, but it led to mistakes.",
+                "sentence translation": "Onlar layihəni tez başa çatdırmaq üçün asan yol seçdilər, lakin bu, səhvlərə səbəb oldu."
+            }
+        ]
+    },
+    {
+        "word": "cut one's own throat",
+        "phonetic american": "kʌt wʌnz oʊn θroʊt",
+        "phonetic british": "kʌt wʌnz əʊn θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Öz maraqlarına zərər vurmaq (deyim)",
+                "sentence": "By refusing the deal, he ended up cutting his own throat.",
+                "sentence translation": "Müqaviləni rədd etməklə, öz maraqlarına zərər vurmuşdur."
+            }
+        ]
+    },
+    {
+        "word": "cut the mustard",
+        "phonetic american": "kʌt ðə ˈmʌstərd",
+        "phonetic british": "kʌt ðə ˈmʌstəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gözlənilən standartlara nail olmaq (deyim)",
+                "sentence": "He didn’t cut the mustard, so he wasn’t hired.",
+                "sentence translation": "Gözlənilən standartlara cavab verə bilmədiyi üçün işə götürülməyib."
+            }
+        ]
+    },
+    {
+        "word": "cut to the chase",
+        "phonetic american": "kʌt tə ðə tʃeɪs",
+        "phonetic british": "kʌt tə ðə tʃeɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mətləbə çatmaq (deyim)",
+                "sentence": "Let’s cut to the chase and discuss the main issue.",
+                "sentence translation": "Gəlin mətləbə keçək və əsas mövzunu müzakirə edək."
+            }
+        ]
+    },
+    {
+        "word": "day to day",
+        "phonetic american": "deɪ tə deɪ",
+        "phonetic british": "deɪ tə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gündəlik işlər və ya rutin (deyim)",
+                "sentence": "She handles the day-to-day operations of the business.",
+                "sentence translation": "Biznesin gündəlik əməliyyatlarını idarə edir."
+            }
+        ]
+    },
+    {
+        "word": "days are numbered",
+        "phonetic american": "deɪz ər ˈnʌmbərd",
+        "phonetic british": "deɪz ə ˈnʌmbəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Onun günləri sayılıb, sona çatır (deyim)",
+                "sentence": "With sales dropping, the company’s days are numbered.",
+                "sentence translation": "Satışların azalması ilə şirkətin günləri sayılı olur."
+            }
+        ]
+    },
+    {
+        "word": "dead duck",
+        "phonetic american": "dɛd dʌk",
+        "phonetic british": "dɛd dʌk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Uğursuzluq və ya istifadə edilməməsi (deyim)",
+                "sentence": "After losing the lawsuit, their business plan was a dead duck.",
+                "sentence translation": "Davanı uduzduqdan sonra onların biznes planı iflasa uğradı."
+            }
+        ]
+    },
+    {
+        "word": "dead in the water",
+        "phonetic american": "dɛd ɪn ðə ˈwɔːtər",
+        "phonetic british": "dɛd ɪn ðə ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Heç bir irəliləyiş əldə etməmək və ya tükənmək (deyim)",
+                "sentence": "Without funding, the project is dead in the water.",
+                "sentence translation": "Maliyyələşdirmə olmadan layihə tamamilə dayandı."
+            }
+        ]
+    },
+    {
+        "word": "dead wood",
+        "phonetic american": "dɛd wʊd",
+        "phonetic british": "dɛd wʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Yararsız şəxs və ya əşya (deyim)",
+                "sentence": "The company decided to remove the dead wood to increase productivity.",
+                "sentence translation": "Şirkət səmərəliliyi artırmaq üçün yararsız insanları işdən çıxarmaq qərarına gəlib."
+            }
+        ]
+    },
+    {
+        "word": "deep down",
+        "phonetic american": "diːp daʊn",
+        "phonetic british": "diːp daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "İçəridə, dərində (deyim)",
+                "sentence": "Deep down, she knew she had made the right choice.",
+                "sentence translation": "O, dərindən bilirdi ki, düzgün qərar verib."
+            }
+        ]
+    },
+    {
+        "word": "deliver the goods",
+        "phonetic american": "dɪˈlɪvər ðə ɡʊdz",
+        "phonetic british": "dɪˈlɪvə ðə ɡʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gözlənilən performansı göstərmək, vədləri yerinə yetirmək (deyim)",
+                "sentence": "The new software delivered the goods as promised.",
+                "sentence translation": "Yeni proqram təminatı vəd edildiyi kimi gözlənilən performansı göstərdi."
+            }
+        ]
+    },
+    {
+        "word": "devil's advocate",
+        "phonetic american": "ˈdɛvəlz ˈædvəkət",
+        "phonetic british": "ˈdɛvəlz ˈædvəkət",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əks arqument hazırlayan şəxs (deyim)",
+                "sentence": "He played devil's advocate to test the strength of their argument.",
+                "sentence translation": "O, arqumentlərinin gücünü yoxlamaq üçün şeytanın vəkili rolunu oynayırdı."
+            }
+        ]
+    },
+    {
+        "word": "do time (serve time)",
+        "phonetic american": "duː taɪm / sɜːrv taɪm",
+        "phonetic british": "duː taɪm / sɜːv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "həbsxanaya getmək (deyim)",
+                "sentence": "He did time for robbery when he was younger.",
+                "sentence translation": "O, yeniyetmə ikən quldurluğa görə həbsxanada yatıb."
+            }
+        ]
+    },
+    {
+        "word": "donkey's years",
+        "phonetic american": "ˈdɑːŋkiz jɪrz",
+        "phonetic british": "ˈdɒŋkɪz jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "uzun illər (deyim)",
+                "sentence": "I haven’t seen her in donkey’s years.",
+                "sentence translation": "Mən onu uzun illərdir ki, görmürəm."
+            }
+        ]
+    },
+    {
+        "word": "don't count your chickens before they've hatched",
+        "phonetic american": "doʊnt kaʊnt jʊr ˈtʃɪkɪnz bɪˈfɔːr ðeɪv hætʃt",
+        "phonetic british": "dəʊnt kaʊnt jɔː ˈtʃɪkɪnz bɪˈfɔː ðeɪv hætʃt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Axını görmədən şalvarınızı bükməyin (deyim)",
+                "sentence": "Don’t count your chickens before they’ve hatched; the deal isn’t finalized yet.",
+                "sentence translation": "Axını görmədən şalvarınızı bükməyin; Müqavilə hələ yekunlaşmayıb."
+            }
+        ]
+    },
+    {
+        "word": "don't give up the day job",
+        "phonetic american": "doʊnt ɡɪv ʌp ðə deɪ ʤɑːb",
+        "phonetic british": "dəʊnt ɡɪv ʌp ðə deɪ ʤɒb",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "İstedadın çatışmadığı sahəyə diqqət yetirməmək (deyim)",
+                "sentence": "Your singing is okay, but don’t give up the day job.",
+                "sentence translation": "Oxumaq pis deyil, amma bunu öz peşənə çevirmə."
+            }
+        ]
+    },
+    {
+        "word": "don't put all your eggs in one basket",
+        "phonetic american": "doʊnt pʊt ɔːl jʊr ɛɡz ɪn wʌn ˈbæskɪt",
+        "phonetic british": "dəʊnt pʊt ɔːl jɔːr ɛɡz ɪn wʌn ˈbɑːskɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bütün riskləri bir şeylə əlaqələndirmək (deyim)",
+                "sentence": "It’s risky to invest all your money in stocks; don’t put all your eggs in one basket.",
+                "sentence translation": "Bütün pulunuzu səhmlərə qoymaq risklidir; Bütün risklərinizi bir şeyə bağlamayın."
+            }
+        ]
+    },
+    {
+        "word": "double date",
+        "phonetic american": "ˈdʌbəl deɪt",
+        "phonetic british": "ˈdʌbəl deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "İki cütlüyün birlikdə çıxdığı tarix (deyim)",
+                "sentence": "We went on a double date with my best friend and her boyfriend.",
+                "sentence translation": "Ən yaxşı dostum və onun sevgilisi ilə cütlük görüşünə getdik."
+            }
+        ]
+    },
+    {
+        "word": "drastic times call for drastic measures",
+        "phonetic american": "ˈdræstɪk taɪmz kɔːl fɔːr ˈdræstɪk ˈmɛʒərz",
+        "phonetic british": "ˈdræstɪk taɪmz kɔːl fɔː ˈdræstɪk ˈmɛʒəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çətin vəziyyətlər çətin qərarlar tələb edir (deyim)",
+                "sentence": "The company had to lay off employees because drastic times call for drastic measures.",
+                "sentence translation": "Şirkət çətin qərarlar tələb etdiyi üçün işçilərini ixtisar etməli oldu."
+            }
+        ]
+    },
+    {
+        "word": "drawing a blank",
+        "phonetic american": "ˈdrɔːɪŋ ə blæŋk",
+        "phonetic british": "ˈdrɔːɪŋ ə blæŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Heç bir nəticə əldə edə bilməmək, heç nəyi xatırlaya bilməmək (deyim)",
+                "sentence": "I tried to remember her name, but I kept drawing a blank.",
+                "sentence translation": "Adını xatırlamağa çalışdım, amma bacarmadım."
+            }
+        ]
+    },
+    {
+        "word": "dropout",
+        "phonetic american": "ˈdrɑːpaʊt",
+        "phonetic british": "ˈdrɒpaʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "məktəbi və ya proqramı tərk edən şəxs (deyim)",
+                "sentence": "He’s a college dropout who started his own company.",
+                "sentence translation": "Universiteti atıb öz şirkətini quran biri."
+            }
+        ]
+    },
+    {
+        "word": "dwell on the past",
+        "phonetic american": "dwɛl ɑn ðə pæst",
+        "phonetic british": "dwɛl ɒn ðə pɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "keçmişdə ilişib qalmış (deyim)",
+                "sentence": "It’s time to move forward and stop dwelling on the past.",
+                "sentence translation": "İndi irəliyə baxmaq və keçmişdə ilişib qalmağın vaxtıdır."
+            }
+        ]
+    },
+    {
+        "word": "eager beaver",
+        "phonetic american": "ˈiːɡər ˈbiːvər",
+        "phonetic british": "ˈiːɡə ˈbiːvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "həddindən artıq qeyrətli və ya çalışqan insan (deyim)",
+                "sentence": "She’s such an eager beaver; she always finishes her tasks ahead of time.",
+                "sentence translation": "O, çox zəhmətkeşdir; O, həmişə öz vəzifələrini vaxtından əvvəl bitirir."
+            }
+        ]
+    },
+    {
+        "word": "easy as ABC",
+        "phonetic american": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "phonetic british": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Asandır, uşaq oyunudur (deyim)",
+                "sentence": "The instructions were easy as ABC, so I had no trouble assembling the furniture.",
+                "sentence translation": "Təlimatlar çox asan idi, ona görə də mebeli yığmaqda çətinlik çəkmədim."
+            }
+        ]
+    },
+    {
+        "word": "eat, sleep & breathe something",
+        "phonetic american": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "phonetic british": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ömrünü bir şeyə həsr etmək (deyim)",
+                "sentence": "He eats, sleeps, and breathes football.",
+                "sentence translation": "O, həyatını futbola həsr etmiş biridir."
+            }
+        ]
+    },
+    {
+        "word": "egg head",
+        "phonetic american": "ˈɛɡ hɛd",
+        "phonetic british": "ˈɛɡ hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "həddindən artıq intellektual və ya akademik şəxs (deyim)",
+                "sentence": "The professor is a real egg head when it comes to mathematics.",
+                "sentence translation": "Professor riyaziyyata gəldikdə tam bir intellektualdır."
+            }
+        ]
+    },
+    {
+        "word": "elbow room",
+        "phonetic american": "ˈɛlboʊ ruːm",
+        "phonetic british": "ˈɛlbəʊ ruːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "hərəkət azadlığı (idiom)",
+                "sentence": "The new office gives us more elbow room.",
+                "sentence translation": "Yeni ofis bizə daha çox yer verir."
+            }
+        ]
+    },
+    {
+        "word": "eleventh hour",
+        "phonetic american": "ɪˈlɛvənθ ˈaʊər",
+        "phonetic british": "ɪˈlɛvənθ ˈaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Son dəqiqə, son an (deyim)",
+                "sentence": "They reached an agreement at the eleventh hour.",
+                "sentence translation": "Onlar son anda razılığa gəliblər."
+            }
+        ]
+    },
+    {
+        "word": "Elvis has left the building",
+        "phonetic american": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "phonetic british": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tədbir bitdi, iş burada bitdi (deyim)",
+                "sentence": "The concert is over; Elvis has left the building.",
+                "sentence translation": "Konsert bitdi; Tədbir başa çatdı."
+            }
+        ]
+    },
+    {
+        "word": "every cloud has a silver lining",
+        "phonetic american": "ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ",
+        "phonetic british": "ˈɛvri klaʊd hæz ə ˈsɪlvə ˈlaɪnɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hər pis şeydə bir xeyir var (deyim)",
+                "sentence": "Don’t worry about losing your job; every cloud has a silver lining.",
+                "sentence translation": "İşinizi itirməkdən narahat olmayın; Hər pis şeydə bir xeyir var."
+            }
+        ]
+    },
+    {
+        "word": "explore all avenues",
+        "phonetic american": "ɪkˈsplɔːr ɔːl ˈævəˌnuːz",
+        "phonetic british": "ɪkˈsplɔːr ɔːl ˈævənjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bütün imkanları araşdırmaq (deyim)",
+                "sentence": "We need to explore all avenues before making a decision.",
+                "sentence translation": "Qərar verməzdən əvvəl bütün imkanları araşdırmalıyıq."
+            }
+        ]
+    },
+    {
+        "word": "eye-catching",
+        "phonetic american": "ˈaɪ ˌkætʃɪŋ",
+        "phonetic british": "ˈaɪ ˌkætʃɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "göz oxşayan, göz oxşayan (deyim)",
+                "sentence": "The new advertisement is very eye-catching.",
+                "sentence translation": "Yeni reklam çox diqqət çəkir."
+            }
+        ]
+    },
+    {
+        "word": "fallen in love",
+        "phonetic american": "ˈfɔːlən ɪn lʌv",
+        "phonetic british": "ˈfɔːlən ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "aşiq olmaq (deyim)",
+                "sentence": "He has fallen in love with his best friend.",
+                "sentence translation": "Ən yaxşı dostuna aşiq oldu."
+            }
+        ]
+    },
+    {
+        "word": "far cry from",
+        "phonetic american": "fɑːr kraɪ frʌm",
+        "phonetic british": "fɑː kraɪ frʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çox fərqli, əlaqəsiz (deyim)",
+                "sentence": "This new design is a far cry from the old one.",
+                "sentence translation": "Bu yeni dizayn köhnədən çox fərqlidir."
+            }
+        ]
+    },
+    {
+        "word": "feeling blue",
+        "phonetic american": "ˈfiːlɪŋ bluː",
+        "phonetic british": "ˈfiːlɪŋ bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kədərlənmək, bədbəxt olmaq (deyim)",
+                "sentence": "I’ve been feeling blue ever since she moved away.",
+                "sentence translation": "O, köçəndən bəri özümü kədərli hiss edirəm."
+            }
+        ]
+    },
+    {
+        "word": "feeling under the weather",
+        "phonetic american": "ˈfiːlɪŋ ˈʌndər ðə ˈwɛðər",
+        "phonetic british": "ˈfiːlɪŋ ˈʌndə ðə ˈwɛðə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "xəstə və ya zəif hiss etmək (deyim)",
+                "sentence": "I’m feeling under the weather today, so I’ll stay home.",
+                "sentence translation": "Bu gün özümü zəif hiss edirəm, ona görə də evdə qalacağam."
+            }
+        ]
+    },
+    {
+        "word": "fever pitch",
+        "phonetic american": "ˈfiːvər pɪtʃ",
+        "phonetic british": "ˈfiːvə pɪtʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həddindən artıq həyəcan və ya gərginlik vəziyyəti (idiom)",
+                "sentence": "The excitement in the stadium reached fever pitch.",
+                "sentence translation": "Stadionda həyəcan pik həddə çatıb."
+            }
+        ]
+    },
+    {
+        "word": "fill in the blanks",
+        "phonetic american": "fɪl ɪn ðə blæŋks",
+        "phonetic british": "fɪl ɪn ðə blæŋks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çatışmayan məlumatların doldurulması (deyim)",
+                "sentence": "She didn’t give us all the details, so we had to fill in the blanks.",
+                "sentence translation": "O, bizə bütün təfərrüatları vermədi, ona görə də çatışmayan məlumatları doldurmalı olduq."
+            }
+        ]
+    },
+    {
+        "word": "first in, best dressed",
+        "phonetic american": "fɜːrst ɪn bɛst drɛst",
+        "phonetic british": "fɜːst ɪn bɛst drɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Birinci qalib gəlir (idiom)",
+                "sentence": "The sale was first in, best dressed, so we arrived early.",
+                "sentence translation": "Satış ilk gələn, ilk xidmət olduğu üçün erkən gəldik."
+            }
+        ]
+    },
+    {
+        "word": "first out of the gate",
+        "phonetic american": "fɜːrst aʊt əv ðə ɡeɪt",
+        "phonetic british": "fɜːst aʊt əv ðə ɡeɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bir şeyə ilk başlayan və ya hərəkətə keçən şəxs (deyim)",
+                "sentence": "He was the first out of the gate with his project proposal.",
+                "sentence translation": "O, layihə təklifi ilə hərəkətə keçən ilk şəxs olub."
+            }
+        ]
+    },
+    {
+        "word": "fish out of water",
+        "phonetic american": "fɪʃ aʊt əv ˈwɔːtər",
+        "phonetic british": "fɪʃ aʊt əv ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qəribə mühitdə özünü narahat hiss etmək (deyim)",
+                "sentence": "He felt like a fish out of water at the formal dinner party.",
+                "sentence translation": "Rəsmi şam yeməyində özünü yad bir mühitdə hiss etdi."
+            }
+        ]
+    },
+    {
+        "word": "foot in the door",
+        "phonetic american": "fʊt ɪn ðə dɔːr",
+        "phonetic british": "fʊt ɪn ðə dɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Başlanğıc fürsəti əldə etmək (deyim)",
+                "sentence": "This internship will help you get your foot in the door of the industry.",
+                "sentence translation": "Bu təcrübə sənayeyə giriş əldə etməyə kömək edəcək."
+            }
+        ]
+    },
+    {
+        "word": "for the time being",
+        "phonetic american": "fɔːr ðə taɪm ˈbiːɪŋ",
+        "phonetic british": "fɔː ðə taɪm ˈbiːɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hələlik, müvəqqəti (deyim)",
+                "sentence": "For the time being, we’ll stay here until we find a better place.",
+                "sentence translation": "Hələlik daha yaxşı yer tapana qədər burada qalacağıq."
+            }
+        ]
+    },
+    {
+        "word": "from now on",
+        "phonetic american": "frʌm naʊ ɑːn",
+        "phonetic british": "frʌm naʊ ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bundan sonra (idiom)",
+                "sentence": "From now on, I’ll be more careful with my spending.",
+                "sentence translation": "Bundan sonra xərclərimdə daha diqqətli olacam."
+            }
+        ]
+    },
+    {
+        "word": "from time to time",
+        "phonetic american": "frʌm taɪm tə taɪm",
+        "phonetic british": "frʌm taɪm tə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "arabir, arabir (deyim)",
+                "sentence": "I like to visit my hometown from time to time.",
+                "sentence translation": "Mən vaxtaşırı doğma şəhərimə baş çəkməyi xoşlayıram."
+            }
+        ]
+    },
+    {
+        "word": "full of beans",
+        "phonetic american": "fʊl əv biːnz",
+        "phonetic british": "fʊl əv biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "enerji dolu, canlı (idiom)",
+                "sentence": "The children were full of beans after the party.",
+                "sentence translation": "Uşaqlar şənlikdən sonra enerji ilə dolu idilər."
+            }
+        ]
+    },
+    {
+        "word": "full of the joys of spring",
+        "phonetic american": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "phonetic british": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox xoşbəxt, şən (deyim)",
+                "sentence": "She came into the office full of the joys of spring.",
+                "sentence translation": "Bahar sevinci ilə dolu kabinetə gəldi."
+            }
+        ]
+    },
+    {
+        "word": "getting sacked (or axed, or fired)",
+        "phonetic american": "ˈɡɛtɪŋ sækt",
+        "phonetic british": "ˈɡɛtɪŋ sækt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "işdən çıxarılmaq (deyim)",
+                "sentence": "He was afraid of getting sacked after the mistake.",
+                "sentence translation": "Səhvindən sonra işdən çıxarılacağından qorxurdu."
+            }
+        ]
+    },
+    {
+        "word": "getting the show on the road",
+        "phonetic american": "ˈɡɛtɪŋ ðə ʃoʊ ɑn ðə roʊd",
+        "phonetic british": "ˈɡɛtɪŋ ðə ʃəʊ ɒn ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Layihə və ya fəaliyyətə başlamaq (deyim)",
+                "sentence": "Let’s get the show on the road and start the meeting.",
+                "sentence translation": "Gəlin işə başlayaq və görüşə başlayaq."
+            }
+        ]
+    },
+    {
+        "word": "give the benefit of the doubt",
+        "phonetic american": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "phonetic british": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "şübhələrə baxmayaraq kiməsə inanmaq (deyim)",
+                "sentence": "Let’s give her the benefit of the doubt and assume she’s telling the truth.",
+                "sentence translation": "Fərz edək ki, şübhələrinizə baxmayaraq, ona inanırsınız və o, həqiqəti deyir."
+            }
+        ]
+    },
+    {
+        "word": "give the green light",
+        "phonetic american": "ɡɪv ðə ɡriːn laɪt",
+        "phonetic british": "ɡɪv ðə ɡriːn laɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "icazə vermək, təsdiq etmək (deyim)",
+                "sentence": "The manager gave the green light to start the project.",
+                "sentence translation": "Menecer layihənin başlamasına icazə verdi."
+            }
+        ]
+    },
+    {
+        "word": "go belly up",
+        "phonetic american": "ɡoʊ ˈbɛli ˈʌp",
+        "phonetic british": "ɡəʊ ˈbɛli ˈʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "iflas etmək, iflasa uğramaq (deyim)",
+                "sentence": "The company went belly up after losing its main client.",
+                "sentence translation": "Şirkət əsas müştərisini itirdikdən sonra müflis olub."
+            }
+        ]
+    },
+    {
+        "word": "going places",
+        "phonetic american": "ˈɡoʊɪŋ ˈpleɪsɪz",
+        "phonetic british": "ˈɡəʊɪŋ ˈpleɪsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Uğurlu olmaq potensialına sahib olmaq (deyim)",
+                "sentence": "With her talent, she’s definitely going places.",
+                "sentence translation": "İstedadı ilə mütləq uğur qazanacaq."
+            }
+        ]
+    },
+    {
+        "word": "golden boy",
+        "phonetic american": "ˈɡoʊldən bɔɪ",
+        "phonetic british": "ˈɡəʊldən bɔɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox sevilən və uğur gözlənilən insan (deyim)",
+                "sentence": "He’s the golden boy of the football team.",
+                "sentence translation": "Futbol komandasının favoritidir."
+            }
+        ]
+    },
+    {
+        "word": "golden handshake",
+        "phonetic american": "ˈɡoʊldən ˈhændˌʃeɪk",
+        "phonetic british": "ˈɡəʊldən ˈhændˌʃeɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Təqaüd və ya işdən çıxma haqqı (ifadə)",
+                "sentence": "The CEO received a golden handshake upon his retirement.",
+                "sentence translation": "Baş direktor təqaüdə çıxanda təzminat aldı."
+            }
+        ]
+    },
+    {
+        "word": "golden opportunity",
+        "phonetic american": "ˈɡoʊldən ˌɑːpərˈtuːnɪti",
+        "phonetic british": "ˈɡəʊldən ˌɒpəˈtjuːnɪti",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qaçırılmamaq üçün əla fürsət (idiom)",
+                "sentence": "This job offer is a golden opportunity for your career.",
+                "sentence translation": "Bu iş təklifi karyeranız üçün əldən verilməyəcək bir fürsətdir."
+            }
+        ]
+    },
+    {
+        "word": "grass is always greener on the other side",
+        "phonetic american": "ɡræs ɪz ˈɔːlweɪz ˈɡriːnər ɑn ði ˈʌðər saɪd",
+        "phonetic british": "ɡrɑːs ɪz ˈɔːlweɪz ˈɡriːnə ɒn ði ˈʌðə saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Başqa bir şey həmişə daha cəlbedici görünür (deyim)",
+                "sentence": "He left his job thinking the grass is always greener on the other side, but now he regrets it.",
+                "sentence translation": "Başqa bir şeyin daha cəlbedici olduğunu düşünərək işini tərk etdi, amma indi peşmandır."
+            }
+        ]
+    },
+    {
+        "word": "grease someone's palm",
+        "phonetic american": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "phonetic british": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kiməsə rüşvət vermək (deyim)",
+                "sentence": "He had to grease the official’s palm to get the permit approved.",
+                "sentence translation": "O, icazənin təsdiqlənməsi üçün məmura rüşvət verməli olub."
+            }
+        ]
+    },
+    {
+        "word": "green thumb",
+        "phonetic american": "ɡriːn θʌm",
+        "phonetic british": "ɡriːn θʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bitki yetişdirmək bacarığı (deyim)",
+                "sentence": "She has a green thumb; her garden is always blooming.",
+                "sentence translation": "Bitki yetişdirmək qabiliyyətinə malikdir; Onun bağçası həmişə çiçəklənir."
+            }
+        ]
+    },
+    {
+        "word": "green with envy",
+        "phonetic american": "ɡriːn wɪð ˈɛnvi",
+        "phonetic british": "ɡriːn wɪð ˈɛnvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qısqanclıqdan partlamaq (deyim)",
+                "sentence": "She was green with envy when she saw her friend’s new car.",
+                "sentence translation": "Dostunun yeni avtomobilini görəndə qısqanclıq hissi keçirdi."
+            }
+        ]
+    },
+    {
+        "word": "grey area",
+        "phonetic american": "ɡreɪ ˈɛriə",
+        "phonetic british": "ɡreɪ ˈɛərɪə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qeyri-müəyyən və ya qeyri-müəyyən vəziyyət (deyim)",
+                "sentence": "The rules about online privacy are still a grey area.",
+                "sentence translation": "Onlayn məxfilik qaydaları hələ də aydın olmayan məsələdir."
+            }
+        ]
+    },
+    {
+        "word": "hanging on by fingernails",
+        "phonetic american": "ˈhæŋɪŋ ɑn baɪ ˈfɪŋɡərˌneɪlz",
+        "phonetic british": "ˈhæŋɪŋ ɒn baɪ ˈfɪŋɡəˌneɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çətin vəziyyətdə sağ qalmağa çalışmaq (deyim)",
+                "sentence": "The company is hanging on by its fingernails due to financial issues.",
+                "sentence translation": "Şirkət maliyyə problemləri səbəbindən sağ qalmaqda çətinlik çəkir."
+            }
+        ]
+    },
+    {
+        "word": "hard as nails",
+        "phonetic american": "hɑːrd æz neɪlz",
+        "phonetic british": "hɑːd æz neɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "emosional və ya dözümlü insan (deyim)",
+                "sentence": "She may look kind, but she’s hard as nails when it comes to business.",
+                "sentence translation": "O, nəzakətli görünə bilər, amma iş məsələsində çox sərtdir."
+            }
+        ]
+    },
+    {
+        "word": "hard time",
+        "phonetic american": "hɑːrd taɪm",
+        "phonetic british": "hɑːd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çətin vaxt keçir (idiom)",
+                "sentence": "He had a hard time finding a job after college.",
+                "sentence translation": "Universitetdən sonra iş tapmaqda çətinlik çəkirdi."
+            }
+        ]
+    },
+    {
+        "word": "having one's heart set on something",
+        "phonetic american": "ˈhævɪŋ wʌnz hɑːrt sɛt ɑn ˈsʌmθɪŋ",
+        "phonetic british": "ˈhævɪŋ wʌnz hɑːt sɛt ɒn ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "həqiqətən bir şey istəmək (deyim)",
+                "sentence": "She has her heart set on studying abroad next year.",
+                "sentence translation": "O, həqiqətən də gələn il xaricdə təhsil almaq istəyir."
+            }
+        ]
+    },
+    {
+        "word": "head in the clouds",
+        "phonetic american": "hɛd ɪn ðə klaʊdz",
+        "phonetic british": "hɛd ɪn ðə klaʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Xəyalpərəst olmaq, reallıqdan uzaq olmaq (deyim)",
+                "sentence": "He’s always got his head in the clouds, dreaming of becoming a rock star.",
+                "sentence translation": "O, həmişə xəyal dünyasındadır, rok ulduzu olmaq arzusundadır."
+            }
+        ]
+    },
+    {
+        "word": "head over heels in love",
+        "phonetic american": "hɛd ˈoʊvər hilz ɪn lʌv",
+        "phonetic british": "hɛd ˈəʊvə hiːlz ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "aşiq olmaq (deyim)",
+                "sentence": "He fell head over heels in love with her the moment they met.",
+                "sentence translation": "Onunla tanış olduğu an ona aşiq oldu."
+            }
+        ]
+    },
+    {
+        "word": "hear it on the grapevine",
+        "phonetic american": "hɪr ɪt ɑn ðə ˈɡreɪpˌvaɪn",
+        "phonetic british": "hɪə ɪt ɒn ðə ˈɡreɪpˌvaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "şayiələrdən nəsə eşitmək (deyim)",
+                "sentence": "I heard on the grapevine that they’re getting married.",
+                "sentence translation": "Üzümdən eşitdim ki, onlar evlənirlər."
+            }
+        ]
+    },
+    {
+        "word": "heart is in the right place",
+        "phonetic american": "hɑːrt ɪz ɪn ðə raɪt pleɪs",
+        "phonetic british": "hɑːt ɪz ɪn ðə raɪt pleɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "düzgün niyyətə sahib olmaq (deyim)",
+                "sentence": "She makes mistakes sometimes, but her heart is in the right place.",
+                "sentence translation": "Bəzən səhv edir, amma niyyəti doğrudur."
+            }
+        ]
+    },
+    {
+        "word": "here today, gone tomorrow",
+        "phonetic american": "hɪr təˈdeɪ, ɡɑn təˈmɑːroʊ",
+        "phonetic british": "hɪə təˈdeɪ, ɡɒn təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Müvəqqəti şeylər üçün istifadə olunur (deyim)",
+                "sentence": "The popularity of certain trends is here today, gone tomorrow.",
+                "sentence translation": "Bəzi cərəyanların populyarlığı müvəqqətidir."
+            }
+        ]
+    },
+    {
+        "word": "high time",
+        "phonetic american": "haɪ taɪm",
+        "phonetic british": "haɪ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Artıq vaxtdır, artıq gecdir (idiom)",
+                "sentence": "It’s high time you cleaned your room.",
+                "sentence translation": "İndi otağınızı təmizləməyin vaxtıdır."
+            }
+        ]
+    },
+    {
+        "word": "hit the big time",
+        "phonetic american": "hɪt ðə bɪɡ taɪm",
+        "phonetic british": "hɪt ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Böyük uğur əldə etmək (deyim)",
+                "sentence": "He hit the big time after his song became a global hit.",
+                "sentence translation": "O, mahnısı dünya hitinə çevrildikdən sonra böyük uğur qazanıb."
+            }
+        ]
+    },
+    {
+        "word": "hit the books",
+        "phonetic american": "hɪt ðə bʊks",
+        "phonetic british": "hɪt ðə bʊks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "işə başlamaq (deyim)",
+                "sentence": "I have to hit the books if I want to pass the exam.",
+                "sentence translation": "Əgər imtahandan keçmək istəyirəmsə, oxumağa başlamalıyam."
+            }
+        ]
+    },
+    {
+        "word": "hit the nail on the head",
+        "phonetic american": "hɪt ðə neɪl ɑn ðə hɛd",
+        "phonetic british": "hɪt ðə neɪl ɒn ðə hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Başına mismar vurmaq, düz söz demək (deyim)",
+                "sentence": "You hit the nail on the head with your analysis.",
+                "sentence translation": "Analizinizlə başına mismar vurursunuz."
+            }
+        ]
+    },
+    {
+        "word": "hit the panic button",
+        "phonetic american": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "phonetic british": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "panikaya düşmək (deyim)",
+                "sentence": "Don’t hit the panic button; we still have time to fix this.",
+                "sentence translation": "Təlaşlanmayın; Bunu düzəltmək üçün hələ vaxtımız var."
+            }
+        ]
+    },
+    {
+        "word": "hit the road",
+        "phonetic american": "hɪt ðə roʊd",
+        "phonetic british": "hɪt ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yola düşmək, yeri tərk etmək (deyim)",
+                "sentence": "It’s getting late; we’d better hit the road.",
+                "sentence translation": "Gec olur; Getsək yaxşı olar."
+            }
+        ]
+    },
+    {
+        "word": "hit the sack (or sheets, or hay)",
+        "phonetic american": "hɪt ðə sæk",
+        "phonetic british": "hɪt ðə sæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yatmaq, yatmaq (deyim)",
+                "sentence": "I’m exhausted, so I’m going to hit the sack.",
+                "sentence translation": "Çox yorğunam, ona görə də yatıram."
+            }
+        ]
+    },
+    {
+        "word": "hold the fort",
+        "phonetic american": "hoʊld ðə fɔːrt",
+        "phonetic british": "həʊld ðə fɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kimisə idarə etmək, müvəqqəti olaraq məsuliyyəti öz üzərinə götürmək (idiom)",
+                "sentence": "Can you hold the fort while I’m away?",
+                "sentence translation": "Mən getdiyim müddətdə vəziyyəti idarə edə bilərsinizmi?"
+            }
+        ]
+    },
+    {
+        "word": "honest as the day is long",
+        "phonetic american": "ˈɑːnɪst æz ðə deɪ ɪz lɔːŋ",
+        "phonetic british": "ˈɒnɪst æz ðə deɪ ɪz lɒŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tamamilə dürüst olmaq (deyim)",
+                "sentence": "She’s as honest as the day is long; you can trust her.",
+                "sentence translation": "O, tamamilə dürüstdür; ona etibar edə bilərsiniz."
+            }
+        ]
+    },
+    {
+        "word": "hot potato",
+        "phonetic american": "hɑt pəˈteɪtoʊ",
+        "phonetic british": "hɒt pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çətin və ya mübahisəli mövzu (deyim)",
+                "sentence": "The new policy is a political hot potato.",
+                "sentence translation": "Yeni siyasət siyasi müzakirə mövzusudur."
+            }
+        ]
+    },
+    {
+        "word": "hour of need",
+        "phonetic american": "ˈaʊər əv niːd",
+        "phonetic british": "ˈaʊə əv niːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çətin vaxt, ehtiyac anı (deyim)",
+                "sentence": "He was always there for me in my hour of need.",
+                "sentence translation": "Çətin günlərimdə həmişə yanımda olub."
+            }
+        ]
+    },
+    {
+        "word": "in due course",
+        "phonetic american": "ɪn duː kɔːrs",
+        "phonetic british": "ɪn djuː kɔːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Vaxtı gələndə, nəhayət (deyim)",
+                "sentence": "You will receive your promotion in due course.",
+                "sentence translation": "Vaxtında yüksəlişinizi əldə edəcəksiniz."
+            }
+        ]
+    },
+    {
+        "word": "in one's own time",
+        "phonetic american": "ɪn wʌnz oʊn taɪm",
+        "phonetic british": "ɪn wʌnz əʊn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Öz sürəti ilə, tələsmədən (deyim)",
+                "sentence": "Take this project in your own time; there’s no rush.",
+                "sentence translation": "Bu layihəni öz sürətinizlə həyata keçirin; Tələsməyə ehtiyac yoxdur."
+            }
+        ]
+    },
+    {
+        "word": "in someone's black book",
+        "phonetic american": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "phonetic british": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kiminsə pis siyahısında olmaq, gözdən düşmək (deyim)",
+                "sentence": "He’s in the boss’s black book after missing the deadline.",
+                "sentence translation": "Müddəti qaçırdığı üçün müdirinin rəğbətini itirdi."
+            }
+        ]
+    },
+    {
+        "word": "in the bag",
+        "phonetic american": "ɪn ðə bæg",
+        "phonetic british": "ɪn ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zəmanətli, zəmanətli (idiom)",
+                "sentence": "With all the preparation we’ve done, victory is in the bag.",
+                "sentence translation": "Gördüyümüz bütün hazırlıqlarla qələbəyə zəmanət verilir."
+            }
+        ]
+    },
+    {
+        "word": "in the black",
+        "phonetic american": "ɪn ðə blæk",
+        "phonetic british": "ɪn ðə blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qazanclı olmaq, yaxşı maliyyə vəziyyətində olmaq (deyim)",
+                "sentence": "The company is finally in the black after years of losses.",
+                "sentence translation": "Şirkət illərlə itkilərdən sonra nəhayət gəlir əldə etdi."
+            }
+        ]
+    },
+    {
+        "word": "in the blink of an eye",
+        "phonetic american": "ɪn ðə blɪŋk əv ən aɪ",
+        "phonetic british": "ɪn ðə blɪŋk əv ən aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir anda, bir göz qırpımında (deyim)",
+                "sentence": "The car disappeared in the blink of an eye.",
+                "sentence translation": "Maşın birdən gözdən itdi."
+            }
+        ]
+    },
+    {
+        "word": "in the heat of the moment",
+        "phonetic american": "ɪn ðə hiːt əv ðə ˈmoʊmənt",
+        "phonetic british": "ɪn ðə hiːt əv ðə ˈməʊmənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Anın həyəcanında və ya stressində (deyim)",
+                "sentence": "He said something hurtful in the heat of the moment.",
+                "sentence translation": "Bu anın həyəcanı içində incidən nəsə dedi."
+            }
+        ]
+    },
+    {
+        "word": "in the interim",
+        "phonetic american": "ɪn ði ˈɪntərɪm",
+        "phonetic british": "ɪn ði ˈɪntərɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bu arada, müvəqqəti (deyim)",
+                "sentence": "The company hired a consultant in the interim.",
+                "sentence translation": "Bu arada şirkət bir məsləhətçi işə götürüb."
+            }
+        ]
+    },
+    {
+        "word": "in the long run",
+        "phonetic american": "ɪn ðə lɔːŋ rʌn",
+        "phonetic british": "ɪn ðə lɒŋ rʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "uzun müddətdə (idiom)",
+                "sentence": "This investment will pay off in the long run.",
+                "sentence translation": "Bu investisiya uzun müddətdə öz bəhrəsini verəcək."
+            }
+        ]
+    },
+    {
+        "word": "in the nick of time",
+        "phonetic american": "ɪn ðə nɪk əv taɪm",
+        "phonetic british": "ɪn ðə nɪk əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tam vaxtında, son anda (deyim)",
+                "sentence": "The firefighters arrived in the nick of time.",
+                "sentence translation": "Yanğınsöndürənlər vaxtında gəlib."
+            }
+        ]
+    },
+    {
+        "word": "in the red",
+        "phonetic american": "ɪn ðə rɛd",
+        "phonetic british": "ɪn ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "borclu olmaq, ziyana uğramaq (deyim)",
+                "sentence": "The company has been in the red for three months.",
+                "sentence translation": "Şirkət 3 aydır ki, zərər çəkir."
+            }
+        ]
+    },
+    {
+        "word": "in the right place at the right time",
+        "phonetic american": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "phonetic british": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Doğru zamanda doğru yerdə olmaq (deyim)",
+                "sentence": "He got the job because he was in the right place at the right time.",
+                "sentence translation": "Doğru zamanda lazımi yerdə olduğu üçün işi aldı."
+            }
+        ]
+    },
+    {
+        "word": "in the wrong place at the wrong time",
+        "phonetic american": "ɪn ðə rɔːŋ pleɪs æt ðə rɔːŋ taɪm",
+        "phonetic british": "ɪn ðə rɒŋ pleɪs æt ðə rɒŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yanlış zamanda yanlış yerdə olmaq (deyim)",
+                "sentence": "He was arrested because he was in the wrong place at the wrong time.",
+                "sentence translation": "O, yanlış zamanda yanlış yerdə olduğu üçün həbs edilib."
+            }
+        ]
+    },
+    {
+        "word": "in tune with someone (on the same wavelength)",
+        "phonetic american": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "phonetic british": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kiminləsə ahəngdar olmaq (deyim)",
+                "sentence": "They work well together because they’re in tune with each other.",
+                "sentence translation": "Bir-biri ilə harmoniyada olduqları üçün birlikdə yaxşı işləyirlər."
+            }
+        ]
+    },
+    {
+        "word": "it takes two to tango",
+        "phonetic american": "ɪt teɪks tuː tə ˈtæŋɡoʊ",
+        "phonetic british": "ɪt teɪks tuː tə ˈtæŋɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hadisədə hər iki tərəf məsuliyyət daşıyır (deyim)",
+                "sentence": "Don’t blame her entirely; it takes two to tango.",
+                "sentence translation": "Onu tamamilə günahlandırmayın; Bunda hər iki tərəfin payı var."
+            }
+        ]
+    },
+    {
+        "word": "itchy feet",
+        "phonetic american": "ˈɪtʃi fiːt",
+        "phonetic british": "ˈɪtʃi fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Narahatlıq, səyahət etmək istəyi (deyim)",
+                "sentence": "After a year in the same city, he’s starting to get itchy feet.",
+                "sentence translation": "Bir il eyni şəhərdə qaldıqdan sonra narahatlıq hissi başladı."
+            }
+        ]
+    },
+    {
+        "word": "judge a book by its cover",
+        "phonetic american": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvər",
+        "phonetic british": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "görünüşünə görə mühakimə etmək (deyim)",
+                "sentence": "Don’t judge a book by its cover; he’s actually very kind.",
+                "sentence translation": "Görünüşə görə qərar verməyin; Əslində çox mehriban insandır."
+            }
+        ]
+    },
+    {
+        "word": "jump on the bandwagon",
+        "phonetic american": "dʒʌmp ɑn ðə ˈbændˌwæɡən",
+        "phonetic british": "dʒʌmp ɒn ðə ˈbændˌwæɡən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "məşhur olan bir işdə iştirak etmək (deyim)",
+                "sentence": "He decided to jump on the bandwagon and start investing in cryptocurrency.",
+                "sentence translation": "O, kriptovalyutaya sərmayə qoymağa başlayaraq məşhur trendə qoşulmaq qərarına gəlib."
+            }
+        ]
+    },
+    {
+        "word": "keep something at bay",
+        "phonetic american": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "phonetic british": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bir şeyi nəzarət altında və ya kənarda saxlamaq (deyim)",
+                "sentence": "She exercises daily to keep stress at bay.",
+                "sentence translation": "Stressdən uzaq olmaq üçün hər gün idman edir."
+            }
+        ]
+    },
+    {
+        "word": "keeping up appearances",
+        "phonetic american": "ˈkiːpɪŋ ʌp əˈpɪrənsɪz",
+        "phonetic british": "ˈkiːpɪŋ ʌp əˈpɪərənsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Vəziyyəti kənardan yaxşı göstərməyə çalışmaq (deyim)",
+                "sentence": "Despite their financial struggles, they’re keeping up appearances.",
+                "sentence translation": "Maddi çətinliklərə baxmayaraq, vəziyyəti xarici dünyaya yaxşı kimi təqdim etməyə çalışırlar."
+            }
+        ]
+    },
+    {
+        "word": "keeping your finger on the pulse",
+        "phonetic american": "ˈkiːpɪŋ jʊr ˈfɪŋɡər ɑn ðə pʌls",
+        "phonetic british": "ˈkiːpɪŋ jɔː ˈfɪŋɡə ɒn ðə pʌls",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Cari hadisələr və ya inkişaflar haqqında məlumat almaq (deyim)",
+                "sentence": "He’s a great leader because he always keeps his finger on the pulse of the market.",
+                "sentence translation": "O, böyük liderdir, çünki həmişə barmağı bazarın nəbzindədir."
+            }
+        ]
+    },
+    {
+        "word": "kept in the dark",
+        "phonetic american": "kɛpt ɪn ðə dɑːrk",
+        "phonetic british": "kɛpt ɪn ðə dɑːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Xəbərdar olmamaq, xəbərsiz qalmaq (deyim)",
+                "sentence": "The employees were kept in the dark about the merger.",
+                "sentence translation": "İşçilər birləşmədən xəbərsiz qalıblar."
+            }
+        ]
+    },
+    {
+        "word": "kill time",
+        "phonetic american": "kɪl taɪm",
+        "phonetic british": "kɪl taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "vaxt keçirmək, uzanmaq (deyim)",
+                "sentence": "I played a game on my phone to kill time while waiting for the train.",
+                "sentence translation": "Qatarı gözləyərkən vaxt keçirmək üçün telefonumda oyun oynadım."
+            }
+        ]
+    },
+    {
+        "word": "kill two birds with one stone",
+        "phonetic american": "kɪl tuː bɜːrdz wɪð wʌn stoʊn",
+        "phonetic british": "kɪl tuː bɜːdz wɪð wʌn stəʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir daşla iki quş öldürmək, bir işdə iki fayda təmin etmək (deyim)",
+                "sentence": "By walking to work, she kills two birds with one stone: exercise and saving money on transport.",
+                "sentence translation": "İşə piyada gedərək bir daşla iki quş vurur: idman edir və nəqliyyata qənaət edir."
+            }
+        ]
+    },
+    {
+        "word": "landslide victory",
+        "phonetic american": "ˈlændˌslaɪd ˈvɪktəri",
+        "phonetic british": "ˈlændˌslaɪd ˈvɪktəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "böyük fərqlə qalib gələn böyük qələbə (deyim)",
+                "sentence": "The candidate won by a landslide victory in the election.",
+                "sentence translation": "Namizəd seçkidə inamlı qələbə qazanıb."
+            }
+        ]
+    },
+    {
+        "word": "last straw",
+        "phonetic american": "læst strɔː",
+        "phonetic british": "lɑːst strɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Son damla (deyim)",
+                "sentence": "The broken promise was the last straw in their relationship.",
+                "sentence translation": "Bozulmuş vəd onların münasibətlərində son damla oldu."
+            }
+        ]
+    },
+    {
+        "word": "laugh a minute",
+        "phonetic american": "læf ə ˈmɪnɪt",
+        "phonetic british": "lɑːf ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox əyləncəli vəziyyət və ya şəxs (deyim)",
+                "sentence": "The comedian’s show was a laugh a minute.",
+                "sentence translation": "Komediya ustasının şousu çox əyləncəli olub."
+            }
+        ]
+    },
+    {
+        "word": "learn by rote",
+        "phonetic american": "lɜːrn baɪ roʊt",
+        "phonetic british": "lɜːn baɪ rəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əzbərləyərək öyrənmək (deyim)",
+                "sentence": "Students often learn by rote for exams, but they forget everything quickly.",
+                "sentence translation": "Tələbələr tez-tez imtahan üçün hər şeyi yadda saxlayırlar, lakin hər şeyi tez unudurlar."
+            }
+        ]
+    },
+    {
+        "word": "learn something off by heart",
+        "phonetic american": "lɜːrn ˈsʌmθɪŋ ɔːf baɪ hɑːrt",
+        "phonetic british": "lɜːn ˈsʌmθɪŋ ɒf baɪ hɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "əzbər öyrənmək (deyim)",
+                "sentence": "He learned the poem off by heart for the recital.",
+                "sentence translation": "Şou üçün şeiri əzbər öyrəndi."
+            }
+        ]
+    },
+    {
+        "word": "learn the ropes",
+        "phonetic american": "lɜːrn ðə roʊps",
+        "phonetic british": "lɜːn ðə rəʊps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir işin əsaslarını öyrənmək (deyim)",
+                "sentence": "It will take time to learn the ropes at the new job.",
+                "sentence translation": "Yeni bir işdə əsasları öyrənmək üçün vaxt lazımdır."
+            }
+        ]
+    },
+    {
+        "word": "lemon",
+        "phonetic american": "ˈlɛmən",
+        "phonetic british": "ˈlɛmən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qüsurlu və ya faydasız bir şey (deyim)",
+                "sentence": "The car he bought turned out to be a lemon.",
+                "sentence translation": "Onun aldığı avtomobil yararsız hala düşüb."
+            }
+        ]
+    },
+    {
+        "word": "let me see the colour of your money",
+        "phonetic american": "lɛt miː siː ðə ˈkʌlər əv jʊr ˈmʌni",
+        "phonetic british": "lɛt miː siː ðə ˈkʌlə əv jɔː ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Birinin ödəmək niyyətini görmək (deyim)",
+                "sentence": "If you want to place an order, let me see the colour of your money first.",
+                "sentence translation": "Sifariş vermək istəyirsinizsə, ilk olaraq ödəyəcəyinizi göstərməlisiniz."
+            }
+        ]
+    },
+    {
+        "word": "let sleeping dogs lie",
+        "phonetic american": "lɛt ˈsliːpɪŋ dɔːɡz laɪ",
+        "phonetic british": "lɛt ˈsliːpɪŋ dɒɡz laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Keçmiş problemlər üzərində dayanmamaq (deyim)",
+                "sentence": "Don’t bring up old arguments; let sleeping dogs lie.",
+                "sentence translation": "Köhnə müzakirələri açmayın; Keçmiş problemlər üzərində dayanmayın."
+            }
+        ]
+    },
+    {
+        "word": "let slip through fingers",
+        "phonetic american": "lɛt slɪp θruː ˈfɪŋɡərz",
+        "phonetic british": "lɛt slɪp θruː ˈfɪŋɡəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "fürsəti əldən vermək (deyim)",
+                "sentence": "He let the chance of a promotion slip through his fingers.",
+                "sentence translation": "O, yüksəliş imkanını əldən verdi."
+            }
+        ]
+    },
+    {
+        "word": "let the cat out of the bag",
+        "phonetic american": "lɛt ðə kæt aʊt əv ðə bæg",
+        "phonetic british": "lɛt ðə kæt aʊt əv ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir sirri açmaq (deyim)",
+                "sentence": "He accidentally let the cat out of the bag about the surprise party.",
+                "sentence translation": "O, sürpriz partiyanın sirrini təsadüfən açıb."
+            }
+        ]
+    },
+    {
+        "word": "lick one's wounds",
+        "phonetic american": "lɪk wʌnz wuːndz",
+        "phonetic british": "lɪk wʌnz wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yaralarını yalamaq, pis vəziyyətdən sonra sağalmaq (deyim)",
+                "sentence": "After losing the match, the team went home to lick their wounds.",
+                "sentence translation": "Qarşılaşmada məğlub olan komanda yaralarını yalamaq üçün evə yollanıb."
+            }
+        ]
+    },
+    {
+        "word": "lightning fast",
+        "phonetic american": "ˈlaɪtnɪŋ fæst",
+        "phonetic british": "ˈlaɪtnɪŋ fɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox sürətli, ildırım kimi (deyim)",
+                "sentence": "The new processor is lightning fast.",
+                "sentence translation": "Yeni prosessor ildırım sürətinə malikdir."
+            }
+        ]
+    },
+    {
+        "word": "lights are on but nobody is home",
+        "phonetic american": "laɪts ɑːr ɑn bʌt ˈnoʊbədi ɪz hoʊm",
+        "phonetic british": "laɪts ɑːr ɒn bʌt ˈnəʊbədi ɪz həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Fiziki olaraq mövcud olmaq, lakin diqqət və ya şüurun olmaması (deyim)",
+                "sentence": "I tried explaining the problem, but it was like the lights were on but nobody was home.",
+                "sentence translation": "Problemi izah etməyə çalışdım, amma deyəsən diqqət etmədi."
+            }
+        ]
+    },
+    {
+        "word": "like clockwork",
+        "phonetic american": "laɪk ˈklɑːkˌwɜːrk",
+        "phonetic british": "laɪk ˈklɒkˌwɜːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tam vaxtında və problemsiz (idiom)",
+                "sentence": "The trains in Japan run like clockwork.",
+                "sentence translation": "Yaponiyada qatarlar vaxtında işləyir."
+            }
+        ]
+    },
+    {
+        "word": "like there's no tomorrow",
+        "phonetic american": "laɪk ðɛrz noʊ təˈmɑːroʊ",
+        "phonetic british": "laɪk ðɛəz nəʊ təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir şeyi təmkinsiz və ya tələsik etmək (deyim)",
+                "sentence": "She’s spending money like there’s no tomorrow.",
+                "sentence translation": "Sabahı yoxmuş kimi pul xərcləyir."
+            }
+        ]
+    },
+    {
+        "word": "lining up all the ducks in a row",
+        "phonetic american": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə roʊ",
+        "phonetic british": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə rəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bütün detalların təşkili və hazırlanması (deyim)",
+                "sentence": "Before the presentation, she made sure all her ducks were in a row.",
+                "sentence translation": "O, təqdimatdan əvvəl bütün detalların hazır olduğundan əmin oldu."
+            }
+        ]
+    },
+    {
+        "word": "living beyond your means",
+        "phonetic american": "ˈlɪvɪŋ bɪˈjɑːnd jʊr miːnz",
+        "phonetic british": "ˈlɪvɪŋ bɪˈjɒnd jɔː miːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gəlirindən çox xərcləmək (deyim)",
+                "sentence": "He’s living beyond his means with that expensive car.",
+                "sentence translation": "O, o bahalı avtomobillə qazancının üstündə yaşayır."
+            }
+        ]
+    },
+    {
+        "word": "living in an ivory tower",
+        "phonetic american": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊər",
+        "phonetic british": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Real dünyadan təcrid olunmuş yaşamaq (deyim)",
+                "sentence": "Academics are often accused of living in an ivory tower.",
+                "sentence translation": "Akademiklər çox vaxt real dünyadan təcrid olunmuş vəziyyətdə yaşamaqda ittiham olunurlar."
+            }
+        ]
+    },
+    {
+        "word": "living on the breadline",
+        "phonetic american": "ˈlɪvɪŋ ɑn ðə ˈbrɛdˌlaɪn",
+        "phonetic british": "ˈlɪvɪŋ ɒn ðə ˈbrɛdˌlaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Yoxsulluğun kənarında yaşamaq (deyim)",
+                "sentence": "Many families are living on the breadline due to the economic crisis.",
+                "sentence translation": "İqtisadi böhran səbəbindən bir çox ailələr yoxsulluq həddində yaşayır."
+            }
+        ]
+    },
+    {
+        "word": "long arm of the law",
+        "phonetic american": "lɔːŋ ɑrm əv ðə lɔː",
+        "phonetic british": "lɒŋ ɑːm əv ðə lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qanunun çata bilməyəcəyi yer yoxdur (deyim)",
+                "sentence": "You can’t escape the long arm of the law.",
+                "sentence translation": "Qanunun uzun qolundan qaça bilməzsən."
+            }
+        ]
+    },
+    {
+        "word": "long time no see",
+        "phonetic american": "lɔːŋ taɪm noʊ siː",
+        "phonetic british": "lɒŋ taɪm nəʊ siː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Uzun müddət bir-birini görməmək (deyim)",
+                "sentence": "Hey, long time no see! How have you been?",
+                "sentence translation": "Hey, uzun müddətdir görmürəm! necesen"
+            }
+        ]
+    },
+    {
+        "word": "look on the bright side",
+        "phonetic american": "lʊk ɑn ðə braɪt saɪd",
+        "phonetic british": "lʊk ɒn ðə braɪt saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hadisələrin müsbət tərəflərini görmək (deyim)",
+                "sentence": "Look on the bright side; at least you learned something from the experience.",
+                "sentence translation": "İşlərin müsbət tərəflərini görmək; Heç olmasa bu təcrübədən bir şey öyrəndiniz."
+            }
+        ]
+    },
+    {
+        "word": "love at first sight",
+        "phonetic american": "lʌv æt fɜːrst saɪt",
+        "phonetic british": "lʌv æt fɜːst saɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "İlk baxışdan sevgi (deyim)",
+                "sentence": "It was love at first sight when they met at the party.",
+                "sentence translation": "Onlar məclisdə tanış olanda ilk baxışdan sevgi idi."
+            }
+        ]
+    },
+    {
+        "word": "lovey-dovey",
+        "phonetic american": "ˈlʌvi ˈdʌvi",
+        "phonetic british": "ˈlʌvi ˈdʌvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Son dərəcə sevgi dolu və romantik (deyim)",
+                "sentence": "The couple was so lovey-dovey at the restaurant.",
+                "sentence translation": "Cütlük restoranda çox romantik olub."
+            }
+        ]
+    },
+    {
+        "word": "lump in your throat",
+        "phonetic american": "lʌmp ɪn jʊr θroʊt",
+        "phonetic british": "lʌmp ɪn jɔː θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Emosional vəziyyətdə boğazda boğulma (deyim)",
+                "sentence": "He felt a lump in his throat when he saw the farewell letter.",
+                "sentence translation": "Vida məktubunu görəndə boğazında bir yumru hiss etdi."
+            }
+        ]
+    },
+    {
+        "word": "make a long story short",
+        "phonetic american": "meɪk ə lɔːŋ ˈstɔːri ʃɔːrt",
+        "phonetic british": "meɪk ə lɒŋ ˈstɔːri ʃɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qısa kəsmək, məsələnin mahiyyətinə varmaq (deyim)",
+                "sentence": "To make a long story short, we decided to cancel the trip.",
+                "sentence translation": "Bunu qısaltmaq üçün səfəri ləğv etmək qərarına gəldik."
+            }
+        ]
+    },
+    {
+        "word": "make my day",
+        "phonetic american": "meɪk maɪ deɪ",
+        "phonetic british": "meɪk maɪ deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "məni çox xoşbəxt et (idiom)",
+                "sentence": "Your kind words really made my day.",
+                "sentence translation": "Xoş sözləriniz məni həqiqətən sevindirdi."
+            }
+        ]
+    },
+    {
+        "word": "make or break",
+        "phonetic american": "meɪk ɔːr breɪk",
+        "phonetic british": "meɪk ɔː breɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Uğur və ya uğursuzluğa nə səbəb olacaq (deyim)",
+                "sentence": "This is a make-or-break moment for the company.",
+                "sentence translation": "Bu, şirkət üçün uğur və ya uğursuzluğa səbəb olacaq bir andır."
+            }
+        ]
+    },
+    {
+        "word": "make the grade",
+        "phonetic american": "meɪk ðə ɡreɪd",
+        "phonetic british": "meɪk ðə ɡreɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "gözlənilən standarta cavab verin (idiom)",
+                "sentence": "She worked hard to make the grade and secure her promotion.",
+                "sentence translation": "O, yüksəlişi almaq üçün gözlənilən standarta cavab vermək üçün çox çalışdı."
+            }
+        ]
+    },
+    {
+        "word": "make time",
+        "phonetic american": "meɪk taɪm",
+        "phonetic british": "meɪk taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bir şeyə vaxt ayırmaq (deyim)",
+                "sentence": "You should make time for your hobbies.",
+                "sentence translation": "Hobbilərinizə vaxt ayırmalısınız."
+            }
+        ]
+    },
+    {
+        "word": "makes your flesh crawl",
+        "phonetic american": "meɪks jʊr flɛʃ krɔːl",
+        "phonetic british": "meɪks jɔː flɛʃ krɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qorxutmaq, qorxutmaq və ya narahat etmək (idiom)",
+                "sentence": "The creepy noises in the house made my flesh crawl.",
+                "sentence translation": "Evdəki qəribə səslər məni üşütdü."
+            }
+        ]
+    },
+    {
+        "word": "making a go of it",
+        "phonetic american": "ˈmeɪkɪŋ ə ɡoʊ əv ɪt",
+        "phonetic british": "ˈmeɪkɪŋ ə ɡəʊ əv ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bir şeyi müvəffəqiyyətlə yerinə yetirməyə çalışmaq (deyim)",
+                "sentence": "They’re making a go of their new business despite the challenges.",
+                "sentence translation": "Çətinliklərə baxmayaraq, onlar yeni bizneslərini uğurla aparmağa çalışırlar."
+            }
+        ]
+    },
+    {
+        "word": "making good time",
+        "phonetic american": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "phonetic british": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "məqsədə tez çatmaq (deyim)",
+                "sentence": "We’re making good time; we should arrive by noon.",
+                "sentence translation": "Biz sürətlə hərəkət edirik; Günortaya qədər çatacağıq."
+            }
+        ]
+    },
+    {
+        "word": "making headway",
+        "phonetic american": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "phonetic british": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "irəliləmək (deyim)",
+                "sentence": "We’re finally making headway on the project after weeks of delays.",
+                "sentence translation": "Həftəlik gecikmələrdən sonra nəhayət layihədə irəliləyiş əldə edirik."
+            }
+        ]
+    },
+    {
+        "word": "match made in heaven",
+        "phonetic american": "mætʃ meɪd ɪn ˈhɛvən",
+        "phonetic british": "mætʃ meɪd ɪn ˈhɛvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Yaxşı uyğunlaşan cütlük və ya tərəfdaşlıq (deyim)",
+                "sentence": "Their partnership is a match made in heaven.",
+                "sentence translation": "Onların tərəfdaşlığı çox ahəngdardır."
+            }
+        ]
+    },
+    {
+        "word": "method to my madness",
+        "phonetic american": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "phonetic british": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Xaotik görünən bir şeyin arxasında bir məntiq və ya planın olması (deyim)",
+                "sentence": "It may seem chaotic, but there’s a method to my madness.",
+                "sentence translation": "Bu, xaotik görünə bilər, amma mənim etdiklərimin bir məntiqi var."
+            }
+        ]
+    },
+    {
+        "word": "mile a minute",
+        "phonetic american": "maɪl ə ˈmɪnɪt",
+        "phonetic british": "maɪl ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çox tez danışmaq və ya hərəkət etmək (deyim)",
+                "sentence": "She was talking a mile a minute, and I couldn’t keep up.",
+                "sentence translation": "O qədər sürətli danışırdı ki, davam edə bilmirdim."
+            }
+        ]
+    },
+    {
+        "word": "miss the boat",
+        "phonetic american": "mɪs ðə boʊt",
+        "phonetic british": "mɪs ðə bəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Fürsəti əldən vermək (deyim)",
+                "sentence": "I wanted to apply for that job, but I missed the boat.",
+                "sentence translation": "Həmin işə müraciət etmək istəyirdim, amma fürsəti əldən verdim."
+            }
+        ]
+    },
+    {
+        "word": "monkey business",
+        "phonetic american": "ˈmʌŋki ˈbɪznɪs",
+        "phonetic british": "ˈmʌŋki ˈbɪznɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pislik və ya hiylə (deyim)",
+                "sentence": "The teacher warned the students to stop their monkey business.",
+                "sentence translation": "Müəllim şagirdlərə nalayiq davranışlardan əl çəkmələri barədə xəbərdarlıq edib."
+            }
+        ]
+    },
+    {
+        "word": "month of Sundays",
+        "phonetic american": "mʌnθ əv ˈsʌndiz",
+        "phonetic british": "mʌnθ əv ˈsʌndɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çox uzun müddət (deyim)",
+                "sentence": "I haven’t seen him in a month of Sundays.",
+                "sentence translation": "Mən onu çoxdandır ki, görmürəm."
+            }
+        ]
+    },
+    {
+        "word": "Murphy's law",
+        "phonetic american": "ˈmɜːrfiz lɔː",
+        "phonetic british": "ˈmɜːfiz lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əgər bir şey səhv gedə bilərsə, o da olacaq (deyim).",
+                "sentence": "We prepared for everything, but Murphy's law struck again, and the power went out.",
+                "sentence translation": "Biz hər şeyə hazır idik, amma Merfi qanunu yenidən işlədi və elektrik kəsildi."
+            }
+        ]
+    },
+    {
+        "word": "never in a million years",
+        "phonetic american": "ˈnɛvər ɪn ə ˈmɪljən jɪrz",
+        "phonetic british": "ˈnɛvə ɪn ə ˈmɪljən jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Heç vaxt, heç bir şəkildə (deyim)",
+                "sentence": "Never in a million years did I think I would win the lottery.",
+                "sentence translation": "Heç vaxt, milyonda bir dəfə belə lotereya qazanacağımı düşünməmişəm."
+            }
+        ]
+    },
+    {
+        "word": "no time like the present",
+        "phonetic american": "noʊ taɪm laɪk ðə ˈprɛzənt",
+        "phonetic british": "nəʊ taɪm laɪk ðə ˈprɛzənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "İndi bir şey etmək üçün ən yaxşı vaxt olduğunu ifadə etmək (deyim)",
+                "sentence": "Let’s start the project now; there’s no time like the present.",
+                "sentence translation": "İndi layihəyə başlayaq; İndiki vaxtdan yaxşı vaxt yoxdur."
+            }
+        ]
+    },
+    {
+        "word": "no time to lose",
+        "phonetic american": "noʊ taɪm tə luz",
+        "phonetic british": "nəʊ taɪm tə luːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Vaxt itirməyə vaxt yoxdur, tələsiklik tələb edən bir vəziyyət (deyim)",
+                "sentence": "We have to leave immediately; there’s no time to lose.",
+                "sentence translation": "Dərhal tərk etməliyik; Vaxt itirməyə yer yoxdur."
+            }
+        ]
+    },
+    {
+        "word": "not letting grass grow under your feet",
+        "phonetic american": "nɑːt ˈlɛtɪŋ ɡræs ɡroʊ ˈʌndər jʊr fit",
+        "phonetic british": "nɒt ˈlɛtɪŋ ɡrɑːs ɡrəʊ ˈʌndə jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "hərəkətə keçməkdən çəkinməyin (deyim)",
+                "sentence": "She never lets grass grow under her feet; she started her new business right after finishing college.",
+                "sentence translation": "O, vaxt itirmir; O, universiteti bitirən kimi yeni işinə başlayıb."
+            }
+        ]
+    },
+    {
+        "word": "now and then",
+        "phonetic american": "naʊ ənd ðɛn",
+        "phonetic british": "naʊ ənd ðɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "arabir, arabir (deyim)",
+                "sentence": "I like to visit my grandparents now and then.",
+                "sentence translation": "Mən ara-sıra nənə və babama baş çəkməyi xoşlayıram."
+            }
+        ]
+    },
+    {
+        "word": "now or never",
+        "phonetic american": "naʊ ɔr ˈnɛvər",
+        "phonetic british": "naʊ ɔː ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir şey etmək vaxtıdır (deyim)",
+                "sentence": "If you want to change your career, it’s now or never.",
+                "sentence translation": "Karyeranızı dəyişmək istəyirsinizsə, indi tam zamanıdır."
+            }
+        ]
+    },
+    {
+        "word": "off colour",
+        "phonetic american": "ɔf ˈkʌlər",
+        "phonetic british": "ɒf ˈkʌlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ləng və ya pis hiss etmək (deyim)",
+                "sentence": "I’ve been feeling a bit off colour today.",
+                "sentence translation": "Bu gün özümü bir az yorğun hiss edirəm."
+            }
+        ]
+    },
+    {
+        "word": "off one's rocker",
+        "phonetic american": "ɔf wʌnz ˈrɑːkər",
+        "phonetic british": "ɒf wʌnz ˈrɒkə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "dəli və ya irrasional davranmaq (deyim)",
+                "sentence": "You must be off your rocker to drive in this weather.",
+                "sentence translation": "Bu havada maşın sürməyə çalışmaq dəlilikdir."
+            }
+        ]
+    },
+    {
+        "word": "off to a flying start",
+        "phonetic american": "ɔf tə ə ˈflaɪɪŋ stɑːrt",
+        "phonetic british": "ɒf tə ə ˈflaɪɪŋ stɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox uğurlu başlanğıc etmək (deyim)",
+                "sentence": "The team got off to a flying start by scoring in the first minute.",
+                "sentence translation": "Komanda ilk dəqiqədə qol vuraraq çox uğurlu start verdi."
+            }
+        ]
+    },
+    {
+        "word": "old hand",
+        "phonetic american": "oʊld hænd",
+        "phonetic british": "əʊld hænd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Təcrübəli şəxs (idiom)",
+                "sentence": "He’s an old hand at fixing cars.",
+                "sentence translation": "Avtomobil təmirində çox təcrübəlidir."
+            }
+        ]
+    },
+    {
+        "word": "old school",
+        "phonetic american": "oʊld skuːl",
+        "phonetic british": "əʊld skuːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "köhnə, ənənəvi (deyim)",
+                "sentence": "He prefers old school methods over modern technology.",
+                "sentence translation": "O, müasir texnologiyadan çox köhnə üsullara üstünlük verir."
+            }
+        ]
+    },
+    {
+        "word": "on the ball",
+        "phonetic american": "ɑn ðə bɔːl",
+        "phonetic british": "ɒn ðə bɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Diqqətli və sürətli hərəkət (deyim)",
+                "sentence": "The manager is really on the ball and catches mistakes quickly.",
+                "sentence translation": "Menecer həqiqətən diqqətlidir və səhvləri tez tutur."
+            }
+        ]
+    },
+    {
+        "word": "on the brain",
+        "phonetic american": "ɑn ðə breɪn",
+        "phonetic british": "ɒn ðə breɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Daim bir mövzu ilə bağlı olmaq (deyim)",
+                "sentence": "He has football on the brain; it’s all he talks about.",
+                "sentence translation": "Onun fikri həmişə futboldadır; Onun danışdığı bütün bunlardır."
+            }
+        ]
+    },
+    {
+        "word": "on the rocks",
+        "phonetic american": "ɑn ðə rɑːks",
+        "phonetic british": "ɒn ðə rɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çətin vəziyyətdə olmaq, xüsusən də münasibət və ya maliyyə vəziyyəti ilə bağlı (deyim)",
+                "sentence": "Their marriage is on the rocks after years of arguments.",
+                "sentence translation": "İllərlə davam edən mübahisələrdən sonra onların evliliyi problem yaşayır."
+            }
+        ]
+    },
+    {
+        "word": "on time",
+        "phonetic american": "ɑn taɪm",
+        "phonetic british": "ɒn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tam vaxtında, gecikmədən (deyim)",
+                "sentence": "The train arrived on time, as scheduled.",
+                "sentence translation": "Qatar planlaşdırıldığı kimi tam vaxtında gəldi."
+            }
+        ]
+    },
+    {
+        "word": "once in a blue moon",
+        "phonetic american": "wʌns ɪn ə bluː muːn",
+        "phonetic british": "wʌns ɪn ə bluː muːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox nadir hallarda baş verən bir şey (deyim)",
+                "sentence": "I only go to the cinema once in a blue moon.",
+                "sentence translation": "Çox nadir hallarda kinoya gedirəm."
+            }
+        ]
+    },
+    {
+        "word": "once upon a time",
+        "phonetic american": "wʌns əˈpɑːn ə taɪm",
+        "phonetic british": "wʌns əˈpɒn ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir vaxtlar tez-tez hekayələrə başlamaq üçün istifadə olunurdu (deyim)",
+                "sentence": "Once upon a time, there was a beautiful princess.",
+                "sentence translation": "Bir vaxtlar gözəl bir şahzadə var idi."
+            }
+        ]
+    },
+    {
+        "word": "only time will tell",
+        "phonetic american": "ˈoʊnli taɪm wɪl tɛl",
+        "phonetic british": "ˈəʊnli taɪm wɪl tɛl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir şeyin nəticəsini yalnız zaman göstərəcək (deyim)",
+                "sentence": "Only time will tell if their decision was the right one.",
+                "sentence translation": "Onların qərarının doğru olub-olmadığını zaman göstərəcək."
+            }
+        ]
+    },
+    {
+        "word": "out of the blue",
+        "phonetic american": "aʊt əv ðə bluː",
+        "phonetic british": "aʊt əv ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "gözlənilmədən (deyim)",
+                "sentence": "He showed up out of the blue after years of no contact.",
+                "sentence translation": "İllərdir xəbər olmayandan sonra birdən ortaya çıxdı."
+            }
+        ]
+    },
+    {
+        "word": "out of the red",
+        "phonetic american": "aʊt əv ðə rɛd",
+        "phonetic british": "aʊt əv ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "borclardan qurtulmaq (deyim)",
+                "sentence": "The company is finally out of the red and starting to make a profit.",
+                "sentence translation": "Şirkət nəhayət borcdan xilas oldu və qazanc əldə etməyə başladı."
+            }
+        ]
+    },
+    {
+        "word": "out of time",
+        "phonetic american": "aʊt əv taɪm",
+        "phonetic british": "aʊt əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "vaxtdan kənar (deyim)",
+                "sentence": "We’re out of time, so we’ll have to continue this discussion later.",
+                "sentence translation": "Vaxtımız bitdi, ona görə də bu müzakirəni daha sonra davam etdirməliyik."
+            }
+        ]
+    },
+    {
+        "word": "paint the town red",
+        "phonetic american": "peɪnt ðə taʊn rɛd",
+        "phonetic british": "peɪnt ðə taʊn rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çölə çıx və əylən (idiom)",
+                "sentence": "After finishing their exams, the students decided to paint the town red.",
+                "sentence translation": "Tələbələr imtahanlarını bitirdikdən sonra çölə çıxıb əylənmək qərarına gəliblər."
+            }
+        ]
+    },
+    {
+        "word": "pass with flying colours",
+        "phonetic american": "pæs wɪð ˈflaɪɪŋ ˈkʌlərz",
+        "phonetic british": "pɑːs wɪð ˈflaɪɪŋ ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "uçan rənglərlə keçin (deyim)",
+                "sentence": "She passed the exam with flying colours.",
+                "sentence translation": "O, imtahandan böyük müvəffəqiyyətlə keçdi."
+            }
+        ]
+    },
+    {
+        "word": "penny for your thoughts",
+        "phonetic american": "ˈpɛni fɔːr jʊr θɔːts",
+        "phonetic british": "ˈpɛni fɔː jɔː θɔːts",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "birinin nə düşündüyünü soruşmaq (deyim)",
+                "sentence": "You’ve been quiet all evening; a penny for your thoughts?",
+                "sentence translation": "Bütün axşam susdun; nə düşünürsən?"
+            }
+        ]
+    },
+    {
+        "word": "picture paints a thousand words",
+        "phonetic american": "ˈpɪktʃər peɪnts ə ˈθaʊzənd wɜːrdz",
+        "phonetic british": "ˈpɪktʃə peɪnts ə ˈθaʊzənd wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir şəkil min sözə dəyər (idiom)",
+                "sentence": "Instead of explaining the design, just show them; a picture paints a thousand words.",
+                "sentence translation": "Onlara dizaynı izah etmək əvəzinə göstərin; bir şəkil min sözə dəyər."
+            }
+        ]
+    },
+    {
+        "word": "piece of cake",
+        "phonetic american": "piːs əv keɪk",
+        "phonetic british": "piːs əv keɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bu çox asan bir şeydir (deyim)",
+                "sentence": "The test was a piece of cake; I finished it in ten minutes.",
+                "sentence translation": "Test çox asan idi; On dəqiqəyə bitirdim."
+            }
+        ]
+    },
+    {
+        "word": "pitch black",
+        "phonetic american": "pɪtʃ blæk",
+        "phonetic british": "pɪtʃ blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qara (idiom)",
+                "sentence": "It was pitch black outside when the power went out.",
+                "sentence translation": "Elektrik kəsiləndə çöl qaranlıq idi."
+            }
+        ]
+    },
+    {
+        "word": "place in the sun",
+        "phonetic american": "pleɪs ɪn ðə sʌn",
+        "phonetic british": "pleɪs ɪn ðə sʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hər kəs tərəfindən fərq edilən və qiymətləndirilən yer və ya vəziyyət (deyim)",
+                "sentence": "She’s finally found her place in the sun with her new career.",
+                "sentence translation": "Nəhayət, yeni karyerasında parlaq bir yer tapdı."
+            }
+        ]
+    },
+    {
+        "word": "pop the question",
+        "phonetic american": "pɑːp ðə ˈkwɛstʃən",
+        "phonetic british": "pɒp ðə ˈkwɛstʃən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "evlilik təklifi etmək (deyim)",
+                "sentence": "He popped the question during their vacation in Paris.",
+                "sentence translation": "O, Parisdə tətil zamanı evlənmə təklifi edib."
+            }
+        ]
+    },
+    {
+        "word": "pot calling the kettle black",
+        "phonetic american": "pɑːt ˈkɔːlɪŋ ðə ˈkɛtəl blæk",
+        "phonetic british": "pɒt ˈkɔːlɪŋ ðə ˈkɛtl blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Özündəki qüsura görə başqasını tənqid etmək (deyim)",
+                "sentence": "When he criticized her for being late, it was the pot calling the kettle black.",
+                "sentence translation": "O, onu gecikdiyinə görə tənqid edəndə, bu, həqiqətən də, &quot;qazan dibində&quot; vəziyyət idi."
+            }
+        ]
+    },
+    {
+        "word": "pressed for time",
+        "phonetic american": "prɛst fɔːr taɪm",
+        "phonetic british": "prɛst fɔː taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "vaxt az olmaq (deyim)",
+                "sentence": "I can’t talk right now; I’m pressed for time.",
+                "sentence translation": "Mən indi danışa bilmirəm; Mənim vaxtım çox məhduddur."
+            }
+        ]
+    },
+    {
+        "word": "proud as a peacock",
+        "phonetic american": "praʊd æz ə ˈpiːkɑːk",
+        "phonetic british": "praʊd æz ə ˈpiːkɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çox qürurlu olmaq (deyim)",
+                "sentence": "He was as proud as a peacock when he received the award.",
+                "sentence translation": "O, mükafatı alanda çox qürurlu idi."
+            }
+        ]
+    },
+    {
+        "word": "pull the plug",
+        "phonetic american": "pʊl ðə plʌɡ",
+        "phonetic british": "pʊl ðə plʌɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bir şeyi dayandırmaq və ya bitirmək (deyim)",
+                "sentence": "The company decided to pull the plug on the failing project.",
+                "sentence translation": "Şirkət uğursuz layihəni dayandırmaq qərarına gəlib."
+            }
+        ]
+    },
+    {
+        "word": "pull wool over other people's eyes",
+        "phonetic american": "pʊl wʊl ˈoʊvər ˈʌðər ˈpiːpəlz aɪz",
+        "phonetic british": "pʊl wʊl ˈəʊvə ˈʌðə ˈpiːplz aɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kimisə aldatmaq və ya yoldan çıxarmaq (deyim)",
+                "sentence": "He tried to pull the wool over the manager’s eyes, but she saw through his lies.",
+                "sentence translation": "O, meneceri aldatmağa çalışsa da, onun yalanları üzə çıxıb."
+            }
+        ]
+    },
+    {
+        "word": "pulling out all the stops",
+        "phonetic american": "ˈpʊlɪŋ aʊt ɔːl ðə stɑːps",
+        "phonetic british": "ˈpʊlɪŋ aʊt ɔːl ðə stɒps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nəyəsə nail olmaq üçün bütün imkanlardan istifadə etmək (deyim)",
+                "sentence": "They’re pulling out all the stops to make the event successful.",
+                "sentence translation": "Tədbirin uğurlu keçməsi üçün bütün vasitələrdən istifadə edirlər."
+            }
+        ]
+    },
+    {
+        "word": "punch above one's weight",
+        "phonetic american": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "phonetic british": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "gözləniləndən daha yaxşı çıxış (deyim)",
+                "sentence": "The small company is punching above its weight in the tech industry.",
+                "sentence translation": "Kiçik şirkət texnologiya sektorunda gözləniləndən daha yaxşı performans göstərir."
+            }
+        ]
+    },
+    {
+        "word": "puppy love",
+        "phonetic american": "ˈpʌpi lʌv",
+        "phonetic british": "ˈpʌpi lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Romantik sevgi uşaqlıqda və ya gənc yaşda hiss olunur (deyim)",
+                "sentence": "Their relationship was just puppy love and didn’t last long.",
+                "sentence translation": "Onların münasibətləri sadəcə yeniyetmə sevgisi idi və uzun sürmədi."
+            }
+        ]
+    },
+    {
+        "word": "put it in black and white",
+        "phonetic american": "pʊt ɪt ɪn blæk ənd waɪt",
+        "phonetic british": "pʊt ɪt ɪn blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir şeyi yazıya qoymaq, rəsmiləşdirmək (deyim)",
+                "sentence": "Before we agree, let’s put it in black and white.",
+                "sentence translation": "Bunu qəbul etməzdən əvvəl bunu yazılı şəkildə qeyd edək."
+            }
+        ]
+    },
+    {
+        "word": "put your thinking cap on",
+        "phonetic american": "pʊt jʊr ˈθɪŋkɪŋ kæp ɑn",
+        "phonetic british": "pʊt jɔː ˈθɪŋkɪŋ kæp ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ciddi düşün (idiom)",
+                "sentence": "We need to solve this problem, so put your thinking cap on.",
+                "sentence translation": "Bu problemi həll etməliyik, ona görə də ciddi düşün."
+            }
+        ]
+    },
+    {
+        "word": "rags to riches",
+        "phonetic american": "ræɡz tə ˈrɪtʃɪz",
+        "phonetic british": "ræɡz tə ˈrɪtʃɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yoxsulluqdan zənginliyə yüksəlmək (idiom)",
+                "sentence": "His story is a classic rags-to-riches tale.",
+                "sentence translation": "Onun hekayəsi klassik cır-cındırdan zənginə nağıldır."
+            }
+        ]
+    },
+    {
+        "word": "raining cats and dogs",
+        "phonetic american": "ˈreɪnɪŋ kæts ənd dɔːɡz",
+        "phonetic british": "ˈreɪnɪŋ kæts ənd dɒɡz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Güclü yağış yağmaq (idiom)",
+                "sentence": "We couldn’t go outside because it was raining cats and dogs.",
+                "sentence translation": "Güclü yağış yağdığından çölə çıxa bilmədik."
+            }
+        ]
+    },
+    {
+        "word": "raise the white flag",
+        "phonetic american": "reɪz ðə waɪt flæɡ",
+        "phonetic british": "reɪz ðə waɪt flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "təslim olmaq, məğlubiyyəti etiraf etmək (deyim)",
+                "sentence": "After hours of arguing, she finally raised the white flag.",
+                "sentence translation": "Saatlarla davam edən mübahisədən sonra o, nəhayət məğlubiyyətini etiraf etdi."
+            }
+        ]
+    },
+    {
+        "word": "raring to go",
+        "phonetic american": "ˈrɛrɪŋ tə ɡoʊ",
+        "phonetic british": "ˈrɛərɪŋ tə ɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "başlamaq üçün səbirsizlənirəm (idiom)",
+                "sentence": "The team is raring to go for the big game.",
+                "sentence translation": "Komanda böyük matçı səbirsizliklə gözləyir."
+            }
+        ]
+    },
+    {
+        "word": "rat race",
+        "phonetic american": "ræt reɪs",
+        "phonetic british": "ræt reɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gərgin rəqabət və stresslə dolu həyat tərzi (deyim)",
+                "sentence": "He left the rat race to live a simpler life in the countryside.",
+                "sentence translation": "Daha sadə bir həyat sürmək üçün gərgin rəqabət həyatından imtina etdi."
+            }
+        ]
+    },
+    {
+        "word": "red flag",
+        "phonetic american": "rɛd flæɡ",
+        "phonetic british": "rɛd flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Təhlükə və ya xəbərdarlıq işarəsi (deyim)",
+                "sentence": "Her constant lateness is a red flag for her reliability.",
+                "sentence translation": "Onun daimi gecikməsi onun etibarlılığına dair xəbərdarlıq əlamətidir."
+            }
+        ]
+    },
+    {
+        "word": "red herring",
+        "phonetic american": "rɛd ˈhɛrɪŋ",
+        "phonetic british": "rɛd ˈhɛrɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Diqqəti əsas mövzudan yayındıran bir şey (deyim)",
+                "sentence": "The mystery novel had plenty of red herrings to keep readers guessing.",
+                "sentence translation": "Dedektiv romanda oxucuları təxmin etməyə vadar edən çoxlu yalnış elementlər var idi."
+            }
+        ]
+    },
+    {
+        "word": "red hot",
+        "phonetic american": "rɛd hɑːt",
+        "phonetic british": "rɛd hɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çox məşhur və ya uğurlu (deyim)",
+                "sentence": "The new smartphone is red hot in the market.",
+                "sentence translation": "Yeni smartfon bazarda çox populyardır."
+            }
+        ]
+    },
+    {
+        "word": "red in the face",
+        "phonetic american": "rɛd ɪn ðə feɪs",
+        "phonetic british": "rɛd ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "utanmaqdan və ya qəzəbdən qızarmaq (deyim)",
+                "sentence": "She was red in the face after tripping in front of everyone.",
+                "sentence translation": "Hamının gözü qarşısında büdrəyərkən qızardı."
+            }
+        ]
+    },
+    {
+        "word": "red tape",
+        "phonetic american": "rɛd teɪp",
+        "phonetic british": "rɛd teɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həddindən artıq bürokratiya və ya lazımsız rəsmiyyətlər (ifadə)",
+                "sentence": "We had to deal with a lot of red tape to get the permits approved.",
+                "sentence translation": "İcazələrin təsdiqlənməsi üçün çoxlu bürokratik problemlərlə üzləşməli olduq."
+            }
+        ]
+    },
+    {
+        "word": "red-eye",
+        "phonetic american": "rɛd-aɪ",
+        "phonetic british": "rɛd-aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gecə gec uçuş (idiom)",
+                "sentence": "He took the red-eye to New York to save time.",
+                "sentence translation": "Vaxta qənaət etmək üçün o, Nyu-Yorka gecə saatlarında uçuş etdi."
+            }
+        ]
+    },
+    {
+        "word": "road hog",
+        "phonetic american": "roʊd hɑːɡ",
+        "phonetic british": "rəʊd hɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Yolda başqalarını narahat edən sürücü (deyim)",
+                "sentence": "That road hog nearly caused an accident by swerving.",
+                "sentence translation": "Həmin yol zorakılığı az qala yoldan çıxaraq qəza törədəcəkdi."
+            }
+        ]
+    },
+    {
+        "word": "roll out the red carpet",
+        "phonetic american": "roʊl aʊt ðə rɛd ˈkɑːrpɪt",
+        "phonetic british": "rəʊl aʊt ðə rɛd ˈkɑːpɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kiməsə xüsusi maraq və ya qayğı göstərmək (deyim)",
+                "sentence": "The hotel rolled out the red carpet for its celebrity guests.",
+                "sentence translation": "Otel tanınmış qonaqları üçün xüsusi qəbul təşkil edib."
+            }
+        ]
+    },
+    {
+        "word": "sail through something",
+        "phonetic american": "seɪl θruː ˈsʌmθɪŋ",
+        "phonetic british": "seɪl θruː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir işi asanlıqla yerinə yetirmək və ya uğurlu olmaq (deyim)",
+                "sentence": "She sailed through her exams with top marks.",
+                "sentence translation": "O, imtahanlarını asanlıqla yüksək qiymətlərlə verdi."
+            }
+        ]
+    },
+    {
+        "word": "save time",
+        "phonetic american": "seɪv taɪm",
+        "phonetic british": "seɪv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "vaxta qənaət (idiom)",
+                "sentence": "Using a dishwasher saves time compared to washing dishes by hand.",
+                "sentence translation": "Qabyuyan maşından istifadə qabların əllə yuyulması ilə müqayisədə vaxta qənaət edir."
+            }
+        ]
+    },
+    {
+        "word": "school of hard knocks",
+        "phonetic american": "skuːl əv hɑːrd nɑːks",
+        "phonetic british": "skuːl əv hɑːd nɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həyatın çətinliklərindən alınan dərslər (idiom)",
+                "sentence": "He didn’t go to college but learned everything through the school of hard knocks.",
+                "sentence translation": "Universitetdə oxumayıb, amma həyatın çətinliklərindən hər şeyi öyrənib."
+            }
+        ]
+    },
+    {
+        "word": "school of thought",
+        "phonetic american": "skuːl əv θɔːt",
+        "phonetic british": "skuːl əv θɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir qrup insanın razılaşdığı düşüncə sistemi (deyim).",
+                "sentence": "There’s a school of thought that believes in minimalism for a happier life.",
+                "sentence translation": "Daha xoşbəxt bir həyat üçün minimalizmə inanan bir düşüncə sistemi var."
+            }
+        ]
+    },
+    {
+        "word": "schoolboy error",
+        "phonetic american": "ˈskuːlbɔɪ ˈɛrər",
+        "phonetic british": "ˈskuːlbɔɪ ˈɛrə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Sadə və axmaq səhv (deyim)",
+                "sentence": "The goalkeeper made a schoolboy error and let the ball go in.",
+                "sentence translation": "Qapıçı sadə səhv etdi və topu içəri buraxdı."
+            }
+        ]
+    },
+    {
+        "word": "seeing eye to eye",
+        "phonetic american": "ˈsiːɪŋ aɪ tə aɪ",
+        "phonetic british": "ˈsiːɪŋ aɪ tə aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bir şeydə razılaşırıq (deyim)",
+                "sentence": "They don’t always see eye to eye, but they respect each other’s opinions.",
+                "sentence translation": "Həmişə razı olmasalar da, bir-birlərinin fikirlərinə hörmət edirlər."
+            }
+        ]
+    },
+    {
+        "word": "seeing red",
+        "phonetic american": "ˈsiːɪŋ rɛd",
+        "phonetic british": "ˈsiːɪŋ rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çox hirslənmək (deyim)",
+                "sentence": "She was seeing red when she found out someone had scratched her car.",
+                "sentence translation": "Maşını kiminsə qaşıdığını biləndə qəzəbləndi."
+            }
+        ]
+    },
+    {
+        "word": "sell ice to Eskimos",
+        "phonetic american": "sɛl aɪs tə ˈɛskɪmoʊz",
+        "phonetic british": "sɛl aɪs tə ˈɛskɪməʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çətin bir şeyi satmaq üçün kifayət qədər inandırıcı olmaq (deyim)",
+                "sentence": "He's so charming, he could sell ice to Eskimos.",
+                "sentence translation": "O, o qədər cəlbedicidir ki, hətta Eskimoslara buz sata bilər."
+            }
+        ]
+    },
+    {
+        "word": "shelf life",
+        "phonetic american": "ʃɛlf laɪf",
+        "phonetic british": "ʃɛlf laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Məhsulun mövcud olduğu müddət (ifadə)",
+                "sentence": "The shelf life of this yogurt is about two weeks.",
+                "sentence translation": "Bu qatığın raf ömrü təxminən iki həftədir."
+            }
+        ]
+    },
+    {
+        "word": "show of hands",
+        "phonetic american": "ʃoʊ əv hændz",
+        "phonetic british": "ʃəʊ əv hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əl nümayişi ilə səsvermə (deyim)",
+                "sentence": "Let’s take a show of hands to decide where to go.",
+                "sentence translation": "Hara gedəcəyimizə qərar vermək üçün əllərimizi qaldıraq."
+            }
+        ]
+    },
+    {
+        "word": "shown the red card",
+        "phonetic american": "ʃoʊn ðə rɛd kɑːrd",
+        "phonetic british": "ʃəʊn ðə rɛd kɑːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kiməsə son xəbərdarlıq və ya cəza vermək (deyim)",
+                "sentence": "After repeated mistakes, he was finally shown the red card by his boss.",
+                "sentence translation": "Dəfələrlə etdiyi səhvlərdən sonra nəhayət müdiri tərəfindən cəzalandırıldı."
+            }
+        ]
+    },
+    {
+        "word": "silver screen",
+        "phonetic american": "ˈsɪlvər skriːn",
+        "phonetic british": "ˈsɪlvə skriːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kino dünyası (deyim)",
+                "sentence": "She dreamed of becoming a star on the silver screen.",
+                "sentence translation": "O, kino aləmində ulduz olmaq arzusunda idi."
+            }
+        ]
+    },
+    {
+        "word": "single file",
+        "phonetic american": "ˈsɪŋɡəl faɪl",
+        "phonetic british": "ˈsɪŋɡəl faɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tək faylda marş (deyim)",
+                "sentence": "The children walked in single file along the narrow path.",
+                "sentence translation": "Uşaqlar dar cığırla tək-tək addımlayırdılar."
+            }
+        ]
+    },
+    {
+        "word": "sink or swim",
+        "phonetic american": "sɪŋk ɔːr swɪm",
+        "phonetic british": "sɪŋk ɔː swɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ya uğur qazanmaq, ya da uğursuz olmaq (deyim)",
+                "sentence": "Starting your own business is a sink-or-swim situation.",
+                "sentence translation": "Öz işinizi qurmaq, ya uğur qazanmalı, ya da uğursuz olmağınız lazım olan bir vəziyyətdir."
+            }
+        ]
+    },
+    {
+        "word": "sinking teeth into something",
+        "phonetic american": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "phonetic british": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bütün diqqətini bir şeyə cəmləmək və ya onunla məşğul olmaq (deyim)",
+                "sentence": "She’s really sinking her teeth into this new project.",
+                "sentence translation": "O, həqiqətən də özünü yeni layihəyə atır."
+            }
+        ]
+    },
+    {
+        "word": "sit on the fence",
+        "phonetic american": "sɪt ɑn ðə fɛns",
+        "phonetic british": "sɪt ɒn ðə fɛns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir məsələdə neytral qalmaq və ya qərar verməmək (deyim)",
+                "sentence": "You can’t sit on the fence forever; you need to choose a side.",
+                "sentence translation": "Siz əbədi olaraq neytral qala bilməzsiniz; Bir tərəf seçmək lazımdır."
+            }
+        ]
+    },
+    {
+        "word": "skip class",
+        "phonetic american": "skɪp klæs",
+        "phonetic british": "skɪp klɑːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dərsdə iştirak etməmək, dərsdən yayınmaq (deyim)",
+                "sentence": "He got into trouble for skipping class yesterday.",
+                "sentence translation": "Dünən dərsi buraxdığı üçün problemlə üzləşdi."
+            }
+        ]
+    },
+    {
+        "word": "sleeping (or silent) partner",
+        "phonetic american": "ˈsliːpɪŋ ˈpɑːrtnər",
+        "phonetic british": "ˈsliːpɪŋ ˈpɑːtnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Fəal olmayan, lakin kapital qoymuş biznes tərəfdaşı (deyim)",
+                "sentence": "He’s just a sleeping partner in the business and doesn’t get involved in daily operations.",
+                "sentence translation": "O, biznesdə sadəcə passiv tərəfdaşdır və gündəlik əməliyyatlarda iştirak etmir."
+            }
+        ]
+    },
+    {
+        "word": "slice of the pie",
+        "phonetic american": "slaɪs əv ðə paɪ",
+        "phonetic british": "slaɪs əv ðə paɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bir şeyin ədalətli payı (deyim)",
+                "sentence": "Everyone in the team deserves a slice of the pie after the success.",
+                "sentence translation": "Komandadakı hər kəs uğurun ədalətli payına layiqdir."
+            }
+        ]
+    },
+    {
+        "word": "smash hit",
+        "phonetic american": "smæʃ hɪt",
+        "phonetic british": "smæʃ hɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Böyük uğur işi (deyim)",
+                "sentence": "The movie was a smash hit and broke box office records.",
+                "sentence translation": "Film böyük uğur qazandı və kassa rekordları qırdı."
+            }
+        ]
+    },
+    {
+        "word": "snowed under",
+        "phonetic american": "snoʊd ˈʌndər",
+        "phonetic british": "snəʊd ˈʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həddindən artıq işləmək, həddən artıq yüklənmək (deyim)",
+                "sentence": "I’m snowed under with work and can’t take on any more tasks.",
+                "sentence translation": "İşlə çox məşğulam və başqa vəzifələr götürə bilmirəm."
+            }
+        ]
+    },
+    {
+        "word": "sooner or later",
+        "phonetic american": "ˈsuːnər ɔːr ˈleɪtər",
+        "phonetic british": "ˈsuːnə ɔː ˈleɪtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gec-tez (idiom)",
+                "sentence": "Sooner or later, you’ll realize that I was right.",
+                "sentence translation": "Gec-tez haqlı olduğumu başa düşəcəksən."
+            }
+        ]
+    },
+    {
+        "word": "sour grapes",
+        "phonetic american": "saʊr ɡreɪps",
+        "phonetic british": "saʊə ɡreɪps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Əldə edilə bilməyən bir şeyi aşağılamaq (deyim)",
+                "sentence": "He said he didn’t want the job anyway, but it’s just sour grapes.",
+                "sentence translation": "O, artıq işi istəmədiyini söylədi, amma bu, əldə etmədiklərini alçaltmaqdır."
+            }
+        ]
+    },
+    {
+        "word": "spanner in the works",
+        "phonetic american": "ˈspænər ɪn ðə wɜːrks",
+        "phonetic british": "ˈspænə ɪn ðə wɜːks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Planı pozan vəziyyət və ya şəxs (deyim)",
+                "sentence": "The unexpected weather threw a spanner in the works for the outdoor event.",
+                "sentence translation": "Gözlənilməz hava açıq hava fəaliyyəti planını pozdu."
+            }
+        ]
+    },
+    {
+        "word": "speak of the devil",
+        "phonetic american": "spiːk əv ðə ˈdɛvəl",
+        "phonetic british": "spiːk əv ðə ˈdɛvəl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Haqqında danışdığınız şəxs birdən ortaya çıxdıqda istifadə olunur (deyim)",
+                "sentence": "Speak of the devil! We were just talking about you.",
+                "sentence translation": "Yaxşı ki, danışdın! Biz sadəcə səndən danışırdıq."
+            }
+        ]
+    },
+    {
+        "word": "speaks volumes",
+        "phonetic american": "spiːks ˈvɑːljuːmz",
+        "phonetic british": "spiːks ˈvɒljuːmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox şey söyləmək, ifadə etmək (deyim)",
+                "sentence": "Her smile speaks volumes about her happiness.",
+                "sentence translation": "Onun təbəssümü onun xoşbəxtliyi haqqında çox şey deyir."
+            }
+        ]
+    },
+    {
+        "word": "spill the beans",
+        "phonetic american": "spɪl ðə biːnz",
+        "phonetic british": "spɪl ðə biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir sirri açmaq (deyim)",
+                "sentence": "He spilled the beans about the surprise party.",
+                "sentence translation": "O, sürpriz məclisinin sirrini açıb."
+            }
+        ]
+    },
+    {
+        "word": "standing ground",
+        "phonetic american": "ˈstændɪŋ ɡraʊnd",
+        "phonetic british": "ˈstændɪŋ ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mövqeyini və ya fikrini müdafiə etmək (deyim)",
+                "sentence": "She stood her ground despite the intense criticism.",
+                "sentence translation": "Şiddətli tənqidlərə baxmayaraq, fikrini müdafiə etdi."
+            }
+        ]
+    },
+    {
+        "word": "standing the test of time",
+        "phonetic american": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "phonetic british": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dəyəri və ya əhəmiyyətini uzun müddət saxlamaq (deyim)",
+                "sentence": "This classic novel has stood the test of time.",
+                "sentence translation": "Bu klassik roman zamanın sınağından çıxmışdır."
+            }
+        ]
+    },
+    {
+        "word": "steal someone's thunder",
+        "phonetic american": "stiːl ˈsʌmwʌnz ˈθʌndər",
+        "phonetic british": "stiːl ˈsʌmwʌnz ˈθʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kiminsə uğurunu və ya diqqətini oğurlamaq (deyim)",
+                "sentence": "She stole my thunder by announcing her promotion before I could announce mine.",
+                "sentence translation": "O, mənimkini elan etməzdən əvvəl özünün yüksəlişini elan etməklə diqqəti cəlb etdi."
+            }
+        ]
+    },
+    {
+        "word": "stiff upper lip",
+        "phonetic american": "stɪf ˈʌpər lɪp",
+        "phonetic british": "stɪf ˈʌpə lɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hisslərini göstərməmək, mətanət göstərmək (deyim)",
+                "sentence": "Even during the crisis, he kept a stiff upper lip.",
+                "sentence translation": "Böhran zamanı da emosiyalarını ortaya qoymadı."
+            }
+        ]
+    },
+    {
+        "word": "storm in a teacup",
+        "phonetic american": "stɔːrm ɪn ə ˈtiːˌkʌp",
+        "phonetic british": "stɔːm ɪn ə ˈtiːˌkʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Önəmsiz məsələ ilə bağlı lazımsız mübahisə yaratmaq (deyim)",
+                "sentence": "This argument over seating arrangements is just a storm in a teacup.",
+                "sentence translation": "Oturacaqların təşkili ilə bağlı bu müzakirə tamamilə lazımsızdır."
+            }
+        ]
+    },
+    {
+        "word": "straight from the horse's mouth",
+        "phonetic american": "streɪt frəm ðə hɔːrsɪz maʊθ",
+        "phonetic british": "streɪt frəm ðə hɔːsɪz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Məlumat birbaşa etibarlı mənbədən götürülmüşdür (idiom)",
+                "sentence": "I heard the news straight from the horse’s mouth.",
+                "sentence translation": "Xəbəri birbaşa etibarlı mənbədən aldım."
+            }
+        ]
+    },
+    {
+        "word": "stuck in a time warp",
+        "phonetic american": "stʌk ɪn ə taɪm wɔːrp",
+        "phonetic british": "stʌk ɪn ə taɪm wɔːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "köhnə, zamana uyğunlaşa bilməyən (deyim)",
+                "sentence": "His style of clothing makes him look like he’s stuck in a time warp.",
+                "sentence translation": "Onun geyinmə tərzi onu köhnə dəbdə ilişib qalmış kimi göstərir."
+            }
+        ]
+    },
+    {
+        "word": "swallow one's pride",
+        "phonetic american": "ˈswɑːloʊ wʌnz praɪd",
+        "phonetic british": "ˈswɒləʊ wʌnz praɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qürurunu bir kənara qoy (deyim)",
+                "sentence": "He had to swallow his pride and apologize to her.",
+                "sentence translation": "Qürurunu udub ondan üzr istəməli idi."
+            }
+        ]
+    },
+    {
+        "word": "sweet tooth",
+        "phonetic american": "swiːt tuːθ",
+        "phonetic british": "swiːt tuːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "şirin diş (deyim)",
+                "sentence": "She has a sweet tooth and loves desserts.",
+                "sentence translation": "Şirindi və şirniyyatı çox sevir."
+            }
+        ]
+    },
+    {
+        "word": "take each day as it comes",
+        "phonetic american": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "phonetic british": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Gələcək haqqında çox düşünmədən gündən günə yaşamaq (deyim)",
+                "sentence": "Life is unpredictable, so I just take each day as it comes.",
+                "sentence translation": "Həyat gözlənilməzdir, ona görə də onu günü-gündən yaşayıram."
+            }
+        ]
+    },
+    {
+        "word": "take with a grain (or pinch) of salt",
+        "phonetic american": "teɪk wɪð ə ɡreɪn əv sɔːlt",
+        "phonetic british": "teɪk wɪð ə pɪnʧ əv sɒlt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "bir şeyi şübhə ilə qiymətləndirmək (deyim)",
+                "sentence": "Take what you read on the internet with a grain of salt.",
+                "sentence translation": "İnternetdə oxuduqlarınızı duz dənəsi ilə qəbul etməlisiniz."
+            }
+        ]
+    },
+    {
+        "word": "taste of your own medicine",
+        "phonetic american": "teɪst əv jʊr oʊn ˈmɛdəsən",
+        "phonetic british": "teɪst əv jɔːr əʊn ˈmɛdɪsɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Öz davranışının mənfi təsirlərini yaşamaq (deyim)",
+                "sentence": "When he got ignored by his team, he had a taste of his own medicine.",
+                "sentence translation": "Komandası tərəfindən ona məhəl qoyulmadıqda, öz hərəkətlərinin təsirindən əziyyət çəkdi."
+            }
+        ]
+    },
+    {
+        "word": "teacher's pet",
+        "phonetic american": "ˈtiːtʃərz pɛt",
+        "phonetic british": "ˈtiːtʃəz pɛt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Müəllimin sevimli şagirdi (deyim)",
+                "sentence": "She always gets extra privileges because she’s the teacher’s pet.",
+                "sentence translation": "O, müəllimin ev heyvanı olduğu üçün həmişə əlavə imtiyazlar əldə edir."
+            }
+        ]
+    },
+    {
+        "word": "the big time",
+        "phonetic american": "ðə bɪɡ taɪm",
+        "phonetic british": "ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Böyük uğur əldə etmək (deyim)",
+                "sentence": "He hit the big time with his new book.",
+                "sentence translation": "O, yeni kitabı ilə böyük uğur qazanıb."
+            }
+        ]
+    },
+    {
+        "word": "the moment of truth",
+        "phonetic american": "ðə ˈmoʊmənt əv truːθ",
+        "phonetic british": "ðə ˈməʊmənt əv truːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Faktlarla üzləşmə anı (deyim)",
+                "sentence": "The moment of truth came when the test results were revealed.",
+                "sentence translation": "Test nəticələri açıqlananda faktlarla üz-üzə gəlmək anı gəldi."
+            }
+        ]
+    },
+    {
+        "word": "the ship has sailed",
+        "phonetic american": "ðə ʃɪp hæz seɪld",
+        "phonetic british": "ðə ʃɪp hæz seɪld",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Fürsət keçdi (idiom)",
+                "sentence": "I wanted to apply for that job, but the ship has sailed.",
+                "sentence translation": "Həmin işə müraciət etmək istədim, amma fürsət keçdi."
+            }
+        ]
+    },
+    {
+        "word": "the time is ripe",
+        "phonetic american": "ðə taɪm ɪz raɪp",
+        "phonetic british": "ðə taɪm ɪz raɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir şey üçün doğru vaxt gəldi (deyim)",
+                "sentence": "The time is ripe to start your own business.",
+                "sentence translation": "Öz biznesinizi qurmağın vaxtı gəldi."
+            }
+        ]
+    },
+    {
+        "word": "thinking on your feet",
+        "phonetic american": "ˈθɪŋkɪŋ ɑn jʊr fiːt",
+        "phonetic british": "ˈθɪŋkɪŋ ɒn jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tez və effektiv düşünmək (idiom)",
+                "sentence": "He’s great at thinking on his feet during meetings.",
+                "sentence translation": "Görüşlərdə tez və effektiv düşünməyi çox yaxşı bacarır."
+            }
+        ]
+    },
+    {
+        "word": "this day and age",
+        "phonetic american": "ðɪs deɪ ənd eɪdʒ",
+        "phonetic british": "ðɪs deɪ ənd eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "İndi, müasir dövrdə (deyim)",
+                "sentence": "In this day and age, technology is essential for communication.",
+                "sentence translation": "Müasir dövrdə texnologiya ünsiyyət üçün həyati əhəmiyyət kəsb edir."
+            }
+        ]
+    },
+    {
+        "word": "tickled pink",
+        "phonetic american": "ˈtɪkld pɪŋk",
+        "phonetic british": "ˈtɪkld pɪŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çox xoşbəxt olmaq (deyim)",
+                "sentence": "She was tickled pink when she received the surprise gift.",
+                "sentence translation": "Sürpriz hədiyyə alanda çox sevindi."
+            }
+        ]
+    },
+    {
+        "word": "tie the knot",
+        "phonetic american": "taɪ ðə nɑːt",
+        "phonetic british": "taɪ ðə nɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "evlənmək (deyim)",
+                "sentence": "They’re planning to tie the knot next spring.",
+                "sentence translation": "Gələn yazda evlənməyi planlaşdırırlar."
+            }
+        ]
+    },
+    {
+        "word": "time after time (time and time again)",
+        "phonetic american": "taɪm ˈæftər taɪm",
+        "phonetic british": "taɪm ənd taɪm əˈɡɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "təkrar-təkrar (idiom)",
+                "sentence": "Time after time, he proved that he could be trusted.",
+                "sentence translation": "Dəfələrlə etibarlılığını sübut etdi."
+            }
+        ]
+    },
+    {
+        "word": "time flies",
+        "phonetic american": "taɪm flaɪz",
+        "phonetic british": "taɪm flaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zaman tez keçir (idiom)",
+                "sentence": "Time flies when you’re having fun.",
+                "sentence translation": "Əylənərkən vaxt tez keçir."
+            }
+        ]
+    },
+    {
+        "word": "time for a change",
+        "phonetic american": "taɪm fɔːr ə ʧeɪnʤ",
+        "phonetic british": "taɪm fɔːr ə ʧeɪnʤ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dəyişiklik vaxtıdır (deyim)",
+                "sentence": "After years in the same job, it’s time for a change.",
+                "sentence translation": "İllərdir eyni işdə işlədikdən sonra dəyişiklik vaxtıdır."
+            }
+        ]
+    },
+    {
+        "word": "time heals all wounds (or time is a great healer)",
+        "phonetic american": "taɪm hiːlz ɔːl wuːndz",
+        "phonetic british": "taɪm hiːlz ɔːl wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zaman hər şeyi sağaldır (idiom)",
+                "sentence": "Don’t worry; time heals all wounds.",
+                "sentence translation": "Narahat olmayın; Zaman hər şeyin dərmanıdır."
+            }
+        ]
+    },
+    {
+        "word": "time is money",
+        "phonetic american": "taɪm ɪz ˈmʌni",
+        "phonetic british": "taɪm ɪz ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zaman dəyərlidir (deyim)",
+                "sentence": "Let’s not waste time; time is money.",
+                "sentence translation": "Gəlin vaxt itirməyək; Zaman dəyərlidir."
+            }
+        ]
+    },
+    {
+        "word": "time is of the essence",
+        "phonetic american": "taɪm ɪz əv ði ˈɛsəns",
+        "phonetic british": "taɪm ɪz əv ði ˈɛsns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zaman çox vacibdir (idiom)",
+                "sentence": "Time is of the essence, so we need to act quickly.",
+                "sentence translation": "Zaman mahiyyətlidir, ona görə də tez hərəkət etməliyik."
+            }
+        ]
+    },
+    {
+        "word": "time of one's life",
+        "phonetic american": "taɪm əv wʌnz laɪf",
+        "phonetic british": "taɪm əv wʌnz laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həyatınızın ən yaxşı vaxtı (deyim)",
+                "sentence": "We had the time of our lives on our vacation.",
+                "sentence translation": "Tətildə həyatımızın ən gözəl vaxtlarını keçirdik."
+            }
+        ]
+    },
+    {
+        "word": "time on one's hands (or side)",
+        "phonetic american": "taɪm ɑn wʌnz hændz",
+        "phonetic british": "taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "çox vaxt keçirmək (deyim)",
+                "sentence": "Now that he’s retired, he has time on his hands.",
+                "sentence translation": "İndi təqaüdə çıxdığına görə onun çoxlu vaxtı var."
+            }
+        ]
+    },
+    {
+        "word": "tongue-tied",
+        "phonetic american": "tʌŋ taɪd",
+        "phonetic british": "tʌŋ taɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həyəcan və ya xəcalət üzündən danışa bilməmək (deyim)",
+                "sentence": "He was tongue-tied during the interview.",
+                "sentence translation": "O, müsahibə zamanı həyəcandan danışa bilməyib."
+            }
+        ]
+    },
+    {
+        "word": "too many chiefs and not enough Indians",
+        "phonetic american": "tuː ˈmɛni tʃiːfs ənd nɑːt ɪˈnʌf ˈɪndiənz",
+        "phonetic british": "tuː ˈmɛni tʃiːfs ənd nɒt ɪˈnʌf ˈɪndiənz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həddindən artıq lider, lakin kifayət qədər işçi yoxdur (deyim)",
+                "sentence": "The project failed because there were too many chiefs and not enough Indians.",
+                "sentence translation": "Layihə uğursuz oldu, çünki liderlər çox idi, lakin kifayət qədər işçi yox idi."
+            }
+        ]
+    },
+    {
+        "word": "too much (free) time on one's hands",
+        "phonetic american": "tuː mʌtʃ taɪm ɑn wʌnz hændz",
+        "phonetic british": "tuː mʌtʃ taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox boş vaxta sahib olmaq və onu boş yerə sərf etmək (deyim)",
+                "sentence": "He started spreading rumors because he has too much time on his hands.",
+                "sentence translation": "Boş vaxtı çox olduğundan dedi-qodu yaymağa başladı."
+            }
+        ]
+    },
+    {
+        "word": "top banana",
+        "phonetic american": "tɑːp bəˈnænə",
+        "phonetic british": "tɒp bəˈnænə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qrup və ya təşkilatın lideri (deyim)",
+                "sentence": "He’s the top banana in the company.",
+                "sentence translation": "O, şirkətin rəhbəridir."
+            }
+        ]
+    },
+    {
+        "word": "top dog",
+        "phonetic american": "tɑːp dɔːɡ",
+        "phonetic british": "tɒp dɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ən güclü və ya uğurlu insan (deyim)",
+                "sentence": "After winning the competition, he became the top dog in his field.",
+                "sentence translation": "Müsabiqədə qalib gəldikdən sonra öz sahəsində ən güclü insan oldu."
+            }
+        ]
+    },
+    {
+        "word": "tough cookie",
+        "phonetic american": "tʌf ˈkʊki",
+        "phonetic british": "tʌf ˈkʊki",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çətin vəziyyətlərin öhdəsindən gələ bilən güclü insan (deyim)",
+                "sentence": "She’s a tough cookie; she never gives up.",
+                "sentence translation": "Çətin vəziyyətlərin öhdəsindən gələ bilən güclü insandır; Heç vaxt təslim olmur."
+            }
+        ]
+    },
+    {
+        "word": "tricks of the trade",
+        "phonetic american": "trɪks əv ðə treɪd",
+        "phonetic british": "trɪks əv ðə treɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Bir işdə istifadə olunan xüsusi bilik və ya üsullar (deyim)",
+                "sentence": "He learned the tricks of the trade from his mentor.",
+                "sentence translation": "O, müəllimindən peşənin incəliklərini öyrənib."
+            }
+        ]
+    },
+    {
+        "word": "true colours",
+        "phonetic american": "truː ˈkʌlərz",
+        "phonetic british": "truː ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Birinin əsl xarakterini və ya niyyətini göstərmək (deyim)",
+                "sentence": "She showed her true colours when she refused to help.",
+                "sentence translation": "Kömək etməkdən imtina edəndə əsl üzünü göstərdi."
+            }
+        ]
+    },
+    {
+        "word": "turn back the hands of time",
+        "phonetic american": "tɜːrn bæk ðə hændz əv taɪm",
+        "phonetic british": "tɜːn bæk ðə hændz əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Keçmişə qayıtmaq və ya vaxtı geri qaytarmaq (deyim)",
+                "sentence": "If I could turn back the hands of time, I’d make a different decision.",
+                "sentence translation": "Zamanı geri qaytara bilsəydim, başqa qərar verərdim."
+            }
+        ]
+    },
+    {
+        "word": "university of life",
+        "phonetic american": "ˌjuːnɪˈvɜːrsɪti əv laɪf",
+        "phonetic british": "ˌjuːnɪˈvɜːsɪti əv laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Həyatdan alınan dərslər (deyim)",
+                "sentence": "He never went to college but learned everything from the university of life.",
+                "sentence translation": "Universitetdə oxumayıb, amma həyatdan hər şeyi öyrənib."
+            }
+        ]
+    },
+    {
+        "word": "until hell freezes over",
+        "phonetic american": "ʌnˈtɪl hɛl ˈfriːzɪz ˈoʊvər",
+        "phonetic british": "ʌnˈtɪl hɛl ˈfriːzɪz ˈəʊvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Heç vaxt baş verməyəcək bir şey (deyim)",
+                "sentence": "You can wait until hell freezes over, but I won’t change my mind.",
+                "sentence translation": "Sən sonsuza qədər gözləyə bilərsən, amma fikrimi dəyişməyəcəyəm."
+            }
+        ]
+    },
+    {
+        "word": "up in smoke",
+        "phonetic american": "ʌp ɪn smoʊk",
+        "phonetic british": "ʌp ɪn sməʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "boşa gedəcək və ya uğursuz olacaq bir şey (deyim)",
+                "sentence": "All our hard work went up in smoke when the project was canceled.",
+                "sentence translation": "Layihə ləğv olunanda bütün zəhmətimiz boşa çıxdı."
+            }
+        ]
+    },
+    {
+        "word": "waiting in the wings",
+        "phonetic american": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "phonetic british": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "fürsət gözləmək, hazır olmaq (deyim)",
+                "sentence": "She’s waiting in the wings for a chance to prove herself.",
+                "sentence translation": "O, özünü sübut etmək üçün fürsət gözləyir."
+            }
+        ]
+    },
+    {
+        "word": "walk out on someone",
+        "phonetic american": "wɔːk aʊt ɑn ˈsʌmwʌn",
+        "phonetic british": "wɔːk aʊt ɒn ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kimisə tərk etmək və ya məyus etmək (deyim)",
+                "sentence": "He walked out on his family when things got tough.",
+                "sentence translation": "İşlər çətinləşəndə ailəsini tərk etdi."
+            }
+        ]
+    },
+    {
+        "word": "wasting time",
+        "phonetic american": "ˈweɪstɪŋ taɪm",
+        "phonetic british": "ˈweɪstɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "vaxt itirmək (deyim)",
+                "sentence": "We’re wasting time discussing irrelevant issues.",
+                "sentence translation": "Uyğun olmayan mövzuları müzakirə etməklə vaxt itiririk."
+            }
+        ]
+    },
+    {
+        "word": "well-oiled machine",
+        "phonetic american": "wɛl-ɔɪld məˈʃiːn",
+        "phonetic british": "wɛl-ɔɪld məˈʃiːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Rahat işləyən sistem və ya qrup (idiom)",
+                "sentence": "The team works like a well-oiled machine.",
+                "sentence translation": "Komanda rəvan işləyən sistem kimi işləyir."
+            }
+        ]
+    },
+    {
+        "word": "whale of a time",
+        "phonetic american": "weɪl əv ə taɪm",
+        "phonetic british": "weɪl əv ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "yaxşı vaxt keçirin (idiom)",
+                "sentence": "We had a whale of a time at the amusement park.",
+                "sentence translation": "Əyləncə parkında əla vaxt keçirdik."
+            }
+        ]
+    },
+    {
+        "word": "white as a sheet (or ghost)",
+        "phonetic american": "waɪt æz ə ʃiːt",
+        "phonetic british": "waɪt æz ə ʃiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Qorxudan və ya xəstəlikdən çox solğun olmaq (deyim)",
+                "sentence": "He turned white as a sheet when he heard the news.",
+                "sentence translation": "Xəbəri eşidən kimi rəngi soldu."
+            }
+        ]
+    },
+    {
+        "word": "white collar",
+        "phonetic american": "waɪt ˈkɑːlər",
+        "phonetic british": "waɪt ˈkɒlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ofis işçisi, zehni işlə məşğul olan şəxs (deyim)",
+                "sentence": "White-collar jobs are becoming more common in urban areas.",
+                "sentence translation": "Şəhər yerlərində ağ yaxalıq işlərinə daha çox rast gəlinir."
+            }
+        ]
+    },
+    {
+        "word": "white elephant",
+        "phonetic american": "waɪt ˈɛləfənt",
+        "phonetic british": "waɪt ˈɛləfənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Çox baha başa gələn, lakin faydasız olan bir şey (deyim)",
+                "sentence": "The stadium turned out to be a white elephant for the city.",
+                "sentence translation": "Stadion şəhər üçün bahalı, lakin faydasız bir sərmayə oldu."
+            }
+        ]
+    },
+    {
+        "word": "white lie",
+        "phonetic american": "waɪt laɪ",
+        "phonetic british": "waɪt laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Zərərsiz və ya yaxşı niyyətli yalan (deyim)",
+                "sentence": "She told a white lie to avoid hurting his feelings.",
+                "sentence translation": "Hisslərini incitməmək üçün bir az yalan danışdı."
+            }
+        ]
+    },
+    {
+        "word": "whitewash",
+        "phonetic american": "ˈwaɪtˌwɑːʃ",
+        "phonetic british": "ˈwaɪtˌwɒʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "səhvi və ya qüsuru ört-basdır etmək (deyim)",
+                "sentence": "The company tried to whitewash the scandal.",
+                "sentence translation": "Şirkət qalmaqalı ört-basdır etməyə çalışıb."
+            }
+        ]
+    },
+    {
+        "word": "whole nine yards",
+        "phonetic american": "hoʊl naɪn jɑːrdz",
+        "phonetic british": "həʊl naɪn jɑːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "hamısı, hər şey (deyim)",
+                "sentence": "When they throw a party, they go the whole nine yards with decorations and food.",
+                "sentence translation": "Onlar ziyafət verəndə hər şeyi bəzək və yeməklə gəzirlər."
+            }
+        ]
+    },
+    {
+        "word": "with bells on",
+        "phonetic american": "wɪð bɛlz ɑn",
+        "phonetic british": "wɪð bɛlz ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Böyük həyəcan və həvəslə (idiom)",
+                "sentence": "I’ll be at your party with bells on!",
+                "sentence translation": "Mən sizin partiyanıza böyük həyəcanla gələcəyəm!"
+            }
+        ]
+    },
+    {
+        "word": "wooden spoon",
+        "phonetic american": "ˈwʊdən spuːn",
+        "phonetic british": "ˈwʊdən spuːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Sonuncu gələn şəxsə verilən mükafat və ya başlıq (deyim)",
+                "sentence": "They were awarded the wooden spoon for finishing last in the league.",
+                "sentence translation": "Onlar liqada sonuncu olduqları üçün taxta qaşıq mükafatını aldılar."
+            }
+        ]
+    },
+    {
+        "word": "works like a charm",
+        "phonetic american": "wɜːrks laɪk ə ʧɑːrm",
+        "phonetic british": "wɜːks laɪk ə ʧɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mükəmməl işləyir (idiom)",
+                "sentence": "This new cleaning product works like a charm.",
+                "sentence translation": "Bu yeni təmizləyici məhsul mükəmməl işləyir."
+            }
+        ]
+    },
+    {
+        "word": "wouldn't be caught dead",
+        "phonetic american": "ˈwʊdənt bi kɔːt dɛd",
+        "phonetic british": "ˈwʊdnt biː kɔːt dɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mən heç vaxt etməzdim və ya vəziyyətə düşməzdim (deyim)",
+                "sentence": "I wouldn’t be caught dead wearing that outfit.",
+                "sentence translation": "Mən heç vaxt o paltarı geyinməzdim."
+            }
+        ]
+    },
+    {
+        "word": "year in, year out",
+        "phonetic american": "jɪr ɪn, jɪr aʊt",
+        "phonetic british": "jɪə ɪn, jɪə aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Dəfələrlə, ildən-ilə, illərlə (idiom)",
+                "sentence": "They visit the same beach year in, year out.",
+                "sentence translation": "Onlar hər il eyni çimərliyə baş çəkirlər."
+            }
+        ]
+    },
+    {
+        "word": "yellow-bellied",
+        "phonetic american": "ˈjɛloʊ ˈbɛlid",
+        "phonetic british": "ˈjɛləʊ ˈbɛlid",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "qorxaq, cəsarətli (deyim)",
+                "sentence": "He’s too yellow-bellied to confront his boss.",
+                "sentence translation": "O, müdiri ilə üzləşə bilməyəcək qədər qorxaqdır."
+            }
+        ]
+    },
+    {
+        "word": "you can't teach an old dog new tricks",
+        "phonetic american": "juː kænt tiːʧ ən oʊld dɔːɡ nuː trɪks",
+        "phonetic british": "juː kɑːnt tiːʧ ən əʊld dɒɡ njuː trɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Köhnə vərdişləri olan birini dəyişdirmək çətindir (deyim)",
+                "sentence": "He refuses to learn how to use a smartphone; you can’t teach an old dog new tricks.",
+                "sentence translation": "O, smartfondan istifadə etməyi öyrənməkdən imtina edir; Köhnə vərdişləri dəyişdirmək çətindir."
+            }
+        ]
+    },
+    {
+        "word": "your guess is as good as mine",
+        "phonetic american": "jʊr gɛs ɪz æz ɡʊd æz maɪn",
+        "phonetic british": "jɔːr gɛs ɪz æz ɡʊd æz maɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mən də bilmirəm, hər iki təxminlərimiz eyni dərəcədə dəqiq ola bilər (idiom)",
+                "sentence": "Why the train is late? Your guess is as good as mine.",
+                "sentence translation": "Qatar niyə gecikdi? Mən də bilmirəm."
+            }
+        ]
+    }
+]

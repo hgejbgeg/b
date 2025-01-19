@@ -1,0 +1,4864 @@
+[
+    {
+        "word": "acid test",
+        "phonetic american": "ˈæsɪd tɛst",
+        "phonetic british": "ˈæsɪd tɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Whakamātautau tūturu, whakamātautau uaua (kīwaha)",
+                "sentence": "The acid test of a good chef is how they handle a busy dinner service.",
+                "sentence translation": "Ko te tino whakamatautau o te kaitao pai ko tana whakahaere i te mahi kai kai."
+            }
+        ]
+    },
+    {
+        "word": "actions speak louder than words",
+        "phonetic american": "ˈækʃənz spiːk ˈlaʊdər ðæn wɜrdz",
+        "phonetic british": "ˈækʃənz spiːk ˈlaʊdə ðən wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea nui ake nga mahi i nga kupu (kwaha)",
+                "sentence": "She proved her loyalty because actions speak louder than words.",
+                "sentence translation": "Kua whakamatauhia e ia tona pono na te mea he mea nui ake nga mahi i nga kupu."
+            }
+        ]
+    },
+    {
+        "word": "add insult to injury",
+        "phonetic american": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "phonetic british": "æd ˈɪnsʌlt tə ˈɪndʒəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ringihia te tote ki roto i te patunga, ka kino ake (kwaha)",
+                "sentence": "He was late to the meeting, and to add insult to injury, he forgot the presentation.",
+                "sentence translation": "I tōmuri ia ki te hui, ā, ki te tāpiri tote ki te patunga, kua wareware ki te whakaaturanga."
+            }
+        ]
+    },
+    {
+        "word": "after the watershed",
+        "phonetic american": "ˈæftər ðə ˈwɑːtərʃɛd",
+        "phonetic british": "ˈɑːftə ðə ˈwɔːtəʃɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Rohe haapurororaa po (kwaha)",
+                "sentence": "The movie can only be shown after the watershed due to its content.",
+                "sentence translation": "Na te mea kei roto, ka taea anake te whakaatu i te kiriata i te rohe haapurororaa po."
+            }
+        ]
+    },
+    {
+        "word": "against the clock",
+        "phonetic american": "əˈgɛnst ðə klɑːk",
+        "phonetic british": "əˈgɛnst ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "whakataetae ki te taima (kwaha)",
+                "sentence": "We were working against the clock to finish the project.",
+                "sentence translation": "I whakataetae matou ki te wa ki te whakaoti i te kaupapa."
+            }
+        ]
+    },
+    {
+        "word": "ahead of time",
+        "phonetic american": "əˈhɛd əv taɪm",
+        "phonetic british": "əˈhɛd əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "i mua i te wātaka (idiom)",
+                "sentence": "We finished the preparations ahead of time.",
+                "sentence translation": "I oti i a maatau nga whakaritenga i mua i te waarangi."
+            }
+        ]
+    },
+    {
+        "word": "all ears",
+        "phonetic american": "ɔːl ɪrz",
+        "phonetic british": "ɔːl ɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "whakarongo whakarongo (kwaha)",
+                "sentence": "Tell me your idea; I'm all ears.",
+                "sentence translation": "Korerohia to whakaaro; Kei te ata whakarongo ahau ki a koe."
+            }
+        ]
+    },
+    {
+        "word": "an arm and a leg",
+        "phonetic american": "æn ɑːrm ənd ə lɛg",
+        "phonetic british": "æn ɑːm ənd ə lɛg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He utu nui (kwaha)",
+                "sentence": "The repairs cost an arm and a leg.",
+                "sentence translation": "He tino utu nga whakatikatika."
+            }
+        ]
+    },
+    {
+        "word": "around the clock",
+        "phonetic american": "əˈraʊnd ðə klɑːk",
+        "phonetic british": "əˈraʊnd ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ao me te po (idiom)",
+                "sentence": "The hospital staff works around the clock.",
+                "sentence translation": "Ka mahi nga kaimahi o te hohipera i te ao me te po."
+            }
+        ]
+    },
+    {
+        "word": "around the corner",
+        "phonetic american": "əˈraʊnd ðə ˈkɔrnər",
+        "phonetic british": "əˈraʊnd ðə ˈkɔːnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tino tata, tata (kwaha)",
+                "sentence": "The holidays are just around the corner.",
+                "sentence translation": "Kei te tata tonu nga hararei."
+            }
+        ]
+    },
+    {
+        "word": "as time goes by",
+        "phonetic american": "æz taɪm ɡoʊz baɪ",
+        "phonetic british": "æz taɪm ɡəʊz baɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka haere te wa (idiom)",
+                "sentence": "As time goes by, old memories fade away.",
+                "sentence translation": "Ka haere te wa, ka memeha nga mahara tawhito."
+            }
+        ]
+    },
+    {
+        "word": "at the drop of a hat",
+        "phonetic american": "æt ðə drɑːp əv ə hæt",
+        "phonetic british": "æt ðə drɒp əv ə hæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tonu, me te kore whakaaro (idiom)",
+                "sentence": "He is always ready to help at the drop of a hat.",
+                "sentence translation": "Kua rite ia ki te awhina wawe tonu me te kore whakaaro."
+            }
+        ]
+    },
+    {
+        "word": "back to basics",
+        "phonetic american": "bæk tə ˈbeɪsɪks",
+        "phonetic british": "bæk tə ˈbeɪsɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hoki ki te taketake (kwaha)",
+                "sentence": "The teacher decided to go back to basics for better understanding.",
+                "sentence translation": "I whakatau te kaiako ki te hoki ki nga kaupapa matua kia pai ake ai te maarama."
+            }
+        ]
+    },
+    {
+        "word": "back to the drawing board",
+        "phonetic american": "bæk tə ðə ˈdrɔːɪŋ bɔːrd",
+        "phonetic british": "bæk tə ðə ˈdrɔːɪŋ bɔːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka timata mai i te wahanga (kwaha)",
+                "sentence": "After the plan failed, they had to go back to the drawing board.",
+                "sentence translation": "I muri i te korenga o te mahere, me timata ano mai i te timatanga."
+            }
+        ]
+    },
+    {
+        "word": "bad apple",
+        "phonetic american": "bæd ˈæpl",
+        "phonetic british": "bæd ˈæpl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "aporo kino, tangata kino (idiom)",
+                "sentence": "One bad apple can ruin the entire team.",
+                "sentence translation": "Ka taea e tetahi aporo kino te pakaru i te roopu katoa."
+            }
+        ]
+    },
+    {
+        "word": "ball is in your court",
+        "phonetic american": "bɔːl ɪz ɪn jʊr kɔːrt",
+        "phonetic british": "bɔːl ɪz ɪn jɔː kɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ko te poi kei roto i to kooti, nau te wa (idiom)",
+                "sentence": "I've explained my position; now the ball is in your court.",
+                "sentence translation": "I whakamarama ahau i taku ahuatanga; Inaianei kei to marae te poi."
+            }
+        ]
+    },
+    {
+        "word": "barking up the wrong tree",
+        "phonetic american": "ˈbɑːrkɪŋ ʌp ðə rɔːŋ triː",
+        "phonetic british": "ˈbɑːkɪŋ ʌp ðə rɒŋ triː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Patoto i te kuaha he, haere ki te wahi he (kwaha)",
+                "sentence": "You're barking up the wrong tree if you think I can help with that.",
+                "sentence translation": "Ki te whakaaro koe ka taea e au te awhina i a koe ki tenei, kei te patoto koe i te kuaha he."
+            }
+        ]
+    },
+    {
+        "word": "be glad to see the back of",
+        "phonetic american": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "phonetic british": "bi ɡlæd tə ˈsiː ðə ˈbæk əv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia harikoa ki te whakakore i tetahi, i tetahi mea ranei (kwaha)",
+                "sentence": "I'll be glad to see the back of this project.",
+                "sentence translation": "Ka koa ahau ki te whakakore i tenei kaupapa."
+            }
+        ]
+    },
+    {
+        "word": "beat around the bush",
+        "phonetic american": "biːt əˈraʊnd ðə bʊʃ",
+        "phonetic british": "biːt əˈraʊnd ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te patu i te ngahere, kia kaua e korero tika (kwaha)",
+                "sentence": "Stop beating around the bush and tell me the truth.",
+                "sentence translation": "Kati te patu i te ngahere ka korero mai ki ahau te pono."
+            }
+        ]
+    },
+    {
+        "word": "beat the clock",
+        "phonetic american": "biːt ðə klɑːk",
+        "phonetic british": "biːt ðə klɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka mutu i runga i te wa, ka toa ki te wa (kwaha)",
+                "sentence": "They managed to beat the clock and submit the report on time.",
+                "sentence translation": "Ma te whakataetae ki te wa, ka taea e ratou te tuku purongo i te wa tika."
+            }
+        ]
+    },
+    {
+        "word": "bee in one's bonnet",
+        "phonetic american": "biː ɪn wʌnz ˈbɑːnɪt",
+        "phonetic british": "biː ɪn wʌnz ˈbɒnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "to be obsessed, to be obsessed with something (idiom)",
+                "sentence": "She has a bee in her bonnet about recycling.",
+                "sentence translation": "Kei te kaha ia ki te hangarua."
+            }
+        ]
+    },
+    {
+        "word": "behind the times",
+        "phonetic american": "bɪˈhaɪnd ðə taɪmz",
+        "phonetic british": "bɪˈhaɪnd ðə taɪmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tawhito, tawhito (kwaha)",
+                "sentence": "He is a bit behind the times when it comes to technology.",
+                "sentence translation": "He kura tawhito noa ia mo te hangarau."
+            }
+        ]
+    },
+    {
+        "word": "bells and whistles",
+        "phonetic american": "bɛlz ənd ˈwɪsəlz",
+        "phonetic british": "bɛlz ənd ˈwɪslz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nga whakapaipai kore, etahi atu waahanga (kwaha)",
+                "sentence": "This phone has all the bells and whistles you could ask for.",
+                "sentence translation": "Kei tenei waea nga ahuatanga taapiri katoa ka hiahia koe."
+            }
+        ]
+    },
+    {
+        "word": "best of both worlds",
+        "phonetic american": "bɛst əv boʊθ wɜːrldz",
+        "phonetic british": "bɛst əv bəʊθ wɜːldz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te whakakotahi i nga ahuatanga pai o nga mea e rua (kwaha)",
+                "sentence": "Living in the countryside but working in the city gives her the best of both worlds.",
+                "sentence translation": "Ko te noho i nga tuawhenua me te mahi i te taone nui ka whakawhiwhia ki a ia te pai o nga ao e rua."
+            }
+        ]
+    },
+    {
+        "word": "best thing since sliced bread",
+        "phonetic american": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "phonetic british": "bɛst θɪŋ sɪns slaɪst brɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea hou, he mea whakamiharo (kwaha)",
+                "sentence": "This new software is the best thing since sliced bread.",
+                "sentence translation": "Ko tenei punaha hou te mea pai mai i te taro tapatapahi."
+            }
+        ]
+    },
+    {
+        "word": "better late than never",
+        "phonetic american": "ˈbɛtər leɪt ðæn ˈnɛvər",
+        "phonetic british": "ˈbɛtə leɪt ðæn ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia tōmuri, kia kaua e tōmuri (idiom)",
+                "sentence": "He finally apologized, better late than never.",
+                "sentence translation": "I te mutunga ka tuku mihi ia, i mua ake nei."
+            }
+        ]
+    },
+    {
+        "word": "bide one's time",
+        "phonetic american": "baɪd wʌnz taɪm",
+        "phonetic british": "baɪd wʌnz taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tatari mo te wa tika (kwaha)",
+                "sentence": "He is biding his time before making his next move.",
+                "sentence translation": "Kei te tatari ia mo te wa tika i mua i tana mahi i muri mai."
+            }
+        ]
+    },
+    {
+        "word": "big cheese",
+        "phonetic american": "bɪɡ tʃiːz",
+        "phonetic british": "bɪɡ tʃiːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tangata nui, rangatira (idiom)",
+                "sentence": "He is the big cheese in the company.",
+                "sentence translation": "Ko ia te tangata nui i roto i te kamupene."
+            }
+        ]
+    },
+    {
+        "word": "bird in the hand is worth two in the bush",
+        "phonetic american": "bɜrd ɪn ðə hænd ɪz wɜːrθ tuː ɪn ðə bʊʃ",
+        "phonetic british": "bɜːd ɪn ðə hænd ɪz wɜːθ tuː ɪn ðə bʊʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He pai ake te manu i te ringa i te rua i te ngahere (kwaha)",
+                "sentence": "You should keep this offer; a bird in the hand is worth two in the bush.",
+                "sentence translation": "Me whakaaro koe ki tenei tuku; He pai ake te manu i te ringa i te rua i te ngahere."
+            }
+        ]
+    },
+    {
+        "word": "bite off more than you can chew",
+        "phonetic american": "baɪt ɔf mɔːr ðæn ju kən tʃuː",
+        "phonetic british": "baɪt ɒf mɔː ðæn ju kən tʃuː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te ngana ki te mahi i nga mea nui rawa atu mo koe (kwaha)",
+                "sentence": "He bit off more than he could chew by taking on two jobs at once.",
+                "sentence translation": "E rua nga mahi i mahia e ia i te wa kotahi, ka mau i nga mahi i tua atu i tona kaha."
+            }
+        ]
+    },
+    {
+        "word": "black and blue",
+        "phonetic american": "blæk ənd bluː",
+        "phonetic british": "blæk ənd bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kua maru, ki tonu i te maru (kwaha)",
+                "sentence": "After falling down the stairs, his legs were black and blue.",
+                "sentence translation": "He papura ona waewae i muri i te takahanga i te arawhata."
+            }
+        ]
+    },
+    {
+        "word": "black and white",
+        "phonetic american": "blæk ənd waɪt",
+        "phonetic british": "blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Marama, tika (kwaha)",
+                "sentence": "The rules are written in black and white.",
+                "sentence translation": "He marama, he poto nga ture."
+            }
+        ]
+    },
+    {
+        "word": "black as night",
+        "phonetic american": "blæk æz naɪt",
+        "phonetic british": "blæk æz naɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he pango, he mangu (idiom)",
+                "sentence": "The cave was black as night.",
+                "sentence translation": "I pouri te ana."
+            }
+        ]
+    },
+    {
+        "word": "black eye",
+        "phonetic american": "blæk aɪ",
+        "phonetic british": "blæk aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Karu pango, he ahua kino (kwaha)",
+                "sentence": "The scandal gave the company a black eye.",
+                "sentence translation": "Na te kino i hanga he ahuatanga kino mo te kamupene."
+            }
+        ]
+    },
+    {
+        "word": "black market",
+        "phonetic american": "blæk ˈmɑːrkɪt",
+        "phonetic british": "blæk ˈmɑːkɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Maakete pango (kwaha)",
+                "sentence": "The goods were being sold on the black market.",
+                "sentence translation": "I hokona nga taonga ki te maakete pango."
+            }
+        ]
+    },
+    {
+        "word": "black out",
+        "phonetic american": "blæk aʊt",
+        "phonetic british": "blæk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te ngenge, ki te pouri (idiom)",
+                "sentence": "He blacked out during the marathon due to heat exhaustion.",
+                "sentence translation": "I hemo ia i te wera i te wa o te marathon."
+            }
+        ]
+    },
+    {
+        "word": "black sheep",
+        "phonetic american": "blæk ʃiːp",
+        "phonetic british": "blæk ʃiːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ko te tangata kua peia i roto i te whanau, te hipi mangu (kwaha)",
+                "sentence": "He has always been the black sheep of the family.",
+                "sentence translation": "Ko ia tonu te hipi mangu o te whanau."
+            }
+        ]
+    },
+    {
+        "word": "blackball",
+        "phonetic american": "ˈblækbɔːl",
+        "phonetic british": "ˈblækbɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "veto, whakakore (kwaha)",
+                "sentence": "He was blackballed from the club for breaking its rules.",
+                "sentence translation": "I whakawetohia ia i te karapu mo tana takahi i o raatau ture."
+            }
+        ]
+    },
+    {
+        "word": "blacklist",
+        "phonetic american": "ˈblæklɪst",
+        "phonetic british": "ˈblæklɪst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "rārangi pango (kīwaha)",
+                "sentence": "The company blacklisted him for sharing confidential information.",
+                "sentence translation": "I whakararangi pangohia e te kamupene mo te tohatoha korero matatapu."
+            }
+        ]
+    },
+    {
+        "word": "blackmail",
+        "phonetic american": "ˈblækmeɪl",
+        "phonetic british": "ˈblækmeɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mangumangu (kwaha)",
+                "sentence": "He tried to blackmail her with a private photo.",
+                "sentence translation": "I ngana ia ki te whakapouri ia ia me tetahi whakaahua motuhake."
+            }
+        ]
+    },
+    {
+        "word": "blessing in disguise",
+        "phonetic american": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "phonetic british": "ˈblɛsɪŋ ɪn dɪsˈɡaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ahakoa te ahua kino i te tuatahi, he ahua pai (kwaha).",
+                "sentence": "Losing that job turned out to be a blessing in disguise.",
+                "sentence translation": "Ko te ngaro o taua mahi ka puta he mea pai."
+            }
+        ]
+    },
+    {
+        "word": "blind date",
+        "phonetic american": "blaɪnd deɪt",
+        "phonetic british": "blaɪnd deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te hui me tetahi i tutaki koe me te kore e kite (kwaha)",
+                "sentence": "She was nervous about her blind date.",
+                "sentence translation": "I mataku ia mo te hui i mua i te hui."
+            }
+        ]
+    },
+    {
+        "word": "blood red",
+        "phonetic american": "blʌd rɛd",
+        "phonetic british": "blʌd rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "toto whero (kwaha)",
+                "sentence": "The sunset was a beautiful blood red.",
+                "sentence translation": "He tino ataahua te tae whero o te ra."
+            }
+        ]
+    },
+    {
+        "word": "blood, sweat & tears",
+        "phonetic american": "blʌd swɛt ənd tɪrz",
+        "phonetic british": "blʌd swɛt ənd tɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He nui te whakapau kaha me te whakapau kaha (kwaha)",
+                "sentence": "The project was completed with blood, sweat, and tears.",
+                "sentence translation": "I oti te kaupapa me te whakapau kaha me te whakapau kaha."
+            }
+        ]
+    },
+    {
+        "word": "blow a fuse",
+        "phonetic american": "bloʊ ə fjuz",
+        "phonetic british": "bləʊ ə fjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te riri, ki te riri (idiom)",
+                "sentence": "He blew a fuse when he found out about the mistake.",
+                "sentence translation": "I riri ia i tana mohiotanga mo te he."
+            }
+        ]
+    },
+    {
+        "word": "blow up in the face",
+        "phonetic american": "bloʊ ʌp ɪn ðə feɪs",
+        "phonetic british": "bləʊ ʌp ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "to backfire, to go wrong (idiom)",
+                "sentence": "The plan blew up in his face when the details leaked.",
+                "sentence translation": "I hoki whakamuri te mahere i te paheketanga o nga korero."
+            }
+        ]
+    },
+    {
+        "word": "blue blood",
+        "phonetic american": "bluː blʌd",
+        "phonetic british": "bluː blʌd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "whakapapa rangatira (idiom)",
+                "sentence": "He claimed to have blue blood running in his veins.",
+                "sentence translation": "I kii ia i rere nga toto rangatira ki roto i ona uaua."
+            }
+        ]
+    },
+    {
+        "word": "blue collar",
+        "phonetic american": "bluː ˈkɑːlər",
+        "phonetic british": "bluː ˈkɒlər",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te karaehe mahi tinana (kwaha)",
+                "sentence": "He comes from a blue-collar family.",
+                "sentence translation": "I ahu mai ia i te whanau akomanga mahi tinana."
+            }
+        ]
+    },
+    {
+        "word": "blue in the face",
+        "phonetic american": "bluː ɪn ðə feɪs",
+        "phonetic british": "bluː ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ngana noa, karekau he hua (idiom)",
+                "sentence": "You can argue until you're blue in the face, but he won't change his mind.",
+                "sentence translation": "Ka taea e koe te tohetohe tonu me te kore e puta he hua, engari e kore ia e huri i tona whakaaro."
+            }
+        ]
+    },
+    {
+        "word": "blue ribbon",
+        "phonetic american": "bluː ˈrɪbən",
+        "phonetic british": "bluː ˈrɪbən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te taonga tuatahi, te pai (kwaha)",
+                "sentence": "She won the blue ribbon for her painting.",
+                "sentence translation": "I riro ia ia te taonga tuatahi me tana peita."
+            }
+        ]
+    },
+    {
+        "word": "bolt from the blue",
+        "phonetic american": "boʊlt frəm ðə bluː",
+        "phonetic british": "bəʊlt frəm ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Takahanga ohorere, ohorere (kwaha)",
+                "sentence": "The announcement was like a bolt from the blue.",
+                "sentence translation": "Ua tae mai te heheuraa mai te hoê mea mana‘o-ore-hia."
+            }
+        ]
+    },
+    {
+        "word": "bookworm",
+        "phonetic american": "ˈbʊkwɜːrm",
+        "phonetic british": "ˈbʊkwɜːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "noke pukapuka, aroha pukapuka (kwaha)",
+                "sentence": "She's such a bookworm; she finishes a novel every week.",
+                "sentence translation": "He kutukutu ia; Ka oti ia wiki tetahi pukapuka."
+            }
+        ]
+    },
+    {
+        "word": "born with a silver spoon in one's mouth",
+        "phonetic american": "bɔrn wɪð ə ˈsɪlvər spuːn ɪn wʌnz maʊθ",
+        "phonetic british": "bɔːn wɪð ə ˈsɪlvə spuːn ɪn wʌnz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whanautanga ki roto i te whanau whai rawa me te whai mana (kwaha)",
+                "sentence": "He doesn't understand the struggles of others because he was born with a silver spoon in his mouth.",
+                "sentence translation": "I te whanautanga mai i roto i te whanau whai rawa, kare ia e mohio ki nga uaua o etahi atu."
+            }
+        ]
+    },
+    {
+        "word": "bottom falls out",
+        "phonetic american": "ˈbɑːtəm fɔːlz aʊt",
+        "phonetic british": "ˈbɒtəm fɔːlz aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ka pa ki te tukinga, te tukinga o te maakete (kwaha)",
+                "sentence": "The bottom fell out of the market after the financial crisis.",
+                "sentence translation": "I muri i te raruraru putea, ka pakaru te maakete."
+            }
+        ]
+    },
+    {
+        "word": "brainstorm",
+        "phonetic american": "ˈbreɪnˌstɔːrm",
+        "phonetic british": "ˈbreɪnˌstɔːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te whakaputa whakaaro, te whakaaro (idiom)",
+                "sentence": "The team brainstormed ideas for the new project.",
+                "sentence translation": "I whakaputa whakaaro te kapa mo te kaupapa hou."
+            }
+        ]
+    },
+    {
+        "word": "bread-winner",
+        "phonetic american": "ˈbrɛdˌwɪnər",
+        "phonetic british": "ˈbrɛdˌwɪnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kai whangai (kwaha)",
+                "sentence": "He is the bread-winner of his family.",
+                "sentence translation": "Ko ia te kai whangai i tona whanau."
+            }
+        ]
+    },
+    {
+        "word": "bring home the bacon",
+        "phonetic american": "brɪŋ hoʊm ðə ˈbeɪkən",
+        "phonetic british": "brɪŋ həʊm ðə ˈbeɪkən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te mau mai i te taro ki te kainga, ki te whiwhi moni (idiom)",
+                "sentence": "He works hard to bring home the bacon.",
+                "sentence translation": "Ka whakapau kaha ia ki te kawe taro ki te whare."
+            }
+        ]
+    },
+    {
+        "word": "broken watch is right twice a day",
+        "phonetic american": "ˈbroʊkən wɑːtʃ ɪz raɪt twaɪs ə deɪ",
+        "phonetic british": "ˈbrəʊkən wɒtʃ ɪz raɪt twaɪs ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ahakoa he mea kino i etahi wa ka tika (kwaha)",
+                "sentence": "Even a broken watch is right twice a day.",
+                "sentence translation": "Ahakoa te karaka kino ka tika kia rua nga wa ia ra."
+            }
+        ]
+    },
+    {
+        "word": "buckle down",
+        "phonetic american": "ˈbʌkəl daʊn",
+        "phonetic british": "ˈbʌkəl daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia kaha te mahi, kia aro nui ki te mahi (kwaha)",
+                "sentence": "You need to buckle down and study for the exam.",
+                "sentence translation": "Me whakapau kaha me te ako mo te whakamatautau."
+            }
+        ]
+    },
+    {
+        "word": "bun in the oven",
+        "phonetic american": "bʌn ɪn ðə ˈʌvən",
+        "phonetic british": "bʌn ɪn ðə ˈʌvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "e hapu ana (idiom)",
+                "sentence": "She just announced that she has a bun in the oven.",
+                "sentence translation": "Katahi ano ia ka korero kua hapu ia."
+            }
+        ]
+    },
+    {
+        "word": "butter up",
+        "phonetic american": "ˈbʌtər ʌp",
+        "phonetic british": "ˈbʌtə ʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakapohehe i te tangata me te whakanui, ki te whakapati i tetahi (idiom)",
+                "sentence": "He tried to butter up his boss for a promotion.",
+                "sentence translation": "I ngana ia ki te patipati ki tana rangatira kia whiwhi whakatairanga."
+            }
+        ]
+    },
+    {
+        "word": "by degrees",
+        "phonetic american": "baɪ dɪˈɡriːz",
+        "phonetic british": "baɪ dɪˈɡriːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "āta, āta (idiom)",
+                "sentence": "She improved her skills by degrees.",
+                "sentence translation": "Ka piki haere ana pukenga."
+            }
+        ]
+    },
+    {
+        "word": "by the skin of your teeth",
+        "phonetic american": "baɪ ðə skɪn əv jɔːr tiːθ",
+        "phonetic british": "baɪ ðə skɪn əv jɔː tiːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mawhiti whaiti (kwaha)",
+                "sentence": "He escaped the accident by the skin of his teeth.",
+                "sentence translation": "I mawhiti tata ia i te aituā."
+            }
+        ]
+    },
+    {
+        "word": "call it a day",
+        "phonetic american": "kɔːl ɪt ə deɪ",
+        "phonetic british": "kɔːl ɪt ə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakamutu i te mahi, ki te whakamutu i te mahi (idiom)",
+                "sentence": "After finishing the report, they decided to call it a day.",
+                "sentence translation": "Ka mutu te ripoata, ka whakatau ratou kia mutu te mahi."
+            }
+        ]
+    },
+    {
+        "word": "calling time",
+        "phonetic american": "ˈkɔːlɪŋ taɪm",
+        "phonetic british": "ˈkɔːlɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia tae ki te mutunga o tetahi mea, ki te whakaoti (idiom)",
+                "sentence": "The coach is calling time on his career after 20 years.",
+                "sentence translation": "Kei te whakamutu a Koç i tana mahi i muri i nga tau 20."
+            }
+        ]
+    },
+    {
+        "word": "carry the torch for",
+        "phonetic american": "ˈkæri ðə tɔːrtʃ fɔːr",
+        "phonetic british": "ˈkæri ðə tɔːtʃ fɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia noho pono ki tetahi, ki tetahi mea ranei (kwaha)",
+                "sentence": "He still carries the torch for his high school sweetheart.",
+                "sentence translation": "He pono tonu ki tana hoa aroha o te kura tuarua."
+            }
+        ]
+    },
+    {
+        "word": "cash cow",
+        "phonetic american": "kæʃ kaʊ",
+        "phonetic british": "kæʃ kaʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pakihi, hua ranei e whakaputa moni tuturu ana (kwaha)",
+                "sentence": "Their new app is a real cash cow for the company.",
+                "sentence translation": "Ko a raatau tono hou he tino puna moni mo te kamupene."
+            }
+        ]
+    },
+    {
+        "word": "cat burglar",
+        "phonetic american": "kæt ˈbɜːrɡlər",
+        "phonetic british": "kæt ˈbɜːɡlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He tangata tahae wahangu (kwaha)",
+                "sentence": "The cat burglar entered the house without making a sound.",
+                "sentence translation": "Ko te tahae wahangu ka tomo ki roto i te whare kaore he tangi."
+            }
+        ]
+    },
+    {
+        "word": "catch someone at a bad time",
+        "phonetic american": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "phonetic british": "kætʃ ˈsʌmwʌn æt ə bæd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te hopu i tetahi i te wa he (kwaha)",
+                "sentence": "I'm sorry if I caught you at a bad time.",
+                "sentence translation": "Ka pouri ahau ki te he taku hopu i a koe."
+            }
+        ]
+    },
+    {
+        "word": "catch someone red-handed",
+        "phonetic american": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "phonetic british": "kætʃ ˈsʌmwʌn ˌrɛd ˈhændɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te hopu i tetahi tangata ringa whero (kwaha)",
+                "sentence": "The police caught him red-handed stealing the car.",
+                "sentence translation": "I mau nga pirihimana i a ia e tahae ana i te motuka."
+            }
+        ]
+    },
+    {
+        "word": "chance one's arm",
+        "phonetic american": "tʃæns wʌnz ɑːrm",
+        "phonetic british": "tʃɑːns wʌnz ɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakamatau i to waimarie, ka mau morearea (kwaha)",
+                "sentence": "He decided to chance his arm and apply for the position.",
+                "sentence translation": "I whakatau ia ki te whakamatau i tana waimarie ma te tono mo te turanga."
+            }
+        ]
+    },
+    {
+        "word": "chase rainbows",
+        "phonetic american": "tʃeɪs ˈreɪnboʊz",
+        "phonetic british": "tʃeɪs ˈreɪnbəʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whai i te moemoea kore (kwaha)",
+                "sentence": "Stop chasing rainbows and focus on achievable goals.",
+                "sentence translation": "Kati te whai i nga moemoea kore ka aro ki nga whainga ka taea."
+            }
+        ]
+    },
+    {
+        "word": "chase your tail",
+        "phonetic american": "tʃeɪs jʊr teɪl",
+        "phonetic british": "tʃeɪs jɔː teɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te tohe noa, ki te moumou taima (idiom)",
+                "sentence": "I've been chasing my tail all day trying to get everything done.",
+                "sentence translation": "Kua whakapau kaha ahau i te ra katoa mo te koretake kia oti katoa nga mahi."
+            }
+        ]
+    },
+    {
+        "word": "cheesy",
+        "phonetic american": "ˈtʃiːzi",
+        "phonetic british": "ˈtʃiːzi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He ngawari, he koretake, he kiwaha (kwaha)",
+                "sentence": "The movie was too cheesy for my taste.",
+                "sentence translation": "He nui rawa te kiriata mo taku reka."
+            }
+        ]
+    },
+    {
+        "word": "clock-in/clock-out",
+        "phonetic american": "klɑːk ɪn / klɑːk aʊt",
+        "phonetic british": "klɒk ɪn / klɒk aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Takina ki roto/waho o nga haora mahi (kwaha)",
+                "sentence": "Don't forget to clock in when you arrive at work.",
+                "sentence translation": "Kaua e wareware ki te takiuru ina tae mai koe ki te mahi."
+            }
+        ]
+    },
+    {
+        "word": "close to home",
+        "phonetic american": "kloʊs tə hoʊm",
+        "phonetic british": "kləʊs tə həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te whakahaere i tetahi take whaiaro i runga i te ahua pa (kwaha)",
+                "sentence": "The comment about his family was too close to home.",
+                "sentence translation": "Ko nga korero mo tona whanau i pa atu ki tetahi kaupapa whaiaro."
+            }
+        ]
+    },
+    {
+        "word": "cold shoulder",
+        "phonetic american": "koʊld ˈʃoʊldər",
+        "phonetic british": "kəʊld ˈʃəʊldə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te mahi makariri, ki te noho kore whakaaro (kwaha)",
+                "sentence": "She gave him the cold shoulder after their argument.",
+                "sentence translation": "I mahi makariri ia i muri i ta raua tautohetohe."
+            }
+        ]
+    },
+    {
+        "word": "coming of age",
+        "phonetic american": "ˈkʌmɪŋ əv eɪdʒ",
+        "phonetic british": "ˈkʌmɪŋ əv eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te pakeke, ki te taka ki te pakeketanga (idiom)",
+                "sentence": "The novel is a beautiful coming-of-age story.",
+                "sentence translation": "Ko te pakiwaitara he korero ataahua mo te tau."
+            }
+        ]
+    },
+    {
+        "word": "cook someone's goose",
+        "phonetic american": "kʊk ˈsʌmwʌnz ɡuːs",
+        "phonetic british": "kʊk ˈsʌmwʌnz ɡuːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te pahua i nga mahere a tetahi (idiom)",
+                "sentence": "If you tell the boss about his mistake, it will cook his goose.",
+                "sentence translation": "Mena ka korero koe ki te rangatira i tana he, ka pakaru koe i ana mahere."
+            }
+        ]
+    },
+    {
+        "word": "copycat",
+        "phonetic american": "ˈkɑːpiˌkæt",
+        "phonetic british": "ˈkɒpiˌkæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kaitawhai (kwaha)",
+                "sentence": "The new app is just a copycat of the original one.",
+                "sentence translation": "Ko te taupānga hou he tauira o te taketake."
+            }
+        ]
+    },
+    {
+        "word": "costs an arm and a leg",
+        "phonetic american": "kɔːsts æn ɑːrm ənd ə lɛɡ",
+        "phonetic british": "kɒsts ən ɑːm ənd ə lɛɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "utu nui (kwaha)",
+                "sentence": "This vacation is going to cost an arm and a leg.",
+                "sentence translation": "Ka nui te utu o tenei hararei."
+            }
+        ]
+    },
+    {
+        "word": "couch potato",
+        "phonetic american": "kaʊtʃ pəˈteɪtoʊ",
+        "phonetic british": "kaʊtʃ pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te tangata mangere e matakitaki pouaka whakaata i nga wa katoa (kwaha)",
+                "sentence": "He's such a couch potato; he never goes outside.",
+                "sentence translation": "He tangata mangere ia; e kore e puta ki waho."
+            }
+        ]
+    },
+    {
+        "word": "cover a lot of ground",
+        "phonetic american": "ˈkʌvər ə lɒt əv ɡraʊnd",
+        "phonetic british": "ˈkʌvə ə lɒt əv ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia nui te ahunga whakamua, ki te kapi i te waahi whanui (kwaha)",
+                "sentence": "We covered a lot of ground in today's meeting.",
+                "sentence translation": "He nui te ahunga whakamua i te hui i tenei ra."
+            }
+        ]
+    },
+    {
+        "word": "crack of dawn",
+        "phonetic american": "kræk əv dɔːn",
+        "phonetic british": "kræk əv dɔːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I te ata, i te ata (idiom)",
+                "sentence": "We left at the crack of dawn to catch the first train.",
+                "sentence translation": "Ka wehe matou i te ata ki te hopu i te tereina tuatahi."
+            }
+        ]
+    },
+    {
+        "word": "cross that bridge when you come to it",
+        "phonetic american": "krɔːs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "phonetic british": "krɒs ðæt brɪdʒ wɛn ju kʌm tə ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whakaoti rapanga ina pa ana ki a ia (kwaha)",
+                "sentence": "We’ll cross that bridge when we come to it.",
+                "sentence translation": "Ka pa ana ki taua raruraru, ka whakatauhia e tatou."
+            }
+        ]
+    },
+    {
+        "word": "crunch time",
+        "phonetic american": "krʌntʃ taɪm",
+        "phonetic british": "krʌntʃ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te wa e kaha ana te pehanga wa (kwaha)",
+                "sentence": "It's crunch time for the project, so everyone is working overtime.",
+                "sentence translation": "He wa tino nui tenei mo te kaupapa, no reira kei te mahi nga tangata katoa i nga wa roa."
+            }
+        ]
+    },
+    {
+        "word": "cry over spilt milk",
+        "phonetic american": "kraɪ ˈoʊvər spɪlt mɪlk",
+        "phonetic british": "kraɪ ˈəʊvə spɪlt mɪlk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pouri mo nga mea o mua (kwaha)",
+                "sentence": "There's no use crying over spilt milk; let's focus on fixing the problem.",
+                "sentence translation": "Kare he take o te awangawanga mo nga mea o mua; Kia arotahi tatou ki te whakaoti rapanga."
+            }
+        ]
+    },
+    {
+        "word": "curiosity killed the cat",
+        "phonetic american": "ˌkjʊriˈɑːsəti kɪld ðə kæt",
+        "phonetic british": "ˌkjʊərɪˈɒsɪti kɪld ðə kæt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He morearea te pakiki nui (kwaha)",
+                "sentence": "Don't go into that abandoned house; curiosity killed the cat.",
+                "sentence translation": "Kaua e tomo ki taua whare kua mahue; He mea kino te hiahia nui."
+            }
+        ]
+    },
+    {
+        "word": "cut corners",
+        "phonetic american": "kʌt ˈkɔːrnərz",
+        "phonetic british": "kʌt ˈkɔːnəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te tapahi i nga kokonga, te whakaheke i te kounga (kwaha)",
+                "sentence": "They cut corners to finish the project quickly, but it led to mistakes.",
+                "sentence translation": "I whai huarahi ngawari ratou ki te whakaoti tere i te kaupapa, engari na tenei i he."
+            }
+        ]
+    },
+    {
+        "word": "cut one's own throat",
+        "phonetic american": "kʌt wʌnz oʊn θroʊt",
+        "phonetic british": "kʌt wʌnz əʊn θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te tukino i ona ake hiahia (kwaha)",
+                "sentence": "By refusing the deal, he ended up cutting his own throat.",
+                "sentence translation": "Na tana whakakore i te whakaaetanga, ka tukino ia i ona ake hiahia."
+            }
+        ]
+    },
+    {
+        "word": "cut the mustard",
+        "phonetic american": "kʌt ðə ˈmʌstərd",
+        "phonetic british": "kʌt ðə ˈmʌstəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tutuki nga paerewa e tumanakohia ana (kwaha)",
+                "sentence": "He didn’t cut the mustard, so he wasn’t hired.",
+                "sentence translation": "Kaore ia i utua na te mea kaore i taea e ia te whakatutuki i nga paerewa e tumanakohia ana."
+            }
+        ]
+    },
+    {
+        "word": "cut to the chase",
+        "phonetic american": "kʌt tə ðə tʃeɪs",
+        "phonetic british": "kʌt tə ðə tʃeɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tae ki te waahi (kwaha)",
+                "sentence": "Let’s cut to the chase and discuss the main issue.",
+                "sentence translation": "Kia tae ki te kaupapa me te korero mo te kaupapa matua."
+            }
+        ]
+    },
+    {
+        "word": "day to day",
+        "phonetic american": "deɪ tə deɪ",
+        "phonetic british": "deɪ tə deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Nga mahi o ia ra, o ia ra ranei (kwaha)",
+                "sentence": "She handles the day-to-day operations of the business.",
+                "sentence translation": "Ka whakahaerehia e ia nga mahi o ia ra o te pakihi."
+            }
+        ]
+    },
+    {
+        "word": "days are numbered",
+        "phonetic american": "deɪz ər ˈnʌmbərd",
+        "phonetic british": "deɪz ə ˈnʌmbəd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kua tatau ona ra, kua tata te mutunga (kwaha)",
+                "sentence": "With sales dropping, the company’s days are numbered.",
+                "sentence translation": "I te hekenga o nga hoko, kua tatauhia nga ra o te kamupene."
+            }
+        ]
+    },
+    {
+        "word": "dead duck",
+        "phonetic american": "dɛd dʌk",
+        "phonetic british": "dɛd dʌk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He rahua, he kore whakamahi ranei (kwaha)",
+                "sentence": "After losing the lawsuit, their business plan was a dead duck.",
+                "sentence translation": "I muri i te ngaro o te keehi, i rahua ta raatau mahere pakihi."
+            }
+        ]
+    },
+    {
+        "word": "dead in the water",
+        "phonetic american": "dɛd ɪn ðə ˈwɔːtər",
+        "phonetic british": "dɛd ɪn ðə ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kaore i te ahu whakamua, i te ngenge ranei (kwaha)",
+                "sentence": "Without funding, the project is dead in the water.",
+                "sentence translation": "Ki te kore he putea, kua mutu te kaupapa."
+            }
+        ]
+    },
+    {
+        "word": "dead wood",
+        "phonetic american": "dɛd wʊd",
+        "phonetic british": "dɛd wʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He tangata, he mea koretake (kwaha)",
+                "sentence": "The company decided to remove the dead wood to increase productivity.",
+                "sentence translation": "I whakatauhia e te kamupene ki te whakakore i nga tangata korekore ki te whakanui ake i te kaha."
+            }
+        ]
+    },
+    {
+        "word": "deep down",
+        "phonetic american": "diːp daʊn",
+        "phonetic british": "diːp daʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kei roto, kei roto (kwaha)",
+                "sentence": "Deep down, she knew she had made the right choice.",
+                "sentence translation": "I roto i te hohonu, ka mohio ia kua tika tana whakatau."
+            }
+        ]
+    },
+    {
+        "word": "deliver the goods",
+        "phonetic american": "dɪˈlɪvər ðə ɡʊdz",
+        "phonetic british": "dɪˈlɪvə ðə ɡʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hei whakaatu i te mahi e tumanakohia ana, hei whakatutuki i nga kupu whakaari (kwaha)",
+                "sentence": "The new software delivered the goods as promised.",
+                "sentence translation": "I whakaatuhia e te raupaparorohiko hou nga mahi e tumanakohia ana i oatihia."
+            }
+        ]
+    },
+    {
+        "word": "devil's advocate",
+        "phonetic american": "ˈdɛvəlz ˈædvəkət",
+        "phonetic british": "ˈdɛvəlz ˈædvəkət",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te tangata e whakawhanake ana i te tohenga whakapae (kwaha)",
+                "sentence": "He played devil's advocate to test the strength of their argument.",
+                "sentence translation": "I takaro ia i te kaiwawao a te rewera ki te whakamatau i te kaha o ana tautohetohe."
+            }
+        ]
+    },
+    {
+        "word": "do time (serve time)",
+        "phonetic american": "duː taɪm / sɜːrv taɪm",
+        "phonetic british": "duː taɪm / sɜːv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te haere ki te whare herehere (idiom)",
+                "sentence": "He did time for robbery when he was younger.",
+                "sentence translation": "I noho ia ki te whare herehere mo te tahae i a ia e taiohi ana."
+            }
+        ]
+    },
+    {
+        "word": "donkey's years",
+        "phonetic american": "ˈdɑːŋkiz jɪrz",
+        "phonetic british": "ˈdɒŋkɪz jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "maha nga tau (kwaha)",
+                "sentence": "I haven’t seen her in donkey’s years.",
+                "sentence translation": "Kare au i kite ia ia mo nga tau maha."
+            }
+        ]
+    },
+    {
+        "word": "don't count your chickens before they've hatched",
+        "phonetic american": "doʊnt kaʊnt jʊr ˈtʃɪkɪnz bɪˈfɔːr ðeɪv hætʃt",
+        "phonetic british": "dəʊnt kaʊnt jɔː ˈtʃɪkɪnz bɪˈfɔː ðeɪv hætʃt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kaua e hurihia o tarau me te kore e kite i te awa (kwaha)",
+                "sentence": "Don’t count your chickens before they’ve hatched; the deal isn’t finalized yet.",
+                "sentence translation": "Kaua e whakakakahuria o tarau ki te kore e kite i te awa; Kaore ano kia oti te mahi."
+            }
+        ]
+    },
+    {
+        "word": "don't give up the day job",
+        "phonetic american": "doʊnt ɡɪv ʌp ðə deɪ ʤɑːb",
+        "phonetic british": "dəʊnt ɡɪv ʌp ðə deɪ ʤɒb",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kore e aro ki te waahi kei te kore he taranata (kwaha)",
+                "sentence": "Your singing is okay, but don’t give up the day job.",
+                "sentence translation": "Ehara i te mea kino te waiata, engari kaua e waiho hei mahi maau."
+            }
+        ]
+    },
+    {
+        "word": "don't put all your eggs in one basket",
+        "phonetic american": "doʊnt pʊt ɔːl jʊr ɛɡz ɪn wʌn ˈbæskɪt",
+        "phonetic british": "dəʊnt pʊt ɔːl jɔːr ɛɡz ɪn wʌn ˈbɑːskɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te hono i nga raru katoa ki tetahi mea (kwaha)",
+                "sentence": "It’s risky to invest all your money in stocks; don’t put all your eggs in one basket.",
+                "sentence translation": "Ko te tuku i o moni katoa ki roto i nga rakau he morearea; Kaua e kii i o raru katoa ki tetahi mea."
+            }
+        ]
+    },
+    {
+        "word": "double date",
+        "phonetic american": "ˈdʌbəl deɪt",
+        "phonetic british": "ˈdʌbəl deɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He ra e haere tahi ai nga tokorua tokorua (idiom)",
+                "sentence": "We went on a double date with my best friend and her boyfriend.",
+                "sentence translation": "I haere maua ki te hui takirua me taku hoa pai me tana hoa."
+            }
+        ]
+    },
+    {
+        "word": "drastic times call for drastic measures",
+        "phonetic american": "ˈdræstɪk taɪmz kɔːl fɔːr ˈdræstɪk ˈmɛʒərz",
+        "phonetic british": "ˈdræstɪk taɪmz kɔːl fɔː ˈdræstɪk ˈmɛʒəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ko nga ahuatanga uaua me whakatau uaua (kwaha)",
+                "sentence": "The company had to lay off employees because drastic times call for drastic measures.",
+                "sentence translation": "Me whakakore nga kaimahi i te kamupene na te mea he uaua nga whakatau."
+            }
+        ]
+    },
+    {
+        "word": "drawing a blank",
+        "phonetic american": "ˈdrɔːɪŋ ə blæŋk",
+        "phonetic british": "ˈdrɔːɪŋ ə blæŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kaore e taea te whakatutuki i nga hua, te kore e mahara ki tetahi mea (kwaha)",
+                "sentence": "I tried to remember her name, but I kept drawing a blank.",
+                "sentence translation": "I ngana ahau ki te mahara ki tona ingoa engari kare i taea."
+            }
+        ]
+    },
+    {
+        "word": "dropout",
+        "phonetic american": "ˈdrɑːpaʊt",
+        "phonetic british": "ˈdrɒpaʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tangata ka mutu i te kura, i tetahi hotaka ranei (kwaha)",
+                "sentence": "He’s a college dropout who started his own company.",
+                "sentence translation": "He tangata i heke mai i te whare wananga ka timata tana kamupene."
+            }
+        ]
+    },
+    {
+        "word": "dwell on the past",
+        "phonetic american": "dwɛl ɑn ðə pæst",
+        "phonetic british": "dwɛl ɒn ðə pɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mau tonu ki mua (idiom)",
+                "sentence": "It’s time to move forward and stop dwelling on the past.",
+                "sentence translation": "Ko te wa tenei ki te titiro whakamua kia kaua e mau ki nga wa o mua."
+            }
+        ]
+    },
+    {
+        "word": "eager beaver",
+        "phonetic american": "ˈiːɡər ˈbiːvər",
+        "phonetic british": "ˈiːɡə ˈbiːvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he tangata pukumahi, he tangata pukumahi (kwaha)",
+                "sentence": "She’s such an eager beaver; she always finishes her tasks ahead of time.",
+                "sentence translation": "He tino pukumahi ia; I nga wa katoa ka oti wawe ana mahi."
+            }
+        ]
+    },
+    {
+        "word": "easy as ABC",
+        "phonetic american": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "phonetic british": "ˈiːzi æz ˌeɪˌbiːˈsiː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He ngawari, he takaro na te tamaiti (idiom)",
+                "sentence": "The instructions were easy as ABC, so I had no trouble assembling the furniture.",
+                "sentence translation": "He tino ngawari nga tohutohu no reira kaore au i raru ki te whakahiato i nga taonga."
+            }
+        ]
+    },
+    {
+        "word": "eat, sleep & breathe something",
+        "phonetic american": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "phonetic british": "iːt sliːp ænd briːð ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te tuku i tona oranga ki tetahi mea (idiom)",
+                "sentence": "He eats, sleeps, and breathes football.",
+                "sentence translation": "Ko ia tetahi i whakapau i tona oranga ki te whutupaoro."
+            }
+        ]
+    },
+    {
+        "word": "egg head",
+        "phonetic american": "ˈɛɡ hɛd",
+        "phonetic british": "ˈɛɡ hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tangata tino hinengaro, tangata matauranga ranei (kwaha)",
+                "sentence": "The professor is a real egg head when it comes to mathematics.",
+                "sentence translation": "He tino hinengaro te ahorangi ina tae mai ki te pangarau."
+            }
+        ]
+    },
+    {
+        "word": "elbow room",
+        "phonetic american": "ˈɛlboʊ ruːm",
+        "phonetic british": "ˈɛlbəʊ ruːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te haere noa (kwaha)",
+                "sentence": "The new office gives us more elbow room.",
+                "sentence translation": "Ko te tari hou ka nui ake te waahi."
+            }
+        ]
+    },
+    {
+        "word": "eleventh hour",
+        "phonetic american": "ɪˈlɛvənθ ˈaʊər",
+        "phonetic british": "ɪˈlɛvənθ ˈaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te meneti whakamutunga, te wa whakamutunga (kwaha)",
+                "sentence": "They reached an agreement at the eleventh hour.",
+                "sentence translation": "I tutuki i a raatau he whakaaetanga i te meneti whakamutunga."
+            }
+        ]
+    },
+    {
+        "word": "Elvis has left the building",
+        "phonetic american": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "phonetic british": "ˈɛlvɪs hæz lɛft ðə ˈbɪldɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kua mutu te kaupapa, kua oti te mahi i konei (kwaha)",
+                "sentence": "The concert is over; Elvis has left the building.",
+                "sentence translation": "Kua mutu te konohete; Kua mutu te kaupapa."
+            }
+        ]
+    },
+    {
+        "word": "every cloud has a silver lining",
+        "phonetic american": "ˈɛvri klaʊd hæz ə ˈsɪlvər ˈlaɪnɪŋ",
+        "phonetic british": "ˈɛvri klaʊd hæz ə ˈsɪlvə ˈlaɪnɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He pai kei roto i nga mea kino katoa (idiom)",
+                "sentence": "Don’t worry about losing your job; every cloud has a silver lining.",
+                "sentence translation": "Kaua e manukanuka mo te ngaro o to mahi; He pai kei roto i nga mea kino katoa."
+            }
+        ]
+    },
+    {
+        "word": "explore all avenues",
+        "phonetic american": "ɪkˈsplɔːr ɔːl ˈævəˌnuːz",
+        "phonetic british": "ɪkˈsplɔːr ɔːl ˈævənjuːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hei torotoro i nga huarahi katoa (kwaha)",
+                "sentence": "We need to explore all avenues before making a decision.",
+                "sentence translation": "Me torotoro tatou i nga huarahi katoa i mua i to whakatau."
+            }
+        ]
+    },
+    {
+        "word": "eye-catching",
+        "phonetic american": "ˈaɪ ˌkætʃɪŋ",
+        "phonetic british": "ˈaɪ ˌkætʃɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "karu, karu (idiom)",
+                "sentence": "The new advertisement is very eye-catching.",
+                "sentence translation": "He tino titiro te panui hou."
+            }
+        ]
+    },
+    {
+        "word": "fallen in love",
+        "phonetic american": "ˈfɔːlən ɪn lʌv",
+        "phonetic british": "ˈfɔːlən ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "hinga te aroha (idiom)",
+                "sentence": "He has fallen in love with his best friend.",
+                "sentence translation": "I aroha ia ki tana hoa pai."
+            }
+        ]
+    },
+    {
+        "word": "far cry from",
+        "phonetic american": "fɑːr kraɪ frʌm",
+        "phonetic british": "fɑː kraɪ frʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tino rerekee, kore hononga (kwaha)",
+                "sentence": "This new design is a far cry from the old one.",
+                "sentence translation": "He tino rereke tenei hoahoa hou mai i te mea tawhito."
+            }
+        ]
+    },
+    {
+        "word": "feeling blue",
+        "phonetic american": "ˈfiːlɪŋ bluː",
+        "phonetic british": "ˈfiːlɪŋ bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pouri, pouri (idiom)",
+                "sentence": "I’ve been feeling blue ever since she moved away.",
+                "sentence translation": "Kua pouri ahau mai i tana nekenga atu."
+            }
+        ]
+    },
+    {
+        "word": "feeling under the weather",
+        "phonetic american": "ˈfiːlɪŋ ˈʌndər ðə ˈwɛðər",
+        "phonetic british": "ˈfiːlɪŋ ˈʌndə ðə ˈwɛðə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te mamae, te ngoikore ranei (kwaha)",
+                "sentence": "I’m feeling under the weather today, so I’ll stay home.",
+                "sentence translation": "Kei te ngoikore ahau i tenei ra, no reira ka noho ahau ki te kainga."
+            }
+        ]
+    },
+    {
+        "word": "fever pitch",
+        "phonetic american": "ˈfiːvər pɪtʃ",
+        "phonetic british": "ˈfiːvə pɪtʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te ahua o te tino ihiihi, i te awangawanga ranei (kwaha)",
+                "sentence": "The excitement in the stadium reached fever pitch.",
+                "sentence translation": "Ko te ihiihi i roto i te whare tapere i eke ki tona taumata."
+            }
+        ]
+    },
+    {
+        "word": "fill in the blanks",
+        "phonetic american": "fɪl ɪn ðə blæŋks",
+        "phonetic british": "fɪl ɪn ðə blæŋks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whakakii i nga korero ngaro (kwaha)",
+                "sentence": "She didn’t give us all the details, so we had to fill in the blanks.",
+                "sentence translation": "Kare i homai e ia nga korero katoa na reira me whakaki e matou nga korero kua ngaro."
+            }
+        ]
+    },
+    {
+        "word": "first in, best dressed",
+        "phonetic american": "fɜːrst ɪn bɛst drɛst",
+        "phonetic british": "fɜːst ɪn bɛst drɛst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka toa te tuatahi (kwaha)",
+                "sentence": "The sale was first in, best dressed, so we arrived early.",
+                "sentence translation": "Ko te hoko i tae tuatahi mai, i mahi tuatahi, no reira i tae wawe mai."
+            }
+        ]
+    },
+    {
+        "word": "first out of the gate",
+        "phonetic american": "fɜːrst aʊt əv ðə ɡeɪt",
+        "phonetic british": "fɜːst aʊt əv ðə ɡeɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tangata ka timata, ka mahi ranei i tetahi mea (kwaha)",
+                "sentence": "He was the first out of the gate with his project proposal.",
+                "sentence translation": "Ko ia te tangata tuatahi ki te mahi me te tono kaupapa."
+            }
+        ]
+    },
+    {
+        "word": "fish out of water",
+        "phonetic american": "fɪʃ aʊt əv ˈwɔːtər",
+        "phonetic british": "fɪʃ aʊt əv ˈwɔːtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te kare i te pai ki tetahi taiao ke (kwaha)",
+                "sentence": "He felt like a fish out of water at the formal dinner party.",
+                "sentence translation": "I te hakari ōkawa, he ahua ke ia kei roto i te taiao ke."
+            }
+        ]
+    },
+    {
+        "word": "foot in the door",
+        "phonetic american": "fʊt ɪn ðə dɔːr",
+        "phonetic british": "fʊt ɪn ðə dɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia whai waahi timata (kwaha)",
+                "sentence": "This internship will help you get your foot in the door of the industry.",
+                "sentence translation": "Ma tenei mahi whakangungu ka awhina koe ki te uru atu ki te umanga."
+            }
+        ]
+    },
+    {
+        "word": "for the time being",
+        "phonetic american": "fɔːr ðə taɪm ˈbiːɪŋ",
+        "phonetic british": "fɔː ðə taɪm ˈbiːɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Mo te wa poto (kwaha)",
+                "sentence": "For the time being, we’ll stay here until we find a better place.",
+                "sentence translation": "I tenei wa, ka noho tatou ki konei kia kitea ra ano he waahi pai ake."
+            }
+        ]
+    },
+    {
+        "word": "from now on",
+        "phonetic american": "frʌm naʊ ɑːn",
+        "phonetic british": "frʌm naʊ ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mai i tenei wa (idiom)",
+                "sentence": "From now on, I’ll be more careful with my spending.",
+                "sentence translation": "Mai i tenei wa, ka tino tupato ahau ki aku whakapaunga."
+            }
+        ]
+    },
+    {
+        "word": "from time to time",
+        "phonetic american": "frʌm taɪm tə taɪm",
+        "phonetic british": "frʌm taɪm tə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "i etahi wa, i ia wa i ia wa (idiom)",
+                "sentence": "I like to visit my hometown from time to time.",
+                "sentence translation": "He pai ki ahau te haere ki toku kainga tupu i ia wa."
+            }
+        ]
+    },
+    {
+        "word": "full of beans",
+        "phonetic american": "fʊl əv biːnz",
+        "phonetic british": "fʊl əv biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki tonu i te kaha, ora (kwaha)",
+                "sentence": "The children were full of beans after the party.",
+                "sentence translation": "I tino kaha nga tamariki i muri i te paati."
+            }
+        ]
+    },
+    {
+        "word": "full of the joys of spring",
+        "phonetic american": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "phonetic british": "fʊl əv ðə ˈʤɔɪz əv sprɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tino harikoa, harikoa (kwaha)",
+                "sentence": "She came into the office full of the joys of spring.",
+                "sentence translation": "I haere mai ia ki roto i te tari ki tonu i te koa o te puna."
+            }
+        ]
+    },
+    {
+        "word": "getting sacked (or axed, or fired)",
+        "phonetic american": "ˈɡɛtɪŋ sækt",
+        "phonetic british": "ˈɡɛtɪŋ sækt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia pana (idiom)",
+                "sentence": "He was afraid of getting sacked after the mistake.",
+                "sentence translation": "I mataku ia kei panaia i muri i tana he."
+            }
+        ]
+    },
+    {
+        "word": "getting the show on the road",
+        "phonetic american": "ˈɡɛtɪŋ ðə ʃoʊ ɑn ðə roʊd",
+        "phonetic british": "ˈɡɛtɪŋ ðə ʃəʊ ɒn ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te timata i tetahi kaupapa, mahi ranei (kwaha)",
+                "sentence": "Let’s get the show on the road and start the meeting.",
+                "sentence translation": "Me heke ki te mahi ka timata te hui."
+            }
+        ]
+    },
+    {
+        "word": "give the benefit of the doubt",
+        "phonetic american": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "phonetic british": "ɡɪv ðə ˈbɛnɪfɪt əv ðə daʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te whakapono ki tetahi ahakoa nga ruarua (idiom)",
+                "sentence": "Let’s give her the benefit of the doubt and assume she’s telling the truth.",
+                "sentence translation": "A feruri na e te tiaturi ra oe ia ’na noa ’tu to oe feaa e te parau mau ra oia."
+            }
+        ]
+    },
+    {
+        "word": "give the green light",
+        "phonetic american": "ɡɪv ðə ɡriːn laɪt",
+        "phonetic british": "ɡɪv ðə ɡriːn laɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "whakaae, whakaae (idiom)",
+                "sentence": "The manager gave the green light to start the project.",
+                "sentence translation": "I whakaae te kaiwhakahaere ki te timata i te kaupapa."
+            }
+        ]
+    },
+    {
+        "word": "go belly up",
+        "phonetic american": "ɡoʊ ˈbɛli ˈʌp",
+        "phonetic british": "ɡəʊ ˈbɛli ˈʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te kore, ki te kaihau (idiom)",
+                "sentence": "The company went belly up after losing its main client.",
+                "sentence translation": "I kaihau te kamupene i muri i te ngaronga o tana kaihoko matua."
+            }
+        ]
+    },
+    {
+        "word": "going places",
+        "phonetic american": "ˈɡoʊɪŋ ˈpleɪsɪz",
+        "phonetic british": "ˈɡəʊɪŋ ˈpleɪsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He kaha ki te angitu (kwaha)",
+                "sentence": "With her talent, she’s definitely going places.",
+                "sentence translation": "Ma tana taranata, ka tino angitu ia."
+            }
+        ]
+    },
+    {
+        "word": "golden boy",
+        "phonetic american": "ˈɡoʊldən bɔɪ",
+        "phonetic british": "ˈɡəʊldən bɔɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He tangata e arohaina nuitia ana, e tumanakohia ana te angitu (kwaha)",
+                "sentence": "He’s the golden boy of the football team.",
+                "sentence translation": "Ko ia te tino pai o te kapa whutupaoro."
+            }
+        ]
+    },
+    {
+        "word": "golden handshake",
+        "phonetic american": "ˈɡoʊldən ˈhændˌʃeɪk",
+        "phonetic british": "ˈɡəʊldən ˈhændˌʃeɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te utu reti, utu whakamutu ranei (kupu)",
+                "sentence": "The CEO received a golden handshake upon his retirement.",
+                "sentence translation": "I whakawhiwhia te Tumuaki he utu i muri i tana reti."
+            }
+        ]
+    },
+    {
+        "word": "golden opportunity",
+        "phonetic american": "ˈɡoʊldən ˌɑːpərˈtuːnɪti",
+        "phonetic british": "ˈɡəʊldən ˌɒpəˈtjuːnɪti",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He waahi nui kia kaua e ngaro (kwaha)",
+                "sentence": "This job offer is a golden opportunity for your career.",
+                "sentence translation": "Ko tenei tuku mahi he waahi kia kaua e ngaro mo to mahi."
+            }
+        ]
+    },
+    {
+        "word": "grass is always greener on the other side",
+        "phonetic american": "ɡræs ɪz ˈɔːlweɪz ˈɡriːnər ɑn ði ˈʌðər saɪd",
+        "phonetic british": "ɡrɑːs ɪz ˈɔːlweɪz ˈɡriːnə ɒn ði ˈʌðə saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea ataahua ake i nga wa katoa (kwaha)",
+                "sentence": "He left his job thinking the grass is always greener on the other side, but now he regrets it.",
+                "sentence translation": "I whakarerea e ia tana mahi me te whakaaro he mea ke atu te ahuareka, engari inaianei kua pouri ia."
+            }
+        ]
+    },
+    {
+        "word": "grease someone's palm",
+        "phonetic american": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "phonetic british": "ɡriːs ˈsʌmwʌnz pɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakapati i tetahi (idiom)",
+                "sentence": "He had to grease the official’s palm to get the permit approved.",
+                "sentence translation": "Me utu e ia te rangatira kia whakaaetia te whakaaetanga."
+            }
+        ]
+    },
+    {
+        "word": "green thumb",
+        "phonetic american": "ɡriːn θʌm",
+        "phonetic british": "ɡriːn θʌm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te kaha ki te whakatipu tipu (kwaha)",
+                "sentence": "She has a green thumb; her garden is always blooming.",
+                "sentence translation": "Kei a ia te kaha ki te whakatipu tipu; Kei te puāwai tonu tana māra."
+            }
+        ]
+    },
+    {
+        "word": "green with envy",
+        "phonetic american": "ɡriːn wɪð ˈɛnvi",
+        "phonetic british": "ɡriːn wɪð ˈɛnvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pakaru ana i te hae (idiom)",
+                "sentence": "She was green with envy when she saw her friend’s new car.",
+                "sentence translation": "Ki tonu ia i te hae i tana kitenga i te motuka hou o tana hoa."
+            }
+        ]
+    },
+    {
+        "word": "grey area",
+        "phonetic american": "ɡreɪ ˈɛriə",
+        "phonetic british": "ɡreɪ ˈɛərɪə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te ahua koretake, koretake ranei (kwaha)",
+                "sentence": "The rules about online privacy are still a grey area.",
+                "sentence translation": "Ko nga ture tūmataiti ipurangi he take kore marama."
+            }
+        ]
+    },
+    {
+        "word": "hanging on by fingernails",
+        "phonetic american": "ˈhæŋɪŋ ɑn baɪ ˈfɪŋɡərˌneɪlz",
+        "phonetic british": "ˈhæŋɪŋ ɒn baɪ ˈfɪŋɡəˌneɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te ngana ki te ora i roto i nga ahuatanga uaua (kwaha)",
+                "sentence": "The company is hanging on by its fingernails due to financial issues.",
+                "sentence translation": "Kei te kaha te kamupene ki te ora i runga i nga raruraru putea."
+            }
+        ]
+    },
+    {
+        "word": "hard as nails",
+        "phonetic american": "hɑːrd æz neɪlz",
+        "phonetic british": "hɑːd æz neɪlz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he tangata ngakau kore, he tangata kaha (kwaha)",
+                "sentence": "She may look kind, but she’s hard as nails when it comes to business.",
+                "sentence translation": "He ahua ngawari ia, engari he tino uaua ia mo te pakihi."
+            }
+        ]
+    },
+    {
+        "word": "hard time",
+        "phonetic american": "hɑːrd taɪm",
+        "phonetic british": "hɑːd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he wa uaua (kwaha)",
+                "sentence": "He had a hard time finding a job after college.",
+                "sentence translation": "I uaua ia ki te kimi mahi i muri i te kaareti."
+            }
+        ]
+    },
+    {
+        "word": "having one's heart set on something",
+        "phonetic american": "ˈhævɪŋ wʌnz hɑːrt sɛt ɑn ˈsʌmθɪŋ",
+        "phonetic british": "ˈhævɪŋ wʌnz hɑːt sɛt ɒn ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tino hiahia ki tetahi mea (idiom)",
+                "sentence": "She has her heart set on studying abroad next year.",
+                "sentence translation": "He tino hiahia ia ki te ako ki tawahi a tera tau."
+            }
+        ]
+    },
+    {
+        "word": "head in the clouds",
+        "phonetic american": "hɛd ɪn ðə klaʊdz",
+        "phonetic british": "hɛd ɪn ðə klaʊdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He tangata moemoea, tawhiti atu i te mooni (kwaha)",
+                "sentence": "He’s always got his head in the clouds, dreaming of becoming a rock star.",
+                "sentence translation": "Kei roto tonu ia i tana ao moemoea, e moemoea ana he whetu toka."
+            }
+        ]
+    },
+    {
+        "word": "head over heels in love",
+        "phonetic american": "hɛd ˈoʊvər hilz ɪn lʌv",
+        "phonetic british": "hɛd ˈəʊvə hiːlz ɪn lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "hinga te mahunga i runga i te rekereke i te aroha (idiom)",
+                "sentence": "He fell head over heels in love with her the moment they met.",
+                "sentence translation": "I aroha ia ki a ia i te wa i tutaki ai ia ki a ia."
+            }
+        ]
+    },
+    {
+        "word": "hear it on the grapevine",
+        "phonetic american": "hɪr ɪt ɑn ðə ˈɡreɪpˌvaɪn",
+        "phonetic british": "hɪə ɪt ɒn ðə ˈɡreɪpˌvaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te rongo i tetahi mea mai i nga korero (idiom)",
+                "sentence": "I heard on the grapevine that they’re getting married.",
+                "sentence translation": "I rongo ahau na roto i te karepe ka marena raua."
+            }
+        ]
+    },
+    {
+        "word": "heart is in the right place",
+        "phonetic american": "hɑːrt ɪz ɪn ðə raɪt pleɪs",
+        "phonetic british": "hɑːt ɪz ɪn ðə raɪt pleɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he tika nga whakaaro (kwaha)",
+                "sentence": "She makes mistakes sometimes, but her heart is in the right place.",
+                "sentence translation": "I etahi wa ka he ia, engari he pono ana whakaaro."
+            }
+        ]
+    },
+    {
+        "word": "here today, gone tomorrow",
+        "phonetic american": "hɪr təˈdeɪ, ɡɑn təˈmɑːroʊ",
+        "phonetic british": "hɪə təˈdeɪ, ɡɒn təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka whakamahia mo nga mea rangitahi (kwaha)",
+                "sentence": "The popularity of certain trends is here today, gone tomorrow.",
+                "sentence translation": "He rangitahi te rongonui o etahi ahuatanga."
+            }
+        ]
+    },
+    {
+        "word": "high time",
+        "phonetic american": "haɪ taɪm",
+        "phonetic british": "haɪ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kua tae ki te wa, kua tomuri kee (idiom)",
+                "sentence": "It’s high time you cleaned your room.",
+                "sentence translation": "Ko te wa tenei ki te horoi i to ruma."
+            }
+        ]
+    },
+    {
+        "word": "hit the big time",
+        "phonetic american": "hɪt ðə bɪɡ taɪm",
+        "phonetic british": "hɪt ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia angitu nui (kwaha)",
+                "sentence": "He hit the big time after his song became a global hit.",
+                "sentence translation": "I eke ia ki te angitu nui i muri i tana waiata hei waiata puta noa i te ao."
+            }
+        ]
+    },
+    {
+        "word": "hit the books",
+        "phonetic american": "hɪt ðə bʊks",
+        "phonetic british": "hɪt ðə bʊks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "timata ki te mahi (kwaha)",
+                "sentence": "I have to hit the books if I want to pass the exam.",
+                "sentence translation": "Ki te hiahia ahau ki te puta i te whakamatautau, me timata ahau ki te ako."
+            }
+        ]
+    },
+    {
+        "word": "hit the nail on the head",
+        "phonetic american": "hɪt ðə neɪl ɑn ðə hɛd",
+        "phonetic british": "hɪt ðə neɪl ɒn ðə hɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te patu i te whao ki te mahunga, ki te korero tika (kwaha)",
+                "sentence": "You hit the nail on the head with your analysis.",
+                "sentence translation": "I whiua e koe te whao i runga i to mahunga me to tātaritanga."
+            }
+        ]
+    },
+    {
+        "word": "hit the panic button",
+        "phonetic american": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "phonetic british": "hɪt ðə ˈpænɪk ˈbʌtn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te panic (kwaha)",
+                "sentence": "Don’t hit the panic button; we still have time to fix this.",
+                "sentence translation": "Kaua e mataku; He wa tonu taatau ki te whakatika i tenei."
+            }
+        ]
+    },
+    {
+        "word": "hit the road",
+        "phonetic american": "hɪt ðə roʊd",
+        "phonetic british": "hɪt ðə rəʊd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "to set off, to leave a place (idiom)",
+                "sentence": "It’s getting late; we’d better hit the road.",
+                "sentence translation": "Kua ahiahi; Me haere tatou."
+            }
+        ]
+    },
+    {
+        "word": "hit the sack (or sheets, or hay)",
+        "phonetic american": "hɪt ðə sæk",
+        "phonetic british": "hɪt ðə sæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te moe, ki te haere ki te moe (idiom)",
+                "sentence": "I’m exhausted, so I’m going to hit the sack.",
+                "sentence translation": "Kua tino ngenge ahau, no reira ka moe ahau."
+            }
+        ]
+    },
+    {
+        "word": "hold the fort",
+        "phonetic american": "hoʊld ðə fɔːrt",
+        "phonetic british": "həʊld ðə fɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakahaere i tetahi, ki te kawe i te kawenga mo te wa poto (idiom)",
+                "sentence": "Can you hold the fort while I’m away?",
+                "sentence translation": "Ka taea e koe te whakahaere i te ahuatanga i a au e haere ana?"
+            }
+        ]
+    },
+    {
+        "word": "honest as the day is long",
+        "phonetic american": "ˈɑːnɪst æz ðə deɪ ɪz lɔːŋ",
+        "phonetic british": "ˈɒnɪst æz ðə deɪ ɪz lɒŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia tino pono (idiom)",
+                "sentence": "She’s as honest as the day is long; you can trust her.",
+                "sentence translation": "He tino pono ia; ka taea e koe te whakawhirinaki ki a ia."
+            }
+        ]
+    },
+    {
+        "word": "hot potato",
+        "phonetic american": "hɑt pəˈteɪtoʊ",
+        "phonetic british": "hɒt pəˈteɪtəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He kaupapa uaua, tautohetohe ranei (kwaha)",
+                "sentence": "The new policy is a political hot potato.",
+                "sentence translation": "Ko te kaupapa here hou he kaupapa torangapu."
+            }
+        ]
+    },
+    {
+        "word": "hour of need",
+        "phonetic american": "ˈaʊər əv niːd",
+        "phonetic british": "ˈaʊə əv niːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te wa uaua, te wa hiahia (kwaha)",
+                "sentence": "He was always there for me in my hour of need.",
+                "sentence translation": "I reira tonu ia mo au i nga wa uaua."
+            }
+        ]
+    },
+    {
+        "word": "in due course",
+        "phonetic american": "ɪn duː kɔːrs",
+        "phonetic british": "ɪn djuː kɔːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka tae te wa, ka mutu (kwaha)",
+                "sentence": "You will receive your promotion in due course.",
+                "sentence translation": "Ka whiwhi koe i to whakatairanga i te wa e tika ana."
+            }
+        ]
+    },
+    {
+        "word": "in one's own time",
+        "phonetic american": "ɪn wʌnz oʊn taɪm",
+        "phonetic british": "ɪn wʌnz əʊn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I runga i te tere o te tangata, me te kore tere (kwaha)",
+                "sentence": "Take this project in your own time; there’s no rush.",
+                "sentence translation": "Mahia tenei kaupapa i runga i taau ake tere; Kaore he take kia tere."
+            }
+        ]
+    },
+    {
+        "word": "in someone's black book",
+        "phonetic american": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "phonetic british": "ɪn ˈsʌmwʌnz blæk bʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia noho i runga i te rarangi kino a tetahi, kia kore e manakohia (kwaha)",
+                "sentence": "He’s in the boss’s black book after missing the deadline.",
+                "sentence translation": "I ngaro ia i te aroha ki tona rangatira na te mea i ngaro ia i te wa kati."
+            }
+        ]
+    },
+    {
+        "word": "in the bag",
+        "phonetic american": "ɪn ðə bæg",
+        "phonetic british": "ɪn ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kua whakamanahia, kua whakamanahia (kwaha)",
+                "sentence": "With all the preparation we’ve done, victory is in the bag.",
+                "sentence translation": "Ka whakamanahia te wikitoria me nga whakaritenga katoa i mahia e matou."
+            }
+        ]
+    },
+    {
+        "word": "in the black",
+        "phonetic american": "ɪn ðə blæk",
+        "phonetic british": "ɪn ðə blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia whai hua, kia pai te ahua o te putea (kwaha)",
+                "sentence": "The company is finally in the black after years of losses.",
+                "sentence translation": "I te mutunga ka puta te hua o te kamupene i muri i nga tau o te mate."
+            }
+        ]
+    },
+    {
+        "word": "in the blink of an eye",
+        "phonetic american": "ɪn ðə blɪŋk əv ən aɪ",
+        "phonetic british": "ɪn ðə blɪŋk əv ən aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I te wa poto, i te kimo kanohi (kwaha)",
+                "sentence": "The car disappeared in the blink of an eye.",
+                "sentence translation": "Ka ngaro ohorere te waka."
+            }
+        ]
+    },
+    {
+        "word": "in the heat of the moment",
+        "phonetic american": "ɪn ðə hiːt əv ðə ˈmoʊmənt",
+        "phonetic british": "ɪn ðə hiːt əv ðə ˈməʊmənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I roto i te ihiihi, te ahotea ranei o te waa (kwaha)",
+                "sentence": "He said something hurtful in the heat of the moment.",
+                "sentence translation": "I roto i te ihiihi o te wa, ka korero ia i tetahi mea kino."
+            }
+        ]
+    },
+    {
+        "word": "in the interim",
+        "phonetic american": "ɪn ði ˈɪntərɪm",
+        "phonetic british": "ɪn ði ˈɪntərɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I tenei wa, mo te wa poto (kwaha)",
+                "sentence": "The company hired a consultant in the interim.",
+                "sentence translation": "Kua utua e te kamupene tetahi kaitohutohu i tenei wa."
+            }
+        ]
+    },
+    {
+        "word": "in the long run",
+        "phonetic american": "ɪn ðə lɔːŋ rʌn",
+        "phonetic british": "ɪn ðə lɒŋ rʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "i te wa roa (kwaha)",
+                "sentence": "This investment will pay off in the long run.",
+                "sentence translation": "Ka whai hua tenei haumi mo te wa roa."
+            }
+        ]
+    },
+    {
+        "word": "in the nick of time",
+        "phonetic american": "ɪn ðə nɪk əv taɪm",
+        "phonetic british": "ɪn ðə nɪk əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I te wa, i te wa whakamutunga (kwaha)",
+                "sentence": "The firefighters arrived in the nick of time.",
+                "sentence translation": "I tae mai nga kaipatu ahi i te wa tika."
+            }
+        ]
+    },
+    {
+        "word": "in the red",
+        "phonetic american": "ɪn ðə rɛd",
+        "phonetic british": "ɪn ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he nama, he mate (idiom)",
+                "sentence": "The company has been in the red for three months.",
+                "sentence translation": "Kua toru marama e ngaro moni ana te kamupene."
+            }
+        ]
+    },
+    {
+        "word": "in the right place at the right time",
+        "phonetic american": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "phonetic british": "ɪn ðə raɪt pleɪs æt ðə raɪt taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kei te waahi tika i te wa tika (kwaha)",
+                "sentence": "He got the job because he was in the right place at the right time.",
+                "sentence translation": "I whiwhi ia i te mahi na te mea kei te waahi tika ia i te wa tika."
+            }
+        ]
+    },
+    {
+        "word": "in the wrong place at the wrong time",
+        "phonetic american": "ɪn ðə rɔːŋ pleɪs æt ðə rɔːŋ taɪm",
+        "phonetic british": "ɪn ðə rɒŋ pleɪs æt ðə rɒŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te noho i te waahi he i te wa he (idiom)",
+                "sentence": "He was arrested because he was in the wrong place at the wrong time.",
+                "sentence translation": "I hopukina ia no te mea i he ia i te waahi i te wa he."
+            }
+        ]
+    },
+    {
+        "word": "in tune with someone (on the same wavelength)",
+        "phonetic american": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "phonetic british": "ɪn tjuːn wɪð ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia noho pai ki tetahi (idiom)",
+                "sentence": "They work well together because they’re in tune with each other.",
+                "sentence translation": "He pai ta raua mahi tahi na te mea he pai raua ki a raua ano."
+            }
+        ]
+    },
+    {
+        "word": "it takes two to tango",
+        "phonetic american": "ɪt teɪks tuː tə ˈtæŋɡoʊ",
+        "phonetic british": "ɪt teɪks tuː tə ˈtæŋɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kei nga taha e rua te kawenga mo tetahi aitua (kwaha)",
+                "sentence": "Don’t blame her entirely; it takes two to tango.",
+                "sentence translation": "Kaua e tino whakahengia ia; Ka whai waahi nga taha e rua ki tenei."
+            }
+        ]
+    },
+    {
+        "word": "itchy feet",
+        "phonetic american": "ˈɪtʃi fiːt",
+        "phonetic british": "ˈɪtʃi fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te oho, te hiahia ki te haere (idiom)",
+                "sentence": "After a year in the same city, he’s starting to get itchy feet.",
+                "sentence translation": "I muri i te noho ki te taone kotahi mo te tau, ka timata te ahua o te korekore."
+            }
+        ]
+    },
+    {
+        "word": "judge a book by its cover",
+        "phonetic american": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvər",
+        "phonetic british": "ˈdʒʌdʒ ə bʊk baɪ ɪts ˈkʌvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te whakawa i runga i te ahua (kwaha)",
+                "sentence": "Don’t judge a book by its cover; he’s actually very kind.",
+                "sentence translation": "Kaua e whakatau i runga i te ahua; He tangata tino atawhai ia."
+            }
+        ]
+    },
+    {
+        "word": "jump on the bandwagon",
+        "phonetic american": "dʒʌmp ɑn ðə ˈbændˌwæɡən",
+        "phonetic british": "dʒʌmp ɒn ðə ˈbændˌwæɡən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "whai wāhi ki tetahi mea rongonui (kwaha)",
+                "sentence": "He decided to jump on the bandwagon and start investing in cryptocurrency.",
+                "sentence translation": "I whakatau ia ki te uru atu ki te ahua rongonui ma te timata ki te haumi i roto i te cryptocurrency."
+            }
+        ]
+    },
+    {
+        "word": "keep something at bay",
+        "phonetic american": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "phonetic british": "kiːp ˈsʌmθɪŋ æt beɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te pupuri i tetahi mea i raro i te mana, i te kokoru ranei (kwaha)",
+                "sentence": "She exercises daily to keep stress at bay.",
+                "sentence translation": "Ka whakakorikori ia i ia ra ki te aukati i te ahotea."
+            }
+        ]
+    },
+    {
+        "word": "keeping up appearances",
+        "phonetic american": "ˈkiːpɪŋ ʌp əˈpɪrənsɪz",
+        "phonetic british": "ˈkiːpɪŋ ʌp əˈpɪərənsɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "E ngana ana kia pai te ahua ki waho (kwaha)",
+                "sentence": "Despite their financial struggles, they’re keeping up appearances.",
+                "sentence translation": "Ahakoa o ratou uauatanga putea, e ngana ana ratou ki te whakaatu i te ahua pai ki te ao o waho."
+            }
+        ]
+    },
+    {
+        "word": "keeping your finger on the pulse",
+        "phonetic american": "ˈkiːpɪŋ jʊr ˈfɪŋɡər ɑn ðə pʌls",
+        "phonetic british": "ˈkiːpɪŋ jɔː ˈfɪŋɡə ɒn ðə pʌls",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia whakamohiotia mo nga huihuinga me nga whanaketanga o naianei (kwaha)",
+                "sentence": "He’s a great leader because he always keeps his finger on the pulse of the market.",
+                "sentence translation": "He rangatira nui ia na te mea kei te mau tonu tana maihao ki te puihi o te maakete."
+            }
+        ]
+    },
+    {
+        "word": "kept in the dark",
+        "phonetic american": "kɛpt ɪn ðə dɑːrk",
+        "phonetic british": "kɛpt ɪn ðə dɑːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kaua e whakamohiotia, me waiho kia kore e mohio (kwaha)",
+                "sentence": "The employees were kept in the dark about the merger.",
+                "sentence translation": "Ko nga kaimahi i noho kore mohio ki te whakakotahitanga."
+            }
+        ]
+    },
+    {
+        "word": "kill time",
+        "phonetic american": "kɪl taɪm",
+        "phonetic british": "kɪl taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "to spend time, to linger (idiom)",
+                "sentence": "I played a game on my phone to kill time while waiting for the train.",
+                "sentence translation": "I a au e tatari ana mo te tereina, ka takaro ahau i tetahi keemu i runga i taku waea waea kia pau te taima."
+            }
+        ]
+    },
+    {
+        "word": "kill two birds with one stone",
+        "phonetic american": "kɪl tuː bɜːrdz wɪð wʌn stoʊn",
+        "phonetic british": "kɪl tuː bɜːdz wɪð wʌn stəʊn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te patu i nga manu e rua ki te kohatu kotahi, e rua nga painga mo te mahi kotahi (kwaha)",
+                "sentence": "By walking to work, she kills two birds with one stone: exercise and saving money on transport.",
+                "sentence translation": "Ma te hikoi ki te mahi, ka patua e ia nga manu e rua ki te kohatu kotahi: ka korikori ia, ka penapena moni mo te kawe waka."
+            }
+        ]
+    },
+    {
+        "word": "landslide victory",
+        "phonetic american": "ˈlændˌslaɪd ˈvɪktəri",
+        "phonetic british": "ˈlændˌslaɪd ˈvɪktəri",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he wikitōria whenua, toa i te taha nui (kwaha)",
+                "sentence": "The candidate won by a landslide victory in the election.",
+                "sentence translation": "I toa te kaitono i te pooti."
+            }
+        ]
+    },
+    {
+        "word": "last straw",
+        "phonetic american": "læst strɔː",
+        "phonetic british": "lɑːst strɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te kakau witi whakamutunga (kwaha)",
+                "sentence": "The broken promise was the last straw in their relationship.",
+                "sentence translation": "Ko te oati pakaru te kakau witi whakamutunga i roto i to raua hononga."
+            }
+        ]
+    },
+    {
+        "word": "laugh a minute",
+        "phonetic american": "læf ə ˈmɪnɪt",
+        "phonetic british": "lɑːf ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He ahuatanga tino whakangahau, he tangata ranei (kwaha)",
+                "sentence": "The comedian’s show was a laugh a minute.",
+                "sentence translation": "He tino ngahau te whakaaturanga a te kaitoi."
+            }
+        ]
+    },
+    {
+        "word": "learn by rote",
+        "phonetic american": "lɜːrn baɪ roʊt",
+        "phonetic british": "lɜːn baɪ rəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te ako ma te maumahara (kwaha)",
+                "sentence": "Students often learn by rote for exams, but they forget everything quickly.",
+                "sentence translation": "He maha nga wa ka maumahara nga akonga i nga mea mo nga whakamatautau, engari ka wareware tonu nga mea katoa."
+            }
+        ]
+    },
+    {
+        "word": "learn something off by heart",
+        "phonetic american": "lɜːrn ˈsʌmθɪŋ ɔːf baɪ hɑːrt",
+        "phonetic british": "lɜːn ˈsʌmθɪŋ ɒf baɪ hɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ako ma te ngakau (kwaha)",
+                "sentence": "He learned the poem off by heart for the recital.",
+                "sentence translation": "I ako ia i te rotarota ma te ngakau mo te whakaaturanga."
+            }
+        ]
+    },
+    {
+        "word": "learn the ropes",
+        "phonetic american": "lɜːrn ðə roʊps",
+        "phonetic british": "lɜːn ðə rəʊps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te ako i nga tikanga o te mahi (kwaha)",
+                "sentence": "It will take time to learn the ropes at the new job.",
+                "sentence translation": "Ka roa te wa ki te ako i nga kaupapa o te mahi hou."
+            }
+        ]
+    },
+    {
+        "word": "lemon",
+        "phonetic american": "ˈlɛmən",
+        "phonetic british": "ˈlɛmən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea he, he horihori ranei (kwaha)",
+                "sentence": "The car he bought turned out to be a lemon.",
+                "sentence translation": "Ko te motuka i hokona e ia kua kore noa iho."
+            }
+        ]
+    },
+    {
+        "word": "let me see the colour of your money",
+        "phonetic american": "lɛt miː siː ðə ˈkʌlər əv jʊr ˈmʌni",
+        "phonetic british": "lɛt miː siː ðə ˈkʌlə əv jɔː ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te kite i te hiahia o tetahi ki te utu (kwaha)",
+                "sentence": "If you want to place an order, let me see the colour of your money first.",
+                "sentence translation": "Mena kei te hiahia koe ki te ota, me whakaatu koe ka utu tuatahi koe."
+            }
+        ]
+    },
+    {
+        "word": "let sleeping dogs lie",
+        "phonetic american": "lɛt ˈsliːpɪŋ dɔːɡz laɪ",
+        "phonetic british": "lɛt ˈsliːpɪŋ dɒɡz laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kaua e noho ki nga raruraru o mua (kwaha)",
+                "sentence": "Don’t bring up old arguments; let sleeping dogs lie.",
+                "sentence translation": "Kaua e whakatuwhera i nga korerorero tawhito; Kaua e whakaaro ki nga raruraru o mua."
+            }
+        ]
+    },
+    {
+        "word": "let slip through fingers",
+        "phonetic american": "lɛt slɪp θruː ˈfɪŋɡərz",
+        "phonetic british": "lɛt slɪp θruː ˈfɪŋɡəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ngaro te whai waahi (kwaha)",
+                "sentence": "He let the chance of a promotion slip through his fingers.",
+                "sentence translation": "I tukuna e ia tana whai waahi whakatairanga."
+            }
+        ]
+    },
+    {
+        "word": "let the cat out of the bag",
+        "phonetic american": "lɛt ðə kæt aʊt əv ðə bæg",
+        "phonetic british": "lɛt ðə kæt aʊt əv ðə bæg",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hei whakakite i tetahi mea ngaro (kwaha)",
+                "sentence": "He accidentally let the cat out of the bag about the surprise party.",
+                "sentence translation": "I kitea e ia te mea ngaro mo te ope ohorere."
+            }
+        ]
+    },
+    {
+        "word": "lick one's wounds",
+        "phonetic american": "lɪk wʌnz wuːndz",
+        "phonetic british": "lɪk wʌnz wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te mitimiti i nga patunga, kia ora ake i muri i te ahua kino (kwaha)",
+                "sentence": "After losing the match, the team went home to lick their wounds.",
+                "sentence translation": "I te hinganga o te tukinga, ka hoki te kapa ki te kainga ki te mitimiti i o ratou patunga."
+            }
+        ]
+    },
+    {
+        "word": "lightning fast",
+        "phonetic american": "ˈlaɪtnɪŋ fæst",
+        "phonetic british": "ˈlaɪtnɪŋ fɑːst",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tino tere, penei i te uira (kwaha)",
+                "sentence": "The new processor is lightning fast.",
+                "sentence translation": "He tere te uira te tukatuka hou."
+            }
+        ]
+    },
+    {
+        "word": "lights are on but nobody is home",
+        "phonetic american": "laɪts ɑːr ɑn bʌt ˈnoʊbədi ɪz hoʊm",
+        "phonetic british": "laɪts ɑːr ɒn bʌt ˈnəʊbədi ɪz həʊm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te noho tinana engari he kore aro, he mohio ranei (kwaha)",
+                "sentence": "I tried explaining the problem, but it was like the lights were on but nobody was home.",
+                "sentence translation": "I ngana ahau ki te whakamarama i te raru engari ko te ahua kaore ia i te aro."
+            }
+        ]
+    },
+    {
+        "word": "like clockwork",
+        "phonetic american": "laɪk ˈklɑːkˌwɜːrk",
+        "phonetic british": "laɪk ˈklɒkˌwɜːk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I te wa tika, kaore he raru (kwaha)",
+                "sentence": "The trains in Japan run like clockwork.",
+                "sentence translation": "Ka rere nga tereina i Hapani i runga i te waa."
+            }
+        ]
+    },
+    {
+        "word": "like there's no tomorrow",
+        "phonetic american": "laɪk ðɛrz noʊ təˈmɑːroʊ",
+        "phonetic british": "laɪk ðɛəz nəʊ təˈmɒrəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te mahi i tetahi mea karekau, ka tere ranei (kwaha)",
+                "sentence": "She’s spending money like there’s no tomorrow.",
+                "sentence translation": "Ka whakapau moni ia me te mea karekau he apopo."
+            }
+        ]
+    },
+    {
+        "word": "lining up all the ducks in a row",
+        "phonetic american": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə roʊ",
+        "phonetic british": "ˈlaɪnɪŋ ʌp ɔːl ðə dʌks ɪn ə rəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whakarite me te whakarite i nga korero katoa (kwaha)",
+                "sentence": "Before the presentation, she made sure all her ducks were in a row.",
+                "sentence translation": "I whakarite ia kia rite katoa nga korero i mua i te whakaaturanga."
+            }
+        ]
+    },
+    {
+        "word": "living beyond your means",
+        "phonetic american": "ˈlɪvɪŋ bɪˈjɑːnd jʊr miːnz",
+        "phonetic british": "ˈlɪvɪŋ bɪˈjɒnd jɔː miːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whakapau nui atu i te moni whiwhi a te tangata (kwaha)",
+                "sentence": "He’s living beyond his means with that expensive car.",
+                "sentence translation": "E noho ana ia i runga ake i ana moni whiwhi me taua waka utu nui."
+            }
+        ]
+    },
+    {
+        "word": "living in an ivory tower",
+        "phonetic american": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊər",
+        "phonetic british": "ˈlɪvɪŋ ɪn ən ˈaɪvəri ˈtaʊə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te noho taratahi mai i te ao mau (kwaha)",
+                "sentence": "Academics are often accused of living in an ivory tower.",
+                "sentence translation": "Ko te nuinga o nga wa e whakapaehia ana nga tohunga mo te noho mokemoke mai i te ao tuuturu."
+            }
+        ]
+    },
+    {
+        "word": "living on the breadline",
+        "phonetic american": "ˈlɪvɪŋ ɑn ðə ˈbrɛdˌlaɪn",
+        "phonetic british": "ˈlɪvɪŋ ɒn ðə ˈbrɛdˌlaɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te noho ki te pito o te rawakore (kwaha)",
+                "sentence": "Many families are living on the breadline due to the economic crisis.",
+                "sentence translation": "Na te raruraru ohaoha, he maha nga whanau e noho ana i runga i te rarangi rawakore."
+            }
+        ]
+    },
+    {
+        "word": "long arm of the law",
+        "phonetic american": "lɔːŋ ɑrm əv ðə lɔː",
+        "phonetic british": "lɒŋ ɑːm əv ðə lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Karekau he waahi e kore e tae atu te ture (kwaha)",
+                "sentence": "You can’t escape the long arm of the law.",
+                "sentence translation": "Kaore e taea e koe te mawhiti i te ringa roa o te ture."
+            }
+        ]
+    },
+    {
+        "word": "long time no see",
+        "phonetic american": "lɔːŋ taɪm noʊ siː",
+        "phonetic british": "lɒŋ taɪm nəʊ siː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kare e kite tetahi ki tetahi mo te wa roa (idiom)",
+                "sentence": "Hey, long time no see! How have you been?",
+                "sentence translation": "Hey, kua roa e kore e kite! Kei te pehea koe?"
+            }
+        ]
+    },
+    {
+        "word": "look on the bright side",
+        "phonetic american": "lʊk ɑn ðə braɪt saɪd",
+        "phonetic british": "lʊk ɒn ðə braɪt saɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te kite i te taha pai o nga huihuinga (kwaha)",
+                "sentence": "Look on the bright side; at least you learned something from the experience.",
+                "sentence translation": "Tirohia te taha pai o nga mea; I te iti rawa i ako koe i tetahi mea mai i tenei wheako."
+            }
+        ]
+    },
+    {
+        "word": "love at first sight",
+        "phonetic american": "lʌv æt fɜːrst saɪt",
+        "phonetic british": "lʌv æt fɜːst saɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te aroha i te kitenga tuatahi (kwaha)",
+                "sentence": "It was love at first sight when they met at the party.",
+                "sentence translation": "I te wa i tutaki ai raua ki te hui, ko te aroha i te kitenga tuatahi."
+            }
+        ]
+    },
+    {
+        "word": "lovey-dovey",
+        "phonetic american": "ˈlʌvi ˈdʌvi",
+        "phonetic british": "ˈlʌvi ˈdʌvi",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tino aroha me te aroha (kwaha)",
+                "sentence": "The couple was so lovey-dovey at the restaurant.",
+                "sentence translation": "He tino aroha te tokorua nei i te wharekai."
+            }
+        ]
+    },
+    {
+        "word": "lump in your throat",
+        "phonetic american": "lʌmp ɪn jʊr θroʊt",
+        "phonetic british": "lʌmp ɪn jɔː θrəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Koowaotia te korokoro i roto i te ahua kare-a-roto (kwaha)",
+                "sentence": "He felt a lump in his throat when he saw the farewell letter.",
+                "sentence translation": "I tana kitenga i te reta poroporoaki, ka rongo ia i te pupuhi i tona korokoro."
+            }
+        ]
+    },
+    {
+        "word": "make a long story short",
+        "phonetic american": "meɪk ə lɔːŋ ˈstɔːri ʃɔːrt",
+        "phonetic british": "meɪk ə lɒŋ ˈstɔːri ʃɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia poto, kia tae ki te ngakau o te take (kwaha)",
+                "sentence": "To make a long story short, we decided to cancel the trip.",
+                "sentence translation": "Hei poto, ka whakatau matou ki te whakakore i te haerenga."
+            }
+        ]
+    },
+    {
+        "word": "make my day",
+        "phonetic american": "meɪk maɪ deɪ",
+        "phonetic british": "meɪk maɪ deɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia tino koa ahau (idiom)",
+                "sentence": "Your kind words really made my day.",
+                "sentence translation": "I tino harikoa au i au kupu pai."
+            }
+        ]
+    },
+    {
+        "word": "make or break",
+        "phonetic american": "meɪk ɔːr breɪk",
+        "phonetic british": "meɪk ɔː breɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He aha te mea ka angitu, ka hinga ranei (kwaha)",
+                "sentence": "This is a make-or-break moment for the company.",
+                "sentence translation": "He waahi tenei ka arahi ki te angitu, ki te kore ranei mo te kamupene."
+            }
+        ]
+    },
+    {
+        "word": "make the grade",
+        "phonetic american": "meɪk ðə ɡreɪd",
+        "phonetic british": "meɪk ðə ɡreɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tutuki te paerewa e tumanakohia ana (kwaha)",
+                "sentence": "She worked hard to make the grade and secure her promotion.",
+                "sentence translation": "I whakapau kaha ia ki te whakatutuki i te paerewa e tumanakohia ana kia whiwhi i te whakatairanga."
+            }
+        ]
+    },
+    {
+        "word": "make time",
+        "phonetic american": "meɪk taɪm",
+        "phonetic british": "meɪk taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whai wa mo tetahi mea (idiom)",
+                "sentence": "You should make time for your hobbies.",
+                "sentence translation": "Me whai wa koe mo o hiahia."
+            }
+        ]
+    },
+    {
+        "word": "makes your flesh crawl",
+        "phonetic american": "meɪks jʊr flɛʃ krɔːl",
+        "phonetic british": "meɪks jɔː flɛʃ krɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakawehi, te whakawehi, te whakararuraru ranei (idiom)",
+                "sentence": "The creepy noises in the house made my flesh crawl.",
+                "sentence translation": "Ko nga oro rereke i roto i te whare ka tino makariri ahau."
+            }
+        ]
+    },
+    {
+        "word": "making a go of it",
+        "phonetic american": "ˈmeɪkɪŋ ə ɡoʊ əv ɪt",
+        "phonetic british": "ˈmeɪkɪŋ ə ɡəʊ əv ɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "e ngana ana ki te mahi angitu i tetahi mea (idiom)",
+                "sentence": "They’re making a go of their new business despite the challenges.",
+                "sentence translation": "Ahakoa nga uauatanga, ka ngana ratou ki te whakahaere angitu i a raatau pakihi hou."
+            }
+        ]
+    },
+    {
+        "word": "making good time",
+        "phonetic american": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "phonetic british": "ˈmeɪkɪŋ ɡʊd taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tere tae ki te whainga (kwaha)",
+                "sentence": "We’re making good time; we should arrive by noon.",
+                "sentence translation": "Kei te tere haere matou; Ka tae mai tatou hei te poupoutanga o te ra."
+            }
+        ]
+    },
+    {
+        "word": "making headway",
+        "phonetic american": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "phonetic british": "ˈmeɪkɪŋ ˈhɛdˌweɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ahu whakamua (kwaha)",
+                "sentence": "We’re finally making headway on the project after weeks of delays.",
+                "sentence translation": "Whai muri i nga wiki o te whakaroa, kua ahu whakamua matou ki te kaupapa."
+            }
+        ]
+    },
+    {
+        "word": "match made in heaven",
+        "phonetic american": "mætʃ meɪd ɪn ˈhɛvən",
+        "phonetic british": "mætʃ meɪd ɪn ˈhɛvn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He tokorua taurite, he hononga ranei (kwaha)",
+                "sentence": "Their partnership is a match made in heaven.",
+                "sentence translation": "He tino pai to raua hononga."
+            }
+        ]
+    },
+    {
+        "word": "method to my madness",
+        "phonetic american": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "phonetic british": "ˈmɛθəd tə maɪ ˈmædnəs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He arorau, he mahere ranei kei muri i tetahi mea e ahua hepohepo (kwaha)",
+                "sentence": "It may seem chaotic, but there’s a method to my madness.",
+                "sentence translation": "Ko te ahua hepohepo, engari he arorau ki taku mahi."
+            }
+        ]
+    },
+    {
+        "word": "mile a minute",
+        "phonetic american": "maɪl ə ˈmɪnɪt",
+        "phonetic british": "maɪl ə ˈmɪnɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te korero, te neke tere ranei (idiom)",
+                "sentence": "She was talking a mile a minute, and I couldn’t keep up.",
+                "sentence translation": "He tere rawa tana korero, kare e taea e au te whai tonu."
+            }
+        ]
+    },
+    {
+        "word": "miss the boat",
+        "phonetic american": "mɪs ðə boʊt",
+        "phonetic british": "mɪs ðə bəʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te ngaro i tetahi waahi (kwaha)",
+                "sentence": "I wanted to apply for that job, but I missed the boat.",
+                "sentence translation": "I hiahia ahau ki te tono mo tera mahi, engari i ngaro ahau i te waahi."
+            }
+        ]
+    },
+    {
+        "word": "monkey business",
+        "phonetic american": "ˈmʌŋki ˈbɪznɪs",
+        "phonetic british": "ˈmʌŋki ˈbɪznɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te kino, te tinihanga ranei (kwaha)",
+                "sentence": "The teacher warned the students to stop their monkey business.",
+                "sentence translation": "I whakatupato te kaiako i nga tauira kia mutu te mahi kino."
+            }
+        ]
+    },
+    {
+        "word": "month of Sundays",
+        "phonetic american": "mʌnθ əv ˈsʌndiz",
+        "phonetic british": "mʌnθ əv ˈsʌndɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he wa roa (idiom)",
+                "sentence": "I haven’t seen him in a month of Sundays.",
+                "sentence translation": "Kare au i kite i a ia mo te wa roa."
+            }
+        ]
+    },
+    {
+        "word": "Murphy's law",
+        "phonetic american": "ˈmɜːrfiz lɔː",
+        "phonetic british": "ˈmɜːfiz lɔː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te he tetahi mea, ka he (kwaha)",
+                "sentence": "We prepared for everything, but Murphy's law struck again, and the power went out.",
+                "sentence translation": "I rite matou mo nga mea katoa, engari ka mahi ano te ture a Murphy ka mutu te hiko."
+            }
+        ]
+    },
+    {
+        "word": "never in a million years",
+        "phonetic american": "ˈnɛvər ɪn ə ˈmɪljən jɪrz",
+        "phonetic british": "ˈnɛvə ɪn ə ˈmɪljən jɪəz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kaua rawa, i roto i tetahi huarahi (idiom)",
+                "sentence": "Never in a million years did I think I would win the lottery.",
+                "sentence translation": "Kaore rawa, ahakoa kotahi i roto i te miriona, i whakaaro ahau ka toa ahau i te rota."
+            }
+        ]
+    },
+    {
+        "word": "no time like the present",
+        "phonetic american": "noʊ taɪm laɪk ðə ˈprɛzənt",
+        "phonetic british": "nəʊ taɪm laɪk ðə ˈprɛzənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ko te korero ko tenei te wa pai ki te mahi i tetahi mea (kwaha)",
+                "sentence": "Let’s start the project now; there’s no time like the present.",
+                "sentence translation": "Me timata te kaupapa inaianei; Kaore he wa pai ake i tenei wa."
+            }
+        ]
+    },
+    {
+        "word": "no time to lose",
+        "phonetic american": "noʊ taɪm tə luz",
+        "phonetic british": "nəʊ taɪm tə luːz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Karekau he waahi mo te moumou taima, he ahuatanga me tere (kwaha)",
+                "sentence": "We have to leave immediately; there’s no time to lose.",
+                "sentence translation": "Me haere tonu tatou; Kaore he waahi mo te moumou taima."
+            }
+        ]
+    },
+    {
+        "word": "not letting grass grow under your feet",
+        "phonetic american": "nɑːt ˈlɛtɪŋ ɡræs ɡroʊ ˈʌndər jʊr fit",
+        "phonetic british": "nɒt ˈlɛtɪŋ ɡrɑːs ɡrəʊ ˈʌndə jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kaua e mangere ki te mahi (idiom)",
+                "sentence": "She never lets grass grow under her feet; she started her new business right after finishing college.",
+                "sentence translation": "Kare ia e moumou taima; I timata ia i tana mahi hou i tana whiwhinga i te whare wananga."
+            }
+        ]
+    },
+    {
+        "word": "now and then",
+        "phonetic american": "naʊ ənd ðɛn",
+        "phonetic british": "naʊ ənd ðɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "i etahi wa, i ia wa i ia wa (kwaha)",
+                "sentence": "I like to visit my grandparents now and then.",
+                "sentence translation": "He pai ki ahau te toro atu ki oku tupuna i ia wa."
+            }
+        ]
+    },
+    {
+        "word": "now or never",
+        "phonetic american": "naʊ ɔr ˈnɛvər",
+        "phonetic british": "naʊ ɔː ˈnɛvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kua tae ki te wa ki te mahi i tetahi mea (idiom)",
+                "sentence": "If you want to change your career, it’s now or never.",
+                "sentence translation": "Mena kei te hiahia koe ki te whakarereke i to mahi, koinei te wa."
+            }
+        ]
+    },
+    {
+        "word": "off colour",
+        "phonetic american": "ɔf ˈkʌlər",
+        "phonetic british": "ɒf ˈkʌlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he puhoi, he kino ranei (kwaha)",
+                "sentence": "I’ve been feeling a bit off colour today.",
+                "sentence translation": "Kei te ngenge au i tenei ra."
+            }
+        ]
+    },
+    {
+        "word": "off one's rocker",
+        "phonetic american": "ɔf wʌnz ˈrɑːkər",
+        "phonetic british": "ɒf wʌnz ˈrɒkə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te mahi porangi, porangi ranei (kwaha)",
+                "sentence": "You must be off your rocker to drive in this weather.",
+                "sentence translation": "He haurangi te ngana ki te taraiwa i tenei rangi."
+            }
+        ]
+    },
+    {
+        "word": "off to a flying start",
+        "phonetic american": "ɔf tə ə ˈflaɪɪŋ stɑːrt",
+        "phonetic british": "ɒf tə ə ˈflaɪɪŋ stɑːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He timatanga tino angitu (kwaha)",
+                "sentence": "The team got off to a flying start by scoring in the first minute.",
+                "sentence translation": "He tino angitu te tiimatanga o te kapa na te whai piro i te meneti tuatahi."
+            }
+        ]
+    },
+    {
+        "word": "old hand",
+        "phonetic american": "oʊld hænd",
+        "phonetic british": "əʊld hænd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tangata mohio (kwaha)",
+                "sentence": "He’s an old hand at fixing cars.",
+                "sentence translation": "He tino mohio ia ki te hanga waka."
+            }
+        ]
+    },
+    {
+        "word": "old school",
+        "phonetic american": "oʊld skuːl",
+        "phonetic british": "əʊld skuːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tawhito, tuku iho (kwaha)",
+                "sentence": "He prefers old school methods over modern technology.",
+                "sentence translation": "He pai ake ki a ia nga tikanga tawhito i runga i nga hangarau hou."
+            }
+        ]
+    },
+    {
+        "word": "on the ball",
+        "phonetic american": "ɑn ðə bɔːl",
+        "phonetic british": "ɒn ðə bɔːl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia tupato me te tere haere (kwaha)",
+                "sentence": "The manager is really on the ball and catches mistakes quickly.",
+                "sentence translation": "He tino aro te kaiwhakahaere me te hopu i nga hapa."
+            }
+        ]
+    },
+    {
+        "word": "on the brain",
+        "phonetic american": "ɑn ðə breɪn",
+        "phonetic british": "ɒn ðə breɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia noho poauau tonu ki tetahi kaupapa (kwaha)",
+                "sentence": "He has football on the brain; it’s all he talks about.",
+                "sentence translation": "Ko tana hinengaro i nga wa katoa i runga i te whutupaoro; Heoi ano ana korero."
+            }
+        ]
+    },
+    {
+        "word": "on the rocks",
+        "phonetic american": "ɑn ðə rɑːks",
+        "phonetic british": "ɒn ðə rɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te noho i roto i tetahi ahuatanga uaua, ina koa mo te whanaungatanga, he ahuatanga putea ranei (kwaha)",
+                "sentence": "Their marriage is on the rocks after years of arguments.",
+                "sentence translation": "I muri i nga tau tautohetohe, ka raru to raua marena."
+            }
+        ]
+    },
+    {
+        "word": "on time",
+        "phonetic american": "ɑn taɪm",
+        "phonetic british": "ɒn taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I te wa tika, kaua e whakaroa (kwaha)",
+                "sentence": "The train arrived on time, as scheduled.",
+                "sentence translation": "I tae mai te tereina i te wa i whakaritea."
+            }
+        ]
+    },
+    {
+        "word": "once in a blue moon",
+        "phonetic american": "wʌns ɪn ə bluː muːn",
+        "phonetic british": "wʌns ɪn ə bluː muːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea tino uaua ka tupu (kwaha)",
+                "sentence": "I only go to the cinema once in a blue moon.",
+                "sentence translation": "He iti rawa ahau ki te haere ki te whare pikitia."
+            }
+        ]
+    },
+    {
+        "word": "once upon a time",
+        "phonetic american": "wʌns əˈpɑːn ə taɪm",
+        "phonetic british": "wʌns əˈpɒn ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I mua, he maha nga wa i whakamahia hei timata i nga korero (idiom)",
+                "sentence": "Once upon a time, there was a beautiful princess.",
+                "sentence translation": "I tetahi wa he wahine rangatira ataahua."
+            }
+        ]
+    },
+    {
+        "word": "only time will tell",
+        "phonetic american": "ˈoʊnli taɪm wɪl tɛl",
+        "phonetic british": "ˈəʊnli taɪm wɪl tɛl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ma te wa anake e whakaatu te putanga o tetahi mea (kwaha)",
+                "sentence": "Only time will tell if their decision was the right one.",
+                "sentence translation": "Ma te wa anake e whakaatu mena he tika ta raatau whakatau."
+            }
+        ]
+    },
+    {
+        "word": "out of the blue",
+        "phonetic american": "aʊt əv ðə bluː",
+        "phonetic british": "aʊt əv ðə bluː",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ohorere (kwaha)",
+                "sentence": "He showed up out of the blue after years of no contact.",
+                "sentence translation": "I puta ohorere mai i muri i nga tau kore korero."
+            }
+        ]
+    },
+    {
+        "word": "out of the red",
+        "phonetic american": "aʊt əv ðə rɛd",
+        "phonetic british": "aʊt əv ðə rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te whakakore i nga nama (idiom)",
+                "sentence": "The company is finally out of the red and starting to make a profit.",
+                "sentence translation": "I te mutunga ka kore nama te kamupene, ka timata ki te whai hua."
+            }
+        ]
+    },
+    {
+        "word": "out of time",
+        "phonetic american": "aʊt əv taɪm",
+        "phonetic british": "aʊt əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kua pau te wa (kwaha)",
+                "sentence": "We’re out of time, so we’ll have to continue this discussion later.",
+                "sentence translation": "Kua pau te taima, no reira me haere tonu tenei korero a muri ake nei."
+            }
+        ]
+    },
+    {
+        "word": "paint the town red",
+        "phonetic american": "peɪnt ðə taʊn rɛd",
+        "phonetic british": "peɪnt ðə taʊn rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "haere ki waho ka ngahau (idiom)",
+                "sentence": "After finishing their exams, the students decided to paint the town red.",
+                "sentence translation": "Ka mutu a ratou whakamatautau, ka whakatau nga tauira ki te haere ki te whakangahau."
+            }
+        ]
+    },
+    {
+        "word": "pass with flying colours",
+        "phonetic american": "pæs wɪð ˈflaɪɪŋ ˈkʌlərz",
+        "phonetic british": "pɑːs wɪð ˈflaɪɪŋ ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "haere me nga tae rere (kwaha)",
+                "sentence": "She passed the exam with flying colours.",
+                "sentence translation": "I eke ia ki te whakamatautau me te tino angitu."
+            }
+        ]
+    },
+    {
+        "word": "penny for your thoughts",
+        "phonetic american": "ˈpɛni fɔːr jʊr θɔːts",
+        "phonetic british": "ˈpɛni fɔː jɔː θɔːts",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "te patai he aha te whakaaro o tetahi (idiom)",
+                "sentence": "You’ve been quiet all evening; a penny for your thoughts?",
+                "sentence translation": "I wahangu koe i te ahiahi katoa; he aha to whakaaro?"
+            }
+        ]
+    },
+    {
+        "word": "picture paints a thousand words",
+        "phonetic american": "ˈpɪktʃər peɪnts ə ˈθaʊzənd wɜːrdz",
+        "phonetic british": "ˈpɪktʃə peɪnts ə ˈθaʊzənd wɜːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kotahi mano kupu te utu o te pikitia (kwaha)",
+                "sentence": "Instead of explaining the design, just show them; a picture paints a thousand words.",
+                "sentence translation": "Whakaaturia te hoahoa, kaua ki te whakamarama; kotahi mano kupu te utu o tetahi pikitia."
+            }
+        ]
+    },
+    {
+        "word": "piece of cake",
+        "phonetic american": "piːs əv keɪk",
+        "phonetic british": "piːs əv keɪk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea tino ngawari (kwaha)",
+                "sentence": "The test was a piece of cake; I finished it in ten minutes.",
+                "sentence translation": "He tino ngawari te whakamatautau; I oti i ahau i roto i te tekau meneti."
+            }
+        ]
+    },
+    {
+        "word": "pitch black",
+        "phonetic american": "pɪtʃ blæk",
+        "phonetic british": "pɪtʃ blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "pango nui (kwaha)",
+                "sentence": "It was pitch black outside when the power went out.",
+                "sentence translation": "I te pouri i waho ka mate te hiko."
+            }
+        ]
+    },
+    {
+        "word": "place in the sun",
+        "phonetic american": "pleɪs ɪn ðə sʌn",
+        "phonetic british": "pleɪs ɪn ðə sʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He waahi, he ahuatanga ranei ka kitea, ka maiohatia e te katoa (kwaha)",
+                "sentence": "She’s finally found her place in the sun with her new career.",
+                "sentence translation": "I te mutunga ka kitea e ia he waahi marama i roto i tana mahi hou."
+            }
+        ]
+    },
+    {
+        "word": "pop the question",
+        "phonetic american": "pɑːp ðə ˈkwɛstʃən",
+        "phonetic british": "pɒp ðə ˈkwɛstʃən",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "hanga he tono marena (idiom)",
+                "sentence": "He popped the question during their vacation in Paris.",
+                "sentence translation": "I tono ia i to ratou hararei i Paris."
+            }
+        ]
+    },
+    {
+        "word": "pot calling the kettle black",
+        "phonetic american": "pɑːt ˈkɔːlɪŋ ðə ˈkɛtəl blæk",
+        "phonetic british": "pɒt ˈkɔːlɪŋ ðə ˈkɛtl blæk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whakahee i tetahi atu mo te he i roto ia ia ano (kwaha)",
+                "sentence": "When he criticized her for being late, it was the pot calling the kettle black.",
+                "sentence translation": "I tana whakahē i a ia mo te tōmuri, he &#39;raro o te kohua&#39; te ahuatanga."
+            }
+        ]
+    },
+    {
+        "word": "pressed for time",
+        "phonetic american": "prɛst fɔːr taɪm",
+        "phonetic british": "prɛst fɔː taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia poto te wa (idiom)",
+                "sentence": "I can’t talk right now; I’m pressed for time.",
+                "sentence translation": "Kaore e taea e au te korero inaianei; He iti rawa taku wa."
+            }
+        ]
+    },
+    {
+        "word": "proud as a peacock",
+        "phonetic american": "praʊd æz ə ˈpiːkɑːk",
+        "phonetic british": "praʊd æz ə ˈpiːkɒk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia tino whakahihi (kwaha)",
+                "sentence": "He was as proud as a peacock when he received the award.",
+                "sentence translation": "I tino whakahīhī ia i tana whiwhinga i te tohu."
+            }
+        ]
+    },
+    {
+        "word": "pull the plug",
+        "phonetic american": "pʊl ðə plʌɡ",
+        "phonetic british": "pʊl ðə plʌɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakamutu, ki te whakamutu ranei i tetahi mea (idiom)",
+                "sentence": "The company decided to pull the plug on the failing project.",
+                "sentence translation": "I whakatau te kamupene ki te whakamutu i te kaupapa i rahua."
+            }
+        ]
+    },
+    {
+        "word": "pull wool over other people's eyes",
+        "phonetic american": "pʊl wʊl ˈoʊvər ˈʌðər ˈpiːpəlz aɪz",
+        "phonetic british": "pʊl wʊl ˈəʊvə ˈʌðə ˈpiːplz aɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakapohehe, ki te whakapohehe ranei i tetahi (idiom)",
+                "sentence": "He tried to pull the wool over the manager’s eyes, but she saw through his lies.",
+                "sentence translation": "I whakamatau ia ki te whakapohehe i te kaiwhakahaere engari i kitea ana korero teka."
+            }
+        ]
+    },
+    {
+        "word": "pulling out all the stops",
+        "phonetic american": "ˈpʊlɪŋ aʊt ɔːl ðə stɑːps",
+        "phonetic british": "ˈpʊlɪŋ aʊt ɔːl ðə stɒps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whakamahi i nga huarahi katoa hei whakatutuki i tetahi mea (kwaha)",
+                "sentence": "They’re pulling out all the stops to make the event successful.",
+                "sentence translation": "Ka whakamahi ratou i nga huarahi katoa kia angitu ai te huihuinga."
+            }
+        ]
+    },
+    {
+        "word": "punch above one's weight",
+        "phonetic american": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "phonetic british": "pʌntʃ əˈbʌv wʌnz weɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he pai ake te mahi i te mea i tumanakohia (kwaha)",
+                "sentence": "The small company is punching above its weight in the tech industry.",
+                "sentence translation": "He pai ake te mahi a te kamupene iti i te mea e tumanakohia ana i roto i te waahanga hangarau."
+            }
+        ]
+    },
+    {
+        "word": "puppy love",
+        "phonetic american": "ˈpʌpi lʌv",
+        "phonetic british": "ˈpʌpi lʌv",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I rongohia te aroha aroha i te tamarikitanga, i te taiohi ranei (kwaha)",
+                "sentence": "Their relationship was just puppy love and didn’t last long.",
+                "sentence translation": "Ko to raua hononga he aroha taiohi noa, kaore i roa."
+            }
+        ]
+    },
+    {
+        "word": "put it in black and white",
+        "phonetic american": "pʊt ɪt ɪn blæk ənd waɪt",
+        "phonetic british": "pʊt ɪt ɪn blæk ənd waɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hei tuhi i tetahi mea, kia whai mana (kwaha)",
+                "sentence": "Before we agree, let’s put it in black and white.",
+                "sentence translation": "Me tuhi tenei i mua i te whakaae."
+            }
+        ]
+    },
+    {
+        "word": "put your thinking cap on",
+        "phonetic american": "pʊt jʊr ˈθɪŋkɪŋ kæp ɑn",
+        "phonetic british": "pʊt jɔː ˈθɪŋkɪŋ kæp ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "whakaaro nui (idiom)",
+                "sentence": "We need to solve this problem, so put your thinking cap on.",
+                "sentence translation": "Me whakatika tenei raruraru, no reira kia ata whakaaro."
+            }
+        ]
+    },
+    {
+        "word": "rags to riches",
+        "phonetic american": "ræɡz tə ˈrɪtʃɪz",
+        "phonetic british": "ræɡz tə ˈrɪtʃɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "piki mai i te rawakore ki te whai rawa (kwaha)",
+                "sentence": "His story is a classic rags-to-riches tale.",
+                "sentence translation": "Ko tana korero he korero tawhetawhe ki te taonga."
+            }
+        ]
+    },
+    {
+        "word": "raining cats and dogs",
+        "phonetic american": "ˈreɪnɪŋ kæts ənd dɔːɡz",
+        "phonetic british": "ˈreɪnɪŋ kæts ənd dɒɡz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te ua nui (idiom)",
+                "sentence": "We couldn’t go outside because it was raining cats and dogs.",
+                "sentence translation": "Kare i taea e maua te puta ki waho na te mea he kaha te ua."
+            }
+        ]
+    },
+    {
+        "word": "raise the white flag",
+        "phonetic american": "reɪz ðə waɪt flæɡ",
+        "phonetic british": "reɪz ðə waɪt flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tuku, whakaae hinga (idiom)",
+                "sentence": "After hours of arguing, she finally raised the white flag.",
+                "sentence translation": "Whai muri i nga haora tautohetohe, i te mutunga ka whakaae ia ki te hinga."
+            }
+        ]
+    },
+    {
+        "word": "raring to go",
+        "phonetic american": "ˈrɛrɪŋ tə ɡoʊ",
+        "phonetic british": "ˈrɛərɪŋ tə ɡəʊ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kaore e taea te tatari ki te timata (kwaha)",
+                "sentence": "The team is raring to go for the big game.",
+                "sentence translation": "Kei te titiro whakamua te kapa ki te tukinga nui."
+            }
+        ]
+    },
+    {
+        "word": "rat race",
+        "phonetic american": "ræt reɪs",
+        "phonetic british": "ræt reɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te noho ki tonu i te whakataetae kaha me te ahotea (kwaha)",
+                "sentence": "He left the rat race to live a simpler life in the countryside.",
+                "sentence translation": "I whakarerea e ia te oranga o te whakataetae kaha ki te noho ngawari."
+            }
+        ]
+    },
+    {
+        "word": "red flag",
+        "phonetic american": "rɛd flæɡ",
+        "phonetic british": "rɛd flæɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He tohu morearea, he tohu whakatupato ranei (kwaha)",
+                "sentence": "Her constant lateness is a red flag for her reliability.",
+                "sentence translation": "Ko tana roanga tonu he tohu whakatupato mo tona pono."
+            }
+        ]
+    },
+    {
+        "word": "red herring",
+        "phonetic american": "rɛd ˈhɛrɪŋ",
+        "phonetic british": "rɛd ˈhɛrɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tetahi mea ka huri te aro mai i te kaupapa matua (kwaha)",
+                "sentence": "The mystery novel had plenty of red herrings to keep readers guessing.",
+                "sentence translation": "He maha nga mea whakapohehe i roto i te pukapuka kaititiro e mau ana i te hunga panui."
+            }
+        ]
+    },
+    {
+        "word": "red hot",
+        "phonetic american": "rɛd hɑːt",
+        "phonetic british": "rɛd hɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tino rongonui, angitu ranei (kwaha)",
+                "sentence": "The new smartphone is red hot in the market.",
+                "sentence translation": "Ko te atamai hou he tino rongonui i te maakete."
+            }
+        ]
+    },
+    {
+        "word": "red in the face",
+        "phonetic american": "rɛd ɪn ðə feɪs",
+        "phonetic british": "rɛd ɪn ðə feɪs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakama, ki te riri ranei (kwaha)",
+                "sentence": "She was red in the face after tripping in front of everyone.",
+                "sentence translation": "Pumu ana ia i a ia e tutuki ana ki te aroaro o te katoa."
+            }
+        ]
+    },
+    {
+        "word": "red tape",
+        "phonetic american": "rɛd teɪp",
+        "phonetic british": "rɛd teɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te nui o te tari tari, nga tikanga koretake ranei (kupu)",
+                "sentence": "We had to deal with a lot of red tape to get the permits approved.",
+                "sentence translation": "He maha nga korero i mahia e matou kia whakaaetia nga whakaaetanga."
+            }
+        ]
+    },
+    {
+        "word": "red-eye",
+        "phonetic american": "rɛd-aɪ",
+        "phonetic british": "rɛd-aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te rere o te po (idiom)",
+                "sentence": "He took the red-eye to New York to save time.",
+                "sentence translation": "Hei whakaora i te wa, ka rere ia i te po roa ki New York."
+            }
+        ]
+    },
+    {
+        "word": "road hog",
+        "phonetic american": "roʊd hɑːɡ",
+        "phonetic british": "rəʊd hɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kaitaraiwa e whakararuraru ana i etahi atu i te huarahi (kwaha)",
+                "sentence": "That road hog nearly caused an accident by swerving.",
+                "sentence translation": "Ko taua tangata whakaweti rori i tata he aitua na te kopikopiko."
+            }
+        ]
+    },
+    {
+        "word": "roll out the red carpet",
+        "phonetic american": "roʊl aʊt ðə rɛd ˈkɑːrpɪt",
+        "phonetic british": "rəʊl aʊt ðə rɛd ˈkɑːpɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hei whakaatu i te aro nui, i te manaakitanga ranei ki tetahi (kwaha)",
+                "sentence": "The hotel rolled out the red carpet for its celebrity guests.",
+                "sentence translation": "I whakaritea e te hotera tetahi huihuinga motuhake mo ana manuhiri rongonui."
+            }
+        ]
+    },
+    {
+        "word": "sail through something",
+        "phonetic american": "seɪl θruː ˈsʌmθɪŋ",
+        "phonetic british": "seɪl θruː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia ngawari te mahi, kia angitu ranei (kwaha)",
+                "sentence": "She sailed through her exams with top marks.",
+                "sentence translation": "He ngawari noa tana eke ki ana whakamatautau me nga tohu teitei."
+            }
+        ]
+    },
+    {
+        "word": "save time",
+        "phonetic american": "seɪv taɪm",
+        "phonetic british": "seɪv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tiaki taima (kwaha)",
+                "sentence": "Using a dishwasher saves time compared to washing dishes by hand.",
+                "sentence translation": "Ma te whakamahi i te horoi rihi ka penapena te taima ka whakaritea ki te horoi rihi ma te ringaringa."
+            }
+        ]
+    },
+    {
+        "word": "school of hard knocks",
+        "phonetic american": "skuːl əv hɑːrd nɑːks",
+        "phonetic british": "skuːl əv hɑːd nɒks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He akoranga mai i nga uauatanga o te ao (kwaha)",
+                "sentence": "He didn’t go to college but learned everything through the school of hard knocks.",
+                "sentence translation": "Kaore ia i haere ki te whare wananga, engari i ako ia i nga mea katoa mai i nga uauatanga o te ao."
+            }
+        ]
+    },
+    {
+        "word": "school of thought",
+        "phonetic american": "skuːl əv θɔːt",
+        "phonetic british": "skuːl əv θɔːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pūnaha whakaaro (kwaha) e whakaae ana te roopu tangata",
+                "sentence": "There’s a school of thought that believes in minimalism for a happier life.",
+                "sentence translation": "He punaha whakaaro e whakapono ana ki te minimalism mo te oranga harikoa."
+            }
+        ]
+    },
+    {
+        "word": "schoolboy error",
+        "phonetic american": "ˈskuːlbɔɪ ˈɛrər",
+        "phonetic british": "ˈskuːlbɔɪ ˈɛrə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He pohehe ngawari me te poauau (kwaha)",
+                "sentence": "The goalkeeper made a schoolboy error and let the ball go in.",
+                "sentence translation": "I hapa noa te kaiwawao ka tuku te poi ki roto."
+            }
+        ]
+    },
+    {
+        "word": "seeing eye to eye",
+        "phonetic american": "ˈsiːɪŋ aɪ tə aɪ",
+        "phonetic british": "ˈsiːɪŋ aɪ tə aɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "whakaae ki tetahi mea (idiom)",
+                "sentence": "They don’t always see eye to eye, but they respect each other’s opinions.",
+                "sentence translation": "Ka whakaute ratou i nga whakaaro o tetahi ki tetahi, ahakoa kaore i te whakaae i nga wa katoa."
+            }
+        ]
+    },
+    {
+        "word": "seeing red",
+        "phonetic american": "ˈsiːɪŋ rɛd",
+        "phonetic british": "ˈsiːɪŋ rɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "riri rawa (kwaha)",
+                "sentence": "She was seeing red when she found out someone had scratched her car.",
+                "sentence translation": "I riri ia i tana kitenga kua rakurakuhia e tetahi tana waka."
+            }
+        ]
+    },
+    {
+        "word": "sell ice to Eskimos",
+        "phonetic american": "sɛl aɪs tə ˈɛskɪmoʊz",
+        "phonetic british": "sɛl aɪs tə ˈɛskɪməʊz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te kaha ki te hoko i tetahi mea uaua (kwaha)",
+                "sentence": "He's so charming, he could sell ice to Eskimos.",
+                "sentence translation": "He tino ataahua ia ka taea e ia te hoko tio ki Eskimo."
+            }
+        ]
+    },
+    {
+        "word": "shelf life",
+        "phonetic american": "ʃɛlf laɪf",
+        "phonetic british": "ʃɛlf laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te wa e watea ana tetahi hua (kupu)",
+                "sentence": "The shelf life of this yogurt is about two weeks.",
+                "sentence translation": "E rua wiki pea te roanga o tenei miraka pē."
+            }
+        ]
+    },
+    {
+        "word": "show of hands",
+        "phonetic american": "ʃoʊ əv hændz",
+        "phonetic british": "ʃəʊ əv hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pooti ma te ringa ringa (kwaha)",
+                "sentence": "Let’s take a show of hands to decide where to go.",
+                "sentence translation": "Kia hiki o tatou ringa ki te whakatau ki hea."
+            }
+        ]
+    },
+    {
+        "word": "shown the red card",
+        "phonetic american": "ʃoʊn ðə rɛd kɑːrd",
+        "phonetic british": "ʃəʊn ðə rɛd kɑːd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te tuku whakatupato whakamutunga, te whiu ranei ki tetahi (kwaha)",
+                "sentence": "After repeated mistakes, he was finally shown the red card by his boss.",
+                "sentence translation": "Whai muri i te maha o nga hapa ka whiua ia e tona rangatira."
+            }
+        ]
+    },
+    {
+        "word": "silver screen",
+        "phonetic american": "ˈsɪlvər skriːn",
+        "phonetic british": "ˈsɪlvə skriːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ao kiriata (kwaha)",
+                "sentence": "She dreamed of becoming a star on the silver screen.",
+                "sentence translation": "I moemoea ia kia tu hei whetu i te ao kiriata."
+            }
+        ]
+    },
+    {
+        "word": "single file",
+        "phonetic american": "ˈsɪŋɡəl faɪl",
+        "phonetic british": "ˈsɪŋɡəl faɪl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "hikoi i roto i te konae kotahi (kwaha)",
+                "sentence": "The children walked in single file along the narrow path.",
+                "sentence translation": "I hikoi nga tamariki i runga i te ara whaiti."
+            }
+        ]
+    },
+    {
+        "word": "sink or swim",
+        "phonetic american": "sɪŋk ɔːr swɪm",
+        "phonetic british": "sɪŋk ɔː swɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Me angitu, ka hinga ranei (kwaha)",
+                "sentence": "Starting your own business is a sink-or-swim situation.",
+                "sentence translation": "Ko te tiimata i to ake pakihi he waahi ka angitu koe, ka hinga ranei."
+            }
+        ]
+    },
+    {
+        "word": "sinking teeth into something",
+        "phonetic american": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "phonetic british": "ˈsɪŋkɪŋ tiːθ ˈɪntuː ˈsʌmθɪŋ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia tino aro, kia whai waahi ranei ki tetahi mea (kwaha)",
+                "sentence": "She’s really sinking her teeth into this new project.",
+                "sentence translation": "E tino maka ana ia ki te kaupapa hou."
+            }
+        ]
+    },
+    {
+        "word": "sit on the fence",
+        "phonetic american": "sɪt ɑn ðə fɛns",
+        "phonetic british": "sɪt ɒn ðə fɛns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia noho kūpapa, kaua rānei e whakatau i tētahi take (kīwaha)",
+                "sentence": "You can’t sit on the fence forever; you need to choose a side.",
+                "sentence translation": "E kore e taea e koe te noho kupapa mo ake tonu atu; Me whiriwhiri koe i tetahi taha."
+            }
+        ]
+    },
+    {
+        "word": "skip class",
+        "phonetic american": "skɪp klæs",
+        "phonetic british": "skɪp klɑːs",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Karekau e haere ki te karaehe, kapopeke te karaehe (kwaha)",
+                "sentence": "He got into trouble for skipping class yesterday.",
+                "sentence translation": "I raru ia mo te peke i te karaehe inanahi."
+            }
+        ]
+    },
+    {
+        "word": "sleeping (or silent) partner",
+        "phonetic american": "ˈsliːpɪŋ ˈpɑːrtnər",
+        "phonetic british": "ˈsliːpɪŋ ˈpɑːtnə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He hoa pakihi kaore i te kaha engari he moni whakapaipai (kwaha)",
+                "sentence": "He’s just a sleeping partner in the business and doesn’t get involved in daily operations.",
+                "sentence translation": "He hoa noho noa ia i roto i te pakihi, kaore e uru ki nga mahi o ia ra."
+            }
+        ]
+    },
+    {
+        "word": "slice of the pie",
+        "phonetic american": "slaɪs əv ðə paɪ",
+        "phonetic british": "slaɪs əv ðə paɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "wahanga tika o tetahi mea (kwaha)",
+                "sentence": "Everyone in the team deserves a slice of the pie after the success.",
+                "sentence translation": "Ko nga tangata katoa o te kapa e tika ana kia whai waahi angitu."
+            }
+        ]
+    },
+    {
+        "word": "smash hit",
+        "phonetic american": "smæʃ hɪt",
+        "phonetic british": "smæʃ hɪt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mahi tino angitu (kwaha)",
+                "sentence": "The movie was a smash hit and broke box office records.",
+                "sentence translation": "He tino angitu te kiriata, ka pakaru nga rekoata pouaka."
+            }
+        ]
+    },
+    {
+        "word": "snowed under",
+        "phonetic american": "snoʊd ˈʌndər",
+        "phonetic british": "snəʊd ˈʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He nui rawa atu te mahi, ka pehia (kwaha)",
+                "sentence": "I’m snowed under with work and can’t take on any more tasks.",
+                "sentence translation": "He tino pukumahi ahau ki nga mahi, kaore e taea e au etahi atu mahi."
+            }
+        ]
+    },
+    {
+        "word": "sooner or later",
+        "phonetic american": "ˈsuːnər ɔːr ˈleɪtər",
+        "phonetic british": "ˈsuːnə ɔː ˈleɪtə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ake ake nei ranei (idiom)",
+                "sentence": "Sooner or later, you’ll realize that I was right.",
+                "sentence translation": "Taihoa ake nei ka mohio koe he tika taku."
+            }
+        ]
+    },
+    {
+        "word": "sour grapes",
+        "phonetic american": "saʊr ɡreɪps",
+        "phonetic british": "saʊə ɡreɪps",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te whakaiti i tetahi mea e kore e taea te whakatutuki (kwaha)",
+                "sentence": "He said he didn’t want the job anyway, but it’s just sour grapes.",
+                "sentence translation": "Kua kii tonu ia kaore ia e pirangi ki te mahi, engari he whakaiti noa tera i nga mea karekau i whiwhi."
+            }
+        ]
+    },
+    {
+        "word": "spanner in the works",
+        "phonetic american": "ˈspænər ɪn ðə wɜːrks",
+        "phonetic british": "ˈspænə ɪn ðə wɜːks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He ahuatanga, he tangata ranei e whakararu ana i te mahere (kwaha)",
+                "sentence": "The unexpected weather threw a spanner in the works for the outdoor event.",
+                "sentence translation": "Ko te huarere ohorere i whakararu i te mahere mahi o waho."
+            }
+        ]
+    },
+    {
+        "word": "speak of the devil",
+        "phonetic american": "spiːk əv ðə ˈdɛvəl",
+        "phonetic british": "spiːk əv ðə ˈdɛvəl",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka whakamahia mena ka puta ohorere mai te tangata e korero ana koe (kwaha)",
+                "sentence": "Speak of the devil! We were just talking about you.",
+                "sentence translation": "Ka pai to korero! I korero noa matou mo koe."
+            }
+        ]
+    },
+    {
+        "word": "speaks volumes",
+        "phonetic american": "spiːks ˈvɑːljuːmz",
+        "phonetic british": "spiːks ˈvɒljuːmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te korero nui, ki te whakapuaki (kwaha)",
+                "sentence": "Her smile speaks volumes about her happiness.",
+                "sentence translation": "He maha nga korero o tana ataata mo tona harikoa."
+            }
+        ]
+    },
+    {
+        "word": "spill the beans",
+        "phonetic american": "spɪl ðə biːnz",
+        "phonetic british": "spɪl ðə biːnz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te hura i te mea ngaro (kwaha)",
+                "sentence": "He spilled the beans about the surprise party.",
+                "sentence translation": "I whakakitea e ia te mea ngaro mo te roopu ohorere."
+            }
+        ]
+    },
+    {
+        "word": "standing ground",
+        "phonetic american": "ˈstændɪŋ ɡraʊnd",
+        "phonetic british": "ˈstændɪŋ ɡraʊnd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "wawao i tona turanga, whakaaro ranei (kwaha)",
+                "sentence": "She stood her ground despite the intense criticism.",
+                "sentence translation": "Noa ’tu te mau faahaparaa u‘ana, ua paruru oia i to ’na mana‘o."
+            }
+        ]
+    },
+    {
+        "word": "standing the test of time",
+        "phonetic american": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "phonetic british": "ˈstændɪŋ ðə tɛst əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hei pupuri i te uara me te hiranga mo te wa roa (kwaha)",
+                "sentence": "This classic novel has stood the test of time.",
+                "sentence translation": "Ko tenei pukapuka rongonui kua tu i te whakamatautau o te waa."
+            }
+        ]
+    },
+    {
+        "word": "steal someone's thunder",
+        "phonetic american": "stiːl ˈsʌmwʌnz ˈθʌndər",
+        "phonetic british": "stiːl ˈsʌmwʌnz ˈθʌndə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "tahae i te angitu, aro ranei o tetahi (kwaha)",
+                "sentence": "She stole my thunder by announcing her promotion before I could announce mine.",
+                "sentence translation": "I kukume ia i te aro ma te panui i tana ake whakatairanga i mua i te panui i taku."
+            }
+        ]
+    },
+    {
+        "word": "stiff upper lip",
+        "phonetic american": "stɪf ˈʌpər lɪp",
+        "phonetic british": "stɪf ˈʌpə lɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kore e whakaatu i nga kare a te tangata, e whakaatu ana i te kaha (idiom)",
+                "sentence": "Even during the crisis, he kept a stiff upper lip.",
+                "sentence translation": "Ahakoa i te wa o te raru, kaore ia i whakaatu i ona kare-a-roto."
+            }
+        ]
+    },
+    {
+        "word": "storm in a teacup",
+        "phonetic american": "stɔːrm ɪn ə ˈtiːˌkʌp",
+        "phonetic british": "stɔːm ɪn ə ˈtiːˌkʌp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Hei waihanga tohenga koretake mo tetahi take koretake (kwaha)",
+                "sentence": "This argument over seating arrangements is just a storm in a teacup.",
+                "sentence translation": "Ko tenei korero mo te whakarite nohoanga kare rawa e tika."
+            }
+        ]
+    },
+    {
+        "word": "straight from the horse's mouth",
+        "phonetic american": "streɪt frəm ðə hɔːrsɪz maʊθ",
+        "phonetic british": "streɪt frəm ðə hɔːsɪz maʊθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ko nga korero i tangohia tika mai i tetahi puna pono (kwaha)",
+                "sentence": "I heard the news straight from the horse’s mouth.",
+                "sentence translation": "I whiwhi tika ahau i nga korero mai i tetahi puna pono."
+            }
+        ]
+    },
+    {
+        "word": "stuck in a time warp",
+        "phonetic american": "stʌk ɪn ə taɪm wɔːrp",
+        "phonetic british": "stʌk ɪn ə taɪm wɔːp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he tawhito, kaore e taea te urutau ki nga waa (kwaha)",
+                "sentence": "His style of clothing makes him look like he’s stuck in a time warp.",
+                "sentence translation": "Ko te ahua o tana kakahu ka mau tonu ki te ahua tawhito."
+            }
+        ]
+    },
+    {
+        "word": "swallow one's pride",
+        "phonetic american": "ˈswɑːloʊ wʌnz praɪd",
+        "phonetic british": "ˈswɒləʊ wʌnz praɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "waiho to whakapehapeha (idiom)",
+                "sentence": "He had to swallow his pride and apologize to her.",
+                "sentence translation": "Me horomia e ia tona whakapehapeha me te tuku mihi ki a ia."
+            }
+        ]
+    },
+    {
+        "word": "sweet tooth",
+        "phonetic american": "swiːt tuːθ",
+        "phonetic british": "swiːt tuːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "niho reka (idiom)",
+                "sentence": "She has a sweet tooth and loves desserts.",
+                "sentence translation": "He niho reka tona, he tino aroha ki te reka."
+            }
+        ]
+    },
+    {
+        "word": "take each day as it comes",
+        "phonetic american": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "phonetic british": "teɪk iːtʃ deɪ æz ɪt kʌmz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te noho i ia ra ki ia ra me te kore e whakaaro nui mo nga ra kei mua (kwaha)",
+                "sentence": "Life is unpredictable, so I just take each day as it comes.",
+                "sentence translation": "Ko te ora kaore e taea te whakaaro, no reira ka ora ahau i ia ra."
+            }
+        ]
+    },
+    {
+        "word": "take with a grain (or pinch) of salt",
+        "phonetic american": "teɪk wɪð ə ɡreɪn əv sɔːlt",
+        "phonetic british": "teɪk wɪð ə pɪnʧ əv sɒlt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te arotake i tetahi mea me te whakapae (idiom)",
+                "sentence": "Take what you read on the internet with a grain of salt.",
+                "sentence translation": "Me tango e koe nga mea i panuihia e koe i runga i te ipurangi me te witi o te tote."
+            }
+        ]
+    },
+    {
+        "word": "taste of your own medicine",
+        "phonetic american": "teɪst əv jʊr oʊn ˈmɛdəsən",
+        "phonetic british": "teɪst əv jɔːr əʊn ˈmɛdɪsɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te wheako i nga paanga kino o tana ake whanonga (kwaha)",
+                "sentence": "When he got ignored by his team, he had a taste of his own medicine.",
+                "sentence translation": "I te korenga i arohia e tana kapa, i pa ki a ia te paanga o ana mahi."
+            }
+        ]
+    },
+    {
+        "word": "teacher's pet",
+        "phonetic american": "ˈtiːtʃərz pɛt",
+        "phonetic british": "ˈtiːtʃəz pɛt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ko te tauira tino pai a te kaiako (kwaha)",
+                "sentence": "She always gets extra privileges because she’s the teacher’s pet.",
+                "sentence translation": "I nga wa katoa ka whiwhi ia i nga painga ake na te mea ko ia te mokai a te kaiako."
+            }
+        ]
+    },
+    {
+        "word": "the big time",
+        "phonetic american": "ðə bɪɡ taɪm",
+        "phonetic british": "ðə bɪɡ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia angitu nui (kwaha)",
+                "sentence": "He hit the big time with his new book.",
+                "sentence translation": "He tino angitu i eke ia ki tana pukapuka hou."
+            }
+        ]
+    },
+    {
+        "word": "the moment of truth",
+        "phonetic american": "ðə ˈmoʊmənt əv truːθ",
+        "phonetic british": "ðə ˈməʊmənt əv truːθ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te wa e anga ana ki nga meka (idiom)",
+                "sentence": "The moment of truth came when the test results were revealed.",
+                "sentence translation": "I te panuitanga o nga hua whakamatautau, kua tae mai te wa ki te whakatutuki i nga korero pono."
+            }
+        ]
+    },
+    {
+        "word": "the ship has sailed",
+        "phonetic american": "ðə ʃɪp hæz seɪld",
+        "phonetic british": "ðə ʃɪp hæz seɪld",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kua pahemo te whai waahi (kwaha)",
+                "sentence": "I wanted to apply for that job, but the ship has sailed.",
+                "sentence translation": "I pirangi ahau ki te tono mo tera mahi, engari kua pahemo te whai waahi."
+            }
+        ]
+    },
+    {
+        "word": "the time is ripe",
+        "phonetic american": "ðə taɪm ɪz raɪp",
+        "phonetic british": "ðə taɪm ɪz raɪp",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kua tae mai te wa tika mo tetahi mea (idiom)",
+                "sentence": "The time is ripe to start your own business.",
+                "sentence translation": "Kua tae mai te wa ki te timata i taau ake pakihi."
+            }
+        ]
+    },
+    {
+        "word": "thinking on your feet",
+        "phonetic american": "ˈθɪŋkɪŋ ɑn jʊr fiːt",
+        "phonetic british": "ˈθɪŋkɪŋ ɒn jɔː fiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakaaro tere me te whai hua (kwaha)",
+                "sentence": "He’s great at thinking on his feet during meetings.",
+                "sentence translation": "He tino pai ki te whakaaro tere me te whai hua ki nga huihuinga."
+            }
+        ]
+    },
+    {
+        "word": "this day and age",
+        "phonetic american": "ðɪs deɪ ənd eɪdʒ",
+        "phonetic british": "ðɪs deɪ ənd eɪdʒ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "I enei ra, i enei wa (idiom)",
+                "sentence": "In this day and age, technology is essential for communication.",
+                "sentence translation": "I enei wa, he mea nui te hangarau mo te whakawhitiwhiti korero."
+            }
+        ]
+    },
+    {
+        "word": "tickled pink",
+        "phonetic american": "ˈtɪkld pɪŋk",
+        "phonetic british": "ˈtɪkld pɪŋk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia tino harikoa (idiom)",
+                "sentence": "She was tickled pink when she received the surprise gift.",
+                "sentence translation": "I tino harikoa ia i te wa i whakawhiwhia ai e ia te taonga ohorere."
+            }
+        ]
+    },
+    {
+        "word": "tie the knot",
+        "phonetic american": "taɪ ðə nɑːt",
+        "phonetic british": "taɪ ðə nɒt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te marena (idiom)",
+                "sentence": "They’re planning to tie the knot next spring.",
+                "sentence translation": "Ka whakamahere ratou ki te marena i te koanga o muri."
+            }
+        ]
+    },
+    {
+        "word": "time after time (time and time again)",
+        "phonetic american": "taɪm ˈæftər taɪm",
+        "phonetic british": "taɪm ənd taɪm əˈɡɛn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mo ake tonu (kwaha)",
+                "sentence": "Time after time, he proved that he could be trusted.",
+                "sentence translation": "Kua whakamatauhia e ia ano he wa pono me te wa ano."
+            }
+        ]
+    },
+    {
+        "word": "time flies",
+        "phonetic american": "taɪm flaɪz",
+        "phonetic british": "taɪm flaɪz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ka tere te taima (kwaha)",
+                "sentence": "Time flies when you’re having fun.",
+                "sentence translation": "Ka tere te wa i te wa e ngahau ana koe."
+            }
+        ]
+    },
+    {
+        "word": "time for a change",
+        "phonetic american": "taɪm fɔːr ə ʧeɪnʤ",
+        "phonetic british": "taɪm fɔːr ə ʧeɪnʤ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He wa mo te huringa (kwaha)",
+                "sentence": "After years in the same job, it’s time for a change.",
+                "sentence translation": "I muri i nga tau i roto i te mahi kotahi, kua tae ki te wa mo te whakarereke."
+            }
+        ]
+    },
+    {
+        "word": "time heals all wounds (or time is a great healer)",
+        "phonetic american": "taɪm hiːlz ɔːl wuːndz",
+        "phonetic british": "taɪm hiːlz ɔːl wuːndz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ma te wa e whakaora nga mea katoa (idiom)",
+                "sentence": "Don’t worry; time heals all wounds.",
+                "sentence translation": "Kaua e manukanuka; Ma te wa e whakaora nga mea katoa."
+            }
+        ]
+    },
+    {
+        "word": "time is money",
+        "phonetic american": "taɪm ɪz ˈmʌni",
+        "phonetic british": "taɪm ɪz ˈmʌni",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea nui te wa (kwaha)",
+                "sentence": "Let’s not waste time; time is money.",
+                "sentence translation": "Kaua e moumou taima; He mea nui te wa."
+            }
+        ]
+    },
+    {
+        "word": "time is of the essence",
+        "phonetic american": "taɪm ɪz əv ði ˈɛsəns",
+        "phonetic british": "taɪm ɪz əv ði ˈɛsns",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea nui te wa (kwaha)",
+                "sentence": "Time is of the essence, so we need to act quickly.",
+                "sentence translation": "Ko te wa te mea nui, no reira me tere tatou ki te mahi."
+            }
+        ]
+    },
+    {
+        "word": "time of one's life",
+        "phonetic american": "taɪm əv wʌnz laɪf",
+        "phonetic british": "taɪm əv wʌnz laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ko te wa pai o to oranga (kwaha)",
+                "sentence": "We had the time of our lives on our vacation.",
+                "sentence translation": "I a matou te wa pai o to matou oranga i te hararei."
+            }
+        ]
+    },
+    {
+        "word": "time on one's hands (or side)",
+        "phonetic american": "taɪm ɑn wʌnz hændz",
+        "phonetic british": "taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia nui te wa (idiom)",
+                "sentence": "Now that he’s retired, he has time on his hands.",
+                "sentence translation": "Inaianei kua reti ia, he nui tona wa."
+            }
+        ]
+    },
+    {
+        "word": "tongue-tied",
+        "phonetic american": "tʌŋ taɪd",
+        "phonetic british": "tʌŋ taɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te kore e kaha ki te korero na te ihiihi, te whakama ranei (kwaha)",
+                "sentence": "He was tongue-tied during the interview.",
+                "sentence translation": "Kare i taea e ia te korero i te wa o te uiuinga na te hikaka."
+            }
+        ]
+    },
+    {
+        "word": "too many chiefs and not enough Indians",
+        "phonetic american": "tuː ˈmɛni tʃiːfs ənd nɑːt ɪˈnʌf ˈɪndiənz",
+        "phonetic british": "tuː ˈmɛni tʃiːfs ənd nɒt ɪˈnʌf ˈɪndiənz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He nui rawa nga rangatira engari he iti rawa nga kaimahi (kwaha)",
+                "sentence": "The project failed because there were too many chiefs and not enough Indians.",
+                "sentence translation": "I rahua te kaupapa na te mea he maha rawa nga kaihautu engari he iti noa nga kaimahi."
+            }
+        ]
+    },
+    {
+        "word": "too much (free) time on one's hands",
+        "phonetic american": "tuː mʌtʃ taɪm ɑn wʌnz hændz",
+        "phonetic british": "tuː mʌtʃ taɪm ɒn wʌnz hændz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He nui te wa waatea me te moumou noa (kwaha)",
+                "sentence": "He started spreading rumors because he has too much time on his hands.",
+                "sentence translation": "I te mea he nui tona wa waatea, ka timata ia ki te hora korero korero."
+            }
+        ]
+    },
+    {
+        "word": "top banana",
+        "phonetic american": "tɑːp bəˈnænə",
+        "phonetic british": "tɒp bəˈnænə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "rangatira o te roopu, whakahaere ranei (kwaha)",
+                "sentence": "He’s the top banana in the company.",
+                "sentence translation": "Ko ia te rangatira o te kamupene."
+            }
+        ]
+    },
+    {
+        "word": "top dog",
+        "phonetic american": "tɑːp dɔːɡ",
+        "phonetic british": "tɒp dɒɡ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ko te tangata tino kaha, tino angitu ranei (kwaha)",
+                "sentence": "After winning the competition, he became the top dog in his field.",
+                "sentence translation": "Whai muri i tana wikitoria i te whakataetae, ko ia te tangata tino kaha ki tana mara."
+            }
+        ]
+    },
+    {
+        "word": "tough cookie",
+        "phonetic american": "tʌf ˈkʊki",
+        "phonetic british": "tʌf ˈkʊki",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He tangata kaha e kaha ki te hapai i nga ahuatanga uaua (kwaha)",
+                "sentence": "She’s a tough cookie; she never gives up.",
+                "sentence translation": "He tangata kaha ki te hapai i nga ahuatanga uaua; E kore rawa ia e tuku."
+            }
+        ]
+    },
+    {
+        "word": "tricks of the trade",
+        "phonetic american": "trɪks əv ðə treɪd",
+        "phonetic british": "trɪks əv ðə treɪd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te matauranga motuhake, tikanga ranei e whakamahia ana i roto i tetahi mahi (kwaha)",
+                "sentence": "He learned the tricks of the trade from his mentor.",
+                "sentence translation": "I akohia e ia nga uauatanga o te mahi mai i tana kaitohutohu."
+            }
+        ]
+    },
+    {
+        "word": "true colours",
+        "phonetic american": "truː ˈkʌlərz",
+        "phonetic british": "truː ˈkʌləz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Te whakaatu i te ahua pono o te tangata, i ona hiahia ranei (kwaha)",
+                "sentence": "She showed her true colours when she refused to help.",
+                "sentence translation": "I whakaatu ia i ona tae pono i te kore ia e pai ki te awhina."
+            }
+        ]
+    },
+    {
+        "word": "turn back the hands of time",
+        "phonetic american": "tɜːrn bæk ðə hændz əv taɪm",
+        "phonetic british": "tɜːn bæk ðə hændz əv taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Ki te hoki ki mua, ki te huri whakamuri ranei i te waa (kwaha)",
+                "sentence": "If I could turn back the hands of time, I’d make a different decision.",
+                "sentence translation": "Mena ka taea e au te whakahoki i te wa, kua rereke taku whakatau."
+            }
+        ]
+    },
+    {
+        "word": "university of life",
+        "phonetic american": "ˌjuːnɪˈvɜːrsɪti əv laɪf",
+        "phonetic british": "ˌjuːnɪˈvɜːsɪti əv laɪf",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He akoranga mai i te oranga (kwaha)",
+                "sentence": "He never went to college but learned everything from the university of life.",
+                "sentence translation": "Kaore ia i haere ki te whare wananga, engari i ako ia i nga mea katoa mai i te ao."
+            }
+        ]
+    },
+    {
+        "word": "until hell freezes over",
+        "phonetic american": "ʌnˈtɪl hɛl ˈfriːzɪz ˈoʊvər",
+        "phonetic british": "ʌnˈtɪl hɛl ˈfriːzɪz ˈəʊvə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea e kore e tupu (kwaha)",
+                "sentence": "You can wait until hell freezes over, but I won’t change my mind.",
+                "sentence translation": "Ka taea e koe te tatari mo ake tonu atu engari e kore ahau e huri i taku whakaaro."
+            }
+        ]
+    },
+    {
+        "word": "up in smoke",
+        "phonetic american": "ʌp ɪn smoʊk",
+        "phonetic british": "ʌp ɪn sməʊk",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he mea ka moumou, ka taka ranei (kwaha)",
+                "sentence": "All our hard work went up in smoke when the project was canceled.",
+                "sentence translation": "Katoa o matou whakapau kaha ki raro i te waikeri i te whakakorenga o te kaupapa."
+            }
+        ]
+    },
+    {
+        "word": "waiting in the wings",
+        "phonetic american": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "phonetic british": "ˈweɪtɪŋ ɪn ðə wɪŋz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "e tatari ana mo te whai waahi, me te whakarite (kwaha)",
+                "sentence": "She’s waiting in the wings for a chance to prove herself.",
+                "sentence translation": "Kei te tatari ia mo te waahi ki te whakamatau i a ia ano."
+            }
+        ]
+    },
+    {
+        "word": "walk out on someone",
+        "phonetic american": "wɔːk aʊt ɑn ˈsʌmwʌn",
+        "phonetic british": "wɔːk aʊt ɒn ˈsʌmwʌn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te whakarere, ki te whakama ranei i tetahi (kwaha)",
+                "sentence": "He walked out on his family when things got tough.",
+                "sentence translation": "I te wa e uaua ana, ka whakarerea e ia tona whanau."
+            }
+        ]
+    },
+    {
+        "word": "wasting time",
+        "phonetic american": "ˈweɪstɪŋ taɪm",
+        "phonetic british": "ˈweɪstɪŋ taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "moumou taima (kwaha)",
+                "sentence": "We’re wasting time discussing irrelevant issues.",
+                "sentence translation": "Ka moumou taima ki te matapaki i nga kaupapa kore."
+            }
+        ]
+    },
+    {
+        "word": "well-oiled machine",
+        "phonetic american": "wɛl-ɔɪld məˈʃiːn",
+        "phonetic british": "wɛl-ɔɪld məˈʃiːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Pūnaha, rōpū rānei e rere pai ana (kīwaha)",
+                "sentence": "The team works like a well-oiled machine.",
+                "sentence translation": "He rite tonu te mahi a te roopu ki te punaha whakahaere pai."
+            }
+        ]
+    },
+    {
+        "word": "whale of a time",
+        "phonetic american": "weɪl əv ə taɪm",
+        "phonetic british": "weɪl əv ə taɪm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kia pai to wa (idiom)",
+                "sentence": "We had a whale of a time at the amusement park.",
+                "sentence translation": "He wa pai matou i te papa whakangahau."
+            }
+        ]
+    },
+    {
+        "word": "white as a sheet (or ghost)",
+        "phonetic american": "waɪt æz ə ʃiːt",
+        "phonetic british": "waɪt æz ə ʃiːt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kia tino koma i te wehi, i te mate ranei (kwaha)",
+                "sentence": "He turned white as a sheet when he heard the news.",
+                "sentence translation": "Ka koma ia i tana rongonga i nga korero."
+            }
+        ]
+    },
+    {
+        "word": "white collar",
+        "phonetic american": "waɪt ˈkɑːlər",
+        "phonetic british": "waɪt ˈkɒlə",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "kaimahi tari, tangata mahi hinengaro (kwaha)",
+                "sentence": "White-collar jobs are becoming more common in urban areas.",
+                "sentence translation": "Kei te kaha haere nga mahi kara ma ki nga taone nui."
+            }
+        ]
+    },
+    {
+        "word": "white elephant",
+        "phonetic american": "waɪt ˈɛləfənt",
+        "phonetic british": "waɪt ˈɛləfənt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He mea utu nui engari he horihori (kwaha)",
+                "sentence": "The stadium turned out to be a white elephant for the city.",
+                "sentence translation": "Ko te whare tapere i puta he haumi utu nui engari horekau mo te taone nui."
+            }
+        ]
+    },
+    {
+        "word": "white lie",
+        "phonetic american": "waɪt laɪ",
+        "phonetic british": "waɪt laɪ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He teka kino, he whakaaro pai ranei (kwaha)",
+                "sentence": "She told a white lie to avoid hurting his feelings.",
+                "sentence translation": "He iti noa tana korero teka kia kore ai e mamae tona ngakau."
+            }
+        ]
+    },
+    {
+        "word": "whitewash",
+        "phonetic american": "ˈwaɪtˌwɑːʃ",
+        "phonetic british": "ˈwaɪtˌwɒʃ",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "ki te huna i te he, i te koha ranei (kwaha)",
+                "sentence": "The company tried to whitewash the scandal.",
+                "sentence translation": "I ngana te kamupene ki te huna i te kino."
+            }
+        ]
+    },
+    {
+        "word": "whole nine yards",
+        "phonetic american": "hoʊl naɪn jɑːrdz",
+        "phonetic british": "həʊl naɪn jɑːdz",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "katoa, katoa (idiom)",
+                "sentence": "When they throw a party, they go the whole nine yards with decorations and food.",
+                "sentence translation": "Ka tukuna he paati, ka puta katoa ki waho me nga whakapaipai me nga kai."
+            }
+        ]
+    },
+    {
+        "word": "with bells on",
+        "phonetic american": "wɪð bɛlz ɑn",
+        "phonetic british": "wɪð bɛlz ɒn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Me te tino hikaka me te hihiko (kwaha)",
+                "sentence": "I’ll be at your party with bells on!",
+                "sentence translation": "Ka haere mai ahau ki to hui me te tino hikaka!"
+            }
+        ]
+    },
+    {
+        "word": "wooden spoon",
+        "phonetic american": "ˈwʊdən spuːn",
+        "phonetic british": "ˈwʊdən spuːn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He taonga, he taitara ranei ka hoatu ki te tangata ka tae mai ki muri (kwaha)",
+                "sentence": "They were awarded the wooden spoon for finishing last in the league.",
+                "sentence translation": "I whakawhiwhia ratou ki te tohu koko rakau mo te noho whakamutunga ki te whakataetae riiki."
+            }
+        ]
+    },
+    {
+        "word": "works like a charm",
+        "phonetic american": "wɜːrks laɪk ə ʧɑːrm",
+        "phonetic british": "wɜːks laɪk ə ʧɑːm",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "mahi tino pai (kwaha)",
+                "sentence": "This new cleaning product works like a charm.",
+                "sentence translation": "He pai te mahi o tenei hua horoi hou."
+            }
+        ]
+    },
+    {
+        "word": "wouldn't be caught dead",
+        "phonetic american": "ˈwʊdənt bi kɔːt dɛd",
+        "phonetic british": "ˈwʊdnt biː kɔːt dɛd",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "E kore ahau e mahi, e noho ranei i tetahi ahuatanga (kwaha)",
+                "sentence": "I wouldn’t be caught dead wearing that outfit.",
+                "sentence translation": "E kore rawa ahau e mau i taua kakahu."
+            }
+        ]
+    },
+    {
+        "word": "year in, year out",
+        "phonetic american": "jɪr ɪn, jɪr aʊt",
+        "phonetic british": "jɪə ɪn, jɪə aʊt",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Tukurua, ia tau, ia tau, mo nga tau (kwaha)",
+                "sentence": "They visit the same beach year in, year out.",
+                "sentence translation": "Ka haere ratou ki te one kotahi ia tau."
+            }
+        ]
+    },
+    {
+        "word": "yellow-bellied",
+        "phonetic american": "ˈjɛloʊ ˈbɛlid",
+        "phonetic british": "ˈjɛləʊ ˈbɛlid",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "he mataku, he maia (idiom)",
+                "sentence": "He’s too yellow-bellied to confront his boss.",
+                "sentence translation": "He tino mataku ia ki te tu atu ki tana rangatira."
+            }
+        ]
+    },
+    {
+        "word": "you can't teach an old dog new tricks",
+        "phonetic american": "juː kænt tiːʧ ən oʊld dɔːɡ nuː trɪks",
+        "phonetic british": "juː kɑːnt tiːʧ ən əʊld dɒɡ njuː trɪks",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "He uaua ki te huri i te tangata kua mau ona tikanga tawhito (kwaha)",
+                "sentence": "He refuses to learn how to use a smartphone; you can’t teach an old dog new tricks.",
+                "sentence translation": "Kaore ia e pai ki te ako ki te whakamahi i te waea atamai; He uaua ki te whakarereke i nga tikanga tawhito."
+            }
+        ]
+    },
+    {
+        "word": "your guess is as good as mine",
+        "phonetic american": "jʊr gɛs ɪz æz ɡʊd æz maɪn",
+        "phonetic british": "jɔːr gɛs ɪz æz ɡʊd æz maɪn",
+        "kind": "idiom",
+        "meaning list": [
+            {
+                "meaning": "Kare au i te mohio, he rite tonu te tika o a maatau whakapae (kwaha)",
+                "sentence": "Why the train is late? Your guess is as good as mine.",
+                "sentence translation": "He aha te mea i roa te tereina? Kaore hoki au e mohio."
+            }
+        ]
+    }
+]
